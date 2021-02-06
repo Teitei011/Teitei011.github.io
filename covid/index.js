@@ -25,20 +25,20 @@ async function setup(locationName) {
 
   graphIt(
     "myChart1",
-    "Total de Casos no " + locationName,
+    "Total de Casos  " + locationName,
     covidCases.date,
     covidCases.cases
   );
   graphIt(
     "myChart2",
-    "Total de Mortes no " + locationName,
+    "Total de Mortes  " + locationName,
     covidCases.date,
     covidCases.deaths
   );
 
   graphIt(
     "myChart3",
-    "Casos diários no " + locationName,
+    "Casos diários  " + locationName,
     covidCases.date,
     covidCases.daily_cases
   );
@@ -51,13 +51,13 @@ async function setup(locationName) {
 
   graphIt(
     "myChart5",
-    "Média móvel de casos em  " + locationName,
+    "Média móvel de casos   " + locationName,
     covidCases.date,
     covidCases.cases_moving_average
   );
   graphIt(
     "myChart6",
-    "Média móvel de mortes em " + locationName,
+    "Média móvel de mortes  " + locationName,
     covidCases.date,
     covidCases.deaths_moving_average
   );
