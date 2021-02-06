@@ -17,9 +17,9 @@ Esse site foi feito com o intuito de analisar a propagação do vírus em nossas
 ## Site
 
 ### Estética
-- [ ] Colocar um footer
-- [ ] Arrumar o jumbotron com o título da cidade
-- [ ] Deixar o botão "Locais Disponíveis" numa melhor posição
+- [x] Colocar um footer
+- [x] Arrumar o jumbotron com o título da cidade
+- [x] Deixar o botão "Locais Disponíveis" numa melhor posição
 
 ### Funcionalidades
 
@@ -33,5 +33,3 @@ Esse site foi feito com o intuito de analisar a propagação do vírus em nossas
 ## Ideiais Futuras
 - [ ] Colocar gráficos pizza informando o número de pessoas vacinadas 
 
-
-rgb(109, 221, 165)

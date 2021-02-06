@@ -16,3 +16,12 @@
 .button.btn.btn-primary.dropdown-toggle{
   margin-bottom: 3rem;
 }
+
+.bg-success{
+  background-color: rgb(109, 221, 165)
+}
+
+#locationButton{
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}

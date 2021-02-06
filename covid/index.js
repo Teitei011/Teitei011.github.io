@@ -64,7 +64,7 @@ async function setup(locationName) {
 
   document.getElementById("casos").innerHTML = covidCases.cases[covidCases.cases.length -2];
   document.getElementById("mortes").innerHTML = covidCases.deaths[covidCases.deaths.length -2];
-  document.getElementById("Titulo").innerHTML =  locationName;
+  document.getElementById("Titulo").innerHTML =  "<h1>" + locationName +"</h1>";
 }
 
 async function graphIt(chartId, label, date, data_covid) {
