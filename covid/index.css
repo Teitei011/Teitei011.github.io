@@ -8,29 +8,23 @@
   background-color: gray;
 }
 
-.jumbotron {
-    padding: 2rem 1rem;
-    margin-bottom: 0%;
-    border-radius: 0rem;
-    border-radius: 20%
-}
-
-
-
-.div.card.bg-sucess.text-white, #Titulo{
+#Titulo{
   background-color: rgb(252, 175, 32);
 }
 
 
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 0%;
+}
+
+
+
+
+
 .button.btn.btn-primary.dropdown-toggle{
   margin-bottom: 3rem;
-  border-radius: 20%
   }
-
-.bg-success{
-  background-color: rgb(109, 221, 165);
-
-}
 
 #locationButton{
   margin-top: 1.5rem;
