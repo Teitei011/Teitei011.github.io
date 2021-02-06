@@ -9,15 +9,16 @@ Esse site foi feito com o intuito de analisar a propagação do vírus em nossas
 
 ## Processamento de Dados
 
+- [ ] Mostrar o valor de R
 - [ ] Dados duplicados para os estados
 - [ ] Informações erroneas sobre os dados da Covid no database Brasil 
-- [ ] Mostrar o valor de R
+
 
 ## Site
 
 ### Estética
 - [ ] Colocar um footer
-- [ ] Arrumar o jumbotron com as informações da cidade
+- [ ] Arrumar o jumbotron com o título da cidade
 - [ ] Deixar o botão "Locais Disponíveis" numa melhor posição
 
 ### Funcionalidades
@@ -27,3 +28,10 @@ Esse site foi feito com o intuito de analisar a propagação do vírus em nossas
 - [ ] Colocar todas as cidades
 - [ ] Colocar uma forma de pesquisar sobre a sua respectiva cidade
 - [ ] Colocar informação de quando o site foi atualizado pela última vez
+
+
+## Ideiais Futuras
+- [ ] Colocar gráficos pizza informando o número de pessoas vacinadas 
+
+
+rgb(109, 221, 165)
