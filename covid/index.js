@@ -1,18 +1,19 @@
 setup("Botucatu");
-
+createAllCitiesOptions();
 let covidGraphs = [];
 
 //console.log(covidGraphs);
 
 
 async function createAllCitiesOptions(){
-  const data = await fetch("all_cities.txt");
+  const response = await fetch("all_cities.txt");
+  const data = await response.text();
   const table = data.split("\n");
 
-
-  table.forEach((row) => {
-    document.body.appendChild(<li><a class="dropdown-item" onclick="myFunction(this, 'Botucatu')">row</a></li>)
-  });
+  console.log("Passei por aqui!")
+  table.forEach(function (row) {
+      document.body.appendChild(`<li><a class="dropdown-item" onclick="myFunction(this, '` + row + `')">` + row + `</a></li>`);
+    });
 }
 
 
