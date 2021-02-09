@@ -1,4 +1,4 @@
-,date,cases,daily cases,deaths,daily deaths,daily cases moving average,daily deaths moving average
+city,date,cases,daily cases,deaths,daily deaths,daily cases moving average,daily deaths moving average
 0,2020-02-25,0,0,0,0,,
 1,2020-02-26,1,1,0,0,,
 2,2020-02-27,1,0,0,0,,

@@ -2,7 +2,7 @@ setup("Botucatu");
 
 let covidGraphs = [];
 
-console.log(covidGraphs);
+//console.log(covidGraphs);
 
 
 function removeGraphs(){
@@ -16,12 +16,14 @@ function myFunction(elmnt, answer) {
   removeGraphs();
   setup(answer);
   console.log("Changing to " + answer);
-  console.log(covidGraphs);
+  //console.log(covidGraphs);
 }
 
 
 async function setup(locationName) {
   const covidCases = await getData(locationName);
+
+  console.log(covidCases);
 
   graphIt(
     "myChart1",
