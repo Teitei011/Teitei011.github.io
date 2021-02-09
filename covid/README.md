@@ -33,3 +33,4 @@ Esse site foi feito com o intuito de analisar a propagação do vírus em nossas
 ## Ideiais Futuras
 - [ ] Colocar gráficos pizza informando o número de pessoas vacinadas 
 
+rgb(252, 175, 32);
