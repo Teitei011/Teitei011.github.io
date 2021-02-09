@@ -1,320 +1,320 @@
-city,city,date,cases,daily cases,deaths,daily deaths
-Santana de Parnaíba,Santana de Parnaíba,2020-03-27,0,0,0,0
-Santana de Parnaíba,Santana de Parnaíba,2020-03-28,7,7,0,0
-Santana de Parnaíba,Santana de Parnaíba,2020-03-29,7,0,0,0
-Santana de Parnaíba,Santana de Parnaíba,2020-03-30,7,0,0,0
-Santana de Parnaíba,Santana de Parnaíba,2020-03-31,17,10,0,0
-Santana de Parnaíba,Santana de Parnaíba,2020-04-01,18,1,0,0
-Santana de Parnaíba,Santana de Parnaíba,2020-04-02,20,2,0,0
-Santana de Parnaíba,Santana de Parnaíba,2020-04-03,22,2,0,0
-Santana de Parnaíba,Santana de Parnaíba,2020-04-04,24,2,0,0
-Santana de Parnaíba,Santana de Parnaíba,2020-04-05,24,0,0,0
-Santana de Parnaíba,Santana de Parnaíba,2020-04-06,25,1,0,0
-Santana de Parnaíba,Santana de Parnaíba,2020-04-07,27,2,0,0
-Santana de Parnaíba,Santana de Parnaíba,2020-04-08,29,2,0,0
-Santana de Parnaíba,Santana de Parnaíba,2020-04-09,31,2,0,0
-Santana de Parnaíba,Santana de Parnaíba,2020-04-10,32,1,0,0
-Santana de Parnaíba,Santana de Parnaíba,2020-04-11,33,1,0,0
-Santana de Parnaíba,Santana de Parnaíba,2020-04-12,33,0,0,0
-Santana de Parnaíba,Santana de Parnaíba,2020-04-13,33,0,0,0
-Santana de Parnaíba,Santana de Parnaíba,2020-04-14,34,1,0,0
-Santana de Parnaíba,Santana de Parnaíba,2020-04-15,41,7,0,0
-Santana de Parnaíba,Santana de Parnaíba,2020-04-16,50,9,0,0
-Santana de Parnaíba,Santana de Parnaíba,2020-04-17,53,3,0,0
-Santana de Parnaíba,Santana de Parnaíba,2020-04-18,54,1,0,0
-Santana de Parnaíba,Santana de Parnaíba,2020-04-19,55,1,0,0
-Santana de Parnaíba,Santana de Parnaíba,2020-04-20,55,0,1,1
-Santana de Parnaíba,Santana de Parnaíba,2020-04-21,63,8,1,0
-Santana de Parnaíba,Santana de Parnaíba,2020-04-22,65,2,1,0
-Santana de Parnaíba,Santana de Parnaíba,2020-04-23,66,1,1,0
-Santana de Parnaíba,Santana de Parnaíba,2020-04-24,68,2,1,0
-Santana de Parnaíba,Santana de Parnaíba,2020-04-25,80,12,2,1
-Santana de Parnaíba,Santana de Parnaíba,2020-04-26,83,3,2,0
-Santana de Parnaíba,Santana de Parnaíba,2020-04-27,85,2,3,1
-Santana de Parnaíba,Santana de Parnaíba,2020-04-28,97,12,3,0
-Santana de Parnaíba,Santana de Parnaíba,2020-04-29,108,11,3,0
-Santana de Parnaíba,Santana de Parnaíba,2020-04-30,133,25,3,0
-Santana de Parnaíba,Santana de Parnaíba,2020-05-01,141,8,3,0
-Santana de Parnaíba,Santana de Parnaíba,2020-05-02,142,1,3,0
-Santana de Parnaíba,Santana de Parnaíba,2020-05-03,152,10,3,0
-Santana de Parnaíba,Santana de Parnaíba,2020-05-04,159,7,3,0
-Santana de Parnaíba,Santana de Parnaíba,2020-05-05,171,12,4,1
-Santana de Parnaíba,Santana de Parnaíba,2020-05-06,185,14,4,0
-Santana de Parnaíba,Santana de Parnaíba,2020-05-07,192,7,4,0
-Santana de Parnaíba,Santana de Parnaíba,2020-05-08,201,9,5,1
-Santana de Parnaíba,Santana de Parnaíba,2020-05-09,211,10,5,0
-Santana de Parnaíba,Santana de Parnaíba,2020-05-10,219,8,7,2
-Santana de Parnaíba,Santana de Parnaíba,2020-05-11,223,4,7,0
-Santana de Parnaíba,Santana de Parnaíba,2020-05-12,232,9,8,1
-Santana de Parnaíba,Santana de Parnaíba,2020-05-13,245,13,9,1
-Santana de Parnaíba,Santana de Parnaíba,2020-05-14,254,9,9,0
-Santana de Parnaíba,Santana de Parnaíba,2020-05-15,267,13,10,1
-Santana de Parnaíba,Santana de Parnaíba,2020-05-16,277,10,10,0
-Santana de Parnaíba,Santana de Parnaíba,2020-05-17,281,4,10,0
-Santana de Parnaíba,Santana de Parnaíba,2020-05-18,283,2,10,0
-Santana de Parnaíba,Santana de Parnaíba,2020-05-19,302,19,12,2
-Santana de Parnaíba,Santana de Parnaíba,2020-05-20,324,22,12,0
-Santana de Parnaíba,Santana de Parnaíba,2020-05-21,339,15,13,1
-Santana de Parnaíba,Santana de Parnaíba,2020-05-22,356,17,13,0
-Santana de Parnaíba,Santana de Parnaíba,2020-05-23,364,8,13,0
-Santana de Parnaíba,Santana de Parnaíba,2020-05-24,368,4,13,0
-Santana de Parnaíba,Santana de Parnaíba,2020-05-25,373,5,13,0
-Santana de Parnaíba,Santana de Parnaíba,2020-05-26,404,31,13,0
-Santana de Parnaíba,Santana de Parnaíba,2020-05-27,422,18,13,0
-Santana de Parnaíba,Santana de Parnaíba,2020-05-28,449,27,14,1
-Santana de Parnaíba,Santana de Parnaíba,2020-05-29,469,20,15,1
-Santana de Parnaíba,Santana de Parnaíba,2020-05-30,481,12,16,1
-Santana de Parnaíba,Santana de Parnaíba,2020-05-31,498,17,16,0
-Santana de Parnaíba,Santana de Parnaíba,2020-06-01,500,2,16,0
-Santana de Parnaíba,Santana de Parnaíba,2020-06-02,523,23,17,1
-Santana de Parnaíba,Santana de Parnaíba,2020-06-03,536,13,17,0
-Santana de Parnaíba,Santana de Parnaíba,2020-06-04,560,24,17,0
-Santana de Parnaíba,Santana de Parnaíba,2020-06-05,577,17,19,2
-Santana de Parnaíba,Santana de Parnaíba,2020-06-06,601,24,20,1
-Santana de Parnaíba,Santana de Parnaíba,2020-06-07,634,33,20,0
-Santana de Parnaíba,Santana de Parnaíba,2020-06-08,642,8,20,0
-Santana de Parnaíba,Santana de Parnaíba,2020-06-09,653,11,21,1
-Santana de Parnaíba,Santana de Parnaíba,2020-06-10,664,11,21,0
-Santana de Parnaíba,Santana de Parnaíba,2020-06-11,686,22,23,2
-Santana de Parnaíba,Santana de Parnaíba,2020-06-12,721,35,23,0
-Santana de Parnaíba,Santana de Parnaíba,2020-06-13,737,16,23,0
-Santana de Parnaíba,Santana de Parnaíba,2020-06-14,740,3,22,-1
-Santana de Parnaíba,Santana de Parnaíba,2020-06-15,745,5,22,0
-Santana de Parnaíba,Santana de Parnaíba,2020-06-16,779,34,24,2
-Santana de Parnaíba,Santana de Parnaíba,2020-06-17,783,4,26,2
-Santana de Parnaíba,Santana de Parnaíba,2020-06-18,791,8,27,1
-Santana de Parnaíba,Santana de Parnaíba,2020-06-19,855,64,28,1
-Santana de Parnaíba,Santana de Parnaíba,2020-06-20,906,51,28,0
-Santana de Parnaíba,Santana de Parnaíba,2020-06-21,922,16,28,0
-Santana de Parnaíba,Santana de Parnaíba,2020-06-22,926,4,28,0
-Santana de Parnaíba,Santana de Parnaíba,2020-06-23,953,27,29,1
-Santana de Parnaíba,Santana de Parnaíba,2020-06-24,964,11,30,1
-Santana de Parnaíba,Santana de Parnaíba,2020-06-25,972,8,32,2
-Santana de Parnaíba,Santana de Parnaíba,2020-06-26,999,27,34,2
-Santana de Parnaíba,Santana de Parnaíba,2020-06-27,1031,32,37,3
-Santana de Parnaíba,Santana de Parnaíba,2020-06-28,1036,5,39,2
-Santana de Parnaíba,Santana de Parnaíba,2020-06-29,1040,4,39,0
-Santana de Parnaíba,Santana de Parnaíba,2020-06-30,1059,19,40,1
-Santana de Parnaíba,Santana de Parnaíba,2020-07-01,1095,36,41,1
-Santana de Parnaíba,Santana de Parnaíba,2020-07-02,1124,29,41,0
-Santana de Parnaíba,Santana de Parnaíba,2020-07-03,1173,49,41,0
-Santana de Parnaíba,Santana de Parnaíba,2020-07-04,1182,9,41,0
-Santana de Parnaíba,Santana de Parnaíba,2020-07-05,1209,27,41,0
-Santana de Parnaíba,Santana de Parnaíba,2020-07-06,1216,7,41,0
-Santana de Parnaíba,Santana de Parnaíba,2020-07-07,1244,28,45,4
-Santana de Parnaíba,Santana de Parnaíba,2020-07-08,1270,26,49,4
-Santana de Parnaíba,Santana de Parnaíba,2020-07-09,1295,25,50,1
-Santana de Parnaíba,Santana de Parnaíba,2020-07-10,1308,13,52,2
-Santana de Parnaíba,Santana de Parnaíba,2020-07-11,1336,28,52,0
-Santana de Parnaíba,Santana de Parnaíba,2020-07-12,1349,13,52,0
-Santana de Parnaíba,Santana de Parnaíba,2020-07-13,1350,1,52,0
-Santana de Parnaíba,Santana de Parnaíba,2020-07-14,1369,19,53,1
-Santana de Parnaíba,Santana de Parnaíba,2020-07-15,1380,11,54,1
-Santana de Parnaíba,Santana de Parnaíba,2020-07-16,1396,16,55,1
-Santana de Parnaíba,Santana de Parnaíba,2020-07-17,1419,23,56,1
-Santana de Parnaíba,Santana de Parnaíba,2020-07-18,1431,12,56,0
-Santana de Parnaíba,Santana de Parnaíba,2020-07-19,1446,15,56,0
-Santana de Parnaíba,Santana de Parnaíba,2020-07-20,1461,15,56,0
-Santana de Parnaíba,Santana de Parnaíba,2020-07-21,1477,16,59,3
-Santana de Parnaíba,Santana de Parnaíba,2020-07-22,1521,44,60,1
-Santana de Parnaíba,Santana de Parnaíba,2020-07-23,1535,14,62,2
-Santana de Parnaíba,Santana de Parnaíba,2020-07-24,1564,29,63,1
-Santana de Parnaíba,Santana de Parnaíba,2020-07-25,1616,52,64,1
-Santana de Parnaíba,Santana de Parnaíba,2020-07-26,1627,11,64,0
-Santana de Parnaíba,Santana de Parnaíba,2020-07-27,1629,2,64,0
-Santana de Parnaíba,Santana de Parnaíba,2020-07-28,1629,0,64,0
-Santana de Parnaíba,Santana de Parnaíba,2020-07-29,1685,56,67,3
-Santana de Parnaíba,Santana de Parnaíba,2020-07-30,1718,33,67,0
-Santana de Parnaíba,Santana de Parnaíba,2020-07-31,1782,64,68,1
-Santana de Parnaíba,Santana de Parnaíba,2020-08-01,1815,33,68,0
-Santana de Parnaíba,Santana de Parnaíba,2020-08-02,1860,45,69,1
-Santana de Parnaíba,Santana de Parnaíba,2020-08-03,1900,40,69,0
-Santana de Parnaíba,Santana de Parnaíba,2020-08-04,1923,23,73,4
-Santana de Parnaíba,Santana de Parnaíba,2020-08-05,1949,26,74,1
-Santana de Parnaíba,Santana de Parnaíba,2020-08-06,1968,19,75,1
-Santana de Parnaíba,Santana de Parnaíba,2020-08-07,1979,11,78,3
-Santana de Parnaíba,Santana de Parnaíba,2020-08-08,2018,39,78,0
-Santana de Parnaíba,Santana de Parnaíba,2020-08-09,2051,33,78,0
-Santana de Parnaíba,Santana de Parnaíba,2020-08-10,2062,11,78,0
-Santana de Parnaíba,Santana de Parnaíba,2020-08-11,2106,44,79,1
-Santana de Parnaíba,Santana de Parnaíba,2020-08-12,2133,27,79,0
-Santana de Parnaíba,Santana de Parnaíba,2020-08-13,2177,44,81,2
-Santana de Parnaíba,Santana de Parnaíba,2020-08-14,2207,30,81,0
-Santana de Parnaíba,Santana de Parnaíba,2020-08-15,2236,29,81,0
-Santana de Parnaíba,Santana de Parnaíba,2020-08-16,2256,20,81,0
-Santana de Parnaíba,Santana de Parnaíba,2020-08-17,2279,23,82,1
-Santana de Parnaíba,Santana de Parnaíba,2020-08-18,2305,26,83,1
-Santana de Parnaíba,Santana de Parnaíba,2020-08-19,2339,34,83,0
-Santana de Parnaíba,Santana de Parnaíba,2020-08-20,2377,38,84,1
-Santana de Parnaíba,Santana de Parnaíba,2020-08-21,2387,10,84,0
-Santana de Parnaíba,Santana de Parnaíba,2020-08-22,2412,25,84,0
-Santana de Parnaíba,Santana de Parnaíba,2020-08-23,2465,53,84,0
-Santana de Parnaíba,Santana de Parnaíba,2020-08-24,2474,9,85,1
-Santana de Parnaíba,Santana de Parnaíba,2020-08-25,2507,33,87,2
-Santana de Parnaíba,Santana de Parnaíba,2020-08-26,2545,38,86,-1
-Santana de Parnaíba,Santana de Parnaíba,2020-08-27,2557,12,86,0
-Santana de Parnaíba,Santana de Parnaíba,2020-08-28,2602,45,87,1
-Santana de Parnaíba,Santana de Parnaíba,2020-08-29,2623,21,87,0
-Santana de Parnaíba,Santana de Parnaíba,2020-08-30,2627,4,87,0
-Santana de Parnaíba,Santana de Parnaíba,2020-08-31,2634,7,88,1
-Santana de Parnaíba,Santana de Parnaíba,2020-09-01,2665,31,88,0
-Santana de Parnaíba,Santana de Parnaíba,2020-09-02,2726,61,88,0
-Santana de Parnaíba,Santana de Parnaíba,2020-09-03,2746,20,88,0
-Santana de Parnaíba,Santana de Parnaíba,2020-09-04,2776,30,89,1
-Santana de Parnaíba,Santana de Parnaíba,2020-09-05,2807,31,89,0
-Santana de Parnaíba,Santana de Parnaíba,2020-09-06,2817,10,89,0
-Santana de Parnaíba,Santana de Parnaíba,2020-09-07,2818,1,89,0
-Santana de Parnaíba,Santana de Parnaíba,2020-09-08,2825,7,89,0
-Santana de Parnaíba,Santana de Parnaíba,2020-09-09,2844,19,91,2
-Santana de Parnaíba,Santana de Parnaíba,2020-09-10,2877,33,93,2
-Santana de Parnaíba,Santana de Parnaíba,2020-09-11,2907,30,93,0
-Santana de Parnaíba,Santana de Parnaíba,2020-09-12,2942,35,94,1
-Santana de Parnaíba,Santana de Parnaíba,2020-09-13,2955,13,94,0
-Santana de Parnaíba,Santana de Parnaíba,2020-09-14,2959,4,94,0
-Santana de Parnaíba,Santana de Parnaíba,2020-09-15,2975,16,94,0
-Santana de Parnaíba,Santana de Parnaíba,2020-09-16,3000,25,95,1
-Santana de Parnaíba,Santana de Parnaíba,2020-09-17,3020,20,95,0
-Santana de Parnaíba,Santana de Parnaíba,2020-09-18,3031,11,95,0
-Santana de Parnaíba,Santana de Parnaíba,2020-09-19,3067,36,95,0
-Santana de Parnaíba,Santana de Parnaíba,2020-09-20,3067,0,95,0
-Santana de Parnaíba,Santana de Parnaíba,2020-09-21,3073,6,95,0
-Santana de Parnaíba,Santana de Parnaíba,2020-09-22,3088,15,97,2
-Santana de Parnaíba,Santana de Parnaíba,2020-09-23,3106,18,98,1
-Santana de Parnaíba,Santana de Parnaíba,2020-09-24,3116,10,99,1
-Santana de Parnaíba,Santana de Parnaíba,2020-09-25,3128,12,99,0
-Santana de Parnaíba,Santana de Parnaíba,2020-09-26,3141,13,99,0
-Santana de Parnaíba,Santana de Parnaíba,2020-09-27,3141,0,99,0
-Santana de Parnaíba,Santana de Parnaíba,2020-09-28,3142,1,99,0
-Santana de Parnaíba,Santana de Parnaíba,2020-09-29,3167,25,100,1
-Santana de Parnaíba,Santana de Parnaíba,2020-09-30,3191,24,101,1
-Santana de Parnaíba,Santana de Parnaíba,2020-10-01,3205,14,101,0
-Santana de Parnaíba,Santana de Parnaíba,2020-10-02,3218,13,101,0
-Santana de Parnaíba,Santana de Parnaíba,2020-10-03,3227,9,101,0
-Santana de Parnaíba,Santana de Parnaíba,2020-10-04,3228,1,101,0
-Santana de Parnaíba,Santana de Parnaíba,2020-10-05,3231,3,101,0
-Santana de Parnaíba,Santana de Parnaíba,2020-10-06,3269,38,101,0
-Santana de Parnaíba,Santana de Parnaíba,2020-10-07,3296,27,101,0
-Santana de Parnaíba,Santana de Parnaíba,2020-10-08,3326,30,102,1
-Santana de Parnaíba,Santana de Parnaíba,2020-10-09,3338,12,102,0
-Santana de Parnaíba,Santana de Parnaíba,2020-10-10,3359,21,102,0
-Santana de Parnaíba,Santana de Parnaíba,2020-10-11,3366,7,102,0
-Santana de Parnaíba,Santana de Parnaíba,2020-10-12,3368,2,102,0
-Santana de Parnaíba,Santana de Parnaíba,2020-10-13,3371,3,102,0
-Santana de Parnaíba,Santana de Parnaíba,2020-10-14,3387,16,102,0
-Santana de Parnaíba,Santana de Parnaíba,2020-10-15,3407,20,102,0
-Santana de Parnaíba,Santana de Parnaíba,2020-10-16,3412,5,102,0
-Santana de Parnaíba,Santana de Parnaíba,2020-10-17,3418,6,102,0
-Santana de Parnaíba,Santana de Parnaíba,2020-10-18,3418,0,102,0
-Santana de Parnaíba,Santana de Parnaíba,2020-10-19,3418,0,102,0
-Santana de Parnaíba,Santana de Parnaíba,2020-10-20,3429,11,104,2
-Santana de Parnaíba,Santana de Parnaíba,2020-10-21,3438,9,104,0
-Santana de Parnaíba,Santana de Parnaíba,2020-10-22,3451,13,104,0
-Santana de Parnaíba,Santana de Parnaíba,2020-10-23,3474,23,104,0
-Santana de Parnaíba,Santana de Parnaíba,2020-10-24,3484,10,104,0
-Santana de Parnaíba,Santana de Parnaíba,2020-10-25,3489,5,104,0
-Santana de Parnaíba,Santana de Parnaíba,2020-10-26,3495,6,104,0
-Santana de Parnaíba,Santana de Parnaíba,2020-10-27,3506,11,104,0
-Santana de Parnaíba,Santana de Parnaíba,2020-10-28,3525,19,104,0
-Santana de Parnaíba,Santana de Parnaíba,2020-10-29,3540,15,104,0
-Santana de Parnaíba,Santana de Parnaíba,2020-10-30,3543,3,104,0
-Santana de Parnaíba,Santana de Parnaíba,2020-10-31,3544,1,104,0
-Santana de Parnaíba,Santana de Parnaíba,2020-11-01,3544,0,104,0
-Santana de Parnaíba,Santana de Parnaíba,2020-11-02,3545,1,104,0
-Santana de Parnaíba,Santana de Parnaíba,2020-11-03,3549,4,104,0
-Santana de Parnaíba,Santana de Parnaíba,2020-11-04,3555,6,104,0
-Santana de Parnaíba,Santana de Parnaíba,2020-11-05,3571,16,104,0
-Santana de Parnaíba,Santana de Parnaíba,2020-11-06,3571,0,104,0
-Santana de Parnaíba,Santana de Parnaíba,2020-11-07,3571,0,104,0
-Santana de Parnaíba,Santana de Parnaíba,2020-11-08,3571,0,104,0
-Santana de Parnaíba,Santana de Parnaíba,2020-11-09,3571,0,104,0
-Santana de Parnaíba,Santana de Parnaíba,2020-11-10,3571,0,104,0
-Santana de Parnaíba,Santana de Parnaíba,2020-11-11,3651,80,104,0
-Santana de Parnaíba,Santana de Parnaíba,2020-11-12,3678,27,106,2
-Santana de Parnaíba,Santana de Parnaíba,2020-11-13,3707,29,106,0
-Santana de Parnaíba,Santana de Parnaíba,2020-11-14,3735,28,106,0
-Santana de Parnaíba,Santana de Parnaíba,2020-11-15,3741,6,106,0
-Santana de Parnaíba,Santana de Parnaíba,2020-11-16,3740,-1,106,0
-Santana de Parnaíba,Santana de Parnaíba,2020-11-17,3776,36,107,1
-Santana de Parnaíba,Santana de Parnaíba,2020-11-18,3829,53,107,0
-Santana de Parnaíba,Santana de Parnaíba,2020-11-19,3871,42,107,0
-Santana de Parnaíba,Santana de Parnaíba,2020-11-20,3929,58,108,1
-Santana de Parnaíba,Santana de Parnaíba,2020-11-21,3967,38,108,0
-Santana de Parnaíba,Santana de Parnaíba,2020-11-22,3973,6,108,0
-Santana de Parnaíba,Santana de Parnaíba,2020-11-23,3974,1,108,0
-Santana de Parnaíba,Santana de Parnaíba,2020-11-24,3997,23,109,1
-Santana de Parnaíba,Santana de Parnaíba,2020-11-25,4042,45,112,3
-Santana de Parnaíba,Santana de Parnaíba,2020-11-26,4067,25,113,1
-Santana de Parnaíba,Santana de Parnaíba,2020-11-27,4092,25,113,0
-Santana de Parnaíba,Santana de Parnaíba,2020-11-28,4111,19,113,0
-Santana de Parnaíba,Santana de Parnaíba,2020-11-29,4119,8,114,1
-Santana de Parnaíba,Santana de Parnaíba,2020-11-30,4140,21,114,0
-Santana de Parnaíba,Santana de Parnaíba,2020-12-01,4176,36,115,1
-Santana de Parnaíba,Santana de Parnaíba,2020-12-02,4197,21,115,0
-Santana de Parnaíba,Santana de Parnaíba,2020-12-03,4228,31,115,0
-Santana de Parnaíba,Santana de Parnaíba,2020-12-04,4270,42,114,-1
-Santana de Parnaíba,Santana de Parnaíba,2020-12-05,4302,32,114,0
-Santana de Parnaíba,Santana de Parnaíba,2020-12-06,4308,6,114,0
-Santana de Parnaíba,Santana de Parnaíba,2020-12-07,4308,0,114,0
-Santana de Parnaíba,Santana de Parnaíba,2020-12-08,4340,32,117,3
-Santana de Parnaíba,Santana de Parnaíba,2020-12-09,4414,74,118,1
-Santana de Parnaíba,Santana de Parnaíba,2020-12-10,4489,75,118,0
-Santana de Parnaíba,Santana de Parnaíba,2020-12-11,4524,35,118,0
-Santana de Parnaíba,Santana de Parnaíba,2020-12-12,4594,70,121,3
-Santana de Parnaíba,Santana de Parnaíba,2020-12-13,4594,0,121,0
-Santana de Parnaíba,Santana de Parnaíba,2020-12-14,4597,3,121,0
-Santana de Parnaíba,Santana de Parnaíba,2020-12-15,4630,33,121,0
-Santana de Parnaíba,Santana de Parnaíba,2020-12-16,4630,0,121,0
-Santana de Parnaíba,Santana de Parnaíba,2020-12-17,4746,116,123,2
-Santana de Parnaíba,Santana de Parnaíba,2020-12-18,4779,33,124,1
-Santana de Parnaíba,Santana de Parnaíba,2020-12-19,4818,39,124,0
-Santana de Parnaíba,Santana de Parnaíba,2020-12-20,4818,0,124,0
-Santana de Parnaíba,Santana de Parnaíba,2020-12-21,4820,2,124,0
-Santana de Parnaíba,Santana de Parnaíba,2020-12-22,4865,45,124,0
-Santana de Parnaíba,Santana de Parnaíba,2020-12-23,4916,51,124,0
-Santana de Parnaíba,Santana de Parnaíba,2020-12-24,4940,24,124,0
-Santana de Parnaíba,Santana de Parnaíba,2020-12-25,4961,21,125,1
-Santana de Parnaíba,Santana de Parnaíba,2020-12-26,4978,17,125,0
-Santana de Parnaíba,Santana de Parnaíba,2020-12-27,4987,9,125,0
-Santana de Parnaíba,Santana de Parnaíba,2020-12-28,4990,3,125,0
-Santana de Parnaíba,Santana de Parnaíba,2020-12-29,5037,47,127,2
-Santana de Parnaíba,Santana de Parnaíba,2020-12-30,5058,21,129,2
-Santana de Parnaíba,Santana de Parnaíba,2020-12-31,5110,52,129,0
-Santana de Parnaíba,Santana de Parnaíba,2021-01-01,5119,9,129,0
-Santana de Parnaíba,Santana de Parnaíba,2021-01-02,5121,2,129,0
-Santana de Parnaíba,Santana de Parnaíba,2021-01-03,5122,1,129,0
-Santana de Parnaíba,Santana de Parnaíba,2021-01-04,5125,3,130,1
-Santana de Parnaíba,Santana de Parnaíba,2021-01-05,5170,45,132,2
-Santana de Parnaíba,Santana de Parnaíba,2021-01-06,5208,38,132,0
-Santana de Parnaíba,Santana de Parnaíba,2021-01-07,5224,16,134,2
-Santana de Parnaíba,Santana de Parnaíba,2021-01-08,5302,78,134,0
-Santana de Parnaíba,Santana de Parnaíba,2021-01-09,5416,114,135,1
-Santana de Parnaíba,Santana de Parnaíba,2021-01-10,5432,16,135,0
-Santana de Parnaíba,Santana de Parnaíba,2021-01-11,5467,35,135,0
-Santana de Parnaíba,Santana de Parnaíba,2021-01-12,5510,43,136,1
-Santana de Parnaíba,Santana de Parnaíba,2021-01-13,5565,55,136,0
-Santana de Parnaíba,Santana de Parnaíba,2021-01-14,5647,82,136,0
-Santana de Parnaíba,Santana de Parnaíba,2021-01-15,5695,48,136,0
-Santana de Parnaíba,Santana de Parnaíba,2021-01-16,5799,104,136,0
-Santana de Parnaíba,Santana de Parnaíba,2021-01-17,5808,9,136,0
-Santana de Parnaíba,Santana de Parnaíba,2021-01-18,5815,7,136,0
-Santana de Parnaíba,Santana de Parnaíba,2021-01-19,5884,69,137,1
-Santana de Parnaíba,Santana de Parnaíba,2021-01-20,5964,80,138,1
-Santana de Parnaíba,Santana de Parnaíba,2021-01-21,6011,47,139,1
-Santana de Parnaíba,Santana de Parnaíba,2021-01-22,6048,37,139,0
-Santana de Parnaíba,Santana de Parnaíba,2021-01-23,6112,64,140,1
-Santana de Parnaíba,Santana de Parnaíba,2021-01-24,6117,5,140,0
-Santana de Parnaíba,Santana de Parnaíba,2021-01-25,6124,7,140,0
-Santana de Parnaíba,Santana de Parnaíba,2021-01-26,6138,14,143,3
-Santana de Parnaíba,Santana de Parnaíba,2021-01-27,6201,63,143,0
-Santana de Parnaíba,Santana de Parnaíba,2021-01-28,6250,49,145,2
-Santana de Parnaíba,Santana de Parnaíba,2021-01-29,6272,22,145,0
-Santana de Parnaíba,Santana de Parnaíba,2021-01-30,6290,18,145,0
-Santana de Parnaíba,Santana de Parnaíba,2021-01-31,6295,5,146,1
-Santana de Parnaíba,Santana de Parnaíba,2021-02-01,6298,3,146,0
-Santana de Parnaíba,Santana de Parnaíba,2021-02-02,6324,26,146,0
-Santana de Parnaíba,Santana de Parnaíba,2021-02-03,6385,61,146,0
-Santana de Parnaíba,Santana de Parnaíba,2021-02-04,6451,66,147,1
-Santana de Parnaíba,Santana de Parnaíba,2021-02-05,6469,18,147,0
-Santana de Parnaíba,Santana de Parnaíba,2021-02-06,6498,29,147,0
-Santana de Parnaíba,Santana de Parnaíba,2021-02-07,6504,6,147,0
-Santana de Parnaíba,Santana de Parnaíba,2021-02-08,6506,2,147,0
+city,date,cases,daily cases,deaths,daily deaths,daily cases moving average,daily deaths moving average
+Santana de Parnaíba,2020-03-27,0,0,0,0,,
+Santana de Parnaíba,2020-03-28,7,7,0,0,,
+Santana de Parnaíba,2020-03-29,7,0,0,0,,
+Santana de Parnaíba,2020-03-30,7,0,0,0,,
+Santana de Parnaíba,2020-03-31,17,10,0,0,,
+Santana de Parnaíba,2020-04-01,18,1,0,0,,
+Santana de Parnaíba,2020-04-02,20,2,0,0,,
+Santana de Parnaíba,2020-04-03,22,2,0,0,,
+Santana de Parnaíba,2020-04-04,24,2,0,0,,
+Santana de Parnaíba,2020-04-05,24,0,0,0,,
+Santana de Parnaíba,2020-04-06,25,1,0,0,,
+Santana de Parnaíba,2020-04-07,27,2,0,0,,
+Santana de Parnaíba,2020-04-08,29,2,0,0,,
+Santana de Parnaíba,2020-04-09,31,2,0,0,2.2142857142857144,0.0
+Santana de Parnaíba,2020-04-10,32,1,0,0,2.2857142857142856,0.0
+Santana de Parnaíba,2020-04-11,33,1,0,0,1.8571428571428572,0.0
+Santana de Parnaíba,2020-04-12,33,0,0,0,1.8571428571428572,0.0
+Santana de Parnaíba,2020-04-13,33,0,0,0,1.8571428571428572,0.0
+Santana de Parnaíba,2020-04-14,34,1,0,0,1.2142857142857142,0.0
+Santana de Parnaíba,2020-04-15,41,7,0,0,1.6428571428571428,0.0
+Santana de Parnaíba,2020-04-16,50,9,0,0,2.142857142857143,0.0
+Santana de Parnaíba,2020-04-17,53,3,0,0,2.2142857142857144,0.0
+Santana de Parnaíba,2020-04-18,54,1,0,0,2.142857142857143,0.0
+Santana de Parnaíba,2020-04-19,55,1,0,0,2.2142857142857144,0.0
+Santana de Parnaíba,2020-04-20,55,0,1,1,2.142857142857143,0.07142857142857142
+Santana de Parnaíba,2020-04-21,63,8,1,0,2.5714285714285716,0.07142857142857142
+Santana de Parnaíba,2020-04-22,65,2,1,0,2.5714285714285716,0.07142857142857142
+Santana de Parnaíba,2020-04-23,66,1,1,0,2.5,0.07142857142857142
+Santana de Parnaíba,2020-04-24,68,2,1,0,2.5714285714285716,0.07142857142857142
+Santana de Parnaíba,2020-04-25,80,12,2,1,3.357142857142857,0.14285714285714285
+Santana de Parnaíba,2020-04-26,83,3,2,0,3.5714285714285716,0.14285714285714285
+Santana de Parnaíba,2020-04-27,85,2,3,1,3.7142857142857144,0.21428571428571427
+Santana de Parnaíba,2020-04-28,97,12,3,0,4.5,0.21428571428571427
+Santana de Parnaíba,2020-04-29,108,11,3,0,4.785714285714286,0.21428571428571427
+Santana de Parnaíba,2020-04-30,133,25,3,0,5.928571428571429,0.21428571428571427
+Santana de Parnaíba,2020-05-01,141,8,3,0,6.285714285714286,0.21428571428571427
+Santana de Parnaíba,2020-05-02,142,1,3,0,6.285714285714286,0.21428571428571427
+Santana de Parnaíba,2020-05-03,152,10,3,0,6.928571428571429,0.21428571428571427
+Santana de Parnaíba,2020-05-04,159,7,3,0,7.428571428571429,0.14285714285714285
+Santana de Parnaíba,2020-05-05,171,12,4,1,7.714285714285714,0.21428571428571427
+Santana de Parnaíba,2020-05-06,185,14,4,0,8.571428571428571,0.21428571428571427
+Santana de Parnaíba,2020-05-07,192,7,4,0,9.0,0.21428571428571427
+Santana de Parnaíba,2020-05-08,201,9,5,1,9.5,0.2857142857142857
+Santana de Parnaíba,2020-05-09,211,10,5,0,9.357142857142858,0.21428571428571427
+Santana de Parnaíba,2020-05-10,219,8,7,2,9.714285714285714,0.35714285714285715
+Santana de Parnaíba,2020-05-11,223,4,7,0,9.857142857142858,0.2857142857142857
+Santana de Parnaíba,2020-05-12,232,9,8,1,9.642857142857142,0.35714285714285715
+Santana de Parnaíba,2020-05-13,245,13,9,1,9.785714285714286,0.42857142857142855
+Santana de Parnaíba,2020-05-14,254,9,9,0,8.642857142857142,0.42857142857142855
+Santana de Parnaíba,2020-05-15,267,13,10,1,9.0,0.5
+Santana de Parnaíba,2020-05-16,277,10,10,0,9.642857142857142,0.5
+Santana de Parnaíba,2020-05-17,281,4,10,0,9.214285714285714,0.5
+Santana de Parnaíba,2020-05-18,283,2,10,0,8.857142857142858,0.5
+Santana de Parnaíba,2020-05-19,302,19,12,2,9.357142857142858,0.5714285714285714
+Santana de Parnaíba,2020-05-20,324,22,12,0,9.928571428571429,0.5714285714285714
+Santana de Parnaíba,2020-05-21,339,15,13,1,10.5,0.6428571428571429
+Santana de Parnaíba,2020-05-22,356,17,13,0,11.071428571428571,0.5714285714285714
+Santana de Parnaíba,2020-05-23,364,8,13,0,10.928571428571429,0.5714285714285714
+Santana de Parnaíba,2020-05-24,368,4,13,0,10.642857142857142,0.42857142857142855
+Santana de Parnaíba,2020-05-25,373,5,13,0,10.714285714285714,0.42857142857142855
+Santana de Parnaíba,2020-05-26,404,31,13,0,12.285714285714286,0.35714285714285715
+Santana de Parnaíba,2020-05-27,422,18,13,0,12.642857142857142,0.2857142857142857
+Santana de Parnaíba,2020-05-28,449,27,14,1,13.928571428571429,0.35714285714285715
+Santana de Parnaíba,2020-05-29,469,20,15,1,14.428571428571429,0.35714285714285715
+Santana de Parnaíba,2020-05-30,481,12,16,1,14.571428571428571,0.42857142857142855
+Santana de Parnaíba,2020-05-31,498,17,16,0,15.5,0.42857142857142855
+Santana de Parnaíba,2020-06-01,500,2,16,0,15.5,0.42857142857142855
+Santana de Parnaíba,2020-06-02,523,23,17,1,15.785714285714286,0.35714285714285715
+Santana de Parnaíba,2020-06-03,536,13,17,0,15.142857142857142,0.35714285714285715
+Santana de Parnaíba,2020-06-04,560,24,17,0,15.785714285714286,0.2857142857142857
+Santana de Parnaíba,2020-06-05,577,17,19,2,15.785714285714286,0.42857142857142855
+Santana de Parnaíba,2020-06-06,601,24,20,1,16.928571428571427,0.5
+Santana de Parnaíba,2020-06-07,634,33,20,0,19.0,0.5
+Santana de Parnaíba,2020-06-08,642,8,20,0,19.214285714285715,0.5
+Santana de Parnaíba,2020-06-09,653,11,21,1,17.785714285714285,0.5714285714285714
+Santana de Parnaíba,2020-06-10,664,11,21,0,17.285714285714285,0.5714285714285714
+Santana de Parnaíba,2020-06-11,686,22,23,2,16.928571428571427,0.6428571428571429
+Santana de Parnaíba,2020-06-12,721,35,23,0,18.0,0.5714285714285714
+Santana de Parnaíba,2020-06-13,737,16,23,0,18.285714285714285,0.5
+Santana de Parnaíba,2020-06-14,740,3,22,-1,17.285714285714285,0.42857142857142855
+Santana de Parnaíba,2020-06-15,745,5,22,0,17.5,0.42857142857142855
+Santana de Parnaíba,2020-06-16,779,34,24,2,18.285714285714285,0.5
+Santana de Parnaíba,2020-06-17,783,4,26,2,17.642857142857142,0.6428571428571429
+Santana de Parnaíba,2020-06-18,791,8,27,1,16.5,0.7142857142857143
+Santana de Parnaíba,2020-06-19,855,64,28,1,19.857142857142858,0.6428571428571429
+Santana de Parnaíba,2020-06-20,906,51,28,0,21.785714285714285,0.5714285714285714
+Santana de Parnaíba,2020-06-21,922,16,28,0,20.571428571428573,0.5714285714285714
+Santana de Parnaíba,2020-06-22,926,4,28,0,20.285714285714285,0.5714285714285714
+Santana de Parnaíba,2020-06-23,953,27,29,1,21.428571428571427,0.5714285714285714
+Santana de Parnaíba,2020-06-24,964,11,30,1,21.428571428571427,0.6428571428571429
+Santana de Parnaíba,2020-06-25,972,8,32,2,20.428571428571427,0.6428571428571429
+Santana de Parnaíba,2020-06-26,999,27,34,2,19.857142857142858,0.7857142857142857
+Santana de Parnaíba,2020-06-27,1031,32,37,3,21.0,1.0
+Santana de Parnaíba,2020-06-28,1036,5,39,2,21.142857142857142,1.2142857142857142
+Santana de Parnaíba,2020-06-29,1040,4,39,0,21.071428571428573,1.2142857142857142
+Santana de Parnaíba,2020-06-30,1059,19,40,1,20.0,1.1428571428571428
+Santana de Parnaíba,2020-07-01,1095,36,41,1,22.285714285714285,1.0714285714285714
+Santana de Parnaíba,2020-07-02,1124,29,41,0,23.785714285714285,1.0
+Santana de Parnaíba,2020-07-03,1173,49,41,0,22.714285714285715,0.9285714285714286
+Santana de Parnaíba,2020-07-04,1182,9,41,0,19.714285714285715,0.9285714285714286
+Santana de Parnaíba,2020-07-05,1209,27,41,0,20.5,0.9285714285714286
+Santana de Parnaíba,2020-07-06,1216,7,41,0,20.714285714285715,0.9285714285714286
+Santana de Parnaíba,2020-07-07,1244,28,45,4,20.785714285714285,1.1428571428571428
+Santana de Parnaíba,2020-07-08,1270,26,49,4,21.857142857142858,1.3571428571428572
+Santana de Parnaíba,2020-07-09,1295,25,50,1,23.071428571428573,1.2857142857142858
+Santana de Parnaíba,2020-07-10,1308,13,52,2,22.071428571428573,1.2857142857142858
+Santana de Parnaíba,2020-07-11,1336,28,52,0,21.785714285714285,1.0714285714285714
+Santana de Parnaíba,2020-07-12,1349,13,52,0,22.357142857142858,0.9285714285714286
+Santana de Parnaíba,2020-07-13,1350,1,52,0,22.142857142857142,0.9285714285714286
+Santana de Parnaíba,2020-07-14,1369,19,53,1,22.142857142857142,0.9285714285714286
+Santana de Parnaíba,2020-07-15,1380,11,54,1,20.357142857142858,0.9285714285714286
+Santana de Parnaíba,2020-07-16,1396,16,55,1,19.428571428571427,1.0
+Santana de Parnaíba,2020-07-17,1419,23,56,1,17.571428571428573,1.0714285714285714
+Santana de Parnaíba,2020-07-18,1431,12,56,0,17.785714285714285,1.0714285714285714
+Santana de Parnaíba,2020-07-19,1446,15,56,0,16.928571428571427,1.0714285714285714
+Santana de Parnaíba,2020-07-20,1461,15,56,0,17.5,1.0714285714285714
+Santana de Parnaíba,2020-07-21,1477,16,59,3,16.642857142857142,1.0
+Santana de Parnaíba,2020-07-22,1521,44,60,1,17.928571428571427,0.7857142857142857
+Santana de Parnaíba,2020-07-23,1535,14,62,2,17.142857142857142,0.8571428571428571
+Santana de Parnaíba,2020-07-24,1564,29,63,1,18.285714285714285,0.7857142857142857
+Santana de Parnaíba,2020-07-25,1616,52,64,1,20.0,0.8571428571428571
+Santana de Parnaíba,2020-07-26,1627,11,64,0,19.857142857142858,0.8571428571428571
+Santana de Parnaíba,2020-07-27,1629,2,64,0,19.928571428571427,0.8571428571428571
+Santana de Parnaíba,2020-07-28,1629,0,64,0,18.571428571428573,0.7857142857142857
+Santana de Parnaíba,2020-07-29,1685,56,67,3,21.785714285714285,0.9285714285714286
+Santana de Parnaíba,2020-07-30,1718,33,67,0,23.0,0.8571428571428571
+Santana de Parnaíba,2020-07-31,1782,64,68,1,25.928571428571427,0.8571428571428571
+Santana de Parnaíba,2020-08-01,1815,33,68,0,27.428571428571427,0.8571428571428571
+Santana de Parnaíba,2020-08-02,1860,45,69,1,29.571428571428573,0.9285714285714286
+Santana de Parnaíba,2020-08-03,1900,40,69,0,31.357142857142858,0.9285714285714286
+Santana de Parnaíba,2020-08-04,1923,23,73,4,31.857142857142858,1.0
+Santana de Parnaíba,2020-08-05,1949,26,74,1,30.571428571428573,1.0
+Santana de Parnaíba,2020-08-06,1968,19,75,1,30.928571428571427,0.9285714285714286
+Santana de Parnaíba,2020-08-07,1979,11,78,3,29.642857142857142,1.0714285714285714
+Santana de Parnaíba,2020-08-08,2018,39,78,0,28.714285714285715,1.0
+Santana de Parnaíba,2020-08-09,2051,33,78,0,30.285714285714285,1.0
+Santana de Parnaíba,2020-08-10,2062,11,78,0,30.928571428571427,1.0
+Santana de Parnaíba,2020-08-11,2106,44,79,1,34.07142857142857,1.0714285714285714
+Santana de Parnaíba,2020-08-12,2133,27,79,0,32.0,0.8571428571428571
+Santana de Parnaíba,2020-08-13,2177,44,81,2,32.785714285714285,1.0
+Santana de Parnaíba,2020-08-14,2207,30,81,0,30.357142857142858,0.9285714285714286
+Santana de Parnaíba,2020-08-15,2236,29,81,0,30.071428571428573,0.9285714285714286
+Santana de Parnaíba,2020-08-16,2256,20,81,0,28.285714285714285,0.8571428571428571
+Santana de Parnaíba,2020-08-17,2279,23,82,1,27.071428571428573,0.9285714285714286
+Santana de Parnaíba,2020-08-18,2305,26,83,1,27.285714285714285,0.7142857142857143
+Santana de Parnaíba,2020-08-19,2339,34,83,0,27.857142857142858,0.6428571428571429
+Santana de Parnaíba,2020-08-20,2377,38,84,1,29.214285714285715,0.6428571428571429
+Santana de Parnaíba,2020-08-21,2387,10,84,0,29.142857142857142,0.42857142857142855
+Santana de Parnaíba,2020-08-22,2412,25,84,0,28.142857142857142,0.42857142857142855
+Santana de Parnaíba,2020-08-23,2465,53,84,0,29.571428571428573,0.42857142857142855
+Santana de Parnaíba,2020-08-24,2474,9,85,1,29.428571428571427,0.5
+Santana de Parnaíba,2020-08-25,2507,33,87,2,28.642857142857142,0.5714285714285714
+Santana de Parnaíba,2020-08-26,2545,38,86,-1,29.428571428571427,0.5
+Santana de Parnaíba,2020-08-27,2557,12,86,0,27.142857142857142,0.35714285714285715
+Santana de Parnaíba,2020-08-28,2602,45,87,1,28.214285714285715,0.42857142857142855
+Santana de Parnaíba,2020-08-29,2623,21,87,0,27.642857142857142,0.42857142857142855
+Santana de Parnaíba,2020-08-30,2627,4,87,0,26.5,0.42857142857142855
+Santana de Parnaíba,2020-08-31,2634,7,88,1,25.357142857142858,0.42857142857142855
+Santana de Parnaíba,2020-09-01,2665,31,88,0,25.714285714285715,0.35714285714285715
+Santana de Parnaíba,2020-09-02,2726,61,88,0,27.642857142857142,0.35714285714285715
+Santana de Parnaíba,2020-09-03,2746,20,88,0,26.357142857142858,0.2857142857142857
+Santana de Parnaíba,2020-09-04,2776,30,89,1,27.785714285714285,0.35714285714285715
+Santana de Parnaíba,2020-09-05,2807,31,89,0,28.214285714285715,0.35714285714285715
+Santana de Parnaíba,2020-09-06,2817,10,89,0,25.142857142857142,0.35714285714285715
+Santana de Parnaíba,2020-09-07,2818,1,89,0,24.571428571428573,0.2857142857142857
+Santana de Parnaíba,2020-09-08,2825,7,89,0,22.714285714285715,0.14285714285714285
+Santana de Parnaíba,2020-09-09,2844,19,91,2,21.357142857142858,0.35714285714285715
+Santana de Parnaíba,2020-09-10,2877,33,93,2,22.857142857142858,0.5
+Santana de Parnaíba,2020-09-11,2907,30,93,0,21.785714285714285,0.42857142857142855
+Santana de Parnaíba,2020-09-12,2942,35,94,1,22.785714285714285,0.5
+Santana de Parnaíba,2020-09-13,2955,13,94,0,23.428571428571427,0.5
+Santana de Parnaíba,2020-09-14,2959,4,94,0,23.214285714285715,0.42857142857142855
+Santana de Parnaíba,2020-09-15,2975,16,94,0,22.142857142857142,0.42857142857142855
+Santana de Parnaíba,2020-09-16,3000,25,95,1,19.571428571428573,0.5
+Santana de Parnaíba,2020-09-17,3020,20,95,0,19.571428571428573,0.5
+Santana de Parnaíba,2020-09-18,3031,11,95,0,18.214285714285715,0.42857142857142855
+Santana de Parnaíba,2020-09-19,3067,36,95,0,18.571428571428573,0.42857142857142855
+Santana de Parnaíba,2020-09-20,3067,0,95,0,17.857142857142858,0.42857142857142855
+Santana de Parnaíba,2020-09-21,3073,6,95,0,18.214285714285715,0.42857142857142855
+Santana de Parnaíba,2020-09-22,3088,15,97,2,18.785714285714285,0.5714285714285714
+Santana de Parnaíba,2020-09-23,3106,18,98,1,18.714285714285715,0.5
+Santana de Parnaíba,2020-09-24,3116,10,99,1,17.071428571428573,0.42857142857142855
+Santana de Parnaíba,2020-09-25,3128,12,99,0,15.785714285714286,0.42857142857142855
+Santana de Parnaíba,2020-09-26,3141,13,99,0,14.214285714285714,0.35714285714285715
+Santana de Parnaíba,2020-09-27,3141,0,99,0,13.285714285714286,0.35714285714285715
+Santana de Parnaíba,2020-09-28,3142,1,99,0,13.071428571428571,0.35714285714285715
+Santana de Parnaíba,2020-09-29,3167,25,100,1,13.714285714285714,0.42857142857142855
+Santana de Parnaíba,2020-09-30,3191,24,101,1,13.642857142857142,0.42857142857142855
+Santana de Parnaíba,2020-10-01,3205,14,101,0,13.214285714285714,0.42857142857142855
+Santana de Parnaíba,2020-10-02,3218,13,101,0,13.357142857142858,0.42857142857142855
+Santana de Parnaíba,2020-10-03,3227,9,101,0,11.428571428571429,0.42857142857142855
+Santana de Parnaíba,2020-10-04,3228,1,101,0,11.5,0.42857142857142855
+Santana de Parnaíba,2020-10-05,3231,3,101,0,11.285714285714286,0.42857142857142855
+Santana de Parnaíba,2020-10-06,3269,38,101,0,12.928571428571429,0.2857142857142857
+Santana de Parnaíba,2020-10-07,3296,27,101,0,13.571428571428571,0.21428571428571427
+Santana de Parnaíba,2020-10-08,3326,30,102,1,15.0,0.21428571428571427
+Santana de Parnaíba,2020-10-09,3338,12,102,0,15.0,0.21428571428571427
+Santana de Parnaíba,2020-10-10,3359,21,102,0,15.571428571428571,0.21428571428571427
+Santana de Parnaíba,2020-10-11,3366,7,102,0,16.071428571428573,0.21428571428571427
+Santana de Parnaíba,2020-10-12,3368,2,102,0,16.142857142857142,0.21428571428571427
+Santana de Parnaíba,2020-10-13,3371,3,102,0,14.571428571428571,0.14285714285714285
+Santana de Parnaíba,2020-10-14,3387,16,102,0,14.0,0.07142857142857142
+Santana de Parnaíba,2020-10-15,3407,20,102,0,14.428571428571429,0.07142857142857142
+Santana de Parnaíba,2020-10-16,3412,5,102,0,13.857142857142858,0.07142857142857142
+Santana de Parnaíba,2020-10-17,3418,6,102,0,13.642857142857142,0.07142857142857142
+Santana de Parnaíba,2020-10-18,3418,0,102,0,13.571428571428571,0.07142857142857142
+Santana de Parnaíba,2020-10-19,3418,0,102,0,13.357142857142858,0.07142857142857142
+Santana de Parnaíba,2020-10-20,3429,11,104,2,11.428571428571429,0.21428571428571427
+Santana de Parnaíba,2020-10-21,3438,9,104,0,10.142857142857142,0.21428571428571427
+Santana de Parnaíba,2020-10-22,3451,13,104,0,8.928571428571429,0.14285714285714285
+Santana de Parnaíba,2020-10-23,3474,23,104,0,9.714285714285714,0.14285714285714285
+Santana de Parnaíba,2020-10-24,3484,10,104,0,8.928571428571429,0.14285714285714285
+Santana de Parnaíba,2020-10-25,3489,5,104,0,8.785714285714286,0.14285714285714285
+Santana de Parnaíba,2020-10-26,3495,6,104,0,9.071428571428571,0.14285714285714285
+Santana de Parnaíba,2020-10-27,3506,11,104,0,9.642857142857142,0.14285714285714285
+Santana de Parnaíba,2020-10-28,3525,19,104,0,9.857142857142858,0.14285714285714285
+Santana de Parnaíba,2020-10-29,3540,15,104,0,9.5,0.14285714285714285
+Santana de Parnaíba,2020-10-30,3543,3,104,0,9.357142857142858,0.14285714285714285
+Santana de Parnaíba,2020-10-31,3544,1,104,0,9.0,0.14285714285714285
+Santana de Parnaíba,2020-11-01,3544,0,104,0,9.0,0.14285714285714285
+Santana de Parnaíba,2020-11-02,3545,1,104,0,9.071428571428571,0.14285714285714285
+Santana de Parnaíba,2020-11-03,3549,4,104,0,8.571428571428571,0.0
+Santana de Parnaíba,2020-11-04,3555,6,104,0,8.357142857142858,0.0
+Santana de Parnaíba,2020-11-05,3571,16,104,0,8.571428571428571,0.0
+Santana de Parnaíba,2020-11-06,3571,0,104,0,6.928571428571429,0.0
+Santana de Parnaíba,2020-11-07,3571,0,104,0,6.214285714285714,0.0
+Santana de Parnaíba,2020-11-08,3571,0,104,0,5.857142857142857,0.0
+Santana de Parnaíba,2020-11-09,3571,0,104,0,5.428571428571429,0.0
+Santana de Parnaíba,2020-11-10,3571,0,104,0,4.642857142857143,0.0
+Santana de Parnaíba,2020-11-11,3651,80,104,0,9.0,0.0
+Santana de Parnaíba,2020-11-12,3678,27,106,2,9.857142857142858,0.14285714285714285
+Santana de Parnaíba,2020-11-13,3707,29,106,0,11.714285714285714,0.14285714285714285
+Santana de Parnaíba,2020-11-14,3735,28,106,0,13.642857142857142,0.14285714285714285
+Santana de Parnaíba,2020-11-15,3741,6,106,0,14.071428571428571,0.14285714285714285
+Santana de Parnaíba,2020-11-16,3740,-1,106,0,13.928571428571429,0.14285714285714285
+Santana de Parnaíba,2020-11-17,3776,36,107,1,16.214285714285715,0.21428571428571427
+Santana de Parnaíba,2020-11-18,3829,53,107,0,19.571428571428573,0.21428571428571427
+Santana de Parnaíba,2020-11-19,3871,42,107,0,21.428571428571427,0.21428571428571427
+Santana de Parnaíba,2020-11-20,3929,58,108,1,25.571428571428573,0.2857142857142857
+Santana de Parnaíba,2020-11-21,3967,38,108,0,28.285714285714285,0.2857142857142857
+Santana de Parnaíba,2020-11-22,3973,6,108,0,28.714285714285715,0.2857142857142857
+Santana de Parnaíba,2020-11-23,3974,1,108,0,28.785714285714285,0.2857142857142857
+Santana de Parnaíba,2020-11-24,3997,23,109,1,30.428571428571427,0.35714285714285715
+Santana de Parnaíba,2020-11-25,4042,45,112,3,27.928571428571427,0.5714285714285714
+Santana de Parnaíba,2020-11-26,4067,25,113,1,27.785714285714285,0.5
+Santana de Parnaíba,2020-11-27,4092,25,113,0,27.5,0.5
+Santana de Parnaíba,2020-11-28,4111,19,113,0,26.857142857142858,0.5
+Santana de Parnaíba,2020-11-29,4119,8,114,1,27.0,0.5714285714285714
+Santana de Parnaíba,2020-11-30,4140,21,114,0,28.571428571428573,0.5714285714285714
+Santana de Parnaíba,2020-12-01,4176,36,115,1,28.571428571428573,0.5714285714285714
+Santana de Parnaíba,2020-12-02,4197,21,115,0,26.285714285714285,0.5714285714285714
+Santana de Parnaíba,2020-12-03,4228,31,115,0,25.5,0.5714285714285714
+Santana de Parnaíba,2020-12-04,4270,42,114,-1,24.357142857142858,0.42857142857142855
+Santana de Parnaíba,2020-12-05,4302,32,114,0,23.928571428571427,0.42857142857142855
+Santana de Parnaíba,2020-12-06,4308,6,114,0,23.928571428571427,0.42857142857142855
+Santana de Parnaíba,2020-12-07,4308,0,114,0,23.857142857142858,0.42857142857142855
+Santana de Parnaíba,2020-12-08,4340,32,117,3,24.5,0.5714285714285714
+Santana de Parnaíba,2020-12-09,4414,74,118,1,26.571428571428573,0.42857142857142855
+Santana de Parnaíba,2020-12-10,4489,75,118,0,30.142857142857142,0.35714285714285715
+Santana de Parnaíba,2020-12-11,4524,35,118,0,30.857142857142858,0.35714285714285715
+Santana de Parnaíba,2020-12-12,4594,70,121,3,34.5,0.5714285714285714
+Santana de Parnaíba,2020-12-13,4594,0,121,0,33.92857142857143,0.5
+Santana de Parnaíba,2020-12-14,4597,3,121,0,32.642857142857146,0.5
+Santana de Parnaíba,2020-12-15,4630,33,121,0,32.42857142857143,0.42857142857142855
+Santana de Parnaíba,2020-12-16,4630,0,121,0,30.928571428571427,0.42857142857142855
+Santana de Parnaíba,2020-12-17,4746,116,123,2,37.0,0.5714285714285714
+Santana de Parnaíba,2020-12-18,4779,33,124,1,36.357142857142854,0.7142857142857143
+Santana de Parnaíba,2020-12-19,4818,39,124,0,36.857142857142854,0.7142857142857143
+Santana de Parnaíba,2020-12-20,4818,0,124,0,36.42857142857143,0.7142857142857143
+Santana de Parnaíba,2020-12-21,4820,2,124,0,36.57142857142857,0.7142857142857143
+Santana de Parnaíba,2020-12-22,4865,45,124,0,37.5,0.5
+Santana de Parnaíba,2020-12-23,4916,51,124,0,35.857142857142854,0.42857142857142855
+Santana de Parnaíba,2020-12-24,4940,24,124,0,32.214285714285715,0.42857142857142855
+Santana de Parnaíba,2020-12-25,4961,21,125,1,31.214285714285715,0.5
+Santana de Parnaíba,2020-12-26,4978,17,125,0,27.428571428571427,0.2857142857142857
+Santana de Parnaíba,2020-12-27,4987,9,125,0,28.071428571428573,0.2857142857142857
+Santana de Parnaíba,2020-12-28,4990,3,125,0,28.071428571428573,0.2857142857142857
+Santana de Parnaíba,2020-12-29,5037,47,127,2,29.071428571428573,0.42857142857142855
+Santana de Parnaíba,2020-12-30,5058,21,129,2,30.571428571428573,0.5714285714285714
+Santana de Parnaíba,2020-12-31,5110,52,129,0,26.0,0.42857142857142855
+Santana de Parnaíba,2021-01-01,5119,9,129,0,24.285714285714285,0.35714285714285715
+Santana de Parnaíba,2021-01-02,5121,2,129,0,21.642857142857142,0.35714285714285715
+Santana de Parnaíba,2021-01-03,5122,1,129,0,21.714285714285715,0.35714285714285715
+Santana de Parnaíba,2021-01-04,5125,3,130,1,21.785714285714285,0.42857142857142855
+Santana de Parnaíba,2021-01-05,5170,45,132,2,21.785714285714285,0.5714285714285714
+Santana de Parnaíba,2021-01-06,5208,38,132,0,20.857142857142858,0.5714285714285714
+Santana de Parnaíba,2021-01-07,5224,16,134,2,20.285714285714285,0.7142857142857143
+Santana de Parnaíba,2021-01-08,5302,78,134,0,24.357142857142858,0.6428571428571429
+Santana de Parnaíba,2021-01-09,5416,114,135,1,31.285714285714285,0.7142857142857143
+Santana de Parnaíba,2021-01-10,5432,16,135,0,31.785714285714285,0.7142857142857143
+Santana de Parnaíba,2021-01-11,5467,35,135,0,34.07142857142857,0.7142857142857143
+Santana de Parnaíba,2021-01-12,5510,43,136,1,33.785714285714285,0.6428571428571429
+Santana de Parnaíba,2021-01-13,5565,55,136,0,36.214285714285715,0.5
+Santana de Parnaíba,2021-01-14,5647,82,136,0,38.357142857142854,0.5
+Santana de Parnaíba,2021-01-15,5695,48,136,0,41.142857142857146,0.5
+Santana de Parnaíba,2021-01-16,5799,104,136,0,48.42857142857143,0.5
+Santana de Parnaíba,2021-01-17,5808,9,136,0,49.0,0.5
+Santana de Parnaíba,2021-01-18,5815,7,136,0,49.285714285714285,0.42857142857142855
+Santana de Parnaíba,2021-01-19,5884,69,137,1,51.0,0.35714285714285715
+Santana de Parnaíba,2021-01-20,5964,80,138,1,54.0,0.42857142857142855
+Santana de Parnaíba,2021-01-21,6011,47,139,1,56.214285714285715,0.35714285714285715
+Santana de Parnaíba,2021-01-22,6048,37,139,0,53.285714285714285,0.35714285714285715
+Santana de Parnaíba,2021-01-23,6112,64,140,1,49.714285714285715,0.35714285714285715
+Santana de Parnaíba,2021-01-24,6117,5,140,0,48.92857142857143,0.35714285714285715
+Santana de Parnaíba,2021-01-25,6124,7,140,0,46.92857142857143,0.35714285714285715
+Santana de Parnaíba,2021-01-26,6138,14,143,3,44.857142857142854,0.5
+Santana de Parnaíba,2021-01-27,6201,63,143,0,45.42857142857143,0.5
+Santana de Parnaíba,2021-01-28,6250,49,145,2,43.07142857142857,0.6428571428571429
+Santana de Parnaíba,2021-01-29,6272,22,145,0,41.214285714285715,0.6428571428571429
+Santana de Parnaíba,2021-01-30,6290,18,145,0,35.07142857142857,0.6428571428571429
+Santana de Parnaíba,2021-01-31,6295,5,146,1,34.785714285714285,0.7142857142857143
+Santana de Parnaíba,2021-02-01,6298,3,146,0,34.5,0.7142857142857143
+Santana de Parnaíba,2021-02-02,6324,26,146,0,31.428571428571427,0.6428571428571429
+Santana de Parnaíba,2021-02-03,6385,61,146,0,30.071428571428573,0.5714285714285714
+Santana de Parnaíba,2021-02-04,6451,66,147,1,31.428571428571427,0.5714285714285714
+Santana de Parnaíba,2021-02-05,6469,18,147,0,30.071428571428573,0.5714285714285714
+Santana de Parnaíba,2021-02-06,6498,29,147,0,27.571428571428573,0.5
+Santana de Parnaíba,2021-02-07,6504,6,147,0,27.642857142857142,0.5
+Santana de Parnaíba,2021-02-08,6506,2,147,0,27.285714285714285,0.5

@@ -1,320 +1,320 @@
-city,city,date,cases,daily cases,deaths,daily deaths,daily cases moving average,daily deaths moving average
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-03-27,0,0,0,0,,
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-03-28,5,5,0,0,,
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-03-29,6,1,0,0,,
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-03-30,6,0,0,0,,
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-03-31,6,0,0,0,,
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-01,6,0,0,0,,
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-02,7,1,0,0,,
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-03,8,1,0,0,,
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-04,11,3,0,0,,
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-05,12,1,0,0,,
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-06,15,3,1,1,,
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-07,24,9,1,0,,
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-08,26,2,2,1,,
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-09,35,9,2,0,2.5,0.14285714285714285
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-10,51,16,2,0,3.642857142857143,0.14285714285714285
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-11,57,6,3,1,3.7142857142857144,0.21428571428571427
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-12,67,10,5,2,4.357142857142857,0.35714285714285715
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-13,79,12,6,1,5.214285714285714,0.42857142857142855
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-14,94,15,8,2,6.285714285714286,0.5714285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-15,103,9,10,2,6.928571428571429,0.7142857142857143
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-16,121,18,11,1,8.142857142857142,0.7857142857142857
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-17,139,18,13,2,9.357142857142858,0.9285714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-18,159,20,14,1,10.571428571428571,1.0
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-19,189,30,15,1,12.642857142857142,1.0714285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-20,204,15,18,3,13.5,1.2142857142857142
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-21,218,14,22,4,13.857142857142858,1.5
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-22,253,35,23,1,16.214285714285715,1.5
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-23,282,29,27,4,17.642857142857142,1.7857142857142858
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-24,324,42,35,8,19.5,2.357142857142857
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-25,374,50,41,6,22.642857142857142,2.7142857142857144
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-26,410,36,48,7,24.5,3.0714285714285716
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-27,456,46,52,4,26.928571428571427,3.2857142857142856
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-28,489,33,56,4,28.214285714285715,3.4285714285714284
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-29,531,42,58,2,30.571428571428573,3.4285714285714284
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-04-30,592,61,61,3,33.642857142857146,3.5714285714285716
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-01,627,35,66,5,34.857142857142854,3.7857142857142856
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-02,698,71,67,1,38.5,3.7857142857142856
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-03,736,38,72,5,39.07142857142857,4.071428571428571
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-04,753,17,76,4,39.214285714285715,4.142857142857143
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-05,812,59,86,10,42.42857142857143,4.571428571428571
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-06,875,63,91,5,44.42857142857143,4.857142857142857
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-07,979,104,94,3,49.785714285714285,4.785714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-08,1066,87,102,8,53.0,4.785714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-09,1148,82,109,7,55.285714285714285,4.857142857142857
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-10,1229,81,117,8,58.5,4.928571428571429
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-11,1274,45,119,2,58.42857142857143,4.785714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-12,1329,55,132,13,60.0,5.428571428571429
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-13,1387,58,139,7,61.142857142857146,5.785714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-14,1487,100,149,10,63.92857142857143,6.285714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-15,1543,56,157,8,65.42857142857143,6.5
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-16,1752,209,165,8,75.28571428571429,7.0
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-17,1874,122,170,5,81.28571428571429,7.0
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-18,1950,76,183,13,85.5,7.642857142857143
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-19,2038,88,194,11,87.57142857142857,7.714285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-20,2167,129,201,7,92.28571428571429,7.857142857142857
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-21,2282,115,219,18,93.07142857142857,8.928571428571429
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-22,2421,139,230,11,96.78571428571429,9.142857142857142
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-23,2497,76,240,10,96.35714285714286,9.357142857142858
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-24,2594,97,247,7,97.5,9.285714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-25,2651,57,250,3,98.35714285714286,9.357142857142858
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-26,2697,46,262,12,97.71428571428571,9.285714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-27,2781,84,278,16,99.57142857142857,9.928571428571429
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-28,2861,80,292,14,98.14285714285714,10.214285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-29,2993,132,300,8,103.57142857142857,10.214285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-30,3088,95,308,8,95.42857142857143,10.214285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-05-31,3190,102,318,10,94.0,10.571428571428571
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-01,3220,30,322,4,90.71428571428571,9.928571428571429
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-02,3267,47,332,10,87.78571428571429,9.857142857142858
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-03,3352,85,344,12,84.64285714285714,10.214285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-04,3434,82,360,16,82.28571428571429,10.071428571428571
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-05,3533,99,363,3,79.42857142857143,9.5
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-06,3588,55,365,2,77.92857142857143,8.928571428571429
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-07,3683,95,369,4,77.78571428571429,8.714285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-08,3715,32,370,1,76.0,8.571428571428571
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-09,3723,8,382,12,73.28571428571429,8.571428571428571
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-10,3777,54,391,9,71.14285714285714,8.071428571428571
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-11,3870,93,398,7,72.07142857142857,7.571428571428571
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-12,3919,49,401,3,66.14285714285714,7.214285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-13,3962,43,409,8,62.42857142857143,7.214285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-14,3990,28,415,6,57.142857142857146,6.928571428571429
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-15,4005,15,418,3,56.07142857142857,6.857142857142857
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-16,4045,40,430,12,55.57142857142857,7.0
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-17,4110,65,431,1,54.142857142857146,6.214285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-18,4248,138,443,12,58.142857142857146,5.928571428571429
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-19,4303,55,446,3,55.0,5.928571428571429
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-20,4397,94,449,3,57.785714285714285,6.0
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-21,4449,52,455,6,54.714285714285715,6.142857142857143
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-22,4457,8,457,2,53.0,6.214285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-23,4474,17,474,17,53.642857142857146,6.571428571428571
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-24,4525,51,484,10,53.42857142857143,6.642857142857143
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-25,4653,128,498,14,55.92857142857143,7.142857142857143
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-26,4668,15,522,24,53.5,8.642857142857142
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-27,4740,72,535,13,55.57142857142857,9.0
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-28,4805,65,545,10,58.214285714285715,9.285714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-29,4815,10,557,12,57.857142857142854,9.928571428571429
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-06-30,4831,16,567,10,56.142857142857146,9.785714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-01,4890,59,574,7,55.714285714285715,10.214285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-02,5005,115,586,12,54.07142857142857,10.214285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-03,5029,24,599,13,51.857142857142854,10.928571428571429
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-04,5094,65,605,6,49.785714285714285,11.142857142857142
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-05,5180,86,608,3,52.214285714285715,10.928571428571429
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-06,5201,21,609,1,53.142857142857146,10.857142857142858
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-07,5220,19,611,2,53.285714285714285,9.785714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-08,5282,62,618,7,54.07142857142857,9.571428571428571
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-09,5341,59,629,11,49.142857142857146,9.357142857142858
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-10,5400,59,635,6,52.285714285714285,8.071428571428571
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-11,5443,43,642,7,50.214285714285715,7.642857142857143
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-12,5488,45,650,8,48.785714285714285,7.5
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-13,5519,31,659,9,50.285714285714285,7.285714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-14,5548,29,661,2,51.214285714285715,6.714285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-15,5617,69,663,2,51.92857142857143,6.357142857142857
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-16,5673,56,665,2,47.714285714285715,5.642857142857143
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-17,5715,42,667,2,49.0,4.857142857142857
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-18,5751,36,672,5,46.92857142857143,4.785714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-19,5856,105,676,4,48.285714285714285,4.857142857142857
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-20,5896,40,680,4,49.642857142857146,5.071428571428571
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-21,5902,6,684,4,48.714285714285715,5.214285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-22,5932,30,692,8,46.42857142857143,5.285714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-23,6059,127,697,5,51.285714285714285,4.857142857142857
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-24,6118,59,699,2,51.285714285714285,4.571428571428571
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-25,6181,63,705,6,52.714285714285715,4.5
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-26,6245,64,712,7,54.07142857142857,4.428571428571429
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-27,6270,25,714,2,53.642857142857146,3.9285714285714284
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-28,6291,21,718,4,53.07142857142857,4.071428571428571
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-29,6345,54,723,5,52.0,4.285714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-30,6493,148,725,2,58.57142857142857,4.285714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-07-31,6536,43,727,2,58.642857142857146,4.285714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-01,6599,63,736,9,60.57142857142857,4.571428571428571
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-02,6661,62,739,3,57.5,4.5
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-03,6676,15,741,2,55.714285714285715,4.357142857142857
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-04,6686,10,748,7,56.0,4.571428571428571
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-05,6743,57,750,2,57.92857142857143,4.142857142857143
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-06,6789,46,755,5,52.142857142857146,4.142857142857143
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-07,6843,54,762,7,51.785714285714285,4.5
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-08,6883,40,764,2,50.142857142857146,4.214285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-09,6918,35,764,0,48.07142857142857,3.7142857142857144
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-10,6927,9,767,3,46.92857142857143,3.7857142857142856
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-11,6951,24,770,3,47.142857142857146,3.7142857142857144
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-12,7000,49,771,1,46.785714285714285,3.4285714285714284
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-13,7045,45,776,5,39.42857142857143,3.642857142857143
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-14,7094,49,780,4,39.857142857142854,3.7857142857142856
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-15,7138,44,784,4,38.5,3.4285714285714284
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-16,7176,38,787,3,36.785714285714285,3.4285714285714284
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-17,7184,8,789,2,36.285714285714285,3.4285714285714284
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-18,7199,15,792,3,36.642857142857146,3.142857142857143
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-19,7236,37,793,1,35.214285714285715,3.0714285714285716
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-20,7266,30,796,3,34.07142857142857,2.9285714285714284
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-21,7300,34,800,4,32.642857142857146,2.7142857142857144
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-22,7322,22,802,2,31.357142857142858,2.7142857142857144
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-23,7354,32,803,1,31.142857142857142,2.7857142857142856
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-24,7371,17,804,1,31.714285714285715,2.642857142857143
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-25,7388,17,808,4,31.214285714285715,2.7142857142857144
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-26,7423,35,809,1,30.214285714285715,2.7142857142857144
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-27,7453,30,811,2,29.142857142857142,2.5
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-28,7489,36,816,5,28.214285714285715,2.5714285714285716
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-29,7542,53,819,3,28.857142857142858,2.5
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-30,7565,23,820,1,27.785714285714285,2.357142857142857
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-08-31,7575,10,822,2,27.928571428571427,2.357142857142857
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-01,7942,367,824,2,53.07142857142857,2.2857142857142856
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-02,7985,43,827,3,53.5,2.4285714285714284
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-03,8044,59,830,3,55.57142857142857,2.4285714285714284
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-04,8063,19,831,1,54.5,2.2142857142857144
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-05,8150,87,831,0,59.142857142857146,2.0714285714285716
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-06,8158,8,831,0,57.42857142857143,2.0
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-07,8161,3,831,0,56.42857142857143,1.9285714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-08,8166,5,833,2,55.57142857142857,1.7857142857142858
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-09,8230,64,836,3,57.642857142857146,1.9285714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-10,8266,36,837,1,58.07142857142857,1.8571428571428572
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-11,8297,31,838,1,57.714285714285715,1.5714285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-12,8345,48,839,1,57.357142857142854,1.4285714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-13,8347,2,840,1,55.857142857142854,1.4285714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-14,8350,3,842,2,55.357142857142854,1.4285714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-15,8423,73,841,-1,34.357142857142854,1.2142857142857142
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-16,8445,22,841,0,32.857142857142854,1.0
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-17,8492,47,840,-1,32.0,0.7142857142857143
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-18,8540,48,840,0,34.07142857142857,0.6428571428571429
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-19,8592,52,840,0,31.571428571428573,0.6428571428571429
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-20,8596,4,840,0,31.285714285714285,0.6428571428571429
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-21,8599,3,840,0,31.285714285714285,0.6428571428571429
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-22,8644,45,842,2,34.142857142857146,0.6428571428571429
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-23,8688,44,841,-1,32.714285714285715,0.35714285714285715
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-24,8725,37,840,-1,32.785714285714285,0.21428571428571427
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-25,8759,34,839,-1,33.0,0.07142857142857142
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-26,8783,24,835,-4,31.285714285714285,-0.2857142857142857
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-27,8785,2,835,0,31.285714285714285,-0.35714285714285715
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-28,8790,5,835,0,31.428571428571427,-0.5
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-29,8868,78,834,-1,31.785714285714285,-0.5
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-09-30,8928,60,835,1,34.5,-0.42857142857142855
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-01,8985,57,838,3,35.214285714285715,-0.14285714285714285
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-02,9048,63,838,0,36.285714285714285,-0.14285714285714285
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-03,9127,79,839,1,38.214285714285715,-0.07142857142857142
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-04,9132,5,840,1,38.285714285714285,0.0
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-05,9148,16,840,0,39.214285714285715,0.0
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-06,9181,33,842,2,38.357142857142854,0.0
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-07,9211,30,842,0,37.357142857142854,0.07142857142857142
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-08,9221,10,843,1,35.42857142857143,0.21428571428571427
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-09,9249,28,843,0,35.0,0.2857142857142857
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-10,9286,37,843,0,35.92857142857143,0.5714285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-11,9302,16,843,0,36.92857142857143,0.5714285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-12,9307,5,843,0,36.92857142857143,0.5714285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-13,9309,2,843,0,31.5,0.6428571428571429
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-14,9335,26,844,1,29.071428571428573,0.6428571428571429
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-15,9387,52,850,6,28.714285714285715,0.8571428571428571
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-16,9457,70,850,0,29.214285714285715,0.8571428571428571
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-17,9483,26,852,2,25.428571428571427,0.9285714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-18,9490,7,853,1,25.571428571428573,0.9285714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-19,9494,4,855,2,24.714285714285715,1.0714285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-20,9542,48,858,3,25.785714285714285,1.1428571428571428
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-21,9574,32,859,1,25.928571428571427,1.2142857142857142
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-22,9605,31,860,1,27.428571428571427,1.2142857142857142
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-23,9642,37,861,1,28.071428571428573,1.2857142857142858
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-24,9707,65,862,1,30.071428571428573,1.3571428571428572
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-25,9717,10,862,0,29.642857142857142,1.3571428571428572
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-26,9718,1,862,0,29.357142857142858,1.3571428571428572
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-27,9752,34,864,2,31.642857142857142,1.5
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-28,9762,10,856,-8,30.5,0.8571428571428571
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-29,9825,63,855,-1,31.285714285714285,0.35714285714285715
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-30,9873,48,856,1,29.714285714285715,0.42857142857142855
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-10-31,9900,27,861,5,29.785714285714285,0.6428571428571429
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-01,9907,7,860,-1,29.785714285714285,0.5
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-02,9910,3,860,0,29.714285714285715,0.35714285714285715
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-03,9911,1,860,0,26.357142857142858,0.14285714285714285
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-04,9934,23,862,2,25.714285714285715,0.21428571428571427
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-05,9959,25,862,0,25.285714285714285,0.14285714285714285
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-06,9996,37,863,1,25.285714285714285,0.14285714285714285
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-07,10029,33,866,3,23.0,0.2857142857142857
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-08,10046,17,866,0,23.5,0.2857142857142857
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-09,10053,7,866,0,23.928571428571427,0.2857142857142857
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-10,10069,16,867,1,22.642857142857142,0.21428571428571427
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-11,10109,40,867,0,24.785714285714285,0.7857142857142857
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-12,10142,33,868,1,22.642857142857142,0.9285714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-13,10168,26,872,4,21.071428571428573,1.1428571428571428
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-14,10203,35,872,0,21.642857142857142,0.7857142857142857
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-15,10228,25,874,2,22.928571428571427,1.0
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-16,10233,5,875,1,23.071428571428573,1.0714285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-17,10263,30,878,3,25.142857142857142,1.2857142857142858
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-18,10285,22,878,0,25.071428571428573,1.1428571428571428
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-19,10329,44,879,1,26.428571428571427,1.2142857142857142
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-20,10359,30,878,-1,25.928571428571427,1.0714285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-21,10397,38,878,0,26.285714285714285,0.8571428571428571
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-22,10408,11,878,0,25.857142857142858,0.8571428571428571
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-23,10425,17,878,0,26.571428571428573,0.8571428571428571
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-24,10452,27,884,6,27.357142857142858,1.2142857142857142
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-25,10519,67,884,0,29.285714285714285,1.2142857142857142
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-26,10564,45,884,0,30.142857142857142,1.1428571428571428
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-27,10604,40,885,1,31.142857142857142,0.9285714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-28,10827,223,887,2,44.57142857142857,1.0714285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-29,10841,14,887,0,43.785714285714285,0.9285714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-11-30,10853,12,889,2,44.285714285714285,1.0
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-01,11068,215,891,2,57.5,0.9285714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-02,11272,204,893,2,70.5,1.0714285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-03,11460,188,894,1,80.78571428571429,1.0714285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-04,11483,23,895,1,80.28571428571429,1.2142857142857142
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-05,11571,88,897,2,83.85714285714286,1.3571428571428572
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-06,11701,130,899,2,92.35714285714286,1.5
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-07,11828,127,901,2,100.21428571428571,1.6428571428571428
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-08,11864,36,901,0,100.85714285714286,1.2142857142857142
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-09,11901,37,902,1,98.71428571428571,1.2857142857142858
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-10,11984,83,905,3,101.42857142857143,1.5
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-11,12051,67,905,0,103.35714285714286,1.4285714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-12,12153,102,909,4,94.71428571428571,1.5714285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-13,12164,11,910,1,94.5,1.6428571428571428
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-14,12263,99,914,4,100.71428571428571,1.7857142857142858
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-15,12292,29,917,3,87.42857142857143,1.8571428571428572
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-16,12459,167,918,1,84.78571428571429,1.7857142857142858
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-17,12533,74,919,1,76.64285714285714,1.7857142857142858
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-18,12602,69,921,2,79.92857142857143,1.8571428571428572
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-19,12799,197,921,0,87.71428571428571,1.7142857142857142
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-20,12820,21,921,0,79.92857142857143,1.5714285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-21,12848,28,922,1,72.85714285714286,1.5
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-22,12899,51,924,2,73.92857142857143,1.6428571428571428
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-23,12984,85,926,2,77.35714285714286,1.7142857142857142
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-24,13036,52,930,4,75.14285714285714,1.7857142857142858
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-25,13078,42,931,1,73.35714285714286,1.8571428571428572
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-26,13093,15,933,2,67.14285714285714,1.7142857142857142
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-27,13110,17,933,0,67.57142857142857,1.6428571428571428
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-28,13119,9,933,0,61.142857142857146,1.3571428571428572
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-29,13163,44,936,3,62.214285714285715,1.3571428571428572
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-30,13241,78,936,0,55.857142857142854,1.2857142857142858
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2020-12-31,13340,99,941,5,57.642857142857146,1.5714285714285714
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-01,13411,71,941,0,57.785714285714285,1.4285714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-02,13419,8,942,1,44.285714285714285,1.5
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-03,13434,15,942,0,43.857142857142854,1.5
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-04,13439,5,943,1,42.214285714285715,1.5
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-05,13621,182,945,2,51.57142857142857,1.5
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-06,13883,262,946,1,64.21428571428571,1.4285714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-07,14027,144,948,2,70.78571428571429,1.2857142857142858
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-08,14124,97,948,0,74.71428571428571,1.2142857142857142
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-09,14234,110,950,2,81.5,1.2142857142857142
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-10,14398,164,954,4,92.0,1.5
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-11,14407,9,958,4,92.0,1.7857142857142858
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-12,14536,129,960,2,98.07142857142857,1.7142857142857142
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-13,14626,90,962,2,98.92857142857143,1.8571428571428572
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-14,14672,46,962,0,95.14285714285714,1.5
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-15,14711,39,967,5,92.85714285714286,1.8571428571428572
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-16,14745,34,968,1,94.71428571428571,1.8571428571428572
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-17,14779,34,971,3,96.07142857142857,2.0714285714285716
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-18,14790,11,971,0,96.5,2.0
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-19,14904,114,972,1,91.64285714285714,1.9285714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-20,15023,119,973,1,81.42857142857143,1.9285714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-21,15156,133,976,3,80.64285714285714,2.0
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-22,15247,91,976,0,80.21428571428571,2.0
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-23,15467,220,977,1,88.07142857142857,1.9285714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-24,15564,97,979,2,83.28571428571429,1.7857142857142858
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-25,15666,102,979,0,89.92857142857143,1.5
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-26,15878,212,984,5,95.85714285714286,1.7142857142857142
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-27,16048,170,985,1,101.57142857142857,1.6428571428571428
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-28,16236,188,987,2,111.71428571428571,1.7857142857142858
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-29,16374,138,988,1,118.78571428571429,1.5
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-30,16461,87,989,1,122.57142857142857,1.5
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-01-31,16478,17,991,2,121.35714285714286,1.4285714285714286
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-02-01,16494,16,994,3,121.71428571428571,1.6428571428571428
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-02-02,16527,33,997,3,115.92857142857143,1.7857142857142858
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-02-03,16595,68,1001,4,112.28571428571429,2.0
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-02-04,16674,79,1004,3,108.42857142857143,2.0
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-02-05,16705,31,1008,4,104.14285714285714,2.2857142857142856
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-02-06,16753,48,1012,4,91.85714285714286,2.5
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-02-07,16767,14,1015,3,85.92857142857143,2.5714285714285716
-Jaboatão dos Guararapes,Jaboatão dos Guararapes,2021-02-08,16776,9,1017,2,79.28571428571429,2.7142857142857144
+city,date,cases,daily cases,deaths,daily deaths,daily cases moving average,daily deaths moving average
+Jaboatão dos Guararapes,2020-03-27,0,0,0,0,,
+Jaboatão dos Guararapes,2020-03-28,5,5,0,0,,
+Jaboatão dos Guararapes,2020-03-29,6,1,0,0,,
+Jaboatão dos Guararapes,2020-03-30,6,0,0,0,,
+Jaboatão dos Guararapes,2020-03-31,6,0,0,0,,
+Jaboatão dos Guararapes,2020-04-01,6,0,0,0,,
+Jaboatão dos Guararapes,2020-04-02,7,1,0,0,,
+Jaboatão dos Guararapes,2020-04-03,8,1,0,0,,
+Jaboatão dos Guararapes,2020-04-04,11,3,0,0,,
+Jaboatão dos Guararapes,2020-04-05,12,1,0,0,,
+Jaboatão dos Guararapes,2020-04-06,15,3,1,1,,
+Jaboatão dos Guararapes,2020-04-07,24,9,1,0,,
+Jaboatão dos Guararapes,2020-04-08,26,2,2,1,,
+Jaboatão dos Guararapes,2020-04-09,35,9,2,0,2.5,0.14285714285714285
+Jaboatão dos Guararapes,2020-04-10,51,16,2,0,3.642857142857143,0.14285714285714285
+Jaboatão dos Guararapes,2020-04-11,57,6,3,1,3.7142857142857144,0.21428571428571427
+Jaboatão dos Guararapes,2020-04-12,67,10,5,2,4.357142857142857,0.35714285714285715
+Jaboatão dos Guararapes,2020-04-13,79,12,6,1,5.214285714285714,0.42857142857142855
+Jaboatão dos Guararapes,2020-04-14,94,15,8,2,6.285714285714286,0.5714285714285714
+Jaboatão dos Guararapes,2020-04-15,103,9,10,2,6.928571428571429,0.7142857142857143
+Jaboatão dos Guararapes,2020-04-16,121,18,11,1,8.142857142857142,0.7857142857142857
+Jaboatão dos Guararapes,2020-04-17,139,18,13,2,9.357142857142858,0.9285714285714286
+Jaboatão dos Guararapes,2020-04-18,159,20,14,1,10.571428571428571,1.0
+Jaboatão dos Guararapes,2020-04-19,189,30,15,1,12.642857142857142,1.0714285714285714
+Jaboatão dos Guararapes,2020-04-20,204,15,18,3,13.5,1.2142857142857142
+Jaboatão dos Guararapes,2020-04-21,218,14,22,4,13.857142857142858,1.5
+Jaboatão dos Guararapes,2020-04-22,253,35,23,1,16.214285714285715,1.5
+Jaboatão dos Guararapes,2020-04-23,282,29,27,4,17.642857142857142,1.7857142857142858
+Jaboatão dos Guararapes,2020-04-24,324,42,35,8,19.5,2.357142857142857
+Jaboatão dos Guararapes,2020-04-25,374,50,41,6,22.642857142857142,2.7142857142857144
+Jaboatão dos Guararapes,2020-04-26,410,36,48,7,24.5,3.0714285714285716
+Jaboatão dos Guararapes,2020-04-27,456,46,52,4,26.928571428571427,3.2857142857142856
+Jaboatão dos Guararapes,2020-04-28,489,33,56,4,28.214285714285715,3.4285714285714284
+Jaboatão dos Guararapes,2020-04-29,531,42,58,2,30.571428571428573,3.4285714285714284
+Jaboatão dos Guararapes,2020-04-30,592,61,61,3,33.642857142857146,3.5714285714285716
+Jaboatão dos Guararapes,2020-05-01,627,35,66,5,34.857142857142854,3.7857142857142856
+Jaboatão dos Guararapes,2020-05-02,698,71,67,1,38.5,3.7857142857142856
+Jaboatão dos Guararapes,2020-05-03,736,38,72,5,39.07142857142857,4.071428571428571
+Jaboatão dos Guararapes,2020-05-04,753,17,76,4,39.214285714285715,4.142857142857143
+Jaboatão dos Guararapes,2020-05-05,812,59,86,10,42.42857142857143,4.571428571428571
+Jaboatão dos Guararapes,2020-05-06,875,63,91,5,44.42857142857143,4.857142857142857
+Jaboatão dos Guararapes,2020-05-07,979,104,94,3,49.785714285714285,4.785714285714286
+Jaboatão dos Guararapes,2020-05-08,1066,87,102,8,53.0,4.785714285714286
+Jaboatão dos Guararapes,2020-05-09,1148,82,109,7,55.285714285714285,4.857142857142857
+Jaboatão dos Guararapes,2020-05-10,1229,81,117,8,58.5,4.928571428571429
+Jaboatão dos Guararapes,2020-05-11,1274,45,119,2,58.42857142857143,4.785714285714286
+Jaboatão dos Guararapes,2020-05-12,1329,55,132,13,60.0,5.428571428571429
+Jaboatão dos Guararapes,2020-05-13,1387,58,139,7,61.142857142857146,5.785714285714286
+Jaboatão dos Guararapes,2020-05-14,1487,100,149,10,63.92857142857143,6.285714285714286
+Jaboatão dos Guararapes,2020-05-15,1543,56,157,8,65.42857142857143,6.5
+Jaboatão dos Guararapes,2020-05-16,1752,209,165,8,75.28571428571429,7.0
+Jaboatão dos Guararapes,2020-05-17,1874,122,170,5,81.28571428571429,7.0
+Jaboatão dos Guararapes,2020-05-18,1950,76,183,13,85.5,7.642857142857143
+Jaboatão dos Guararapes,2020-05-19,2038,88,194,11,87.57142857142857,7.714285714285714
+Jaboatão dos Guararapes,2020-05-20,2167,129,201,7,92.28571428571429,7.857142857142857
+Jaboatão dos Guararapes,2020-05-21,2282,115,219,18,93.07142857142857,8.928571428571429
+Jaboatão dos Guararapes,2020-05-22,2421,139,230,11,96.78571428571429,9.142857142857142
+Jaboatão dos Guararapes,2020-05-23,2497,76,240,10,96.35714285714286,9.357142857142858
+Jaboatão dos Guararapes,2020-05-24,2594,97,247,7,97.5,9.285714285714286
+Jaboatão dos Guararapes,2020-05-25,2651,57,250,3,98.35714285714286,9.357142857142858
+Jaboatão dos Guararapes,2020-05-26,2697,46,262,12,97.71428571428571,9.285714285714286
+Jaboatão dos Guararapes,2020-05-27,2781,84,278,16,99.57142857142857,9.928571428571429
+Jaboatão dos Guararapes,2020-05-28,2861,80,292,14,98.14285714285714,10.214285714285714
+Jaboatão dos Guararapes,2020-05-29,2993,132,300,8,103.57142857142857,10.214285714285714
+Jaboatão dos Guararapes,2020-05-30,3088,95,308,8,95.42857142857143,10.214285714285714
+Jaboatão dos Guararapes,2020-05-31,3190,102,318,10,94.0,10.571428571428571
+Jaboatão dos Guararapes,2020-06-01,3220,30,322,4,90.71428571428571,9.928571428571429
+Jaboatão dos Guararapes,2020-06-02,3267,47,332,10,87.78571428571429,9.857142857142858
+Jaboatão dos Guararapes,2020-06-03,3352,85,344,12,84.64285714285714,10.214285714285714
+Jaboatão dos Guararapes,2020-06-04,3434,82,360,16,82.28571428571429,10.071428571428571
+Jaboatão dos Guararapes,2020-06-05,3533,99,363,3,79.42857142857143,9.5
+Jaboatão dos Guararapes,2020-06-06,3588,55,365,2,77.92857142857143,8.928571428571429
+Jaboatão dos Guararapes,2020-06-07,3683,95,369,4,77.78571428571429,8.714285714285714
+Jaboatão dos Guararapes,2020-06-08,3715,32,370,1,76.0,8.571428571428571
+Jaboatão dos Guararapes,2020-06-09,3723,8,382,12,73.28571428571429,8.571428571428571
+Jaboatão dos Guararapes,2020-06-10,3777,54,391,9,71.14285714285714,8.071428571428571
+Jaboatão dos Guararapes,2020-06-11,3870,93,398,7,72.07142857142857,7.571428571428571
+Jaboatão dos Guararapes,2020-06-12,3919,49,401,3,66.14285714285714,7.214285714285714
+Jaboatão dos Guararapes,2020-06-13,3962,43,409,8,62.42857142857143,7.214285714285714
+Jaboatão dos Guararapes,2020-06-14,3990,28,415,6,57.142857142857146,6.928571428571429
+Jaboatão dos Guararapes,2020-06-15,4005,15,418,3,56.07142857142857,6.857142857142857
+Jaboatão dos Guararapes,2020-06-16,4045,40,430,12,55.57142857142857,7.0
+Jaboatão dos Guararapes,2020-06-17,4110,65,431,1,54.142857142857146,6.214285714285714
+Jaboatão dos Guararapes,2020-06-18,4248,138,443,12,58.142857142857146,5.928571428571429
+Jaboatão dos Guararapes,2020-06-19,4303,55,446,3,55.0,5.928571428571429
+Jaboatão dos Guararapes,2020-06-20,4397,94,449,3,57.785714285714285,6.0
+Jaboatão dos Guararapes,2020-06-21,4449,52,455,6,54.714285714285715,6.142857142857143
+Jaboatão dos Guararapes,2020-06-22,4457,8,457,2,53.0,6.214285714285714
+Jaboatão dos Guararapes,2020-06-23,4474,17,474,17,53.642857142857146,6.571428571428571
+Jaboatão dos Guararapes,2020-06-24,4525,51,484,10,53.42857142857143,6.642857142857143
+Jaboatão dos Guararapes,2020-06-25,4653,128,498,14,55.92857142857143,7.142857142857143
+Jaboatão dos Guararapes,2020-06-26,4668,15,522,24,53.5,8.642857142857142
+Jaboatão dos Guararapes,2020-06-27,4740,72,535,13,55.57142857142857,9.0
+Jaboatão dos Guararapes,2020-06-28,4805,65,545,10,58.214285714285715,9.285714285714286
+Jaboatão dos Guararapes,2020-06-29,4815,10,557,12,57.857142857142854,9.928571428571429
+Jaboatão dos Guararapes,2020-06-30,4831,16,567,10,56.142857142857146,9.785714285714286
+Jaboatão dos Guararapes,2020-07-01,4890,59,574,7,55.714285714285715,10.214285714285714
+Jaboatão dos Guararapes,2020-07-02,5005,115,586,12,54.07142857142857,10.214285714285714
+Jaboatão dos Guararapes,2020-07-03,5029,24,599,13,51.857142857142854,10.928571428571429
+Jaboatão dos Guararapes,2020-07-04,5094,65,605,6,49.785714285714285,11.142857142857142
+Jaboatão dos Guararapes,2020-07-05,5180,86,608,3,52.214285714285715,10.928571428571429
+Jaboatão dos Guararapes,2020-07-06,5201,21,609,1,53.142857142857146,10.857142857142858
+Jaboatão dos Guararapes,2020-07-07,5220,19,611,2,53.285714285714285,9.785714285714286
+Jaboatão dos Guararapes,2020-07-08,5282,62,618,7,54.07142857142857,9.571428571428571
+Jaboatão dos Guararapes,2020-07-09,5341,59,629,11,49.142857142857146,9.357142857142858
+Jaboatão dos Guararapes,2020-07-10,5400,59,635,6,52.285714285714285,8.071428571428571
+Jaboatão dos Guararapes,2020-07-11,5443,43,642,7,50.214285714285715,7.642857142857143
+Jaboatão dos Guararapes,2020-07-12,5488,45,650,8,48.785714285714285,7.5
+Jaboatão dos Guararapes,2020-07-13,5519,31,659,9,50.285714285714285,7.285714285714286
+Jaboatão dos Guararapes,2020-07-14,5548,29,661,2,51.214285714285715,6.714285714285714
+Jaboatão dos Guararapes,2020-07-15,5617,69,663,2,51.92857142857143,6.357142857142857
+Jaboatão dos Guararapes,2020-07-16,5673,56,665,2,47.714285714285715,5.642857142857143
+Jaboatão dos Guararapes,2020-07-17,5715,42,667,2,49.0,4.857142857142857
+Jaboatão dos Guararapes,2020-07-18,5751,36,672,5,46.92857142857143,4.785714285714286
+Jaboatão dos Guararapes,2020-07-19,5856,105,676,4,48.285714285714285,4.857142857142857
+Jaboatão dos Guararapes,2020-07-20,5896,40,680,4,49.642857142857146,5.071428571428571
+Jaboatão dos Guararapes,2020-07-21,5902,6,684,4,48.714285714285715,5.214285714285714
+Jaboatão dos Guararapes,2020-07-22,5932,30,692,8,46.42857142857143,5.285714285714286
+Jaboatão dos Guararapes,2020-07-23,6059,127,697,5,51.285714285714285,4.857142857142857
+Jaboatão dos Guararapes,2020-07-24,6118,59,699,2,51.285714285714285,4.571428571428571
+Jaboatão dos Guararapes,2020-07-25,6181,63,705,6,52.714285714285715,4.5
+Jaboatão dos Guararapes,2020-07-26,6245,64,712,7,54.07142857142857,4.428571428571429
+Jaboatão dos Guararapes,2020-07-27,6270,25,714,2,53.642857142857146,3.9285714285714284
+Jaboatão dos Guararapes,2020-07-28,6291,21,718,4,53.07142857142857,4.071428571428571
+Jaboatão dos Guararapes,2020-07-29,6345,54,723,5,52.0,4.285714285714286
+Jaboatão dos Guararapes,2020-07-30,6493,148,725,2,58.57142857142857,4.285714285714286
+Jaboatão dos Guararapes,2020-07-31,6536,43,727,2,58.642857142857146,4.285714285714286
+Jaboatão dos Guararapes,2020-08-01,6599,63,736,9,60.57142857142857,4.571428571428571
+Jaboatão dos Guararapes,2020-08-02,6661,62,739,3,57.5,4.5
+Jaboatão dos Guararapes,2020-08-03,6676,15,741,2,55.714285714285715,4.357142857142857
+Jaboatão dos Guararapes,2020-08-04,6686,10,748,7,56.0,4.571428571428571
+Jaboatão dos Guararapes,2020-08-05,6743,57,750,2,57.92857142857143,4.142857142857143
+Jaboatão dos Guararapes,2020-08-06,6789,46,755,5,52.142857142857146,4.142857142857143
+Jaboatão dos Guararapes,2020-08-07,6843,54,762,7,51.785714285714285,4.5
+Jaboatão dos Guararapes,2020-08-08,6883,40,764,2,50.142857142857146,4.214285714285714
+Jaboatão dos Guararapes,2020-08-09,6918,35,764,0,48.07142857142857,3.7142857142857144
+Jaboatão dos Guararapes,2020-08-10,6927,9,767,3,46.92857142857143,3.7857142857142856
+Jaboatão dos Guararapes,2020-08-11,6951,24,770,3,47.142857142857146,3.7142857142857144
+Jaboatão dos Guararapes,2020-08-12,7000,49,771,1,46.785714285714285,3.4285714285714284
+Jaboatão dos Guararapes,2020-08-13,7045,45,776,5,39.42857142857143,3.642857142857143
+Jaboatão dos Guararapes,2020-08-14,7094,49,780,4,39.857142857142854,3.7857142857142856
+Jaboatão dos Guararapes,2020-08-15,7138,44,784,4,38.5,3.4285714285714284
+Jaboatão dos Guararapes,2020-08-16,7176,38,787,3,36.785714285714285,3.4285714285714284
+Jaboatão dos Guararapes,2020-08-17,7184,8,789,2,36.285714285714285,3.4285714285714284
+Jaboatão dos Guararapes,2020-08-18,7199,15,792,3,36.642857142857146,3.142857142857143
+Jaboatão dos Guararapes,2020-08-19,7236,37,793,1,35.214285714285715,3.0714285714285716
+Jaboatão dos Guararapes,2020-08-20,7266,30,796,3,34.07142857142857,2.9285714285714284
+Jaboatão dos Guararapes,2020-08-21,7300,34,800,4,32.642857142857146,2.7142857142857144
+Jaboatão dos Guararapes,2020-08-22,7322,22,802,2,31.357142857142858,2.7142857142857144
+Jaboatão dos Guararapes,2020-08-23,7354,32,803,1,31.142857142857142,2.7857142857142856
+Jaboatão dos Guararapes,2020-08-24,7371,17,804,1,31.714285714285715,2.642857142857143
+Jaboatão dos Guararapes,2020-08-25,7388,17,808,4,31.214285714285715,2.7142857142857144
+Jaboatão dos Guararapes,2020-08-26,7423,35,809,1,30.214285714285715,2.7142857142857144
+Jaboatão dos Guararapes,2020-08-27,7453,30,811,2,29.142857142857142,2.5
+Jaboatão dos Guararapes,2020-08-28,7489,36,816,5,28.214285714285715,2.5714285714285716
+Jaboatão dos Guararapes,2020-08-29,7542,53,819,3,28.857142857142858,2.5
+Jaboatão dos Guararapes,2020-08-30,7565,23,820,1,27.785714285714285,2.357142857142857
+Jaboatão dos Guararapes,2020-08-31,7575,10,822,2,27.928571428571427,2.357142857142857
+Jaboatão dos Guararapes,2020-09-01,7942,367,824,2,53.07142857142857,2.2857142857142856
+Jaboatão dos Guararapes,2020-09-02,7985,43,827,3,53.5,2.4285714285714284
+Jaboatão dos Guararapes,2020-09-03,8044,59,830,3,55.57142857142857,2.4285714285714284
+Jaboatão dos Guararapes,2020-09-04,8063,19,831,1,54.5,2.2142857142857144
+Jaboatão dos Guararapes,2020-09-05,8150,87,831,0,59.142857142857146,2.0714285714285716
+Jaboatão dos Guararapes,2020-09-06,8158,8,831,0,57.42857142857143,2.0
+Jaboatão dos Guararapes,2020-09-07,8161,3,831,0,56.42857142857143,1.9285714285714286
+Jaboatão dos Guararapes,2020-09-08,8166,5,833,2,55.57142857142857,1.7857142857142858
+Jaboatão dos Guararapes,2020-09-09,8230,64,836,3,57.642857142857146,1.9285714285714286
+Jaboatão dos Guararapes,2020-09-10,8266,36,837,1,58.07142857142857,1.8571428571428572
+Jaboatão dos Guararapes,2020-09-11,8297,31,838,1,57.714285714285715,1.5714285714285714
+Jaboatão dos Guararapes,2020-09-12,8345,48,839,1,57.357142857142854,1.4285714285714286
+Jaboatão dos Guararapes,2020-09-13,8347,2,840,1,55.857142857142854,1.4285714285714286
+Jaboatão dos Guararapes,2020-09-14,8350,3,842,2,55.357142857142854,1.4285714285714286
+Jaboatão dos Guararapes,2020-09-15,8423,73,841,-1,34.357142857142854,1.2142857142857142
+Jaboatão dos Guararapes,2020-09-16,8445,22,841,0,32.857142857142854,1.0
+Jaboatão dos Guararapes,2020-09-17,8492,47,840,-1,32.0,0.7142857142857143
+Jaboatão dos Guararapes,2020-09-18,8540,48,840,0,34.07142857142857,0.6428571428571429
+Jaboatão dos Guararapes,2020-09-19,8592,52,840,0,31.571428571428573,0.6428571428571429
+Jaboatão dos Guararapes,2020-09-20,8596,4,840,0,31.285714285714285,0.6428571428571429
+Jaboatão dos Guararapes,2020-09-21,8599,3,840,0,31.285714285714285,0.6428571428571429
+Jaboatão dos Guararapes,2020-09-22,8644,45,842,2,34.142857142857146,0.6428571428571429
+Jaboatão dos Guararapes,2020-09-23,8688,44,841,-1,32.714285714285715,0.35714285714285715
+Jaboatão dos Guararapes,2020-09-24,8725,37,840,-1,32.785714285714285,0.21428571428571427
+Jaboatão dos Guararapes,2020-09-25,8759,34,839,-1,33.0,0.07142857142857142
+Jaboatão dos Guararapes,2020-09-26,8783,24,835,-4,31.285714285714285,-0.2857142857142857
+Jaboatão dos Guararapes,2020-09-27,8785,2,835,0,31.285714285714285,-0.35714285714285715
+Jaboatão dos Guararapes,2020-09-28,8790,5,835,0,31.428571428571427,-0.5
+Jaboatão dos Guararapes,2020-09-29,8868,78,834,-1,31.785714285714285,-0.5
+Jaboatão dos Guararapes,2020-09-30,8928,60,835,1,34.5,-0.42857142857142855
+Jaboatão dos Guararapes,2020-10-01,8985,57,838,3,35.214285714285715,-0.14285714285714285
+Jaboatão dos Guararapes,2020-10-02,9048,63,838,0,36.285714285714285,-0.14285714285714285
+Jaboatão dos Guararapes,2020-10-03,9127,79,839,1,38.214285714285715,-0.07142857142857142
+Jaboatão dos Guararapes,2020-10-04,9132,5,840,1,38.285714285714285,0.0
+Jaboatão dos Guararapes,2020-10-05,9148,16,840,0,39.214285714285715,0.0
+Jaboatão dos Guararapes,2020-10-06,9181,33,842,2,38.357142857142854,0.0
+Jaboatão dos Guararapes,2020-10-07,9211,30,842,0,37.357142857142854,0.07142857142857142
+Jaboatão dos Guararapes,2020-10-08,9221,10,843,1,35.42857142857143,0.21428571428571427
+Jaboatão dos Guararapes,2020-10-09,9249,28,843,0,35.0,0.2857142857142857
+Jaboatão dos Guararapes,2020-10-10,9286,37,843,0,35.92857142857143,0.5714285714285714
+Jaboatão dos Guararapes,2020-10-11,9302,16,843,0,36.92857142857143,0.5714285714285714
+Jaboatão dos Guararapes,2020-10-12,9307,5,843,0,36.92857142857143,0.5714285714285714
+Jaboatão dos Guararapes,2020-10-13,9309,2,843,0,31.5,0.6428571428571429
+Jaboatão dos Guararapes,2020-10-14,9335,26,844,1,29.071428571428573,0.6428571428571429
+Jaboatão dos Guararapes,2020-10-15,9387,52,850,6,28.714285714285715,0.8571428571428571
+Jaboatão dos Guararapes,2020-10-16,9457,70,850,0,29.214285714285715,0.8571428571428571
+Jaboatão dos Guararapes,2020-10-17,9483,26,852,2,25.428571428571427,0.9285714285714286
+Jaboatão dos Guararapes,2020-10-18,9490,7,853,1,25.571428571428573,0.9285714285714286
+Jaboatão dos Guararapes,2020-10-19,9494,4,855,2,24.714285714285715,1.0714285714285714
+Jaboatão dos Guararapes,2020-10-20,9542,48,858,3,25.785714285714285,1.1428571428571428
+Jaboatão dos Guararapes,2020-10-21,9574,32,859,1,25.928571428571427,1.2142857142857142
+Jaboatão dos Guararapes,2020-10-22,9605,31,860,1,27.428571428571427,1.2142857142857142
+Jaboatão dos Guararapes,2020-10-23,9642,37,861,1,28.071428571428573,1.2857142857142858
+Jaboatão dos Guararapes,2020-10-24,9707,65,862,1,30.071428571428573,1.3571428571428572
+Jaboatão dos Guararapes,2020-10-25,9717,10,862,0,29.642857142857142,1.3571428571428572
+Jaboatão dos Guararapes,2020-10-26,9718,1,862,0,29.357142857142858,1.3571428571428572
+Jaboatão dos Guararapes,2020-10-27,9752,34,864,2,31.642857142857142,1.5
+Jaboatão dos Guararapes,2020-10-28,9762,10,856,-8,30.5,0.8571428571428571
+Jaboatão dos Guararapes,2020-10-29,9825,63,855,-1,31.285714285714285,0.35714285714285715
+Jaboatão dos Guararapes,2020-10-30,9873,48,856,1,29.714285714285715,0.42857142857142855
+Jaboatão dos Guararapes,2020-10-31,9900,27,861,5,29.785714285714285,0.6428571428571429
+Jaboatão dos Guararapes,2020-11-01,9907,7,860,-1,29.785714285714285,0.5
+Jaboatão dos Guararapes,2020-11-02,9910,3,860,0,29.714285714285715,0.35714285714285715
+Jaboatão dos Guararapes,2020-11-03,9911,1,860,0,26.357142857142858,0.14285714285714285
+Jaboatão dos Guararapes,2020-11-04,9934,23,862,2,25.714285714285715,0.21428571428571427
+Jaboatão dos Guararapes,2020-11-05,9959,25,862,0,25.285714285714285,0.14285714285714285
+Jaboatão dos Guararapes,2020-11-06,9996,37,863,1,25.285714285714285,0.14285714285714285
+Jaboatão dos Guararapes,2020-11-07,10029,33,866,3,23.0,0.2857142857142857
+Jaboatão dos Guararapes,2020-11-08,10046,17,866,0,23.5,0.2857142857142857
+Jaboatão dos Guararapes,2020-11-09,10053,7,866,0,23.928571428571427,0.2857142857142857
+Jaboatão dos Guararapes,2020-11-10,10069,16,867,1,22.642857142857142,0.21428571428571427
+Jaboatão dos Guararapes,2020-11-11,10109,40,867,0,24.785714285714285,0.7857142857142857
+Jaboatão dos Guararapes,2020-11-12,10142,33,868,1,22.642857142857142,0.9285714285714286
+Jaboatão dos Guararapes,2020-11-13,10168,26,872,4,21.071428571428573,1.1428571428571428
+Jaboatão dos Guararapes,2020-11-14,10203,35,872,0,21.642857142857142,0.7857142857142857
+Jaboatão dos Guararapes,2020-11-15,10228,25,874,2,22.928571428571427,1.0
+Jaboatão dos Guararapes,2020-11-16,10233,5,875,1,23.071428571428573,1.0714285714285714
+Jaboatão dos Guararapes,2020-11-17,10263,30,878,3,25.142857142857142,1.2857142857142858
+Jaboatão dos Guararapes,2020-11-18,10285,22,878,0,25.071428571428573,1.1428571428571428
+Jaboatão dos Guararapes,2020-11-19,10329,44,879,1,26.428571428571427,1.2142857142857142
+Jaboatão dos Guararapes,2020-11-20,10359,30,878,-1,25.928571428571427,1.0714285714285714
+Jaboatão dos Guararapes,2020-11-21,10397,38,878,0,26.285714285714285,0.8571428571428571
+Jaboatão dos Guararapes,2020-11-22,10408,11,878,0,25.857142857142858,0.8571428571428571
+Jaboatão dos Guararapes,2020-11-23,10425,17,878,0,26.571428571428573,0.8571428571428571
+Jaboatão dos Guararapes,2020-11-24,10452,27,884,6,27.357142857142858,1.2142857142857142
+Jaboatão dos Guararapes,2020-11-25,10519,67,884,0,29.285714285714285,1.2142857142857142
+Jaboatão dos Guararapes,2020-11-26,10564,45,884,0,30.142857142857142,1.1428571428571428
+Jaboatão dos Guararapes,2020-11-27,10604,40,885,1,31.142857142857142,0.9285714285714286
+Jaboatão dos Guararapes,2020-11-28,10827,223,887,2,44.57142857142857,1.0714285714285714
+Jaboatão dos Guararapes,2020-11-29,10841,14,887,0,43.785714285714285,0.9285714285714286
+Jaboatão dos Guararapes,2020-11-30,10853,12,889,2,44.285714285714285,1.0
+Jaboatão dos Guararapes,2020-12-01,11068,215,891,2,57.5,0.9285714285714286
+Jaboatão dos Guararapes,2020-12-02,11272,204,893,2,70.5,1.0714285714285714
+Jaboatão dos Guararapes,2020-12-03,11460,188,894,1,80.78571428571429,1.0714285714285714
+Jaboatão dos Guararapes,2020-12-04,11483,23,895,1,80.28571428571429,1.2142857142857142
+Jaboatão dos Guararapes,2020-12-05,11571,88,897,2,83.85714285714286,1.3571428571428572
+Jaboatão dos Guararapes,2020-12-06,11701,130,899,2,92.35714285714286,1.5
+Jaboatão dos Guararapes,2020-12-07,11828,127,901,2,100.21428571428571,1.6428571428571428
+Jaboatão dos Guararapes,2020-12-08,11864,36,901,0,100.85714285714286,1.2142857142857142
+Jaboatão dos Guararapes,2020-12-09,11901,37,902,1,98.71428571428571,1.2857142857142858
+Jaboatão dos Guararapes,2020-12-10,11984,83,905,3,101.42857142857143,1.5
+Jaboatão dos Guararapes,2020-12-11,12051,67,905,0,103.35714285714286,1.4285714285714286
+Jaboatão dos Guararapes,2020-12-12,12153,102,909,4,94.71428571428571,1.5714285714285714
+Jaboatão dos Guararapes,2020-12-13,12164,11,910,1,94.5,1.6428571428571428
+Jaboatão dos Guararapes,2020-12-14,12263,99,914,4,100.71428571428571,1.7857142857142858
+Jaboatão dos Guararapes,2020-12-15,12292,29,917,3,87.42857142857143,1.8571428571428572
+Jaboatão dos Guararapes,2020-12-16,12459,167,918,1,84.78571428571429,1.7857142857142858
+Jaboatão dos Guararapes,2020-12-17,12533,74,919,1,76.64285714285714,1.7857142857142858
+Jaboatão dos Guararapes,2020-12-18,12602,69,921,2,79.92857142857143,1.8571428571428572
+Jaboatão dos Guararapes,2020-12-19,12799,197,921,0,87.71428571428571,1.7142857142857142
+Jaboatão dos Guararapes,2020-12-20,12820,21,921,0,79.92857142857143,1.5714285714285714
+Jaboatão dos Guararapes,2020-12-21,12848,28,922,1,72.85714285714286,1.5
+Jaboatão dos Guararapes,2020-12-22,12899,51,924,2,73.92857142857143,1.6428571428571428
+Jaboatão dos Guararapes,2020-12-23,12984,85,926,2,77.35714285714286,1.7142857142857142
+Jaboatão dos Guararapes,2020-12-24,13036,52,930,4,75.14285714285714,1.7857142857142858
+Jaboatão dos Guararapes,2020-12-25,13078,42,931,1,73.35714285714286,1.8571428571428572
+Jaboatão dos Guararapes,2020-12-26,13093,15,933,2,67.14285714285714,1.7142857142857142
+Jaboatão dos Guararapes,2020-12-27,13110,17,933,0,67.57142857142857,1.6428571428571428
+Jaboatão dos Guararapes,2020-12-28,13119,9,933,0,61.142857142857146,1.3571428571428572
+Jaboatão dos Guararapes,2020-12-29,13163,44,936,3,62.214285714285715,1.3571428571428572
+Jaboatão dos Guararapes,2020-12-30,13241,78,936,0,55.857142857142854,1.2857142857142858
+Jaboatão dos Guararapes,2020-12-31,13340,99,941,5,57.642857142857146,1.5714285714285714
+Jaboatão dos Guararapes,2021-01-01,13411,71,941,0,57.785714285714285,1.4285714285714286
+Jaboatão dos Guararapes,2021-01-02,13419,8,942,1,44.285714285714285,1.5
+Jaboatão dos Guararapes,2021-01-03,13434,15,942,0,43.857142857142854,1.5
+Jaboatão dos Guararapes,2021-01-04,13439,5,943,1,42.214285714285715,1.5
+Jaboatão dos Guararapes,2021-01-05,13621,182,945,2,51.57142857142857,1.5
+Jaboatão dos Guararapes,2021-01-06,13883,262,946,1,64.21428571428571,1.4285714285714286
+Jaboatão dos Guararapes,2021-01-07,14027,144,948,2,70.78571428571429,1.2857142857142858
+Jaboatão dos Guararapes,2021-01-08,14124,97,948,0,74.71428571428571,1.2142857142857142
+Jaboatão dos Guararapes,2021-01-09,14234,110,950,2,81.5,1.2142857142857142
+Jaboatão dos Guararapes,2021-01-10,14398,164,954,4,92.0,1.5
+Jaboatão dos Guararapes,2021-01-11,14407,9,958,4,92.0,1.7857142857142858
+Jaboatão dos Guararapes,2021-01-12,14536,129,960,2,98.07142857142857,1.7142857142857142
+Jaboatão dos Guararapes,2021-01-13,14626,90,962,2,98.92857142857143,1.8571428571428572
+Jaboatão dos Guararapes,2021-01-14,14672,46,962,0,95.14285714285714,1.5
+Jaboatão dos Guararapes,2021-01-15,14711,39,967,5,92.85714285714286,1.8571428571428572
+Jaboatão dos Guararapes,2021-01-16,14745,34,968,1,94.71428571428571,1.8571428571428572
+Jaboatão dos Guararapes,2021-01-17,14779,34,971,3,96.07142857142857,2.0714285714285716
+Jaboatão dos Guararapes,2021-01-18,14790,11,971,0,96.5,2.0
+Jaboatão dos Guararapes,2021-01-19,14904,114,972,1,91.64285714285714,1.9285714285714286
+Jaboatão dos Guararapes,2021-01-20,15023,119,973,1,81.42857142857143,1.9285714285714286
+Jaboatão dos Guararapes,2021-01-21,15156,133,976,3,80.64285714285714,2.0
+Jaboatão dos Guararapes,2021-01-22,15247,91,976,0,80.21428571428571,2.0
+Jaboatão dos Guararapes,2021-01-23,15467,220,977,1,88.07142857142857,1.9285714285714286
+Jaboatão dos Guararapes,2021-01-24,15564,97,979,2,83.28571428571429,1.7857142857142858
+Jaboatão dos Guararapes,2021-01-25,15666,102,979,0,89.92857142857143,1.5
+Jaboatão dos Guararapes,2021-01-26,15878,212,984,5,95.85714285714286,1.7142857142857142
+Jaboatão dos Guararapes,2021-01-27,16048,170,985,1,101.57142857142857,1.6428571428571428
+Jaboatão dos Guararapes,2021-01-28,16236,188,987,2,111.71428571428571,1.7857142857142858
+Jaboatão dos Guararapes,2021-01-29,16374,138,988,1,118.78571428571429,1.5
+Jaboatão dos Guararapes,2021-01-30,16461,87,989,1,122.57142857142857,1.5
+Jaboatão dos Guararapes,2021-01-31,16478,17,991,2,121.35714285714286,1.4285714285714286
+Jaboatão dos Guararapes,2021-02-01,16494,16,994,3,121.71428571428571,1.6428571428571428
+Jaboatão dos Guararapes,2021-02-02,16527,33,997,3,115.92857142857143,1.7857142857142858
+Jaboatão dos Guararapes,2021-02-03,16595,68,1001,4,112.28571428571429,2.0
+Jaboatão dos Guararapes,2021-02-04,16674,79,1004,3,108.42857142857143,2.0
+Jaboatão dos Guararapes,2021-02-05,16705,31,1008,4,104.14285714285714,2.2857142857142856
+Jaboatão dos Guararapes,2021-02-06,16753,48,1012,4,91.85714285714286,2.5
+Jaboatão dos Guararapes,2021-02-07,16767,14,1015,3,85.92857142857143,2.5714285714285716
+Jaboatão dos Guararapes,2021-02-08,16776,9,1017,2,79.28571428571429,2.7142857142857144

@@ -1,320 +1,320 @@
-city,city,date,cases,daily cases,deaths,daily deaths
-São Bernardo do Campo,São Bernardo do Campo,2020-03-27,0,0,0,0
-São Bernardo do Campo,São Bernardo do Campo,2020-03-28,31,31,0,0
-São Bernardo do Campo,São Bernardo do Campo,2020-03-29,33,2,1,1
-São Bernardo do Campo,São Bernardo do Campo,2020-03-30,33,0,1,0
-São Bernardo do Campo,São Bernardo do Campo,2020-03-31,44,11,1,0
-São Bernardo do Campo,São Bernardo do Campo,2020-04-01,52,8,2,1
-São Bernardo do Campo,São Bernardo do Campo,2020-04-02,59,7,2,0
-São Bernardo do Campo,São Bernardo do Campo,2020-04-03,70,11,4,2
-São Bernardo do Campo,São Bernardo do Campo,2020-04-04,77,7,4,0
-São Bernardo do Campo,São Bernardo do Campo,2020-04-05,81,4,5,1
-São Bernardo do Campo,São Bernardo do Campo,2020-04-06,89,8,5,0
-São Bernardo do Campo,São Bernardo do Campo,2020-04-07,129,40,6,1
-São Bernardo do Campo,São Bernardo do Campo,2020-04-08,147,18,7,1
-São Bernardo do Campo,São Bernardo do Campo,2020-04-09,164,17,7,0
-São Bernardo do Campo,São Bernardo do Campo,2020-04-10,174,10,9,2
-São Bernardo do Campo,São Bernardo do Campo,2020-04-11,172,-2,9,0
-São Bernardo do Campo,São Bernardo do Campo,2020-04-12,179,7,10,1
-São Bernardo do Campo,São Bernardo do Campo,2020-04-13,185,6,10,0
-São Bernardo do Campo,São Bernardo do Campo,2020-04-14,201,16,11,1
-São Bernardo do Campo,São Bernardo do Campo,2020-04-15,231,30,15,4
-São Bernardo do Campo,São Bernardo do Campo,2020-04-16,255,24,16,1
-São Bernardo do Campo,São Bernardo do Campo,2020-04-17,281,26,17,1
-São Bernardo do Campo,São Bernardo do Campo,2020-04-18,294,13,20,3
-São Bernardo do Campo,São Bernardo do Campo,2020-04-19,297,3,20,0
-São Bernardo do Campo,São Bernardo do Campo,2020-04-20,298,1,20,0
-São Bernardo do Campo,São Bernardo do Campo,2020-04-21,310,12,20,0
-São Bernardo do Campo,São Bernardo do Campo,2020-04-22,339,29,20,0
-São Bernardo do Campo,São Bernardo do Campo,2020-04-23,358,19,25,5
-São Bernardo do Campo,São Bernardo do Campo,2020-04-24,421,63,29,4
-São Bernardo do Campo,São Bernardo do Campo,2020-04-25,463,42,31,2
-São Bernardo do Campo,São Bernardo do Campo,2020-04-26,475,12,31,0
-São Bernardo do Campo,São Bernardo do Campo,2020-04-27,511,36,35,4
-São Bernardo do Campo,São Bernardo do Campo,2020-04-28,566,55,36,1
-São Bernardo do Campo,São Bernardo do Campo,2020-04-29,616,50,40,4
-São Bernardo do Campo,São Bernardo do Campo,2020-04-30,682,66,45,5
-São Bernardo do Campo,São Bernardo do Campo,2020-05-01,705,23,45,0
-São Bernardo do Campo,São Bernardo do Campo,2020-05-02,720,15,45,0
-São Bernardo do Campo,São Bernardo do Campo,2020-05-03,731,11,52,7
-São Bernardo do Campo,São Bernardo do Campo,2020-05-04,743,12,52,0
-São Bernardo do Campo,São Bernardo do Campo,2020-05-05,825,82,55,3
-São Bernardo do Campo,São Bernardo do Campo,2020-05-06,905,80,67,12
-São Bernardo do Campo,São Bernardo do Campo,2020-05-07,944,39,74,7
-São Bernardo do Campo,São Bernardo do Campo,2020-05-08,1017,73,81,7
-São Bernardo do Campo,São Bernardo do Campo,2020-05-09,1080,63,88,7
-São Bernardo do Campo,São Bernardo do Campo,2020-05-10,1095,15,92,4
-São Bernardo do Campo,São Bernardo do Campo,2020-05-11,1099,4,92,0
-São Bernardo do Campo,São Bernardo do Campo,2020-05-12,1122,23,97,5
-São Bernardo do Campo,São Bernardo do Campo,2020-05-13,1210,88,97,0
-São Bernardo do Campo,São Bernardo do Campo,2020-05-14,1321,111,101,4
-São Bernardo do Campo,São Bernardo do Campo,2020-05-15,1384,63,106,5
-São Bernardo do Campo,São Bernardo do Campo,2020-05-16,1424,40,108,2
-São Bernardo do Campo,São Bernardo do Campo,2020-05-17,1446,22,120,12
-São Bernardo do Campo,São Bernardo do Campo,2020-05-18,1469,23,120,0
-São Bernardo do Campo,São Bernardo do Campo,2020-05-19,1549,80,127,7
-São Bernardo do Campo,São Bernardo do Campo,2020-05-20,1674,125,145,18
-São Bernardo do Campo,São Bernardo do Campo,2020-05-21,1802,128,152,7
-São Bernardo do Campo,São Bernardo do Campo,2020-05-22,1865,63,153,1
-São Bernardo do Campo,São Bernardo do Campo,2020-05-23,1935,70,162,9
-São Bernardo do Campo,São Bernardo do Campo,2020-05-24,1971,36,182,20
-São Bernardo do Campo,São Bernardo do Campo,2020-05-25,1990,19,183,1
-São Bernardo do Campo,São Bernardo do Campo,2020-05-26,2018,28,189,6
-São Bernardo do Campo,São Bernardo do Campo,2020-05-27,2100,82,198,9
-São Bernardo do Campo,São Bernardo do Campo,2020-05-28,2355,255,203,5
-São Bernardo do Campo,São Bernardo do Campo,2020-05-29,2481,126,206,3
-São Bernardo do Campo,São Bernardo do Campo,2020-05-30,2590,109,209,3
-São Bernardo do Campo,São Bernardo do Campo,2020-05-31,2623,33,212,3
-São Bernardo do Campo,São Bernardo do Campo,2020-06-01,2632,9,212,0
-São Bernardo do Campo,São Bernardo do Campo,2020-06-02,2817,185,214,2
-São Bernardo do Campo,São Bernardo do Campo,2020-06-03,2925,108,225,11
-São Bernardo do Campo,São Bernardo do Campo,2020-06-04,3032,107,226,1
-São Bernardo do Campo,São Bernardo do Campo,2020-06-05,3285,253,232,6
-São Bernardo do Campo,São Bernardo do Campo,2020-06-06,3490,205,233,1
-São Bernardo do Campo,São Bernardo do Campo,2020-06-07,3533,43,234,1
-São Bernardo do Campo,São Bernardo do Campo,2020-06-08,3548,15,234,0
-São Bernardo do Campo,São Bernardo do Campo,2020-06-09,3770,222,247,13
-São Bernardo do Campo,São Bernardo do Campo,2020-06-10,4104,334,253,6
-São Bernardo do Campo,São Bernardo do Campo,2020-06-11,4259,155,257,4
-São Bernardo do Campo,São Bernardo do Campo,2020-06-12,4395,136,265,8
-São Bernardo do Campo,São Bernardo do Campo,2020-06-13,4551,156,276,11
-São Bernardo do Campo,São Bernardo do Campo,2020-06-14,4625,74,285,9
-São Bernardo do Campo,São Bernardo do Campo,2020-06-15,4652,27,286,1
-São Bernardo do Campo,São Bernardo do Campo,2020-06-16,4882,230,295,9
-São Bernardo do Campo,São Bernardo do Campo,2020-06-17,4902,20,309,14
-São Bernardo do Campo,São Bernardo do Campo,2020-06-18,4921,19,312,3
-São Bernardo do Campo,São Bernardo do Campo,2020-06-19,5585,664,318,6
-São Bernardo do Campo,São Bernardo do Campo,2020-06-20,5760,175,320,2
-São Bernardo do Campo,São Bernardo do Campo,2020-06-21,5847,87,323,3
-São Bernardo do Campo,São Bernardo do Campo,2020-06-22,5893,46,324,1
-São Bernardo do Campo,São Bernardo do Campo,2020-06-23,6144,251,325,1
-São Bernardo do Campo,São Bernardo do Campo,2020-06-24,6456,312,329,4
-São Bernardo do Campo,São Bernardo do Campo,2020-06-25,6775,319,352,23
-São Bernardo do Campo,São Bernardo do Campo,2020-06-26,7157,382,355,3
-São Bernardo do Campo,São Bernardo do Campo,2020-06-27,7271,114,359,4
-São Bernardo do Campo,São Bernardo do Campo,2020-06-28,7376,105,363,4
-São Bernardo do Campo,São Bernardo do Campo,2020-06-29,7491,115,364,1
-São Bernardo do Campo,São Bernardo do Campo,2020-06-30,7747,256,373,9
-São Bernardo do Campo,São Bernardo do Campo,2020-07-01,8077,330,387,14
-São Bernardo do Campo,São Bernardo do Campo,2020-07-02,8263,186,398,11
-São Bernardo do Campo,São Bernardo do Campo,2020-07-03,8559,296,416,18
-São Bernardo do Campo,São Bernardo do Campo,2020-07-04,8725,166,429,13
-São Bernardo do Campo,São Bernardo do Campo,2020-07-05,9069,344,436,7
-São Bernardo do Campo,São Bernardo do Campo,2020-07-06,9174,105,436,0
-São Bernardo do Campo,São Bernardo do Campo,2020-07-07,9637,463,439,3
-São Bernardo do Campo,São Bernardo do Campo,2020-07-08,9769,132,452,13
-São Bernardo do Campo,São Bernardo do Campo,2020-07-09,10005,236,466,14
-São Bernardo do Campo,São Bernardo do Campo,2020-07-10,10215,210,475,9
-São Bernardo do Campo,São Bernardo do Campo,2020-07-11,10384,169,483,8
-São Bernardo do Campo,São Bernardo do Campo,2020-07-12,10549,165,498,15
-São Bernardo do Campo,São Bernardo do Campo,2020-07-13,10639,90,500,2
-São Bernardo do Campo,São Bernardo do Campo,2020-07-14,10743,104,512,12
-São Bernardo do Campo,São Bernardo do Campo,2020-07-15,10850,107,523,11
-São Bernardo do Campo,São Bernardo do Campo,2020-07-16,11015,165,532,9
-São Bernardo do Campo,São Bernardo do Campo,2020-07-17,11088,73,543,11
-São Bernardo do Campo,São Bernardo do Campo,2020-07-18,11162,74,551,8
-São Bernardo do Campo,São Bernardo do Campo,2020-07-19,11180,18,559,8
-São Bernardo do Campo,São Bernardo do Campo,2020-07-20,11183,3,559,0
-São Bernardo do Campo,São Bernardo do Campo,2020-07-21,11278,95,564,5
-São Bernardo do Campo,São Bernardo do Campo,2020-07-22,12353,1075,566,2
-São Bernardo do Campo,São Bernardo do Campo,2020-07-23,13389,1036,583,17
-São Bernardo do Campo,São Bernardo do Campo,2020-07-24,13581,192,593,10
-São Bernardo do Campo,São Bernardo do Campo,2020-07-25,14314,733,594,1
-São Bernardo do Campo,São Bernardo do Campo,2020-07-26,14444,130,600,6
-São Bernardo do Campo,São Bernardo do Campo,2020-07-27,14460,16,600,0
-São Bernardo do Campo,São Bernardo do Campo,2020-07-28,14460,0,600,0
-São Bernardo do Campo,São Bernardo do Campo,2020-07-29,15159,699,611,11
-São Bernardo do Campo,São Bernardo do Campo,2020-07-30,15570,411,619,8
-São Bernardo do Campo,São Bernardo do Campo,2020-07-31,16026,456,621,2
-São Bernardo do Campo,São Bernardo do Campo,2020-08-01,16515,489,626,5
-São Bernardo do Campo,São Bernardo do Campo,2020-08-02,16799,284,629,3
-São Bernardo do Campo,São Bernardo do Campo,2020-08-03,16849,50,629,0
-São Bernardo do Campo,São Bernardo do Campo,2020-08-04,17201,352,634,5
-São Bernardo do Campo,São Bernardo do Campo,2020-08-05,17353,152,649,15
-São Bernardo do Campo,São Bernardo do Campo,2020-08-06,17594,241,650,1
-São Bernardo do Campo,São Bernardo do Campo,2020-08-07,17773,179,660,10
-São Bernardo do Campo,São Bernardo do Campo,2020-08-08,18074,301,660,0
-São Bernardo do Campo,São Bernardo do Campo,2020-08-09,18280,206,676,16
-São Bernardo do Campo,São Bernardo do Campo,2020-08-10,18291,11,676,0
-São Bernardo do Campo,São Bernardo do Campo,2020-08-11,18511,220,689,13
-São Bernardo do Campo,São Bernardo do Campo,2020-08-12,18855,344,691,2
-São Bernardo do Campo,São Bernardo do Campo,2020-08-13,19134,279,689,-2
-São Bernardo do Campo,São Bernardo do Campo,2020-08-14,19356,222,691,2
-São Bernardo do Campo,São Bernardo do Campo,2020-08-15,19549,193,694,3
-São Bernardo do Campo,São Bernardo do Campo,2020-08-16,19601,52,711,17
-São Bernardo do Campo,São Bernardo do Campo,2020-08-17,19628,27,711,0
-São Bernardo do Campo,São Bernardo do Campo,2020-08-18,19919,291,714,3
-São Bernardo do Campo,São Bernardo do Campo,2020-08-19,20071,152,718,4
-São Bernardo do Campo,São Bernardo do Campo,2020-08-20,20309,238,729,11
-São Bernardo do Campo,São Bernardo do Campo,2020-08-21,20359,50,736,7
-São Bernardo do Campo,São Bernardo do Campo,2020-08-22,20525,166,738,2
-São Bernardo do Campo,São Bernardo do Campo,2020-08-23,20644,119,739,1
-São Bernardo do Campo,São Bernardo do Campo,2020-08-24,20687,43,739,0
-São Bernardo do Campo,São Bernardo do Campo,2020-08-25,20869,182,757,18
-São Bernardo do Campo,São Bernardo do Campo,2020-08-26,21039,170,756,-1
-São Bernardo do Campo,São Bernardo do Campo,2020-08-27,21345,306,758,2
-São Bernardo do Campo,São Bernardo do Campo,2020-08-28,21615,270,769,11
-São Bernardo do Campo,São Bernardo do Campo,2020-08-29,21677,62,776,7
-São Bernardo do Campo,São Bernardo do Campo,2020-08-30,21709,32,776,0
-São Bernardo do Campo,São Bernardo do Campo,2020-08-31,21716,7,776,0
-São Bernardo do Campo,São Bernardo do Campo,2020-09-01,21951,235,779,3
-São Bernardo do Campo,São Bernardo do Campo,2020-09-02,22321,370,789,10
-São Bernardo do Campo,São Bernardo do Campo,2020-09-03,22650,329,794,5
-São Bernardo do Campo,São Bernardo do Campo,2020-09-04,22743,93,805,11
-São Bernardo do Campo,São Bernardo do Campo,2020-09-05,22859,116,805,0
-São Bernardo do Campo,São Bernardo do Campo,2020-09-06,22908,49,807,2
-São Bernardo do Campo,São Bernardo do Campo,2020-09-07,22951,43,807,0
-São Bernardo do Campo,São Bernardo do Campo,2020-09-08,22964,13,814,7
-São Bernardo do Campo,São Bernardo do Campo,2020-09-09,23079,115,824,10
-São Bernardo do Campo,São Bernardo do Campo,2020-09-10,23240,161,836,12
-São Bernardo do Campo,São Bernardo do Campo,2020-09-11,23331,91,841,5
-São Bernardo do Campo,São Bernardo do Campo,2020-09-12,23408,77,843,2
-São Bernardo do Campo,São Bernardo do Campo,2020-09-13,23421,13,843,0
-São Bernardo do Campo,São Bernardo do Campo,2020-09-14,23425,4,843,0
-São Bernardo do Campo,São Bernardo do Campo,2020-09-15,23564,139,852,9
-São Bernardo do Campo,São Bernardo do Campo,2020-09-16,23701,137,853,1
-São Bernardo do Campo,São Bernardo do Campo,2020-09-17,23795,94,855,2
-São Bernardo do Campo,São Bernardo do Campo,2020-09-18,23868,73,861,6
-São Bernardo do Campo,São Bernardo do Campo,2020-09-19,23967,99,869,8
-São Bernardo do Campo,São Bernardo do Campo,2020-09-20,24015,48,870,1
-São Bernardo do Campo,São Bernardo do Campo,2020-09-21,24045,30,870,0
-São Bernardo do Campo,São Bernardo do Campo,2020-09-22,24179,134,886,16
-São Bernardo do Campo,São Bernardo do Campo,2020-09-23,24228,49,893,7
-São Bernardo do Campo,São Bernardo do Campo,2020-09-24,24348,120,897,4
-São Bernardo do Campo,São Bernardo do Campo,2020-09-25,24463,115,899,2
-São Bernardo do Campo,São Bernardo do Campo,2020-09-26,24541,78,904,5
-São Bernardo do Campo,São Bernardo do Campo,2020-09-27,24542,1,904,0
-São Bernardo do Campo,São Bernardo do Campo,2020-09-28,24552,10,904,0
-São Bernardo do Campo,São Bernardo do Campo,2020-09-29,24682,130,908,4
-São Bernardo do Campo,São Bernardo do Campo,2020-09-30,24765,83,912,4
-São Bernardo do Campo,São Bernardo do Campo,2020-10-01,24799,34,916,4
-São Bernardo do Campo,São Bernardo do Campo,2020-10-02,24897,98,923,7
-São Bernardo do Campo,São Bernardo do Campo,2020-10-03,24997,100,925,2
-São Bernardo do Campo,São Bernardo do Campo,2020-10-04,25009,12,929,4
-São Bernardo do Campo,São Bernardo do Campo,2020-10-05,25015,6,929,0
-São Bernardo do Campo,São Bernardo do Campo,2020-10-06,25063,48,933,4
-São Bernardo do Campo,São Bernardo do Campo,2020-10-07,25120,57,938,5
-São Bernardo do Campo,São Bernardo do Campo,2020-10-08,25173,53,937,-1
-São Bernardo do Campo,São Bernardo do Campo,2020-10-09,25233,60,939,2
-São Bernardo do Campo,São Bernardo do Campo,2020-10-10,25374,141,943,4
-São Bernardo do Campo,São Bernardo do Campo,2020-10-11,25468,94,943,0
-São Bernardo do Campo,São Bernardo do Campo,2020-10-12,25481,13,943,0
-São Bernardo do Campo,São Bernardo do Campo,2020-10-13,25486,5,943,0
-São Bernardo do Campo,São Bernardo do Campo,2020-10-14,25557,71,946,3
-São Bernardo do Campo,São Bernardo do Campo,2020-10-15,25754,197,949,3
-São Bernardo do Campo,São Bernardo do Campo,2020-10-16,25836,82,951,2
-São Bernardo do Campo,São Bernardo do Campo,2020-10-17,25904,68,955,4
-São Bernardo do Campo,São Bernardo do Campo,2020-10-18,25910,6,955,0
-São Bernardo do Campo,São Bernardo do Campo,2020-10-19,25920,10,955,0
-São Bernardo do Campo,São Bernardo do Campo,2020-10-20,25985,65,957,2
-São Bernardo do Campo,São Bernardo do Campo,2020-10-21,26058,73,961,4
-São Bernardo do Campo,São Bernardo do Campo,2020-10-22,26124,66,969,8
-São Bernardo do Campo,São Bernardo do Campo,2020-10-23,26257,133,973,4
-São Bernardo do Campo,São Bernardo do Campo,2020-10-24,26353,96,974,1
-São Bernardo do Campo,São Bernardo do Campo,2020-10-25,26392,39,974,0
-São Bernardo do Campo,São Bernardo do Campo,2020-10-26,26416,24,974,0
-São Bernardo do Campo,São Bernardo do Campo,2020-10-27,26529,113,975,1
-São Bernardo do Campo,São Bernardo do Campo,2020-10-28,26610,81,976,1
-São Bernardo do Campo,São Bernardo do Campo,2020-10-29,26696,86,977,1
-São Bernardo do Campo,São Bernardo do Campo,2020-10-30,26781,85,980,3
-São Bernardo do Campo,São Bernardo do Campo,2020-10-31,26846,65,982,2
-São Bernardo do Campo,São Bernardo do Campo,2020-11-01,26861,15,983,1
-São Bernardo do Campo,São Bernardo do Campo,2020-11-02,26862,1,983,0
-São Bernardo do Campo,São Bernardo do Campo,2020-11-03,26868,6,983,0
-São Bernardo do Campo,São Bernardo do Campo,2020-11-04,26936,68,986,3
-São Bernardo do Campo,São Bernardo do Campo,2020-11-05,27005,69,991,5
-São Bernardo do Campo,São Bernardo do Campo,2020-11-06,27005,0,991,0
-São Bernardo do Campo,São Bernardo do Campo,2020-11-07,27005,0,991,0
-São Bernardo do Campo,São Bernardo do Campo,2020-11-08,27005,0,991,0
-São Bernardo do Campo,São Bernardo do Campo,2020-11-09,27005,0,991,0
-São Bernardo do Campo,São Bernardo do Campo,2020-11-10,27005,0,991,0
-São Bernardo do Campo,São Bernardo do Campo,2020-11-11,27402,397,994,3
-São Bernardo do Campo,São Bernardo do Campo,2020-11-12,27564,162,998,4
-São Bernardo do Campo,São Bernardo do Campo,2020-11-13,27683,119,998,0
-São Bernardo do Campo,São Bernardo do Campo,2020-11-14,27795,112,998,0
-São Bernardo do Campo,São Bernardo do Campo,2020-11-15,27810,15,998,0
-São Bernardo do Campo,São Bernardo do Campo,2020-11-16,27829,19,998,0
-São Bernardo do Campo,São Bernardo do Campo,2020-11-17,28018,189,1002,4
-São Bernardo do Campo,São Bernardo do Campo,2020-11-18,28164,146,1008,6
-São Bernardo do Campo,São Bernardo do Campo,2020-11-19,28281,117,1014,6
-São Bernardo do Campo,São Bernardo do Campo,2020-11-20,28510,229,1019,5
-São Bernardo do Campo,São Bernardo do Campo,2020-11-21,28613,103,1019,0
-São Bernardo do Campo,São Bernardo do Campo,2020-11-22,28707,94,1019,0
-São Bernardo do Campo,São Bernardo do Campo,2020-11-23,28726,19,1019,0
-São Bernardo do Campo,São Bernardo do Campo,2020-11-24,28832,106,1021,2
-São Bernardo do Campo,São Bernardo do Campo,2020-11-25,29007,175,1024,3
-São Bernardo do Campo,São Bernardo do Campo,2020-11-26,29121,114,1028,4
-São Bernardo do Campo,São Bernardo do Campo,2020-11-27,29207,86,1029,1
-São Bernardo do Campo,São Bernardo do Campo,2020-11-28,29316,109,1031,2
-São Bernardo do Campo,São Bernardo do Campo,2020-11-29,29373,57,1031,0
-São Bernardo do Campo,São Bernardo do Campo,2020-11-30,29388,15,1031,0
-São Bernardo do Campo,São Bernardo do Campo,2020-12-01,29567,179,1038,7
-São Bernardo do Campo,São Bernardo do Campo,2020-12-02,29777,210,1054,16
-São Bernardo do Campo,São Bernardo do Campo,2020-12-03,29921,144,1065,11
-São Bernardo do Campo,São Bernardo do Campo,2020-12-04,30126,205,1083,18
-São Bernardo do Campo,São Bernardo do Campo,2020-12-05,30434,308,1102,19
-São Bernardo do Campo,São Bernardo do Campo,2020-12-06,30475,41,1109,7
-São Bernardo do Campo,São Bernardo do Campo,2020-12-07,30491,16,1109,0
-São Bernardo do Campo,São Bernardo do Campo,2020-12-08,30688,197,1118,9
-São Bernardo do Campo,São Bernardo do Campo,2020-12-09,30904,216,1118,0
-São Bernardo do Campo,São Bernardo do Campo,2020-12-10,31197,293,1124,6
-São Bernardo do Campo,São Bernardo do Campo,2020-12-11,31428,231,1127,3
-São Bernardo do Campo,São Bernardo do Campo,2020-12-12,31642,214,1130,3
-São Bernardo do Campo,São Bernardo do Campo,2020-12-13,31654,12,1130,0
-São Bernardo do Campo,São Bernardo do Campo,2020-12-14,31738,84,1130,0
-São Bernardo do Campo,São Bernardo do Campo,2020-12-15,31893,155,1144,14
-São Bernardo do Campo,São Bernardo do Campo,2020-12-16,31893,0,1144,0
-São Bernardo do Campo,São Bernardo do Campo,2020-12-17,32341,448,1151,7
-São Bernardo do Campo,São Bernardo do Campo,2020-12-18,32471,130,1156,5
-São Bernardo do Campo,São Bernardo do Campo,2020-12-19,32852,381,1158,2
-São Bernardo do Campo,São Bernardo do Campo,2020-12-20,32852,0,1158,0
-São Bernardo do Campo,São Bernardo do Campo,2020-12-21,32901,49,1158,0
-São Bernardo do Campo,São Bernardo do Campo,2020-12-22,32986,85,1163,5
-São Bernardo do Campo,São Bernardo do Campo,2020-12-23,33102,116,1168,5
-São Bernardo do Campo,São Bernardo do Campo,2020-12-24,33198,96,1179,11
-São Bernardo do Campo,São Bernardo do Campo,2020-12-25,33358,160,1179,0
-São Bernardo do Campo,São Bernardo do Campo,2020-12-26,33376,18,1180,1
-São Bernardo do Campo,São Bernardo do Campo,2020-12-27,33418,42,1180,0
-São Bernardo do Campo,São Bernardo do Campo,2020-12-28,33441,23,1180,0
-São Bernardo do Campo,São Bernardo do Campo,2020-12-29,33570,129,1188,8
-São Bernardo do Campo,São Bernardo do Campo,2020-12-30,33669,99,1191,3
-São Bernardo do Campo,São Bernardo do Campo,2020-12-31,33828,159,1200,9
-São Bernardo do Campo,São Bernardo do Campo,2021-01-01,33892,64,1200,0
-São Bernardo do Campo,São Bernardo do Campo,2021-01-02,33921,29,1200,0
-São Bernardo do Campo,São Bernardo do Campo,2021-01-03,33950,29,1200,0
-São Bernardo do Campo,São Bernardo do Campo,2021-01-04,33992,42,1200,0
-São Bernardo do Campo,São Bernardo do Campo,2021-01-05,34140,148,1203,3
-São Bernardo do Campo,São Bernardo do Campo,2021-01-06,34344,204,1223,20
-São Bernardo do Campo,São Bernardo do Campo,2021-01-07,34455,111,1242,19
-São Bernardo do Campo,São Bernardo do Campo,2021-01-08,34632,177,1265,23
-São Bernardo do Campo,São Bernardo do Campo,2021-01-09,34768,136,1274,9
-São Bernardo do Campo,São Bernardo do Campo,2021-01-10,34876,108,1274,0
-São Bernardo do Campo,São Bernardo do Campo,2021-01-11,34913,37,1274,0
-São Bernardo do Campo,São Bernardo do Campo,2021-01-12,35064,151,1275,1
-São Bernardo do Campo,São Bernardo do Campo,2021-01-13,35225,161,1279,4
-São Bernardo do Campo,São Bernardo do Campo,2021-01-14,35338,113,1280,1
-São Bernardo do Campo,São Bernardo do Campo,2021-01-15,35518,180,1282,2
-São Bernardo do Campo,São Bernardo do Campo,2021-01-16,35752,234,1298,16
-São Bernardo do Campo,São Bernardo do Campo,2021-01-17,35797,45,1298,0
-São Bernardo do Campo,São Bernardo do Campo,2021-01-18,35834,37,1299,1
-São Bernardo do Campo,São Bernardo do Campo,2021-01-19,36095,261,1301,2
-São Bernardo do Campo,São Bernardo do Campo,2021-01-20,36336,241,1304,3
-São Bernardo do Campo,São Bernardo do Campo,2021-01-21,36454,118,1307,3
-São Bernardo do Campo,São Bernardo do Campo,2021-01-22,36563,109,1313,6
-São Bernardo do Campo,São Bernardo do Campo,2021-01-23,36874,311,1344,31
-São Bernardo do Campo,São Bernardo do Campo,2021-01-24,36914,40,1344,0
-São Bernardo do Campo,São Bernardo do Campo,2021-01-25,36948,34,1346,2
-São Bernardo do Campo,São Bernardo do Campo,2021-01-26,37273,325,1360,14
-São Bernardo do Campo,São Bernardo do Campo,2021-01-27,37576,303,1366,6
-São Bernardo do Campo,São Bernardo do Campo,2021-01-28,38007,431,1369,3
-São Bernardo do Campo,São Bernardo do Campo,2021-01-29,38362,355,1372,3
-São Bernardo do Campo,São Bernardo do Campo,2021-01-30,38662,300,1372,0
-São Bernardo do Campo,São Bernardo do Campo,2021-01-31,38718,56,1372,0
-São Bernardo do Campo,São Bernardo do Campo,2021-02-01,38742,24,1373,1
-São Bernardo do Campo,São Bernardo do Campo,2021-02-02,39080,338,1372,-1
-São Bernardo do Campo,São Bernardo do Campo,2021-02-03,39347,267,1373,1
-São Bernardo do Campo,São Bernardo do Campo,2021-02-04,39535,188,1372,-1
-São Bernardo do Campo,São Bernardo do Campo,2021-02-05,39734,199,1376,4
-São Bernardo do Campo,São Bernardo do Campo,2021-02-06,40024,290,1380,4
-São Bernardo do Campo,São Bernardo do Campo,2021-02-07,40050,26,1381,1
-São Bernardo do Campo,São Bernardo do Campo,2021-02-08,40068,18,1381,0
+city,date,cases,daily cases,deaths,daily deaths,daily cases moving average,daily deaths moving average
+São Bernardo do Campo,2020-03-27,0,0,0,0,,
+São Bernardo do Campo,2020-03-28,31,31,0,0,,
+São Bernardo do Campo,2020-03-29,33,2,1,1,,
+São Bernardo do Campo,2020-03-30,33,0,1,0,,
+São Bernardo do Campo,2020-03-31,44,11,1,0,,
+São Bernardo do Campo,2020-04-01,52,8,2,1,,
+São Bernardo do Campo,2020-04-02,59,7,2,0,,
+São Bernardo do Campo,2020-04-03,70,11,4,2,,
+São Bernardo do Campo,2020-04-04,77,7,4,0,,
+São Bernardo do Campo,2020-04-05,81,4,5,1,,
+São Bernardo do Campo,2020-04-06,89,8,5,0,,
+São Bernardo do Campo,2020-04-07,129,40,6,1,,
+São Bernardo do Campo,2020-04-08,147,18,7,1,,
+São Bernardo do Campo,2020-04-09,164,17,7,0,11.714285714285714,0.5
+São Bernardo do Campo,2020-04-10,174,10,9,2,12.428571428571429,0.6428571428571429
+São Bernardo do Campo,2020-04-11,172,-2,9,0,10.071428571428571,0.6428571428571429
+São Bernardo do Campo,2020-04-12,179,7,10,1,10.428571428571429,0.6428571428571429
+São Bernardo do Campo,2020-04-13,185,6,10,0,10.857142857142858,0.6428571428571429
+São Bernardo do Campo,2020-04-14,201,16,11,1,11.214285714285714,0.7142857142857143
+São Bernardo do Campo,2020-04-15,231,30,15,4,12.785714285714286,0.9285714285714286
+São Bernardo do Campo,2020-04-16,255,24,16,1,14.0,1.0
+São Bernardo do Campo,2020-04-17,281,26,17,1,15.071428571428571,0.9285714285714286
+São Bernardo do Campo,2020-04-18,294,13,20,3,15.5,1.1428571428571428
+São Bernardo do Campo,2020-04-19,297,3,20,0,15.428571428571429,1.0714285714285714
+São Bernardo do Campo,2020-04-20,298,1,20,0,14.928571428571429,1.0714285714285714
+São Bernardo do Campo,2020-04-21,310,12,20,0,12.928571428571429,1.0
+São Bernardo do Campo,2020-04-22,339,29,20,0,13.714285714285714,0.9285714285714286
+São Bernardo do Campo,2020-04-23,358,19,25,5,13.857142857142858,1.2857142857142858
+São Bernardo do Campo,2020-04-24,421,63,29,4,17.642857142857142,1.4285714285714286
+São Bernardo do Campo,2020-04-25,463,42,31,2,20.785714285714285,1.5714285714285714
+São Bernardo do Campo,2020-04-26,475,12,31,0,21.142857142857142,1.5
+São Bernardo do Campo,2020-04-27,511,36,35,4,23.285714285714285,1.7857142857142858
+São Bernardo do Campo,2020-04-28,566,55,36,1,26.071428571428573,1.7857142857142858
+São Bernardo do Campo,2020-04-29,616,50,40,4,27.5,1.7857142857142858
+São Bernardo do Campo,2020-04-30,682,66,45,5,30.5,2.0714285714285716
+São Bernardo do Campo,2020-05-01,705,23,45,0,30.285714285714285,2.0
+São Bernardo do Campo,2020-05-02,720,15,45,0,30.428571428571427,1.7857142857142858
+São Bernardo do Campo,2020-05-03,731,11,52,7,31.0,2.2857142857142856
+São Bernardo do Campo,2020-05-04,743,12,52,0,31.785714285714285,2.2857142857142856
+São Bernardo do Campo,2020-05-05,825,82,55,3,36.785714285714285,2.5
+São Bernardo do Campo,2020-05-06,905,80,67,12,40.42857142857143,3.357142857142857
+São Bernardo do Campo,2020-05-07,944,39,74,7,41.857142857142854,3.5
+São Bernardo do Campo,2020-05-08,1017,73,81,7,42.57142857142857,3.7142857142857144
+São Bernardo do Campo,2020-05-09,1080,63,88,7,44.07142857142857,4.071428571428571
+São Bernardo do Campo,2020-05-10,1095,15,92,4,44.285714285714285,4.357142857142857
+São Bernardo do Campo,2020-05-11,1099,4,92,0,42.0,4.071428571428571
+São Bernardo do Campo,2020-05-12,1122,23,97,5,39.714285714285715,4.357142857142857
+São Bernardo do Campo,2020-05-13,1210,88,97,0,42.42857142857143,4.071428571428571
+São Bernardo do Campo,2020-05-14,1321,111,101,4,45.642857142857146,4.0
+São Bernardo do Campo,2020-05-15,1384,63,106,5,48.5,4.357142857142857
+São Bernardo do Campo,2020-05-16,1424,40,108,2,50.285714285714285,4.5
+São Bernardo do Campo,2020-05-17,1446,22,120,12,51.07142857142857,4.857142857142857
+São Bernardo do Campo,2020-05-18,1469,23,120,0,51.857142857142854,4.857142857142857
+São Bernardo do Campo,2020-05-19,1549,80,127,7,51.714285714285715,5.142857142857143
+São Bernardo do Campo,2020-05-20,1674,125,145,18,54.92857142857143,5.571428571428571
+São Bernardo do Campo,2020-05-21,1802,128,152,7,61.285714285714285,5.571428571428571
+São Bernardo do Campo,2020-05-22,1865,63,153,1,60.57142857142857,5.142857142857143
+São Bernardo do Campo,2020-05-23,1935,70,162,9,61.07142857142857,5.285714285714286
+São Bernardo do Campo,2020-05-24,1971,36,182,20,62.57142857142857,6.428571428571429
+São Bernardo do Campo,2020-05-25,1990,19,183,1,63.642857142857146,6.5
+São Bernardo do Campo,2020-05-26,2018,28,189,6,64.0,6.571428571428571
+São Bernardo do Campo,2020-05-27,2100,82,198,9,63.57142857142857,7.214285714285714
+São Bernardo do Campo,2020-05-28,2355,255,203,5,73.85714285714286,7.285714285714286
+São Bernardo do Campo,2020-05-29,2481,126,206,3,78.35714285714286,7.142857142857143
+São Bernardo do Campo,2020-05-30,2590,109,209,3,83.28571428571429,7.214285714285714
+São Bernardo do Campo,2020-05-31,2623,33,212,3,84.07142857142857,6.571428571428571
+São Bernardo do Campo,2020-06-01,2632,9,212,0,83.07142857142857,6.571428571428571
+São Bernardo do Campo,2020-06-02,2817,185,214,2,90.57142857142857,6.214285714285714
+São Bernardo do Campo,2020-06-03,2925,108,225,11,89.35714285714286,5.714285714285714
+São Bernardo do Campo,2020-06-04,3032,107,226,1,87.85714285714286,5.285714285714286
+São Bernardo do Campo,2020-06-05,3285,253,232,6,101.42857142857143,5.642857142857143
+São Bernardo do Campo,2020-06-06,3490,205,233,1,111.07142857142857,5.071428571428571
+São Bernardo do Campo,2020-06-07,3533,43,234,1,111.57142857142857,3.7142857142857144
+São Bernardo do Campo,2020-06-08,3548,15,234,0,111.28571428571429,3.642857142857143
+São Bernardo do Campo,2020-06-09,3770,222,247,13,125.14285714285714,4.142857142857143
+São Bernardo do Campo,2020-06-10,4104,334,253,6,143.14285714285714,3.9285714285714284
+São Bernardo do Campo,2020-06-11,4259,155,257,4,136.0,3.857142857142857
+São Bernardo do Campo,2020-06-12,4395,136,265,8,136.71428571428572,4.214285714285714
+São Bernardo do Campo,2020-06-13,4551,156,276,11,140.07142857142858,4.785714285714286
+São Bernardo do Campo,2020-06-14,4625,74,285,9,143.0,5.214285714285714
+São Bernardo do Campo,2020-06-15,4652,27,286,1,144.28571428571428,5.285714285714286
+São Bernardo do Campo,2020-06-16,4882,230,295,9,147.5,5.785714285714286
+São Bernardo do Campo,2020-06-17,4902,20,309,14,141.21428571428572,6.0
+São Bernardo do Campo,2020-06-18,4921,19,312,3,134.92857142857142,6.142857142857143
+São Bernardo do Campo,2020-06-19,5585,664,318,6,164.28571428571428,6.142857142857143
+São Bernardo do Campo,2020-06-20,5760,175,320,2,162.14285714285714,6.214285714285714
+São Bernardo do Campo,2020-06-21,5847,87,323,3,165.28571428571428,6.357142857142857
+São Bernardo do Campo,2020-06-22,5893,46,324,1,167.5,6.428571428571429
+São Bernardo do Campo,2020-06-23,6144,251,325,1,169.57142857142858,5.571428571428571
+São Bernardo do Campo,2020-06-24,6456,312,329,4,168.0,5.428571428571429
+São Bernardo do Campo,2020-06-25,6775,319,352,23,179.71428571428572,6.785714285714286
+São Bernardo do Campo,2020-06-26,7157,382,355,3,197.28571428571428,6.428571428571429
+São Bernardo do Campo,2020-06-27,7271,114,359,4,194.28571428571428,5.928571428571429
+São Bernardo do Campo,2020-06-28,7376,105,363,4,196.5,5.571428571428571
+São Bernardo do Campo,2020-06-29,7491,115,364,1,202.78571428571428,5.571428571428571
+São Bernardo do Campo,2020-06-30,7747,256,373,9,204.64285714285714,5.571428571428571
+São Bernardo do Campo,2020-07-01,8077,330,387,14,226.78571428571428,5.571428571428571
+São Bernardo do Campo,2020-07-02,8263,186,398,11,238.71428571428572,6.142857142857143
+São Bernardo do Campo,2020-07-03,8559,296,416,18,212.42857142857142,7.0
+São Bernardo do Campo,2020-07-04,8725,166,429,13,211.78571428571428,7.785714285714286
+São Bernardo do Campo,2020-07-05,9069,344,436,7,230.14285714285714,8.071428571428571
+São Bernardo do Campo,2020-07-06,9174,105,436,0,234.35714285714286,8.0
+São Bernardo do Campo,2020-07-07,9637,463,439,3,249.5,8.142857142857142
+São Bernardo do Campo,2020-07-08,9769,132,452,13,236.64285714285714,8.785714285714286
+São Bernardo do Campo,2020-07-09,10005,236,466,14,230.71428571428572,8.142857142857142
+São Bernardo do Campo,2020-07-10,10215,210,475,9,218.42857142857142,8.571428571428571
+São Bernardo do Campo,2020-07-11,10384,169,483,8,222.35714285714286,8.857142857142858
+São Bernardo do Campo,2020-07-12,10549,165,498,15,226.64285714285714,9.642857142857142
+São Bernardo do Campo,2020-07-13,10639,90,500,2,224.85714285714286,9.714285714285714
+São Bernardo do Campo,2020-07-14,10743,104,512,12,214.0,9.928571428571429
+São Bernardo do Campo,2020-07-15,10850,107,523,11,198.07142857142858,9.714285714285714
+São Bernardo do Campo,2020-07-16,11015,165,532,9,196.57142857142858,9.571428571428571
+São Bernardo do Campo,2020-07-17,11088,73,543,11,180.64285714285714,9.071428571428571
+São Bernardo do Campo,2020-07-18,11162,74,551,8,174.07142857142858,8.714285714285714
+São Bernardo do Campo,2020-07-19,11180,18,559,8,150.78571428571428,8.785714285714286
+São Bernardo do Campo,2020-07-20,11183,3,559,0,143.5,8.785714285714286
+São Bernardo do Campo,2020-07-21,11278,95,564,5,117.21428571428571,8.928571428571429
+São Bernardo do Campo,2020-07-22,12353,1075,566,2,184.57142857142858,8.142857142857142
+São Bernardo do Campo,2020-07-23,13389,1036,583,17,241.71428571428572,8.357142857142858
+São Bernardo do Campo,2020-07-24,13581,192,593,10,240.42857142857142,8.428571428571429
+São Bernardo do Campo,2020-07-25,14314,733,594,1,280.7142857142857,7.928571428571429
+São Bernardo do Campo,2020-07-26,14444,130,600,6,278.2142857142857,7.285714285714286
+São Bernardo do Campo,2020-07-27,14460,16,600,0,272.92857142857144,7.142857142857143
+São Bernardo do Campo,2020-07-28,14460,0,600,0,265.5,6.285714285714286
+São Bernardo do Campo,2020-07-29,15159,699,611,11,307.7857142857143,6.285714285714286
+São Bernardo do Campo,2020-07-30,15570,411,619,8,325.35714285714283,6.214285714285714
+São Bernardo do Campo,2020-07-31,16026,456,621,2,352.7142857142857,5.571428571428571
+São Bernardo do Campo,2020-08-01,16515,489,626,5,382.35714285714283,5.357142857142857
+São Bernardo do Campo,2020-08-02,16799,284,629,3,401.35714285714283,5.0
+São Bernardo do Campo,2020-08-03,16849,50,629,0,404.7142857142857,5.0
+São Bernardo do Campo,2020-08-04,17201,352,634,5,423.07142857142856,5.0
+São Bernardo do Campo,2020-08-05,17353,152,649,15,357.14285714285717,5.928571428571429
+São Bernardo do Campo,2020-08-06,17594,241,650,1,300.35714285714283,4.785714285714286
+São Bernardo do Campo,2020-08-07,17773,179,660,10,299.42857142857144,4.785714285714286
+São Bernardo do Campo,2020-08-08,18074,301,660,0,268.57142857142856,4.714285714285714
+São Bernardo do Campo,2020-08-09,18280,206,676,16,274.0,5.428571428571429
+São Bernardo do Campo,2020-08-10,18291,11,676,0,273.64285714285717,5.428571428571429
+São Bernardo do Campo,2020-08-11,18511,220,689,13,289.35714285714283,6.357142857142857
+São Bernardo do Campo,2020-08-12,18855,344,691,2,264.0,5.714285714285714
+São Bernardo do Campo,2020-08-13,19134,279,689,-2,254.57142857142858,5.0
+São Bernardo do Campo,2020-08-14,19356,222,691,2,237.85714285714286,5.0
+São Bernardo do Campo,2020-08-15,19549,193,694,3,216.71428571428572,4.857142857142857
+São Bernardo do Campo,2020-08-16,19601,52,711,17,200.14285714285714,5.857142857142857
+São Bernardo do Campo,2020-08-17,19628,27,711,0,198.5,5.857142857142857
+São Bernardo do Campo,2020-08-18,19919,291,714,3,194.14285714285714,5.714285714285714
+São Bernardo do Campo,2020-08-19,20071,152,718,4,194.14285714285714,4.928571428571429
+São Bernardo do Campo,2020-08-20,20309,238,729,11,193.92857142857142,5.642857142857143
+São Bernardo do Campo,2020-08-21,20359,50,736,7,184.71428571428572,5.428571428571429
+São Bernardo do Campo,2020-08-22,20525,166,738,2,175.07142857142858,5.571428571428571
+São Bernardo do Campo,2020-08-23,20644,119,739,1,168.85714285714286,4.5
+São Bernardo do Campo,2020-08-24,20687,43,739,0,171.14285714285714,4.5
+São Bernardo do Campo,2020-08-25,20869,182,757,18,168.42857142857142,4.857142857142857
+São Bernardo do Campo,2020-08-26,21039,170,756,-1,156.0,4.642857142857143
+São Bernardo do Campo,2020-08-27,21345,306,758,2,157.92857142857142,4.928571428571429
+São Bernardo do Campo,2020-08-28,21615,270,769,11,161.35714285714286,5.571428571428571
+São Bernardo do Campo,2020-08-29,21677,62,776,7,152.0,5.857142857142857
+São Bernardo do Campo,2020-08-30,21709,32,776,0,150.57142857142858,4.642857142857143
+São Bernardo do Campo,2020-08-31,21716,7,776,0,149.14285714285714,4.642857142857143
+São Bernardo do Campo,2020-09-01,21951,235,779,3,145.14285714285714,4.642857142857143
+São Bernardo do Campo,2020-09-02,22321,370,789,10,160.71428571428572,5.071428571428571
+São Bernardo do Campo,2020-09-03,22650,329,794,5,167.21428571428572,4.642857142857143
+São Bernardo do Campo,2020-09-04,22743,93,805,11,170.28571428571428,4.928571428571429
+São Bernardo do Campo,2020-09-05,22859,116,805,0,166.71428571428572,4.785714285714286
+São Bernardo do Campo,2020-09-06,22908,49,807,2,161.71428571428572,4.857142857142857
+São Bernardo do Campo,2020-09-07,22951,43,807,0,161.71428571428572,4.857142857142857
+São Bernardo do Campo,2020-09-08,22964,13,814,7,149.64285714285714,4.071428571428571
+São Bernardo do Campo,2020-09-09,23079,115,824,10,145.71428571428572,4.857142857142857
+São Bernardo do Campo,2020-09-10,23240,161,836,12,135.35714285714286,5.571428571428571
+São Bernardo do Campo,2020-09-11,23331,91,841,5,122.57142857142857,5.142857142857143
+São Bernardo do Campo,2020-09-12,23408,77,843,2,123.64285714285714,4.785714285714286
+São Bernardo do Campo,2020-09-13,23421,13,843,0,122.28571428571429,4.785714285714286
+São Bernardo do Campo,2020-09-14,23425,4,843,0,122.07142857142857,4.785714285714286
+São Bernardo do Campo,2020-09-15,23564,139,852,9,115.21428571428571,5.214285714285714
+São Bernardo do Campo,2020-09-16,23701,137,853,1,98.57142857142857,4.571428571428571
+São Bernardo do Campo,2020-09-17,23795,94,855,2,81.78571428571429,4.357142857142857
+São Bernardo do Campo,2020-09-18,23868,73,861,6,80.35714285714286,4.0
+São Bernardo do Campo,2020-09-19,23967,99,869,8,79.14285714285714,4.571428571428571
+São Bernardo do Campo,2020-09-20,24015,48,870,1,79.07142857142857,4.5
+São Bernardo do Campo,2020-09-21,24045,30,870,0,78.14285714285714,4.5
+São Bernardo do Campo,2020-09-22,24179,134,886,16,86.78571428571429,5.142857142857143
+São Bernardo do Campo,2020-09-23,24228,49,893,7,82.07142857142857,4.928571428571429
+São Bernardo do Campo,2020-09-24,24348,120,897,4,79.14285714285714,4.357142857142857
+São Bernardo do Campo,2020-09-25,24463,115,899,2,80.85714285714286,4.142857142857143
+São Bernardo do Campo,2020-09-26,24541,78,904,5,80.92857142857143,4.357142857142857
+São Bernardo do Campo,2020-09-27,24542,1,904,0,80.07142857142857,4.357142857142857
+São Bernardo do Campo,2020-09-28,24552,10,904,0,80.5,4.357142857142857
+São Bernardo do Campo,2020-09-29,24682,130,908,4,79.85714285714286,4.0
+São Bernardo do Campo,2020-09-30,24765,83,912,4,76.0,4.214285714285714
+São Bernardo do Campo,2020-10-01,24799,34,916,4,71.71428571428571,4.357142857142857
+São Bernardo do Campo,2020-10-02,24897,98,923,7,73.5,4.428571428571429
+São Bernardo do Campo,2020-10-03,24997,100,925,2,73.57142857142857,4.0
+São Bernardo do Campo,2020-10-04,25009,12,929,4,71.0,4.214285714285714
+São Bernardo do Campo,2020-10-05,25015,6,929,0,69.28571428571429,4.214285714285714
+São Bernardo do Campo,2020-10-06,25063,48,933,4,63.142857142857146,3.357142857142857
+São Bernardo do Campo,2020-10-07,25120,57,938,5,63.714285714285715,3.2142857142857144
+São Bernardo do Campo,2020-10-08,25173,53,937,-1,58.92857142857143,2.857142857142857
+São Bernardo do Campo,2020-10-09,25233,60,939,2,55.0,2.857142857142857
+São Bernardo do Campo,2020-10-10,25374,141,943,4,59.5,2.7857142857142856
+São Bernardo do Campo,2020-10-11,25468,94,943,0,66.14285714285714,2.7857142857142856
+São Bernardo do Campo,2020-10-12,25481,13,943,0,66.35714285714286,2.7857142857142856
+São Bernardo do Campo,2020-10-13,25486,5,943,0,57.42857142857143,2.5
+São Bernardo do Campo,2020-10-14,25557,71,946,3,56.57142857142857,2.4285714285714284
+São Bernardo do Campo,2020-10-15,25754,197,949,3,68.21428571428571,2.357142857142857
+São Bernardo do Campo,2020-10-16,25836,82,951,2,67.07142857142857,2.0
+São Bernardo do Campo,2020-10-17,25904,68,955,4,64.78571428571429,2.142857142857143
+São Bernardo do Campo,2020-10-18,25910,6,955,0,64.35714285714286,1.8571428571428572
+São Bernardo do Campo,2020-10-19,25920,10,955,0,64.64285714285714,1.8571428571428572
+São Bernardo do Campo,2020-10-20,25985,65,957,2,65.85714285714286,1.7142857142857142
+São Bernardo do Campo,2020-10-21,26058,73,961,4,67.0,1.6428571428571428
+São Bernardo do Campo,2020-10-22,26124,66,969,8,67.92857142857143,2.2857142857142856
+São Bernardo do Campo,2020-10-23,26257,133,973,4,73.14285714285714,2.4285714285714284
+São Bernardo do Campo,2020-10-24,26353,96,974,1,69.92857142857143,2.2142857142857144
+São Bernardo do Campo,2020-10-25,26392,39,974,0,66.0,2.2142857142857144
+São Bernardo do Campo,2020-10-26,26416,24,974,0,66.78571428571429,2.2142857142857144
+São Bernardo do Campo,2020-10-27,26529,113,975,1,74.5,2.2857142857142856
+São Bernardo do Campo,2020-10-28,26610,81,976,1,75.21428571428571,2.142857142857143
+São Bernardo do Campo,2020-10-29,26696,86,977,1,67.28571428571429,2.0
+São Bernardo do Campo,2020-10-30,26781,85,980,3,67.5,2.0714285714285716
+São Bernardo do Campo,2020-10-31,26846,65,982,2,67.28571428571429,1.9285714285714286
+São Bernardo do Campo,2020-11-01,26861,15,983,1,67.92857142857143,2.0
+São Bernardo do Campo,2020-11-02,26862,1,983,0,67.28571428571429,2.0
+São Bernardo do Campo,2020-11-03,26868,6,983,0,63.07142857142857,1.8571428571428572
+São Bernardo do Campo,2020-11-04,26936,68,986,3,62.714285714285715,1.7857142857142858
+São Bernardo do Campo,2020-11-05,27005,69,991,5,62.92857142857143,1.5714285714285714
+São Bernardo do Campo,2020-11-06,27005,0,991,0,53.42857142857143,1.2857142857142858
+São Bernardo do Campo,2020-11-07,27005,0,991,0,46.57142857142857,1.2142857142857142
+São Bernardo do Campo,2020-11-08,27005,0,991,0,43.785714285714285,1.2142857142857142
+São Bernardo do Campo,2020-11-09,27005,0,991,0,42.07142857142857,1.2142857142857142
+São Bernardo do Campo,2020-11-10,27005,0,991,0,34.0,1.1428571428571428
+São Bernardo do Campo,2020-11-11,27402,397,994,3,56.57142857142857,1.2857142857142858
+São Bernardo do Campo,2020-11-12,27564,162,998,4,62.0,1.5
+São Bernardo do Campo,2020-11-13,27683,119,998,0,64.42857142857143,1.2857142857142858
+São Bernardo do Campo,2020-11-14,27795,112,998,0,67.78571428571429,1.1428571428571428
+São Bernardo do Campo,2020-11-15,27810,15,998,0,67.78571428571429,1.0714285714285714
+São Bernardo do Campo,2020-11-16,27829,19,998,0,69.07142857142857,1.0714285714285714
+São Bernardo do Campo,2020-11-17,28018,189,1002,4,82.14285714285714,1.3571428571428572
+São Bernardo do Campo,2020-11-18,28164,146,1008,6,87.71428571428571,1.5714285714285714
+São Bernardo do Campo,2020-11-19,28281,117,1014,6,91.14285714285714,1.6428571428571428
+São Bernardo do Campo,2020-11-20,28510,229,1019,5,107.5,2.0
+São Bernardo do Campo,2020-11-21,28613,103,1019,0,114.85714285714286,2.0
+São Bernardo do Campo,2020-11-22,28707,94,1019,0,121.57142857142857,2.0
+São Bernardo do Campo,2020-11-23,28726,19,1019,0,122.92857142857143,2.0
+São Bernardo do Campo,2020-11-24,28832,106,1021,2,130.5,2.142857142857143
+São Bernardo do Campo,2020-11-25,29007,175,1024,3,114.64285714285714,2.142857142857143
+São Bernardo do Campo,2020-11-26,29121,114,1028,4,111.21428571428571,2.142857142857143
+São Bernardo do Campo,2020-11-27,29207,86,1029,1,108.85714285714286,2.2142857142857144
+São Bernardo do Campo,2020-11-28,29316,109,1031,2,108.64285714285714,2.357142857142857
+São Bernardo do Campo,2020-11-29,29373,57,1031,0,111.64285714285714,2.357142857142857
+São Bernardo do Campo,2020-11-30,29388,15,1031,0,111.35714285714286,2.357142857142857
+São Bernardo do Campo,2020-12-01,29567,179,1038,7,110.64285714285714,2.5714285714285716
+São Bernardo do Campo,2020-12-02,29777,210,1054,16,115.21428571428571,3.2857142857142856
+São Bernardo do Campo,2020-12-03,29921,144,1065,11,117.14285714285714,3.642857142857143
+São Bernardo do Campo,2020-12-04,30126,205,1083,18,115.42857142857143,4.571428571428571
+São Bernardo do Campo,2020-12-05,30434,308,1102,19,130.07142857142858,5.928571428571429
+São Bernardo do Campo,2020-12-06,30475,41,1109,7,126.28571428571429,6.428571428571429
+São Bernardo do Campo,2020-12-07,30491,16,1109,0,126.07142857142857,6.428571428571429
+São Bernardo do Campo,2020-12-08,30688,197,1118,9,132.57142857142858,6.928571428571429
+São Bernardo do Campo,2020-12-09,30904,216,1118,0,135.5,6.714285714285714
+São Bernardo do Campo,2020-12-10,31197,293,1124,6,148.28571428571428,6.857142857142857
+São Bernardo do Campo,2020-12-11,31428,231,1127,3,158.64285714285714,7.0
+São Bernardo do Campo,2020-12-12,31642,214,1130,3,166.14285714285714,7.071428571428571
+São Bernardo do Campo,2020-12-13,31654,12,1130,0,162.92857142857142,7.071428571428571
+São Bernardo do Campo,2020-12-14,31738,84,1130,0,167.85714285714286,7.071428571428571
+São Bernardo do Campo,2020-12-15,31893,155,1144,14,166.14285714285714,7.571428571428571
+São Bernardo do Campo,2020-12-16,31893,0,1144,0,151.14285714285714,6.428571428571429
+São Bernardo do Campo,2020-12-17,32341,448,1151,7,172.85714285714286,6.142857142857143
+São Bernardo do Campo,2020-12-18,32471,130,1156,5,167.5,5.214285714285714
+São Bernardo do Campo,2020-12-19,32852,381,1158,2,172.71428571428572,4.0
+São Bernardo do Campo,2020-12-20,32852,0,1158,0,169.78571428571428,3.5
+São Bernardo do Campo,2020-12-21,32901,49,1158,0,172.14285714285714,3.5
+São Bernardo do Campo,2020-12-22,32986,85,1163,5,164.14285714285714,3.2142857142857144
+São Bernardo do Campo,2020-12-23,33102,116,1168,5,157.0,3.5714285714285716
+São Bernardo do Campo,2020-12-24,33198,96,1179,11,142.92857142857142,3.9285714285714284
+São Bernardo do Campo,2020-12-25,33358,160,1179,0,137.85714285714286,3.7142857142857144
+São Bernardo do Campo,2020-12-26,33376,18,1180,1,123.85714285714286,3.5714285714285716
+São Bernardo do Campo,2020-12-27,33418,42,1180,0,126.0,3.5714285714285716
+São Bernardo do Campo,2020-12-28,33441,23,1180,0,121.64285714285714,3.5714285714285716
+São Bernardo do Campo,2020-12-29,33570,129,1188,8,119.78571428571429,3.142857142857143
+São Bernardo do Campo,2020-12-30,33669,99,1191,3,126.85714285714286,3.357142857142857
+São Bernardo do Campo,2020-12-31,33828,159,1200,9,106.21428571428571,3.5
+São Bernardo do Campo,2021-01-01,33892,64,1200,0,101.5,3.142857142857143
+São Bernardo do Campo,2021-01-02,33921,29,1200,0,76.35714285714286,3.0
+São Bernardo do Campo,2021-01-03,33950,29,1200,0,78.42857142857143,3.0
+São Bernardo do Campo,2021-01-04,33992,42,1200,0,77.92857142857143,3.0
+São Bernardo do Campo,2021-01-05,34140,148,1203,3,82.42857142857143,2.857142857142857
+São Bernardo do Campo,2021-01-06,34344,204,1223,20,88.71428571428571,3.9285714285714284
+São Bernardo do Campo,2021-01-07,34455,111,1242,19,89.78571428571429,4.5
+São Bernardo do Campo,2021-01-08,34632,177,1265,23,91.0,6.142857142857143
+São Bernardo do Campo,2021-01-09,34768,136,1274,9,99.42857142857143,6.714285714285714
+São Bernardo do Campo,2021-01-10,34876,108,1274,0,104.14285714285714,6.714285714285714
+São Bernardo do Campo,2021-01-11,34913,37,1274,0,105.14285714285714,6.714285714285714
+São Bernardo do Campo,2021-01-12,35064,151,1275,1,106.71428571428571,6.214285714285714
+São Bernardo do Campo,2021-01-13,35225,161,1279,4,111.14285714285714,6.285714285714286
+São Bernardo do Campo,2021-01-14,35338,113,1280,1,107.85714285714286,5.714285714285714
+São Bernardo do Campo,2021-01-15,35518,180,1282,2,116.14285714285714,5.857142857142857
+São Bernardo do Campo,2021-01-16,35752,234,1298,16,130.78571428571428,7.0
+São Bernardo do Campo,2021-01-17,35797,45,1298,0,131.92857142857142,7.0
+São Bernardo do Campo,2021-01-18,35834,37,1299,1,131.57142857142858,7.071428571428571
+São Bernardo do Campo,2021-01-19,36095,261,1301,2,139.64285714285714,7.0
+São Bernardo do Campo,2021-01-20,36336,241,1304,3,142.28571428571428,5.785714285714286
+São Bernardo do Campo,2021-01-21,36454,118,1307,3,142.78571428571428,4.642857142857143
+São Bernardo do Campo,2021-01-22,36563,109,1313,6,137.92857142857142,3.4285714285714284
+São Bernardo do Campo,2021-01-23,36874,311,1344,31,150.42857142857142,5.0
+São Bernardo do Campo,2021-01-24,36914,40,1344,0,145.57142857142858,5.0
+São Bernardo do Campo,2021-01-25,36948,34,1346,2,145.35714285714286,5.142857142857143
+São Bernardo do Campo,2021-01-26,37273,325,1360,14,157.78571428571428,6.071428571428571
+São Bernardo do Campo,2021-01-27,37576,303,1366,6,167.92857142857142,6.214285714285714
+São Bernardo do Campo,2021-01-28,38007,431,1369,3,190.64285714285714,6.357142857142857
+São Bernardo do Campo,2021-01-29,38362,355,1372,3,203.14285714285714,6.428571428571429
+São Bernardo do Campo,2021-01-30,38662,300,1372,0,207.85714285714286,5.285714285714286
+São Bernardo do Campo,2021-01-31,38718,56,1372,0,208.64285714285714,5.285714285714286
+São Bernardo do Campo,2021-02-01,38742,24,1373,1,207.71428571428572,5.285714285714286
+São Bernardo do Campo,2021-02-02,39080,338,1372,-1,213.21428571428572,5.071428571428571
+São Bernardo do Campo,2021-02-03,39347,267,1373,1,215.07142857142858,4.928571428571429
+São Bernardo do Campo,2021-02-04,39535,188,1372,-1,220.07142857142858,4.642857142857143
+São Bernardo do Campo,2021-02-05,39734,199,1376,4,226.5,4.5
+São Bernardo do Campo,2021-02-06,40024,290,1380,4,225.0,2.5714285714285716
+São Bernardo do Campo,2021-02-07,40050,26,1381,1,224.0,2.642857142857143
+São Bernardo do Campo,2021-02-08,40068,18,1381,0,222.85714285714286,2.5
