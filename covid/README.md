@@ -26,7 +26,7 @@ Esse site foi feito com o intuito de analisar a propagação do vírus em nossas
 - [ ] Colocar os estados
 - [x] Colocar a nação
 - [ ] Colocar todas as cidades
-- [ ] Colocar uma forma de pesquisar sobre a sua respectiva cidade
+- [x] Colocar uma forma de pesquisar sobre a sua respectiva cidade
 - [ ] Colocar informação de quando o site foi atualizado pela última vez
 
 
