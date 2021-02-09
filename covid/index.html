@@ -17,6 +17,7 @@
       integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2"
       crossorigin="anonymous"
     />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
     <script
       src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
@@ -88,25 +89,23 @@
 
 
             <div class="dropdown col-12">
-              <button type="button" id="locationButton" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
-                  Locais Disponíveis
-              </button>
-              <div class="dropdown-menu">
-                <h5 class="dropdown-header">Cidades</h5>
-                <a class="dropdown-item" onclick="myFunction(this, 'Botucatu')">Botucatu</a>
-                <a class="dropdown-item" onclick="myFunction(this, 'Machado')">Machado</a>
-                <a class="dropdown-item" onclick="myFunction(this, 'São Carlos')">São Carlos</a>
-                <a class="dropdown-item" onclick="myFunction(this, 'Sorocaba')">Sorocaba</a>
-                <h5 class="dropdown-header">Estados</h5>
-                <a class="dropdown-item" disabled onclick="myFunction(this, 'SP')">São Paulo </a>
-                <a class="dropdown-item" disabled  onclick="myFunction(this, 'MG')">Minhas Gerais</a>
-       
-                <h5 class="dropdown-header">Nação</h5>
-                <a class="dropdown-item" disabled onclick="myFunction(this, 'Brasil')">Brasil</a>
+              <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Locais Disponíveis
+                <span class="caret"></span></button>
+                <ul class="dropdown-menu">
+                  <input class="form-control" id="myInput" type="text" placeholder="Search..">
+                  <li><a class="dropdown-item" onclick="myFunction(this, 'Botucatu')">Botucatu</a></li>
+                  <li><a class="dropdown-item" onclick="myFunction(this, 'Machado')">Machado</a></li>
+                  <li><a class="dropdown-item" onclick="myFunction(this, 'São Carlos')">São Carlos</a></li>
+                  <li><a class="dropdown-item" onclick="myFunction(this, 'Sorocaba')">Sorocaba</a></li>
+                  <li><a class="dropdown-item" onclick="myFunction(this, 'SP')">São Paulo</a></li>
+                  <li><a class="dropdown-item" onclick="myFunction(this, 'MG')">Minhas Gerais</a></li>
+                  <li><a class="dropdown-item" onclick="myFunction(this, 'Botucatu')">Brasil</a></li>
+                </ul>
               </div>
             </div>
           </div>
  
+       
         </div>
       </section>
 
@@ -215,5 +214,17 @@
             <center>Footer</center>
           </h5>
       </div>
+
+
+      <script>
+        $(document).ready(function(){
+          $("#myInput").on("keyup", function() {
+            var value = $(this).val().toLowerCase();
+            $(".dropdown-menu li").filter(function() {
+              $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+            });
+          });
+        });
+        </script>
   </body>
 </html>

@@ -19,12 +19,10 @@
 }
 
 
-
-
-
-.button.btn.btn-primary.dropdown-toggle{
-  margin-bottom: 3rem;
-  }
+.dropdown{
+  margin-top: 2rem;
+  border-radius: 20%;
+}
 
 #locationButton{
   margin-top: 1.5rem;
