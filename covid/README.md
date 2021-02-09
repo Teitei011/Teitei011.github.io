@@ -10,8 +10,8 @@ Esse site foi feito com o intuito de analisar a propagação do vírus em nossas
 ## Processamento de Dados
 
 - [ ] Mostrar o valor de R
-- [ ] Dados duplicados para os estados
-- [ ] Informações erroneas sobre os dados da Covid no database Brasil 
+- [x] Dados duplicados para os estados
+- [x] Informações erroneas sobre os dados da Covid no database Brasil 
 
 
 ## Site

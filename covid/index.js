@@ -106,14 +106,14 @@ async function getData(locationName) {
   table.forEach((row) => {
     const cols = row.split(",");
 
-    date.push(cols[0]);
-    cases.push(cols[1]);
-    deaths.push(cols[3]);
+    date.push(cols[1]);
+    cases.push(cols[2]);
+    deaths.push(cols[4]);
 
-    daily_cases.push(cols[2]);
-    daily_deaths.push(cols[4]);
-    cases_moving_average.push(cols[5]);
-    deaths_moving_average.push(cols[6]);
+    daily_cases.push(cols[3]);
+    daily_deaths.push(cols[5]);
+    cases_moving_average.push(cols[6]);
+    deaths_moving_average.push(cols[7]);
   });
 
   return {
