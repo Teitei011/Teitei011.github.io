@@ -4,21 +4,25 @@ let covidGraphs = [];
 
 //console.log(covidGraphs);
 
-
-async function createAllCitiesOptions(){
+async function createAllCitiesOptions() {
   const response = await fetch("all_cities.txt");
   const data = await response.text();
   const table = data.split("\n");
 
-  console.log("Passei por aqui!")
+  console.log("Passei por aqui!");
   table.forEach(function (row) {
-      document.body.appendChild(`<li><a class="dropdown-item" onclick="myFunction(this, '` + row + `')">` + row + `</a></li>`);
-    });
+    let dropdown = document.createElement("li");   // Create a <li> element
+    dropdown.innerHTML = `<a class="dropdown-item" onclick="myFunction(this, '` +
+    row +
+    `')">` +
+    row +
+    `</a>`;                   // Insert text
+    document.getElementById("myInput").appendChild(dropdown);
+  });
 }
 
-
-function removeGraphs(){
-  for (let i = 0; i < 6; i++){
+function removeGraphs() {
+  for (let i = 0; i < 6; i++) {
     covidGraphs[i].destroy();
   }
   covidGraphs = [];
@@ -30,7 +34,6 @@ function myFunction(elmnt, answer) {
   console.log("Changing to " + answer);
   //console.log(covidGraphs);
 }
-
 
 async function setup(locationName) {
   const covidCases = await getData(locationName);
@@ -76,30 +79,34 @@ async function setup(locationName) {
     covidCases.deaths_moving_average
   );
 
-  document.getElementById("casos").innerHTML = covidCases.cases[covidCases.cases.length -2];
-  document.getElementById("mortes").innerHTML = covidCases.deaths[covidCases.deaths.length -2];
-  document.getElementById("Titulo").innerHTML =  "<h1>" + locationName +"</h1>";
+  document.getElementById("casos").innerHTML =
+    covidCases.cases[covidCases.cases.length - 2];
+  document.getElementById("mortes").innerHTML =
+    covidCases.deaths[covidCases.deaths.length - 2];
+  document.getElementById("Titulo").innerHTML = "<h1>" + locationName + "</h1>";
 }
 
 async function graphIt(chartId, label, date, data_covid) {
   const ctx = document.getElementById(chartId).getContext("2d");
-  covidGraphs.push(new Chart(ctx, {
-    type: "line",
-    data: {
-      labels: date,
-      datasets: [
-        {
-          label: label,
-          data: data_covid,
-          fill: true,
-          borderColor: "rgba(0, 125, 255, 1)",
-          backgroundColor: "rgba(0, 0, 255, 0.5)",
-          borderWidth: 1,
-        },
-      ],
-    },
-    options: {},
-  }));
+  covidGraphs.push(
+    new Chart(ctx, {
+      type: "line",
+      data: {
+        labels: date,
+        datasets: [
+          {
+            label: label,
+            data: data_covid,
+            fill: true,
+            borderColor: "rgba(0, 125, 255, 1)",
+            backgroundColor: "rgba(0, 0, 255, 0.5)",
+            borderWidth: 1,
+          },
+        ],
+      },
+      options: {},
+    })
+  );
 }
 
 async function getData(locationName) {
