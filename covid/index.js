@@ -5,6 +5,20 @@ let covidGraphs = [];
 //console.log(covidGraphs);
 
 
+async function createAllCitiesOptions(){
+  const data = await fetch("all_cities.txt");
+  const table = data.split("\n");
+
+
+  table.forEach((row) => {
+    buffer = 
+    document.body.appendChild(h1);
+  });
+
+  
+}
+
+
 function removeGraphs(){
   for (let i = 0; i < 6; i++){
     covidGraphs[i].destroy();
@@ -91,7 +105,7 @@ async function graphIt(chartId, label, date, data_covid) {
 }
 
 async function getData(locationName) {
-  const response = await fetch(locationName + ".csv");
+  const response = await fetch("brazil/" + locationName + ".csv");
   const data = await response.text();
 
   const date = [];
@@ -106,14 +120,14 @@ async function getData(locationName) {
   table.forEach((row) => {
     const cols = row.split(",");
 
-    date.push(cols[1]);
-    cases.push(cols[2]);
-    deaths.push(cols[4]);
+    date.push(cols[2]);
+    cases.push(cols[3]);
+    deaths.push(cols[5]);
 
-    daily_cases.push(cols[3]);
-    daily_deaths.push(cols[5]);
-    cases_moving_average.push(cols[6]);
-    deaths_moving_average.push(cols[7]);
+    daily_cases.push(cols[4]);
+    daily_deaths.push(cols[6]);
+    cases_moving_average.push(cols[7]);
+    deaths_moving_average.push(cols[8]);
   });
 
   return {
