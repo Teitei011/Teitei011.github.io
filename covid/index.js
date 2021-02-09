@@ -11,11 +11,8 @@ async function createAllCitiesOptions(){
 
 
   table.forEach((row) => {
-    buffer = 
-    document.body.appendChild(h1);
+    document.body.appendChild(<li><a class="dropdown-item" onclick="myFunction(this, 'Botucatu')">row</a></li>)
   });
-
-  
 }
 
 
@@ -120,14 +117,14 @@ async function getData(locationName) {
   table.forEach((row) => {
     const cols = row.split(",");
 
-    date.push(cols[2]);
-    cases.push(cols[3]);
-    deaths.push(cols[5]);
+    date.push(cols[1]);
+    cases.push(cols[2]);
+    deaths.push(cols[4]);
 
-    daily_cases.push(cols[4]);
-    daily_deaths.push(cols[6]);
-    cases_moving_average.push(cols[7]);
-    deaths_moving_average.push(cols[8]);
+    daily_cases.push(cols[3]);
+    daily_deaths.push(cols[5]);
+    cases_moving_average.push(cols[6]);
+    deaths_moving_average.push(cols[7]);
   });
 
   return {
