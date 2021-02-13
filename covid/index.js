@@ -1,25 +1,10 @@
+
 setup("Botucatu");
-createAllCitiesOptions();
 let covidGraphs = [];
 
 //console.log(covidGraphs);
 
-async function createAllCitiesOptions() {
-  const response = await fetch("all_cities.txt");
-  const data = await response.text();
-  const table = data.split("\n");
 
-  console.log("Passei por aqui!");
-  table.forEach(function (row) {
-    let dropdown = document.createElement("li");   // Create a <li> element
-    dropdown.innerHTML = `<a class="dropdown-item" onclick="myFunction(this, '` +
-    row +
-    `')">` +
-    row +
-    `</a>`;                   // Insert text
-    document.getElementById("myInput").appendChild(dropdown);
-  });
-}
 
 function removeGraphs() {
   for (let i = 0; i < 6; i++) {
@@ -79,10 +64,8 @@ async function setup(locationName) {
     covidCases.deaths_moving_average
   );
 
-  document.getElementById("casos").innerHTML =
-    covidCases.cases[covidCases.cases.length - 2];
-  document.getElementById("mortes").innerHTML =
-    covidCases.deaths[covidCases.deaths.length - 2];
+  document.getElementById("casos").innerHTML =  covidCases.cases[covidCases.cases.length - 2];
+  document.getElementById("mortes").innerHTML = covidCases.deaths[covidCases.deaths.length - 2];
   document.getElementById("Titulo").innerHTML = "<h1>" + locationName + "</h1>";
 }
 
