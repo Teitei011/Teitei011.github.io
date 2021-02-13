@@ -42,13 +42,11 @@
                 Esse site tem a intenção de informar as pessoas sobre a Covid-19 em suas respectivas cidades.
               </p>
               <p class="text-muted">
-                Obs1: Sei que está incompleto e faltam cidades e estados 
+                Obs1: Sei que está incompleto: Faltam os estados e a nação 
               </p><p class="text-muted">
-                Obs2: Não sou especialista na área, só coloquei na internet algo que uso nessa infindável quarentena
+                Obs2: Não sou especialista na área. Só coloquei na internet algo que uso nessa infindável quarentena
             </p>
-                <p class="text-muted">
-                Obs3: Sei que o site está feio, vou melhorá-lo
-              </p>
+>
 
             </div>
             <div class="col-sm-4 offset-md-1 py-4">
@@ -87,15 +85,17 @@
               <div id= "Titulo" class="card-body"><h1>CoronaBrasil</h1></div>
             </div>
 
-
             <div class="dropdown col-12">
-              <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Locais Disponíveis
-                <span class="caret"></span></button>
+              <div class="btn-group">
+                <button type="button" id="SuaCidade" class="btn btn-primary">Selecionar Local</button>
+                <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></button>
+
                 <ul class="dropdown-menu" id="dropdown-items">
                   <input class="form-control" id="myInput" type="text" placeholder="Search..">
                 </ul>
-              </div>
             </div>
+          </div>              
+
           </div>
  
        
@@ -116,17 +116,36 @@
 
             <div class="col-md-6">
                  <center>
-                  <div id="redondo" class="card text-white bg-dark " style="max-width: 100%">
+                  <div  class="card text-white bg-dark " style="max-width: 100%">
                     <div class="card-body">
-                      <h5 class="card-title">Número de mortos</h5>
+                      <h5 class="card-title">Número de mortes</h5>
                       <p id="mortes" class="card-text text-white">0</p>
                     </div>
                   </div>
                   </center>
               </div>
 
-        
+             <div class="col-md-6">
+              <center>
+               <div  class="card text-white bg-warning " style="max-width: 100%">
+                 <div class="card-body">
+                   <h5 class="card-title">Variação da média móvel de casos: </h5>
+                   <p id="variacao_casos" class="card-text text-white">0</p>
+                 </div>
+               </div>
+               </center>
+           </div>
 
+           <div class="col-md-6">
+            <center>
+             <div  class="card text-white bg-warning " style="max-width: 100%">
+               <div class="card-body">
+                 <h5 class="card-title">Variação da média móvel de mortes: </h5>
+                 <p id="variacao_mortes" class="card-text text-white">0</p>
+               </div>
+             </div>
+             </center>
+         </div>
 
             <div class="col-md-6">
               <div class="card mb-4 shadow-sm">
@@ -197,6 +216,9 @@
                 <div class="card-body"></div>
               </div>
             </div>
+
+
+            </div>
           </div>
         </div>
       </div>
@@ -204,7 +226,7 @@
 
     <footer class="footer" role="contentinfo">
           <h5>
-            <center>Footer</center>
+            <center>Dados atualizados no dia: 12/02/2021</center>
           </h5>
       </div>
 
@@ -221,7 +243,7 @@
         </script>
 
         <script>
-            const lista_cidades = ["Abadia de Goiás",
+        const lista_cidades = ["Abadia de Goiás",
   "Abadia dos Dourados",
   "Abadiânia",
   "Abaetetuba",
