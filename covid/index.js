@@ -80,8 +80,10 @@ function setupBoxWithData(covidCases, locationName){
   document.getElementById("Titulo").innerHTML = "<h1>" + locationName + "</h1>";
 
   let variacao_casos =  -100*(1 - covidCases.cases_moving_average[covidCases.cases_moving_average.length - 2] / covidCases.cases_moving_average[covidCases.cases_moving_average.length - 16]);
-  let variacao_mortes = -100*(1 - covidCases.deaths_moving_average[covidCases.deaths_moving_average.length - 2] / covidCases.deaths_moving_average[covidCases.deaths_moving_average.length - 16]);
+  let variacao_mortes =  -100*(1 - covidCases.deaths_moving_average[covidCases.deaths_moving_average.length - 2] / covidCases.deaths_moving_average[covidCases.deaths_moving_average.length - 16]);
   
+  console.log(variacao_mortes);
+
   if(variacao_casos > 0){
     variacao_casos = "+" + parseFloat(variacao_casos).toFixed(2);
   } else{
