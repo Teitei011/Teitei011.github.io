@@ -88,6 +88,11 @@
             </div>
 
             <div class="container col-12">
+              <option selected> 
+                <h2>
+                  Escolha a cidade
+              </h2>
+              </option>
               <select class="js-example-basic-single btn btn-primary" id="dropdown-items" name="city">
               </select>
             </div>
@@ -101,7 +106,7 @@
             <div class="col-md-6"><center>
               <div class="card text-white bg-danger mb-3" style="max-width: 100%;">
                 <div class="card-body">
-                  <h5 class="card-title"> Número de casos</h5>
+                  <h5 class="card-title"> Total de casos: </h5>
                   <p id="casos" class="card-text text-white">0</p>
                 </div>
               </div>
@@ -109,18 +114,41 @@
 
             <div class="col-md-6">
                  <center>
-                  <div  class="card text-white bg-dark " style="max-width: 100%">
+                  <div  class="card text-white bg-dark" style="max-width: 100%">
                     <div class="card-body">
-                      <h5 class="card-title">Número de mortes</h5>
+                      <h5 class="card-title">Total de mortos:</h5>
                       <p id="mortes" class="card-text text-white">0</p>
                     </div>
                   </div>
                   </center>
               </div>
 
+
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6"><center>
+                    <div class="card text-white" id="orange-card-text" style="max-width: 100%;">
+                      <div class="card-body">
+                        <h5 class="card-title"> Casos da última semana: </h5>
+                        <p id="novos_casos" class="card-text text-white">0</p>
+                      </div>
+                    </div>
+                  </div>
+      
+                  <div class="col-md-6">
+                       <center>
+                        <div  class="card text-white" id="orange-card-text"style="max-width: 100%">
+                          <div class="card-body">
+                            <h5 class="card-title"> Mortes da última semana: </h5>
+                            <p id="novas_mortes" class="card-text text-white">0</p>
+                          </div>
+                        </div>
+                        </center>
+                    </div>
+
              <div class="col-md-6">
               <center>
-               <div  class="card text-white bg-warning " style="max-width: 100%">
+               <div  class="card text-white" id="variacao_style" style="max-width: 100%">
                  <div class="card-body">
                    <h5 class="card-title">Variação da média móvel de casos: </h5>
                    <p id="variacao_casos" class="card-text text-white">0</p>
@@ -131,7 +159,7 @@
 
            <div class="col-md-6">
             <center>
-             <div  class="card text-white bg-warning " style="max-width: 100%">
+             <div  class="card text-white" id="variacao_style" style="max-width: 100%">
                <div class="card-body">
                  <h5 class="card-title">Variação da média móvel de mortes: </h5>
                  <p id="variacao_mortes" class="card-text text-white">0</p>
@@ -5547,7 +5575,6 @@
 
   $(document).on('change', 'select', function() {
     updateGraphs($(this).val());
-    console.log($(this).val()); // the selected options’s value
 });
 
 

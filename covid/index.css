@@ -13,6 +13,17 @@
 }
 
 
+#orange-card-text{
+  background-color: rgb(255, 140, 25);
+  margin-bottom: 1.5rem;
+}
+
+#variacao_style{
+  background-color: rgb(255, 166, 77);
+  margin-bottom: 1.5rem;
+}
+
+
 .jumbotron {
     padding: 2rem 1rem;
     margin-bottom: 0%;

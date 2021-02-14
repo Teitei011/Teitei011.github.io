@@ -1,5 +1,5 @@
 
-setup("Brasil");
+setup("Botucatu");
 let covidGraphs = [];
 
 //console.log(covidGraphs);
@@ -68,6 +68,9 @@ async function setup(locationName) {
     covidCases.deaths_moving_average
   );
 
+
+    console.log(covidCases);
+
   setupBoxWithData(covidCases, locationName);
 }
 
@@ -94,7 +97,12 @@ function setupBoxWithData(covidCases, locationName){
 
   document.getElementById("variacao_casos").innerHTML =  variacao_casos + "%";
   document.getElementById("variacao_mortes").innerHTML =  variacao_mortes + "%";
+
+  document.getElementById("novos_casos").innerHTML = covidCases.sum_of_daily_cases_week[covidCases.sum_of_daily_cases_week.length -2];
+  document.getElementById("novas_mortes").innerHTML = covidCases.sum_of_daily_deaths_week[covidCases.sum_of_daily_deaths_week.length -2];
+
 }
+
 
 async function graphIt(chartId, label, type, date, data_covid) {
   const ctx = document.getElementById(chartId).getContext("2d");
@@ -130,6 +138,8 @@ async function getData(locationName) {
   const daily_deaths = [];
   const cases_moving_average = [];
   const deaths_moving_average = [];
+  const sum_of_daily_cases_week = [];
+  const sum_of_daily_deaths_week = [];
   const table = data.split("\n").slice(1);
 
   table.forEach((row) => {
@@ -143,6 +153,10 @@ async function getData(locationName) {
     daily_deaths.push(cols[5]);
     cases_moving_average.push(cols[6]);
     deaths_moving_average.push(cols[7]);
+
+    sum_of_daily_cases_week.push(cols[8]);
+    sum_of_daily_deaths_week.push(cols[9]);
+
   });
 
   return {
@@ -153,5 +167,7 @@ async function getData(locationName) {
     daily_deaths,
     cases_moving_average,
     deaths_moving_average,
+    sum_of_daily_cases_week,
+    sum_of_daily_deaths_week
   };
 }
