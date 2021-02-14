@@ -80,12 +80,10 @@
 
     <main id="main" role="main">
       <div class="jumbotron text-center">
-            <h1>CoronaBrasil</h1>
+            <h1 id="Titulo">CoronaBrasil</h1>
 
           <div class="container col-12">
-            <option selected> 
-                <h2>Escolha a cidade</h2>
-            </option>
+            <h5>Escolha a cidade</h5>
             <select class="js-example-basic-single btn btn-primary" id="dropdown-items" name="city">
             </select>
           </div>
@@ -102,20 +100,6 @@
             </div>
           </div>
 
-          <div class="col-md-6">
-                <center>
-                <div  class="card text-white bg-dark" style="max-width: 100%">
-                  <div class="card-body">
-                    <h5 class="card-title">Total de mortos:</h5>
-                    <p id="mortes" class="card-text text-white">0</p>
-                  </div>
-                </div>
-                </center>
-            </div>
-        </div>
-            
-
-        <div class="row">
           <div class="col-md-6"><center>
             <div class="card text-white" id="casos_da_ultima_semana" style="max-width: 100%;">
               <div class="card-body">
@@ -125,29 +109,41 @@
             </div>
           </div>
 
+
+        </div>
+            
+
+        <div class="row">
+
           <div class="col-md-6">
-                <center>
-                <div  class="card text-white" id="mortes-da-ultima-semana"style="max-width: 100%">
-                  <div class="card-body">
-                    <h5 class="card-title"> Mortes da última semana: </h5>
-                    <p id="novas_mortes" class="card-text text-white">0</p>
-                  </div>
-                </div>
-                </center>
+            <center>
+             <div  class="card text-white"  id="variacao_casos_estilo" style="max-width: 100%">
+               <div class="card-body">
+                 <h5 class="card-title">Variação da média móvel de casos: </h5>
+                 <p id="variacao_casos" class="card-text text-white">0</p>
+               </div>
+             </div>
+             </center>
+           </div>
+
+           <div class="col-md-6">
+            <center>
+            <div  class="card text-white bg-dark" style="max-width: 100%">
+              <div class="card-body">
+                <h5 class="card-title">Total de mortos:</h5>
+                <p id="mortes" class="card-text text-white">0</p>
+              </div>
             </div>
-          </div>
+            </center>
+        </div>
+
+        </div>
+         
+
 
           <div class="row">
-             <div class="col-md-6">
-              <center>
-               <div  class="card text-white"  id="variacao_casos_estilo" style="max-width: 100%">
-                 <div class="card-body">
-                   <h5 class="card-title">Variação da média móvel de casos: </h5>
-                   <p id="variacao_casos" class="card-text text-white">0</p>
-                 </div>
-               </div>
-               </center>
-            </div>
+
+  
            <div class="col-md-6">
             <center>
              <div  class="card text-white" id="variacao_mortes_estilo" style="max-width: 100%">
@@ -158,6 +154,20 @@
              </div>
              </center>
             </div>
+
+
+            <div class="col-md-6">
+              <center>
+              <div  class="card text-white" id="mortes-da-ultima-semana"style="max-width: 100%">
+                <div class="card-body">
+                  <h5 class="card-title"> Mortes da última semana: </h5>
+                  <p id="novas_mortes" class="card-text text-white">0</p>
+                </div>
+              </div>
+              </center>
+          </div>
+        </div>
+
           </div>
 
           <div class="row"> 

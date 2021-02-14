@@ -41,30 +41,3 @@
   font-size: 30px;
 }
 
-.option{
-  background-color: aquamarine;
-}
-
-
-.jumbotron {
-    padding: 2rem 1rem;
-    margin-bottom: 0%;
-}
-
-
-.dropdown{
-  margin-top: 2rem;
-  border-radius: 20%;
-}
-
-#locationButton{
-  margin-top: 1.5rem;
-  margin-bottom: 1.5rem;
-  background-color:rgba(43, 181, 216, 0.808);
-  color: white;
-}
-
-
-.container{
-  border-radius: 20%;
-}
