@@ -98,52 +98,52 @@
         </div>
       </section>
 
-      <div>
-        <div class="container">
-          <div class="row">
-            <div class="col-md-6"><center>
-              <div class="card text-white bg-danger mb-3" style="max-width: 100%;">
-                <div class="card-body">
-                  <h5 class="card-title"> Total de casos: </h5>
-                  <p id="casos" class="card-text text-white">0</p>
-                </div>
+        <div class="row">
+          <div class="col-md-6"><center>
+            <div class="card text-white bg-danger mb-3" style="max-width: 100%;">
+              <div class="card-body">
+                <h5 class="card-title"> Total de casos: </h5>
+                <p id="casos" class="card-text text-white">0</p>
               </div>
             </div>
+          </div>
 
-            <div class="col-md-6">
-                 <center>
-                  <div  class="card text-white bg-dark" style="max-width: 100%">
-                    <div class="card-body">
-                      <h5 class="card-title">Total de mortos:</h5>
-                      <p id="mortes" class="card-text text-white">0</p>
-                    </div>
+          <div class="col-md-6">
+                <center>
+                <div  class="card text-white bg-dark" style="max-width: 100%">
+                  <div class="card-body">
+                    <h5 class="card-title">Total de mortos:</h5>
+                    <p id="mortes" class="card-text text-white">0</p>
                   </div>
-                  </center>
+                </div>
+                </center>
+            </div>
+        </div>
+            
+
+        <div class="row">
+          <div class="col-md-6"><center>
+            <div class="card text-white" id="casos_da_ultima_semana" style="max-width: 100%;">
+              <div class="card-body">
+                <h5 class="card-title"> Casos da última semana: </h5>
+                <p id="novos_casos" class="card-text text-white">0</p>
               </div>
+            </div>
+          </div>
 
-
-              <div class="container">
-                <div class="row">
-                  <div class="col-md-6"><center>
-                    <div class="card text-white" id="casos_da_ultima_semana" style="max-width: 100%;">
-                      <div class="card-body">
-                        <h5 class="card-title"> Casos da última semana: </h5>
-                        <p id="novos_casos" class="card-text text-white">0</p>
-                      </div>
-                    </div>
+          <div class="col-md-6">
+                <center>
+                <div  class="card text-white" id="mortes-da-ultima-semana"style="max-width: 100%">
+                  <div class="card-body">
+                    <h5 class="card-title"> Mortes da última semana: </h5>
+                    <p id="novas_mortes" class="card-text text-white">0</p>
                   </div>
-      
-                  <div class="col-md-6">
-                       <center>
-                        <div  class="card text-white" id="mortes-da-ultima-semana"style="max-width: 100%">
-                          <div class="card-body">
-                            <h5 class="card-title"> Mortes da última semana: </h5>
-                            <p id="novas_mortes" class="card-text text-white">0</p>
-                          </div>
-                        </div>
-                        </center>
-                    </div>
+                </div>
+                </center>
+            </div>
+          </div>
 
+          <div class="row">
              <div class="col-md-6">
               <center>
                <div  class="card text-white"  id="variacao_casos_estilo" style="max-width: 100%">
@@ -153,8 +153,7 @@
                  </div>
                </div>
                </center>
-           </div>
-
+            </div>
            <div class="col-md-6">
             <center>
              <div  class="card text-white" id="variacao_mortes_estilo" style="max-width: 100%">
@@ -164,7 +163,10 @@
                </div>
              </div>
              </center>
-         </div>
+            </div>
+          </div>
+
+          <div class="row"> 
 
             <div class="col-md-6">
               <div class="card mb-4 shadow-sm">
@@ -172,9 +174,7 @@
                   id="myChart1"
                   width="100%"
                   height="100%"
-                 ></canvas
-                >
-                <div class="card-body"></div>
+                 ></canvas>
               </div>
             </div>
             <div class="col-md-6">
@@ -185,9 +185,12 @@
                   height="100%"
                   ></canvas
                 >
-                <div class="card-body"></div>
               </div>
             </div>
+
+          </div>
+            <div class="row"> 
+
             <div class="col-md-6">
               <div class="card mb-4 shadow-sm">
                 <canvas
@@ -208,9 +211,11 @@
                   height="100%"
                  ></canvas
                 >
-                <div class="card-body"></div>
               </div>
             </div>
+
+          </div>
+          <div class="row"> 
 
             <div class="col-md-6">
               <div class="card mb-4 shadow-sm">
@@ -220,7 +225,6 @@
                   height="100%"
                 ></canvas
                 >
-                <div class="card-body"></div>
               </div>
             </div>
 
@@ -232,15 +236,10 @@
                   height="100%"
                  ></canvas
                 >
-                <div class="card-body"></div>
               </div>
             </div>
-
-
-            </div>
           </div>
-        </div>
-      </div>
+
     </main>
 
     <footer class="footer" role="contentinfo">
@@ -259,9 +258,6 @@
             });
           });
         });
-        </script>
-
-        <script>
         const lista_cidades = ["Abadia de Goiás",
   "Abadia dos Dourados",
   "Abadiânia",
