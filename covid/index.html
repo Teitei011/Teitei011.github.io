@@ -29,6 +29,9 @@
       integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
       crossorigin="anonymous"
     ></script>
+
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
   </head>
   <title>CoronaBrasil</title>
   <body>
@@ -77,27 +80,18 @@
 
     <main id="main" role="main">
       <div class="jumbotron text-center">
-        <div class="container">
 
-          <div class="container-fluid">
+          <div class="container">
 
             <div class="card">
               <div id= "Titulo" class="card-body"><h1>CoronaBrasil</h1></div>
             </div>
 
-            <div class="dropdown col-12">
-              <div class="btn-group">
-                <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Selecionar Local</button>
-
-                <ul class="dropdown-menu" id="dropdown-items">
-                  <input class="form-control" id="myInput" type="text" placeholder="Search..">
-                </ul>
+            <div class="container col-12">
+              <select class="js-example-basic-single btn btn-primary" id="dropdown-items" name="city">
+              </select>
             </div>
-          </div>              
-
           </div>
- 
-       
         </div>
       </section>
 
@@ -5540,18 +5534,23 @@
   "Óbidos",
   "Óleo"];
   
+          // In your Javascript (external .js resource or <script> tag)
+  $(document).ready(function() {
+      $('.js-example-basic-single').select2(   
+      );
+  });
 
-  console.log("Passei por aqui!");
   let i;
   for (i = 0; i < lista_cidades.length; i++){
-    let dropdown = document.createElement("li");   // Create a <li> element
-    dropdown.innerHTML = `<a class="dropdown-item" onclick="myFunction(this, '` +
-    String(lista_cidades[i]) +
-    `')">` +
-    String(lista_cidades[i]) +
-    `</a>`;                   // Insert text
-    document.getElementById("dropdown-items").appendChild(dropdown);
+    $('#dropdown-items').append(new Option(lista_cidades[i], lista_cidades[i]));
   };
-        </script>
+
+  $(document).on('change', 'select', function() {
+    updateGraphs($(this).val());
+    console.log($(this).val()); // the selected options’s value
+});
+
+
+</script>
   </body>
 </html>

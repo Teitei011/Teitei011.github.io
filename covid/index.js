@@ -13,7 +13,7 @@ function removeGraphs() {
   covidGraphs = [];
 }
 
-function myFunction(elmnt, answer) {
+function updateGraphs(answer) {
   removeGraphs();
   setup(answer);
   console.log("Changing to " + answer);
@@ -22,8 +22,6 @@ function myFunction(elmnt, answer) {
 
 async function setup(locationName) {
   const covidCases = await getData(locationName);
-
-  console.log(covidCases);
 
   graphIt(
     "myChart1",
@@ -82,7 +80,6 @@ function setupBoxWithData(covidCases, locationName){
   let variacao_casos =  -100*(1 - covidCases.cases_moving_average[covidCases.cases_moving_average.length - 2] / covidCases.cases_moving_average[covidCases.cases_moving_average.length - 16]);
   let variacao_mortes =  -100*(1 - covidCases.deaths_moving_average[covidCases.deaths_moving_average.length - 2] / covidCases.deaths_moving_average[covidCases.deaths_moving_average.length - 16]);
   
-  console.log(variacao_mortes);
 
   if(variacao_casos > 0){
     variacao_casos = "+" + parseFloat(variacao_casos).toFixed(2);
