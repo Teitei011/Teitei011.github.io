@@ -9,18 +9,34 @@
 }
 
 #Titulo{
-  background-color: rgb(248, 203, 105);
+  background-color: rgb(255, 191, 128);
 }
 
 
-#orange-card-text{
-  background-color: rgb(255, 140, 25);
+.card{
   margin-bottom: 1.5rem;
 }
 
-#variacao_style{
-  background-color: rgb(255, 166, 77);
+#casos_da_ultima_semana{
+  background-color: rgb(255, 108, 108);
   margin-bottom: 1.5rem;
+}
+
+#mortes-da-ultima-semana{
+  background-color: rgb(117, 111, 111);
+  margin-bottom: 1.5rem;
+}
+
+#variacao_casos_estilo{
+  background-color: rgb(250, 164, 164);
+}
+
+#variacao_mortes_estilo{
+  background-color: rgb(175, 166, 166);
+}
+
+.option{
+  background-color: aquamarine;
 }
 
 
