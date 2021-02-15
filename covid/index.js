@@ -1,5 +1,4 @@
 
-setup("Botucatu");
 let covidGraphs = [];
 
 //console.log(covidGraphs);
