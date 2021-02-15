@@ -101,6 +101,7 @@ function setupBoxWithData(covidCases, locationName){
   document.getElementById("novos_casos").innerHTML = parseFloat(covidCases.sum_of_daily_cases_week[covidCases.sum_of_daily_cases_week.length -2]).toFixed(0);
   document.getElementById("novas_mortes").innerHTML = parseFloat(covidCases.sum_of_daily_deaths_week[covidCases.sum_of_daily_deaths_week.length -2]).toFixed(0);
 
+  document.getElementById("DadosAtualizados").innerHTML = "<center>Dados atualizados no dia: "  + covidCases.date[covidCases.cases.length -2] + "</center>";
 }
 
 
