@@ -1,12 +1,9 @@
-#casos, #mortes{
-  font-size: 2rem;
-  border-radius: 20%
+.html{
+  font-size: 30px;
 }
-
 
 .body{
   background-color: gray;
-  font-size: 30px;
 }
 
 #Titulo{

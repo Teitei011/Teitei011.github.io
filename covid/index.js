@@ -98,8 +98,8 @@ function setupBoxWithData(covidCases, locationName){
   document.getElementById("variacao_casos").innerHTML =  variacao_casos + "%";
   document.getElementById("variacao_mortes").innerHTML =  variacao_mortes + "%";
 
-  document.getElementById("novos_casos").innerHTML = covidCases.sum_of_daily_cases_week[covidCases.sum_of_daily_cases_week.length -2];
-  document.getElementById("novas_mortes").innerHTML = covidCases.sum_of_daily_deaths_week[covidCases.sum_of_daily_deaths_week.length -2];
+  document.getElementById("novos_casos").innerHTML = parseFloat(covidCases.sum_of_daily_cases_week[covidCases.sum_of_daily_cases_week.length -2]).toFixed(0);
+  document.getElementById("novas_mortes").innerHTML = parseFloat(covidCases.sum_of_daily_deaths_week[covidCases.sum_of_daily_deaths_week.length -2]).toFixed(0);
 
 }
 
