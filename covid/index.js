@@ -74,6 +74,8 @@ async function setup(locationName) {
   setupBoxWithData(covidCases, locationName);
 }
 
+
+
 function setupBoxWithData(covidCases, locationName){
 
   document.getElementById("casos").innerHTML =  covidCases.cases[covidCases.cases.length - 1];
