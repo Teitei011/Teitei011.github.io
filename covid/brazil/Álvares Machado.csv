@@ -323,3 +323,5 @@ city,date,cases,daily cases,deaths,daily deaths,daily cases moving average,daily
 Álvares Machado,2021-02-11,611,4,15,0,3.2857142857142856,0.0,23.0,0.0
 Álvares Machado,2021-02-12,627,16,15,0,5.0,0.0,35.0,0.0
 Álvares Machado,2021-02-13,631,4,15,0,5.0,0.0,35.0,0.0
+Álvares Machado,2021-02-14,632,1,15,0,5.142857142857143,0.0,36.0,0.0
+Álvares Machado,2021-02-15,632,0,15,0,5.142857142857143,0.0,36.0,0.0
