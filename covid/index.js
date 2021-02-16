@@ -86,7 +86,7 @@ function setupBoxWithData(covidCases, locationName){
   document.getElementById("mortesPC").innerHTML = covidCases.deaths[covidCases.deaths.length - 1];
 
   let variacao_casos =  -100*(1 - covidCases.cases_moving_average[covidCases.cases_moving_average.length - 1] / covidCases.cases_moving_average[covidCases.cases_moving_average.length - 15]);
-  let variacao_mortes =  -100*(1 - covidCases.deaths_moving_average[covidCases.deaths_moving_average.length - 1] / covidCases.deaths_moving_average[covidCases.deaths_moving_average.length - 16]);
+  let variacao_mortes =  -100*(1 - covidCases.deaths_moving_average[covidCases.deaths_moving_average.length - 1] / covidCases.deaths_moving_average[covidCases.deaths_moving_average.length - 15]);
   
 
   if(variacao_casos > 0){
