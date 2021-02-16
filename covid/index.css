@@ -10,6 +10,9 @@
   background-color: rgb(255, 191, 128);
 }
 
+.btn{
+  margin-block-start: 1.5rem;
+}
 
 .card{
   font-size: 30px;
@@ -22,7 +25,7 @@
 }
 
 #mortes-da-ultima-semana{
-  background-color: rgb(117, 111, 111);
+  background-color: rgb(216, 209, 209);
 }
 
 #variacao_casos_estilo{

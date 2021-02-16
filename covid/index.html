@@ -82,12 +82,51 @@
       <div class="jumbotron text-center">
             <h1 id="Titulo">CoronaBrasil</h1>
 
-          <div class="container col-12">
-            <h5>Escolha a cidade</h5>
-            <select class="js-example-basic-single btn btn-primary" id="dropdown-items" name="city">
-            </select>
-          </div>
+
+            <div class="container col-6">
+              <h5>Escolha a cidade</h5>
+              <select class="js-cidades btn" id="dropdown-items" name="city">
+              </select>
+            </div>
+  
+
+            <div class="container col-6">
+              <h5>Escolha um estado</h5>
+              <select class="js-cidades btn" name="state">
+              <option value="AC">Acre</option>
+              <option value="AL">Alagoas</option>
+              <option value="AP">Amapá</option>
+              <option value="AM">Amazonas</option>
+              <option value="BA">Bahia</option>
+              <option value="CE">Ceará</option>
+              <option value="DF">Distrito Federal</option>
+              <option value="ES">Espírito Santo</option>
+              <option value="GO">Goiás</option>
+              <option value="MA">Maranhão</option>
+              <option value="MT">Mato Grosso</option>
+              <option value="MS">Mato Grosso do Sul</option>
+              <option value="MG">Minas Gerais</option>
+              <option value="PA">Pará</option>
+              <option value="PB">Paraíba</option>
+              <option value="PR">Paraná</option>
+              <option value="PE">Pernambuco</option>
+              <option value="PI">Piauí</option>
+              <option value="RJ">Rio de Janeiro</option>
+              <option value="RN">Rio Grande do Norte</option>
+              <option value="RS">Rio Grande do Sul</option>
+              <option value="RO">Rondônia</option>
+              <option value="RR">Roraima</option>
+              <option value="SC">Santa Catarina</option>
+              <option value="SP">São Paulo</option>
+              <option value="SE">Sergipe</option>
+              <option value="TO">Tocantins</option>
+              </select>
+            </div>
+
+            <button class="btn btn-primary" onclick="updateGraphs('Brasil')">Brasil</button>
         </div>
+          
+
       </section>
 
         <div class="d-sm-none">
@@ -285,7 +324,7 @@
                   height="100%"
                  ></canvas
                 >
-                <div class="card-body"></div>
+
               </div>
             </div>
 
@@ -332,22 +371,27 @@
           <h5 id="DadosAtualizados">
             Dados atualizados no dia: 24/08/1998
           </h5>
+
+          <h6>
+              Total de visitantes: 
+          </h6>
           <img src="https://profile-counter.glitch.me/Teitei011/count.svg"></img> 
+          <br>
+          <p> Bugs, comentários ou sugestões? </p> 
+          <a href = "mailto: stefantleal14@gmail.com">Me mande um email!</a>
+         
         </center>
           
       </div>
 
 
+      
+
       <script>
-        $(document).ready(function(){
-          $("#myInput").on("keyup", function() {
-            var value = $(this).val().toLowerCase();
-            $(".dropdown-menu li").filter(function() {
-              $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
-            });
-          });
-        });
-        const lista_cidades = ["Abadia de Goiás",
+      
+        // Sei que essa essa solução não é a melhor mas eu não consegui ler o arquivo txt (por causa dos caracteres `^~ sabe?). Se vc tiver uma dica de como eu posso fazer isso, por favor, me avise
+      
+const lista_cidades = ["Abadia de Goiás",
   "Abadia dos Dourados",
   "Abadiânia",
   "Abaetetuba",
@@ -5647,10 +5691,11 @@
   
           // In your Javascript (external .js resource or <script> tag)
   $(document).ready(function() {
-      $('.js-example-basic-single').select2(   
+      $('.js-cidades').select2(   
       );
   });
 
+  // Criação das options possivel
   let i;
   for (i = 0; i < lista_cidades.length; i++){
     $('#dropdown-items').append(new Option(lista_cidades[i], lista_cidades[i]));
@@ -5659,6 +5704,7 @@
   $(document).on('change', 'select', function() {
     updateGraphs($(this).val());
 });
+
 
 
 </script>
