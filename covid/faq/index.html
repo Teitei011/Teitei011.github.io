@@ -93,12 +93,14 @@
             <h1>CoronaBrasil FAQ</h1> 
       </div>
 
+     
+
       <div class="bs-example">
         <div class="accordion" id="accordionExample">
             <div class="card">
                 <div class="card-header" id="headingOne">
                     <h2 class="mb-0">
-                        <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseOne"><i class="fa fa-plus"></i> O que esse site faz?</button>									
+                        <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseOne"><i class="fa fa-plus"></i> <h6><center>O que esse site faz?</center></h6> </button>									
                     </h2>
                 </div>
                 <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
@@ -112,13 +114,12 @@
             <div class="card">
                 <div class="card-header" id="headingOne">
                     <h2 class="mb-0">
-                        <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseOne"><i class="fa fa-plus"></i> Como ele funciona?</button>									
+                        <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapse2"><i class="fa fa-plus"></i> Como ele funciona?</button>									
                     </h2>
                 </div>
-                <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                <div id="collapse2" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
                     <div class="card-body">
-                        <p>Sempre vemos as noticias falando de nossos estados e de nosso país, mas vc sabe como a sua cidade está enfrentando a Covid-19? 
-                            Esse site foi feito com a inteção de acompanhar cada municipio de uma forma individual
+                        <p> Ele só pega as informações pré-processadas e exibe de uma forma que fica fácil de entender
                         </p></div>
                 </div>
             </div>
@@ -126,57 +127,71 @@
             <div class="card">
                 <div class="card-header" id="headingTwo">
                     <h2 class="mb-0">
-                        <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree"><i class="fa fa-plus"></i> Aonde você pegou esses dados?</button>
+                        <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse3"><i class="fa fa-plus"></i> Aonde você pegou esses dados?</button>
                     </h2>
                 </div>
-                <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                <div id="collapse3" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample">
                     <div class="card-body">
-                        <p>Peguei esses dados do <a href="http://covid.saude.gov.br" target="_blank">ministério da saúde</a></p>
+                        <p>Peguei os dados do <a href="http://covid.saude.gov.br" target="_blank">Ministério da Saúde</a>. </p>
+                        <p>Ouve um certo processamento nos dados mas isso foi feito para faciltiar o funcionamento desse site</p>
                     </div>
                 </div>
             </div>
 
             <div class="card">
-                <div class="card-header" id="headingThree">
-                    <h2 class="mb-0">
-                        <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree"><i class="fa fa-plus"></i> O que é variação da média movel?</button>                     
-                    </h2>
-                </div>
-                <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
-                    <div class="card-body">
-                        <p>CSS stands for Cascading Style Sheet. CSS allows you to specify various style properties for a given HTML element such as colors, backgrounds, fonts etc. <a href="https://www.tutorialrepublic.com/css-tutorial/" target="_blank">Learn more.</a></p>
-                    </div>
-                </div>
-            </div>
+              <div class="card-header" id="headingTwo">
+                  <h2 class="mb-0">
+                      <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse6"><i class="fa fa-plus"></i> Como esses dados foram tratados?</button>
+                  </h2>
+              </div>
+              <div id="collapse6" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                  <div class="card-body">
+                      <p>O único processamento que teve foi feito para fazer um dataframe para cada cidade/estado. </p>
+                      <p>Link do Github</p> 
+                  </div>
+              </div>
+          </div>
 
 
             <div class="card">
                 <div class="card-header" id="headingThree">
                     <h2 class="mb-0">
-                        <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree"><i class="fa fa-plus"></i> O que é variação da média movel?</button>                     
+                        <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse4"><i class="fa fa-plus"></i> O que é variação da média móvel?</button>                     
                     </h2>
                 </div>
-                <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                <div id="collapse4" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
                     <div class="card-body">
-                        <p>CSS stands for Cascading Style Sheet. CSS allows you to specify various style properties for a given HTML element such as colors, backgrounds, fonts etc. <a href="https://www.tutorialrepublic.com/css-tutorial/" target="_blank">Learn more.</a></p>
+                        <p> É uma forma comumente usada para determinar o crescimento/decrescimento de uma pandemia. 
+                        </p><p>
+                                                    Para mais informações <a href="https://g1.globo.com/bemestar/coronavirus/noticia/2020/07/27/entenda-como-e-calculada-a-media-movel-e-a-variacao-dos-casos-e-mortes-por-covid-19.ghtml">G1</a></p>
                     </div>
                 </div>
             </div>
+
+
+            
+            <div class="card">
+              <div class="card-header" id="headingThree">
+                  <h2 class="mb-0">
+                      <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse7"><i class="fa fa-plus"></i> Mundaças que pretendo fazer no site</button>                     
+                  </h2>
+              </div>
+              <div id="collapse7" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                  <div class="card-body">
+                    <ul>
+                      <li>Colocar gráficos informando o andamento das vacinações</li> 
+                      <li>Implementar uma versão em app </li>
+                      <li> Melhorias no FAQ</li>
+                      <li>Deixar mais responsivo</li>  
+                    </ul>
+                  </div>
+              </div>
+          </div>
+        
 
 
         </div>
-    </div>
-        <p></p>
-        
-        <h2>3. Ouve um processamento dos dados? </h2>
-
-        <p>Sim, houve algum processamento neles com o intuito de "limpar" os dados e deixar eles mais acessíveis para esse site fazer mostrar e plotar os dados</p> 
-    </div>
-
-    
-
-    <a href='https://www.symptoma.pt/pt/info/covid-19#info'>Síntomas de coronavirus</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=db46abf7485797e38be92226ddd5784a41186949'></script>
-    <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/793972/t/0"></script> </main>
+  
 
     <footer class="footer" role="contentinfo"><center>
           <br>
