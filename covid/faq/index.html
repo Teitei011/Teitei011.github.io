@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=yes"
+    />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js"></script>
+    <script src="index.js"></script>
+
+    <link rel="stylesheet" href="index.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
+      integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2"
+      crossorigin="anonymous"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <script
+      src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+      integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
+      crossorigin="anonymous"
+    ></script>
+
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+  </head>
+  <title>CoronaBrasil</title>
+  <body>
+    <header>
+      <div class="collapse bg-dark" id="navbarHeader">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-8 col-md-7 py-4">
+              <h4 class="text-white">Sobre</h4>
+              <p class="text-muted">
+                Esse site tem a intenção de informar as pessoas sobre a Covid-19 em suas respectivas cidades.
+              </p>
+              <p class="text-muted">
+                <a href="https://teitei011.github.com/covid/faq">Para mais informações</a>
+
+              </p><p class="text-muted">
+                Obs: Não sou especialista na área. Só coloquei na internet algo que uso nessa infindável quarentena
+            </p>
+>
+
+            </div>
+
+            <div class="col-sm-4 offset-md-1 py-4">
+              <h4 class="text-white">Contato</h4>
+              <ul class="list-unstyled">
+                <li><a href="https://github.com/Teitei011/" class="text-white">Follow me Github</a></li>
+                
+              </ul>
+
+            
+            </div>
+
+          </div>
+        </div>
+      </div>
+      <div class="navbar navbar-dark bg-dark shadow-sm">
+        <div class="container d-flex justify-content-between">
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-toggle="collapse"
+            data-target="#navbarHeader"
+            aria-controls="navbarHeader"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+        </div>
+      </div>
+
+      <div class="container-fluid">
+
+      </div>
+    </header>
+
+    <main id="main" role="main">
+      <div class="jumbotron text-center">
+            <h1>CoronaBrasil FAQ</h1> 
+      </div>
+
+      <div class="container">
+        <br />
+        <br />
+        <br />
+    
+        <div class="alert alert-warning alert-dismissible" role="alert">
+            <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            Esse site contém uma coletânea de informações tratando do funcionando do site CoronaBrasil. Caso você não encontre a resposta da sua pergunta abaixo sinta-se livre para me contactar. 
+        </div>
+        <br />
+    
+        <div class="panel-group" id="accordion">
+            <div class="faqHeader">Questões Gerais</div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">Is account registration required?</a>
+                    </h4>
+                </div>
+                <div id="collapseOne" class="panel-collapse collapse in">
+                    <div class="panel-body">
+                        Account registration at <strong>PrepBootstrap</strong> is only required if you will be selling or buying themes. 
+                        This ensures a valid communication channel for all parties involved in any transactions. 
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTen">Can I submit my own Bootstrap templates or themes?</a>
+                    </h4>
+                </div>
+                <div id="collapseTen" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        A lot of the content of the site has been submitted by the community. Whether it is a commercial element/template/theme 
+                        or a free one, you are encouraged to contribute. All credits are published along with the resources. 
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseEleven">What is the currency used for all transactions?</a>
+                    </h4>
+                </div>
+                <div id="collapseEleven" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        All prices for themes, templates and other items, including each seller's or buyer's account balance are in <strong>USD</strong>
+                    </div>
+                </div>
+            </div>
+    
+            <div class="faqHeader">Sobre os dados</div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">Who cen sell items?</a>
+                    </h4>
+                </div>
+                <div id="collapseTwo" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        Any registed user, who presents a work, which is genuine and appealing, can post it on <strong>PrepBootstrap</strong>.
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">I want to sell my items - what are the steps?</a>
+                    </h4>
+                </div>
+                <div id="collapseThree" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        The steps involved in this process are really simple. All you need to do is:
+                        <ul>
+                            <li>Register an account</li>
+                            <li>Activate your account</li>
+                            <li>Go to the <strong>Themes</strong> section and upload your theme</li>
+                            <li>The next step is the approval step, which usually takes about 72 hours.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive">How much do I get from each sale?</a>
+                    </h4>
+                </div>
+                <div id="collapseFive" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        Here, at <strong>PrepBootstrap</strong>, we offer a great, 70% rate for each seller, regardless of any restrictions, such as volume, date of entry, etc.
+                        <br />
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix">Why sell my items here?</a>
+                    </h4>
+                </div>
+                <div id="collapseSix" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        There are a number of reasons why you should join us:
+                        <ul>
+                            <li>A great 70% flat rate for your items.</li>
+                            <li>Fast response/approval times. Many sites take weeks to process a theme or template. And if it gets rejected, there is another iteration. We have aliminated this, and made the process very fast. It only takes up to 72 hours for a template/theme to get reviewed.</li>
+                            <li>We are not an exclusive marketplace. This means that you can sell your items on <strong>PrepBootstrap</strong>, as well as on any other marketplate, and thus increase your earning potential.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseEight">What are the payment options?</a>
+                    </h4>
+                </div>
+                <div id="collapseEight" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        The best way to transfer funds is via Paypal. This secure platform ensures timely payments and a secure environment. 
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseNine">When do I get paid?</a>
+                    </h4>
+                </div>
+                <div id="collapseNine" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        Our standard payment plan provides for monthly payments. At the end of each month, all accumulated funds are transfered to your account. 
+                        The minimum amount of your balance should be at least 70 USD. 
+                    </div>
+                </div>
+            </div>
+    
+            <div class="faqHeader">O que está por vir?</div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour">I want to buy a theme - what are the steps?</a>
+                    </h4>
+                </div>
+                <div id="collapseFour" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        Buying a theme on <strong>PrepBootstrap</strong> is really simple. Each theme has a live preview. 
+                        Once you have selected a theme or template, which is to your liking, you can quickly and securely pay via Paypal.
+                        <br />
+                        Once the transaction is complete, you gain full access to the purchased product. 
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven">Is this the latest version of an item</a>
+                    </h4>
+                </div>
+                <div id="collapseSeven" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        Each item in <strong>PrepBootstrap</strong> is maintained to its latest version. This ensures its smooth operation.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid ">
+        <center>  <h2> 1. O que esse site faz?</h2></center>
+        <p>
+            Sempre vemos as noticias falando de nossos estados e de nosso país, mas vc sabe como a sua cidade está enfrentando a Covid-19? Esse site foi feito para responder essa e outras perguntas que vc pode ter sobre o Covid-19
+        </p>
+
+        <center> <h2>2. De onde vc pegou os dados?</h2></center>
+        <p>Peguei esses dados do ministério da saúde http://covid.saude.gov.br</p>
+        
+        <h2>3. Ouve um processamento dos dados? </h2>
+
+        <p>Sim, houve algum processamento neles com o intuito de "limpar" os dados e deixar eles mais acessíveis para esse site fazer mostrar e plotar os dados</p> 
+    </div>
+
+    
+
+    <a href='https://www.symptoma.pt/pt/info/covid-19#info'>Síntomas de coronavirus</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=db46abf7485797e38be92226ddd5784a41186949'></script>
+    <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/793972/t/0"></script> </main>
+
+    <footer class="footer" role="contentinfo"><center>
+          <br>
+
+          <p id="result"></p>
+          <p> Deixei algo mal explicado? </p> 
+          <a href = "mailto: stefantleal14@gmail.com">Me mande um email!</a>
+         
+        </center>
+          
+      </div>
+
+
+  </body>
+</html>

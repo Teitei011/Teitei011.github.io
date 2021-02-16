@@ -57,6 +57,8 @@
               <ul class="list-unstyled">
                 <li><a href="https://github.com/Teitei011/" class="text-white">Follow me Github</a></li>
               </ul>
+            <h4 class="text-white">FAQ</h4>
+              <a href="https://teitei011.github.com/covid/faq">Para mais informações</a>
             </div>
           </div>
         </div>
@@ -134,6 +136,7 @@
           <div class="col-md-6"><center>
             <div class="card text-white bg-danger mb-3" style="max-width: 100%;">
               <div class="card-body">
+                
                 <h5 class="card-title"> Total de casos: </h5>
                 <p id="casos" class="card-text text-white">0</p>
               </div>
@@ -383,7 +386,6 @@
           <h6>
               Total de visitantes: 
           </h6>
-          <img src="https://profile-counter.glitch.me/Teitei011/count.svg"></img> 
           <br>
           <p> Bugs, comentários ou sugestões? </p> 
           <a href = "mailto: stefantleal14@gmail.com">Me mande um email!</a>
@@ -5713,6 +5715,12 @@ const lista_cidades = ["Abadia de Goiás",
     updateGraphs($(this).val());
 });
 
+
+// Popover
+
+$(document).ready(function(){
+  $('[data-toggle="popover"]').popover();
+});
 
 
 </script>

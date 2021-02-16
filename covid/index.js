@@ -195,3 +195,6 @@ async function getData(locationName) {
     sum_of_daily_deaths_week
   };
 }
+
+
+//          <img src="https://profile-counter.glitch.me/Teitei011/count.svg"></img> 
