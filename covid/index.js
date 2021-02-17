@@ -215,7 +215,7 @@ function addCommas(nStr){
   if (typeof value === 'number') {
     return value;
   } else{
-    return 0;
+    return value;
   }
  }
 
