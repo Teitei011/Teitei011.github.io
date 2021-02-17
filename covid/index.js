@@ -77,41 +77,41 @@ async function setup(locationName) {
 
 function setupBoxWithData(covidCases, locationName){
 
-  document.getElementById("casos").innerHTML =  covidCases.cases[covidCases.cases.length - 1];
-  document.getElementById("mortes").innerHTML = covidCases.deaths[covidCases.deaths.length - 1];
+  document.getElementById("casos").innerHTML = addCommas(covidCases.cases[covidCases.cases.length - 1]);
+  document.getElementById("mortes").innerHTML = addCommas(covidCases.deaths[covidCases.deaths.length - 1]);
   document.getElementById("Titulo").innerHTML = "<h1>" + locationName + "</h1>";
 
   
-  document.getElementById("casosPC").innerHTML =  covidCases.cases[covidCases.cases.length - 1];
-  document.getElementById("mortesPC").innerHTML = covidCases.deaths[covidCases.deaths.length - 1];
+  document.getElementById("casosPC").innerHTML =  addCommas(covidCases.cases[covidCases.cases.length - 1]);
+  document.getElementById("mortesPC").innerHTML = addCommas(covidCases.deaths[covidCases.deaths.length - 1]);
 
   let variacao_casos =  -100*(1 - covidCases.cases_moving_average[covidCases.cases_moving_average.length - 1] / covidCases.cases_moving_average[covidCases.cases_moving_average.length - 15]);
   let variacao_mortes =  -100*(1 - covidCases.deaths_moving_average[covidCases.deaths_moving_average.length - 1] / covidCases.deaths_moving_average[covidCases.deaths_moving_average.length - 15]);
   
 
   if(variacao_casos > 0){
-    variacao_casos = "+" + parseFloat(variacao_casos).toFixed(2);
+    variacao_casos = "+" + addCommas(parseFloat(variacao_casos).toFixed(2));
   } else{
-    variacao_casos = parseFloat(variacao_casos).toFixed(2);
+    variacao_casos = addCommas(parseFloat(variacao_casos).toFixed(2));
   }
   if (variacao_mortes > 0){
-    variacao_mortes = "+" + parseFloat(variacao_mortes).toFixed(2);
+    variacao_mortes = "+" + addCommas(parseFloat(variacao_mortes).toFixed(2));
   } else{
-    variacao_mortes = parseFloat(variacao_mortes).toFixed(2);
+    variacao_mortes = addCommas(parseFloat(variacao_mortes).toFixed(2));
   }
 
   document.getElementById("variacao_casos").innerHTML =  variacao_casos + "%";
   document.getElementById("variacao_mortes").innerHTML =  variacao_mortes + "%";
 
-  document.getElementById("novos_casos").innerHTML = parseFloat(covidCases.sum_of_daily_cases_week[covidCases.sum_of_daily_cases_week.length -1]).toFixed(0);
-  document.getElementById("novas_mortes").innerHTML = parseFloat(covidCases.sum_of_daily_deaths_week[covidCases.sum_of_daily_deaths_week.length -1]).toFixed(0);
+  document.getElementById("novos_casos").innerHTML =addCommas( parseFloat(covidCases.sum_of_daily_cases_week[covidCases.sum_of_daily_cases_week.length -1]).toFixed(0));
+  document.getElementById("novas_mortes").innerHTML = addCommas(parseFloat(covidCases.sum_of_daily_deaths_week[covidCases.sum_of_daily_deaths_week.length -1]).toFixed(0));
   document.getElementById("DadosAtualizados").innerHTML = "<center>Dados atualizados no dia: "  + covidCases.date[covidCases.cases.length -1] + "</center>";
 
   document.getElementById("variacao_casosPC").innerHTML =  variacao_casos + "%";
   document.getElementById("variacao_mortesPC").innerHTML =  variacao_mortes + "%";
 
-  document.getElementById("novos_casosPC").innerHTML = parseFloat(covidCases.sum_of_daily_cases_week[covidCases.sum_of_daily_cases_week.length -1]).toFixed(0);
-  document.getElementById("novas_mortesPC").innerHTML = parseFloat(covidCases.sum_of_daily_deaths_week[covidCases.sum_of_daily_deaths_week.length -1]).toFixed(0);
+  document.getElementById("novos_casosPC").innerHTML = addCommas(parseFloat(covidCases.sum_of_daily_cases_week[covidCases.sum_of_daily_cases_week.length -1]).toFixed(0));
+  document.getElementById("novas_mortesPC").innerHTML = addCommas(parseFloat(covidCases.sum_of_daily_deaths_week[covidCases.sum_of_daily_deaths_week.length -1]).toFixed(0));
 
 
 }
@@ -196,5 +196,16 @@ async function getData(locationName) {
   };
 }
 
+function addCommas(nStr){
+  nStr += '';
+  let x = nStr.split('.');
+  let x1 = x[0];
+  let x2 = x.length > 1 ? '.' + x[1] : '';
+  let rgx = /(\d+)(\d{3})/;
+  while (rgx.test(x1)) {
+   x1 = x1.replace(rgx, '$1' + '.' + '$2');
+  }
+  return x1 + x2;
+ }
 
 //          <img src="https://profile-counter.glitch.me/Teitei011/count.svg"></img> 
