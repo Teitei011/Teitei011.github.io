@@ -105,7 +105,7 @@ function setupBoxWithData(covidCases, locationName){
 
   document.getElementById("novos_casos").innerHTML =addCommas( parseFloat(covidCases.sum_of_daily_cases_week[covidCases.sum_of_daily_cases_week.length -1]).toFixed(0));
   document.getElementById("novas_mortes").innerHTML = addCommas(parseFloat(covidCases.sum_of_daily_deaths_week[covidCases.sum_of_daily_deaths_week.length -1]).toFixed(0));
-  document.getElementById("DadosAtualizados").innerHTML = "<center>Dados atualizados no dia: "  + covidCases.date[covidCases.cases.length -1] + "</center>";
+  document.getElementById("DadosAtualizados").innerHTML = "<center>Dados atualizados no dia: "  + changeDateOrder(covidCases.date[covidCases.cases.length -1]) + "</center>";
 
   document.getElementById("variacao_casosPC").innerHTML =  variacao_casos + "%";
   document.getElementById("variacao_mortesPC").innerHTML =  variacao_mortes + "%";
@@ -206,6 +206,11 @@ function addCommas(nStr){
    x1 = x1.replace(rgx, '$1' + ',' + '$2');
   }
   return x1 + x2;
+ }
+
+ function changeDateOrder(nStr){
+  let x = nStr.split('-');
+  return x[2] + "/" + x[1] + "/" + x[0];
  }
 
 //          <img src="https://profile-counter.glitch.me/Teitei011/count.svg"></img> 
