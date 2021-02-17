@@ -183,6 +183,9 @@ async function getData(locationName) {
     sum_of_daily_deaths_week.pop();
 
 
+   // date = await changeDateOrderArray(date);
+
+
   return {
     date,
     cases,
@@ -207,6 +210,16 @@ function addCommas(nStr){
   }
   return x1 + x2;
  }
+
+
+ async function changeDateOrderArray(array){
+  let new_array = [];
+  for (let i = 0; i < array.length; i++){
+    let x = array[i].split('-');
+    new_array.push( x[2] + "/" + x[1] + "/" + x[0]);
+  }
+  return new_array;
+}
 
  function changeDateOrder(nStr){
   let x = nStr.split('-');
