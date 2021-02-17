@@ -92,23 +92,23 @@ function setupBoxWithData(covidCases, locationName){
   if(variacao_casos > 0){
     variacao_casos = "+" + addCommas(parseFloat(variacao_casos).toFixed(2));
   } else{
-    variacao_casos = addCommas(parseFloat(variacao_casos).toFixed(2));
+    variacao_casos = addCommas(isANumber(parseFloat(variacao_casos).toFixed(2)));
   }
   if (variacao_mortes > 0){
     variacao_mortes = "+" + addCommas(parseFloat(variacao_mortes).toFixed(2));
   } else{
-    variacao_mortes = addCommas(parseFloat(variacao_mortes).toFixed(2));
+    variacao_mortes = addCommas(isANumber(parseFloat(variacao_mortes).toFixed(2)));
   }
 
-  document.getElementById("variacao_casos").innerHTML =  variacao_casos + "%";
-  document.getElementById("variacao_mortes").innerHTML =  variacao_mortes + "%";
+  document.getElementById("variacao_casos").innerHTML =  isANumber(variacao_casos) + "%";
+  document.getElementById("variacao_mortes").innerHTML =  isANumber(variacao_mortes) + "%";
 
-  document.getElementById("novos_casos").innerHTML =addCommas( parseFloat(covidCases.sum_of_daily_cases_week[covidCases.sum_of_daily_cases_week.length -1]).toFixed(0));
+  document.getElementById("novos_casos").innerHTML = addCommas( parseFloat(covidCases.sum_of_daily_cases_week[covidCases.sum_of_daily_cases_week.length -1]).toFixed(0));
   document.getElementById("novas_mortes").innerHTML = addCommas(parseFloat(covidCases.sum_of_daily_deaths_week[covidCases.sum_of_daily_deaths_week.length -1]).toFixed(0));
   document.getElementById("DadosAtualizados").innerHTML = "<center>Dados atualizados no dia: "  + changeDateOrder(covidCases.date[covidCases.cases.length -1]) + "</center>";
 
-  document.getElementById("variacao_casosPC").innerHTML =  variacao_casos + "%";
-  document.getElementById("variacao_mortesPC").innerHTML =  variacao_mortes + "%";
+  document.getElementById("variacao_casosPC").innerHTML =  isANumber(variacao_casos) + "%";
+  document.getElementById("variacao_mortesPC").innerHTML =  isANumber(variacao_mortes) + "%";
 
   document.getElementById("novos_casosPC").innerHTML = addCommas(parseFloat(covidCases.sum_of_daily_cases_week[covidCases.sum_of_daily_cases_week.length -1]).toFixed(0));
   document.getElementById("novas_mortesPC").innerHTML = addCommas(parseFloat(covidCases.sum_of_daily_deaths_week[covidCases.sum_of_daily_deaths_week.length -1]).toFixed(0));
@@ -211,6 +211,13 @@ function addCommas(nStr){
   return x1 + x2;
  }
 
+ function isANumber(value){
+  if (typeof value === 'number') {
+    return value;
+  } else{
+    return 0;
+  }
+ }
 
  async function changeDateOrderArray(array){
   let new_array = [];
