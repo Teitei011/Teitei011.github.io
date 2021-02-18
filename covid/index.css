@@ -17,6 +17,7 @@
 .card{
   font-size: 30px;
   margin: 1.5rem;
+  text-align: Center;
 }
 
 #casos_da_ultima_semana{
@@ -40,3 +41,4 @@
 #espaco{
   margin-top: 5rem;
 }
+

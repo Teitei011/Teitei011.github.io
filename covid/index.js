@@ -81,10 +81,6 @@ function setupBoxWithData(covidCases, locationName){
   document.getElementById("mortes").innerHTML = addCommas(covidCases.deaths[covidCases.deaths.length - 1]);
   document.getElementById("Titulo").innerHTML = "<h1>" + locationName + "</h1>";
 
-  
-  document.getElementById("casosPC").innerHTML =  addCommas(covidCases.cases[covidCases.cases.length - 1]);
-  document.getElementById("mortesPC").innerHTML = addCommas(covidCases.deaths[covidCases.deaths.length - 1]);
-
   let variacao_casos =  -100*(1 - covidCases.cases_moving_average[covidCases.cases_moving_average.length - 1] / covidCases.cases_moving_average[covidCases.cases_moving_average.length - 15]);
   let variacao_mortes =  -100*(1 - covidCases.deaths_moving_average[covidCases.deaths_moving_average.length - 1] / covidCases.deaths_moving_average[covidCases.deaths_moving_average.length - 15]);
   
@@ -106,13 +102,6 @@ function setupBoxWithData(covidCases, locationName){
   document.getElementById("novos_casos").innerHTML = addCommas( parseFloat(covidCases.sum_of_daily_cases_week[covidCases.sum_of_daily_cases_week.length -1]).toFixed(0));
   document.getElementById("novas_mortes").innerHTML = addCommas(parseFloat(covidCases.sum_of_daily_deaths_week[covidCases.sum_of_daily_deaths_week.length -1]).toFixed(0));
   document.getElementById("DadosAtualizados").innerHTML = "<center>Dados atualizados no dia: "  + changeDateOrder(covidCases.date[covidCases.cases.length -1]) + "</center>";
-
-  document.getElementById("variacao_casosPC").innerHTML =  isANumber(variacao_casos) + "%";
-  document.getElementById("variacao_mortesPC").innerHTML =  isANumber(variacao_mortes) + "%";
-
-  document.getElementById("novos_casosPC").innerHTML = addCommas(parseFloat(covidCases.sum_of_daily_cases_week[covidCases.sum_of_daily_cases_week.length -1]).toFixed(0));
-  document.getElementById("novas_mortesPC").innerHTML = addCommas(parseFloat(covidCases.sum_of_daily_deaths_week[covidCases.sum_of_daily_deaths_week.length -1]).toFixed(0));
-
 
 }
 
