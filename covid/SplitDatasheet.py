@@ -124,7 +124,7 @@ brazil.loc[:,"sum_of_daily_deaths_week"] = brazil['daily deaths'].rolling(window
 
 brazil.to_csv("brazil/Brasil.csv")
 brazil.to_csv("Brasil.csv")
-os.system("./upload2TheCloud.sh")
+#os.system("./upload2TheCloud.sh")
 
 
 separate_each_city_on_dataframe(cities)

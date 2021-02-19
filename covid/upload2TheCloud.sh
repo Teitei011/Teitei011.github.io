@@ -1,6 +1,8 @@
+echo "Adding csv into git..."
+
 git add .
 
-echo "Adding csv into git..."
+echo "Commiting files..."
 
 git commit -m "CSV updated"
 
