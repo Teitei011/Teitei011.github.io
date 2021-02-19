@@ -11,8 +11,6 @@ import os
 
 import pandas as pd
 
-
-
 tempo_inicial = time.time()
 
 def determine_state_city_or_country(name):
@@ -38,7 +36,16 @@ def get_data(dataframe, name):
     result_dataframe.loc[:,"sum_of_daily_deaths_week"] = result_dataframe['daily deaths'].rolling(window=7).sum() 
     result_dataframe.to_csv(f"{name}.csv", index=False)
 
-    
+
+def createADataframeToEachName(dataframe, name):
+    index_ = determine_state_city_or_country(name)
+    all_names = dataframe[city_names].unique().tolist()
+
+    for name in all_names:
+        newDataframe = dataframe.loc[dataframe.index_ == name]
+        newDataframe.drop(newDataframe.index[0])
+        newDataframe.to_csv(f"brazil/{name}.csv", index=False)
+
 def separate_each_city_on_dataframe(dataframe):
     # set the index to be this and don't drop
     dataframe.set_index(keys=['city'], drop=False,inplace=True)
@@ -124,13 +131,11 @@ brazil.loc[:,"sum_of_daily_deaths_week"] = brazil['daily deaths'].rolling(window
 
 brazil.to_csv("brazil/Brasil.csv")
 brazil.to_csv("Brasil.csv")
-#os.system("./upload2TheCloud.sh")
+os.system("./upload2TheCloud.sh")
 
 
 separate_each_city_on_dataframe(cities)
 createADataframeToEachState(states)
-
-
 
 
 print("It took {:.2f} minutes".format((time.time() - tempo_inicial)/60) )
