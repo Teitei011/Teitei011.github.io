@@ -1,6 +1,6 @@
 
 let covidGraphs = [];
-setup("brazil/Brasil");
+setup("Brasil");
 //console.log(covidGraphs);
 
 
