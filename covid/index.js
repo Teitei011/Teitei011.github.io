@@ -181,8 +181,8 @@ async function getData(locationName) {
   return {
     date,
     cases,
-    deaths,
     daily_cases,
+    deaths,
     daily_deaths,
     cases_moving_average,
     deaths_moving_average,
