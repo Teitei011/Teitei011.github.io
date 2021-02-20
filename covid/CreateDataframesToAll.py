@@ -1,6 +1,7 @@
 import multiprocessing as mp
 import pandas as pd
 import time
+import os
 #import numba
 
 PATH = "brazil/"
@@ -35,6 +36,13 @@ def divideByTwoWhenPossible(array):
     return array
 
 
+def changeDateOrder(array):
+    newArray = []
+    for date in array:
+        buffer = date.split("-")
+        newArray.append(buffer[2] + "-" + buffer1[1] + "-" + buffer1[0])
+    return newArray
+
 def splitDataframe2Something(dataframe, name): # Regiao pro Brasil né? # Estado tem que dividr por 2
 
     if (name == "estado"):
@@ -46,6 +54,7 @@ def splitDataframe2Something(dataframe, name): # Regiao pro Brasil né? # Estado
     else: # Municipios
          newDataframe = dataframe.groupby([name, "data"])[['casosAcumulado', 'casosNovos', 'obitosAcumulado', 'obitosNovos']].sum()
     
+    newDataframe["data"] = changeDateOrder(newDataframe["data"])
     newDataframe["daily cases moving average"] = newDataframe['casosNovos'].rolling(window=7).mean()
     newDataframe["daily deaths moving average"] = newDataframe['obitosNovos'].rolling(window=7).mean()
     newDataframe["sum_of_daily_cases_week"] = newDataframe['casosNovos'].rolling(window=7).sum() 
@@ -70,7 +79,7 @@ def main():
 
     print("It took {:.2f} minutes".format((time.time() - tempo_inicial)/60) )
 
-    os.system("./upload2TheCloud.sh")
+   # os.system("./upload2TheCloud.sh")
 
 if __name__ == "__main__":
     main()
