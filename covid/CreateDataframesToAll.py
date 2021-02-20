@@ -49,7 +49,7 @@ def splitDataframe2Something(dataframe, name): # Regiao pro Brasil né? # Estado
     newDataframe["daily cases moving average"] = newDataframe['casosNovos'].rolling(window=7).mean()
     newDataframe["daily deaths moving average"] = newDataframe['obitosNovos'].rolling(window=7).mean()
     newDataframe["sum_of_daily_cases_week"] = newDataframe['casosNovos'].rolling(window=7).sum() 
-    newDataframe["sum_of_daily_deaths_week"] = newDataframe['casosNovos'].rolling(window=7).sum() 
+    newDataframe["sum_of_daily_deaths_week"] = newDataframe['obitosNovos'].rolling(window=7).sum() 
 
     newDataframe.reset_index(inplace = True)
     return newDataframe

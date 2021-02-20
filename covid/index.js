@@ -147,14 +147,15 @@ async function getData(locationName) {
   const sum_of_daily_deaths_week = [];
   const table = data.split("\n").slice(1);
 
+
   table.forEach((row) => {
     const cols = row.split(",");
     date.push(cols[1]);
     cases.push(cols[2]);
-    deaths.push(cols[4]);
-
     daily_cases.push(cols[3]);
+    deaths.push(cols[4]);
     daily_deaths.push(cols[5]);
+
     cases_moving_average.push(cols[6]);
     deaths_moving_average.push(cols[7]);
 
