@@ -9,6 +9,7 @@ FILE_NAME = "brazil.csv"
 
 #@jit(nopython=True, parallel=True)
 def extractDataframeByName(dataframe, location):
+    print("Processing... 0%".format( (counter*100)/number_of_names))
     all_names = dataframe[location].unique().tolist()
 
     number_of_names = len(all_names)
@@ -18,7 +19,7 @@ def extractDataframeByName(dataframe, location):
         counter +=1 
 
         #print("Processing... {}  - {:.2f}%".format(name, (counter*100)/number_of_names))
-        if (counter % 500 == 0):
+        if (counter % 530 == 0):
             print("Processing... {:.2f}%".format( (counter*100)/number_of_names))
 
 
@@ -40,7 +41,7 @@ def changeDateOrder(array):
     newArray = []
     for date in array:
         buffer = date.split("-")
-        newArray.append(buffer[2] + "-" + buffer1[1] + "-" + buffer1[0])
+        newArray.append(buffer[2] + "-" + buffer[1] + "-" + buffer[0])
     return newArray
 
 def splitDataframe2Something(dataframe, name): # Regiao pro Brasil né? # Estado tem que dividr por 2
@@ -54,13 +55,14 @@ def splitDataframe2Something(dataframe, name): # Regiao pro Brasil né? # Estado
     else: # Municipios
          newDataframe = dataframe.groupby([name, "data"])[['casosAcumulado', 'casosNovos', 'obitosAcumulado', 'obitosNovos']].sum()
     
+    newDataframe.reset_index(inplace = True)
     newDataframe["data"] = changeDateOrder(newDataframe["data"])
     newDataframe["daily cases moving average"] = newDataframe['casosNovos'].rolling(window=7).mean()
     newDataframe["daily deaths moving average"] = newDataframe['obitosNovos'].rolling(window=7).mean()
     newDataframe["sum_of_daily_cases_week"] = newDataframe['casosNovos'].rolling(window=7).sum() 
     newDataframe["sum_of_daily_deaths_week"] = newDataframe['obitosNovos'].rolling(window=7).sum() 
 
-    newDataframe.reset_index(inplace = True)
+    
     return newDataframe
 
 def main():
@@ -79,7 +81,7 @@ def main():
 
     print("It took {:.2f} minutes".format((time.time() - tempo_inicial)/60) )
 
-   # os.system("./upload2TheCloud.sh")
+    os.system("./upload2TheCloud.sh")
 
 if __name__ == "__main__":
     main()
