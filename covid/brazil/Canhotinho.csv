@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Canhotinho,27-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Canhotinho,28-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Canhotinho,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Canhotinho,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Canhotinho,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Canhotinho,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -329,3 +329,4 @@ Canhotinho,16-02-2021,480,0,20,0,0.0,0.0,0.0,0.0
 Canhotinho,17-02-2021,480,0,20,0,0.0,0.0,0.0,0.0
 Canhotinho,18-02-2021,480,0,20,0,0.0,0.0,0.0,0.0
 Canhotinho,19-02-2021,480,0,20,0,0.0,0.0,0.0,0.0
+Canhotinho,20-02-2021,480,0,20,0,0.0,0.0,0.0,0.0

@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Ouro Verde de Goiás,27-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Ouro Verde de Goiás,28-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Ouro Verde de Goiás,29-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Ouro Verde de Goiás,30-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-Ouro Verde de Goiás,31-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Ouro Verde de Goiás,01-04-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Ouro Verde de Goiás,27-03-2020,0,0,0,0,3.2857142857142856,0.0,23.0,0.0
+Ouro Verde de Goiás,28-03-2020,0,0,0,0,3.2857142857142856,0.0,23.0,0.0
+Ouro Verde de Goiás,29-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
+Ouro Verde de Goiás,30-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Ouro Verde de Goiás,31-03-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
+Ouro Verde de Goiás,01-04-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
 Ouro Verde de Goiás,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Ouro Verde de Goiás,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Ouro Verde de Goiás,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -329,3 +329,4 @@ Ouro Verde de Goiás,16-02-2021,140,0,6,0,0.5714285714285714,0.0,4.0,0.0
 Ouro Verde de Goiás,17-02-2021,140,0,6,0,0.5714285714285714,0.0,4.0,0.0
 Ouro Verde de Goiás,18-02-2021,145,5,6,0,0.7142857142857143,0.0,5.0,0.0
 Ouro Verde de Goiás,19-02-2021,145,0,6,0,0.7142857142857143,0.0,5.0,0.0
+Ouro Verde de Goiás,20-02-2021,147,2,6,0,1.0,0.0,7.0,0.0

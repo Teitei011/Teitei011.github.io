@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Cachoeira dos Índios,27-03-2020,0,0,0,0,12.428571428571429,0.14285714285714285,87.0,1.0
-Cachoeira dos Índios,28-03-2020,0,0,0,0,8.714285714285714,0.14285714285714285,61.0,1.0
-Cachoeira dos Índios,29-03-2020,0,0,0,0,8.571428571428571,0.14285714285714285,60.0,1.0
-Cachoeira dos Índios,30-03-2020,0,0,0,0,1.8571428571428572,0.14285714285714285,13.0,1.0
-Cachoeira dos Índios,31-03-2020,0,0,0,0,-0.14285714285714285,0.0,-1.0,0.0
-Cachoeira dos Índios,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Cachoeira dos Índios,27-03-2020,0,0,0,0,14.0,0.14285714285714285,98.0,1.0
+Cachoeira dos Índios,28-03-2020,0,0,0,0,13.857142857142858,0.14285714285714285,97.0,1.0
+Cachoeira dos Índios,29-03-2020,0,0,0,0,7.142857142857143,0.14285714285714285,50.0,1.0
+Cachoeira dos Índios,30-03-2020,0,0,0,0,5.142857142857143,0.0,36.0,0.0
+Cachoeira dos Índios,31-03-2020,0,0,0,0,5.285714285714286,0.0,37.0,0.0
+Cachoeira dos Índios,01-04-2020,0,0,0,0,5.285714285714286,0.0,37.0,0.0
 Cachoeira dos Índios,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cachoeira dos Índios,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cachoeira dos Índios,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -329,3 +329,4 @@ Cachoeira dos Índios,16-02-2021,372,8,11,0,2.5714285714285716,0.0,18.0,0.0
 Cachoeira dos Índios,17-02-2021,377,5,11,0,3.0,0.0,21.0,0.0
 Cachoeira dos Índios,18-02-2021,382,5,11,0,3.5714285714285716,0.0,25.0,0.0
 Cachoeira dos Índios,19-02-2021,382,0,11,0,3.0,0.0,21.0,0.0
+Cachoeira dos Índios,20-02-2021,383,1,11,0,3.142857142857143,0.0,22.0,0.0

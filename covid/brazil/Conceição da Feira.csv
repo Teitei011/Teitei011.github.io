@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Conceição da Feira,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Conceição da Feira,27-03-2020,0,0,0,0,-0.2857142857142857,0.0,-2.0,0.0
 Conceição da Feira,28-03-2020,0,0,0,0,-0.2857142857142857,0.0,-2.0,0.0
-Conceição da Feira,29-03-2020,0,0,0,0,-0.2857142857142857,0.0,-2.0,0.0
+Conceição da Feira,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Conceição da Feira,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Conceição da Feira,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Conceição da Feira,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -329,3 +329,4 @@ Conceição da Feira,16-02-2021,935,0,12,0,1.0,0.0,7.0,0.0
 Conceição da Feira,17-02-2021,935,0,12,0,0.5714285714285714,0.0,4.0,0.0
 Conceição da Feira,18-02-2021,937,2,12,0,0.8571428571428571,0.0,6.0,0.0
 Conceição da Feira,19-02-2021,939,2,12,0,1.0,0.0,7.0,0.0
+Conceição da Feira,20-02-2021,940,1,12,0,1.0,0.0,7.0,0.0

@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Lagoa da Confusão,27-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
-Lagoa da Confusão,28-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Lagoa da Confusão,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Lagoa da Confusão,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Lagoa da Confusão,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Lagoa da Confusão,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Lagoa da Confusão,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lagoa da Confusão,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lagoa da Confusão,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lagoa da Confusão,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -329,3 +329,4 @@ Lagoa da Confusão,16-02-2021,847,0,15,0,6.428571428571429,0.0,45.0,0.0
 Lagoa da Confusão,17-02-2021,848,1,15,0,6.285714285714286,0.0,44.0,0.0
 Lagoa da Confusão,18-02-2021,850,2,15,0,6.571428571428571,0.0,46.0,0.0
 Lagoa da Confusão,19-02-2021,853,3,15,0,2.5714285714285716,0.0,18.0,0.0
+Lagoa da Confusão,20-02-2021,860,7,15,0,1.8571428571428572,0.0,13.0,0.0

@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Paty do Alferes,27-03-2020,0,0,0,0,11.285714285714286,-0.14285714285714285,79.0,-1.0
-Paty do Alferes,28-03-2020,0,0,0,0,11.285714285714286,-0.14285714285714285,79.0,-1.0
+Paty do Alferes,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Paty do Alferes,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Paty do Alferes,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Paty do Alferes,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -329,3 +329,4 @@ Paty do Alferes,16-02-2021,941,2,13,0,1.1428571428571428,0.0,8.0,0.0
 Paty do Alferes,17-02-2021,941,0,13,0,0.42857142857142855,0.0,3.0,0.0
 Paty do Alferes,18-02-2021,941,0,13,0,0.42857142857142855,0.0,3.0,0.0
 Paty do Alferes,19-02-2021,944,3,13,0,0.8571428571428571,0.0,6.0,0.0
+Paty do Alferes,20-02-2021,947,3,14,1,1.1428571428571428,0.14285714285714285,8.0,1.0

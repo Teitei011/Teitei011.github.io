@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Aurelino Leal,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Aurelino Leal,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Aurelino Leal,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Aurelino Leal,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Aurelino Leal,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -329,3 +329,4 @@ Aurelino Leal,16-02-2021,726,0,18,0,0.7142857142857143,0.14285714285714285,5.0,1
 Aurelino Leal,17-02-2021,727,1,18,0,0.5714285714285714,0.14285714285714285,4.0,1.0
 Aurelino Leal,18-02-2021,727,0,18,0,0.5714285714285714,0.0,4.0,0.0
 Aurelino Leal,19-02-2021,727,0,18,0,0.5714285714285714,0.0,4.0,0.0
+Aurelino Leal,20-02-2021,727,0,18,0,0.5714285714285714,0.0,4.0,0.0

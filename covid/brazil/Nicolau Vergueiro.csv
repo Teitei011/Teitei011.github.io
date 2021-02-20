@@ -2,9 +2,9 @@ municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases
 Nicolau Vergueiro,27-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
 Nicolau Vergueiro,28-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
 Nicolau Vergueiro,29-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Nicolau Vergueiro,30-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Nicolau Vergueiro,30-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Nicolau Vergueiro,31-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Nicolau Vergueiro,01-04-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Nicolau Vergueiro,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nicolau Vergueiro,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nicolau Vergueiro,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nicolau Vergueiro,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -329,3 +329,4 @@ Nicolau Vergueiro,16-02-2021,41,0,3,0,0.0,0.0,0.0,0.0
 Nicolau Vergueiro,17-02-2021,41,0,3,0,0.0,0.0,0.0,0.0
 Nicolau Vergueiro,18-02-2021,41,0,3,0,0.0,0.0,0.0,0.0
 Nicolau Vergueiro,19-02-2021,40,-1,3,0,-0.14285714285714285,0.0,-1.0,0.0
+Nicolau Vergueiro,20-02-2021,50,10,3,0,1.2857142857142858,0.0,9.0,0.0

@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São Domingos do Capim,27-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
-São Domingos do Capim,28-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
+São Domingos do Capim,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Domingos do Capim,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Domingos do Capim,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Domingos do Capim,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -329,3 +329,4 @@ São Domingos do Capim,16-02-2021,462,0,11,1,0.7142857142857143,0.14285714285714
 São Domingos do Capim,17-02-2021,462,0,11,0,0.42857142857142855,0.14285714285714285,3.0,1.0
 São Domingos do Capim,18-02-2021,462,0,11,0,0.42857142857142855,0.14285714285714285,3.0,1.0
 São Domingos do Capim,19-02-2021,464,2,11,0,0.5714285714285714,0.14285714285714285,4.0,1.0
+São Domingos do Capim,20-02-2021,467,3,14,3,0.7142857142857143,0.5714285714285714,5.0,4.0

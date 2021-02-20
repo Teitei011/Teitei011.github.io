@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Gonçalo do Piauí,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-São Gonçalo do Piauí,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-São Gonçalo do Piauí,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-São Gonçalo do Piauí,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-São Gonçalo do Piauí,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-São Gonçalo do Piauí,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+São Gonçalo do Piauí,27-03-2020,0,0,0,0,4.571428571428571,0.0,32.0,0.0
+São Gonçalo do Piauí,28-03-2020,0,0,0,0,4.571428571428571,0.0,32.0,0.0
+São Gonçalo do Piauí,29-03-2020,0,0,0,0,4.571428571428571,0.0,32.0,0.0
+São Gonçalo do Piauí,30-03-2020,0,0,0,0,4.571428571428571,0.0,32.0,0.0
+São Gonçalo do Piauí,31-03-2020,0,0,0,0,4.571428571428571,0.0,32.0,0.0
+São Gonçalo do Piauí,01-04-2020,0,0,0,0,4.571428571428571,0.0,32.0,0.0
 São Gonçalo do Piauí,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Gonçalo do Piauí,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Gonçalo do Piauí,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -329,3 +329,4 @@ São Gonçalo do Piauí,16-02-2021,186,0,2,0,1.5714285714285714,0.0,11.0,0.0
 São Gonçalo do Piauí,17-02-2021,186,0,2,0,0.7142857142857143,0.0,5.0,0.0
 São Gonçalo do Piauí,18-02-2021,187,1,2,0,0.8571428571428571,0.0,6.0,0.0
 São Gonçalo do Piauí,19-02-2021,187,0,2,0,0.42857142857142855,0.0,3.0,0.0
+São Gonçalo do Piauí,20-02-2021,188,1,2,0,0.5714285714285714,0.0,4.0,0.0

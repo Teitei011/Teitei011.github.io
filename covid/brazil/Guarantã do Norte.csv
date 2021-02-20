@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Guarantã do Norte,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Guarantã do Norte,28-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Guarantã do Norte,27-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Guarantã do Norte,28-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
 Guarantã do Norte,29-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Guarantã do Norte,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Guarantã do Norte,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Guarantã do Norte,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Guarantã do Norte,30-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Guarantã do Norte,31-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Guarantã do Norte,01-04-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Guarantã do Norte,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Guarantã do Norte,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Guarantã do Norte,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -329,3 +329,4 @@ Guarantã do Norte,16-02-2021,1561,4,28,0,5.285714285714286,0.14285714285714285,
 Guarantã do Norte,17-02-2021,1565,4,28,0,4.714285714285714,0.0,33.0,0.0
 Guarantã do Norte,18-02-2021,1570,5,28,0,5.285714285714286,0.0,37.0,0.0
 Guarantã do Norte,19-02-2021,1583,13,28,0,4.857142857142857,0.0,34.0,0.0
+Guarantã do Norte,20-02-2021,1597,14,28,0,6.0,0.0,42.0,0.0

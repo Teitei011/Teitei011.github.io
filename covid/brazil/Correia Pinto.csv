@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Correia Pinto,27-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Correia Pinto,27-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
 Correia Pinto,28-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
 Correia Pinto,29-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-Correia Pinto,30-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Correia Pinto,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Correia Pinto,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Correia Pinto,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Correia Pinto,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -329,3 +329,4 @@ Correia Pinto,16-02-2021,811,0,26,0,0.5714285714285714,0.14285714285714285,4.0,1
 Correia Pinto,17-02-2021,813,2,26,0,0.7142857142857143,0.14285714285714285,5.0,1.0
 Correia Pinto,18-02-2021,818,5,26,0,1.4285714285714286,0.0,10.0,0.0
 Correia Pinto,19-02-2021,819,1,26,0,1.5714285714285714,0.0,11.0,0.0
+Correia Pinto,20-02-2021,820,1,26,0,1.5714285714285714,0.0,11.0,0.0

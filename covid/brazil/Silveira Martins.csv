@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Silveira Martins,27-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
-Silveira Martins,28-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
-Silveira Martins,29-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
-Silveira Martins,30-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
-Silveira Martins,31-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
-Silveira Martins,01-04-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Silveira Martins,27-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Silveira Martins,28-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Silveira Martins,29-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
+Silveira Martins,30-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
+Silveira Martins,31-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Silveira Martins,01-04-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Silveira Martins,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Silveira Martins,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Silveira Martins,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -329,3 +329,4 @@ Silveira Martins,16-02-2021,55,0,3,0,0.0,0.14285714285714285,0.0,1.0
 Silveira Martins,17-02-2021,55,0,3,0,0.0,0.0,0.0,0.0
 Silveira Martins,18-02-2021,55,0,3,0,0.0,0.0,0.0,0.0
 Silveira Martins,19-02-2021,55,0,3,0,0.0,0.0,0.0,0.0
+Silveira Martins,20-02-2021,55,0,3,0,0.0,0.0,0.0,0.0

@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Aparecida do Taboado,27-03-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
-Aparecida do Taboado,28-03-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
-Aparecida do Taboado,29-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
-Aparecida do Taboado,30-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
-Aparecida do Taboado,31-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
-Aparecida do Taboado,01-04-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Aparecida do Taboado,27-03-2020,0,0,0,0,2.2857142857142856,0.0,16.0,0.0
+Aparecida do Taboado,28-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Aparecida do Taboado,29-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Aparecida do Taboado,30-03-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
+Aparecida do Taboado,31-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Aparecida do Taboado,01-04-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Aparecida do Taboado,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Aparecida do Taboado,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Aparecida do Taboado,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -329,3 +329,4 @@ Aparecida do Taboado,16-02-2021,1400,0,23,0,5.857142857142857,0.0,41.0,0.0
 Aparecida do Taboado,17-02-2021,1400,0,23,0,4.857142857142857,0.0,34.0,0.0
 Aparecida do Taboado,18-02-2021,1411,11,24,1,5.571428571428571,0.14285714285714285,39.0,1.0
 Aparecida do Taboado,19-02-2021,1422,11,24,0,4.857142857142857,0.14285714285714285,34.0,1.0
+Aparecida do Taboado,20-02-2021,1444,22,24,0,6.285714285714286,0.14285714285714285,44.0,1.0

@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Belo Oriente,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Belo Oriente,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Belo Oriente,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Belo Oriente,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Belo Oriente,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -329,3 +329,4 @@ Belo Oriente,16-02-2021,1395,3,25,0,5.857142857142857,0.0,41.0,0.0
 Belo Oriente,17-02-2021,1397,2,25,0,5.428571428571429,0.0,38.0,0.0
 Belo Oriente,18-02-2021,1405,8,25,0,5.857142857142857,0.0,41.0,0.0
 Belo Oriente,19-02-2021,1408,3,25,0,4.857142857142857,0.0,34.0,0.0
+Belo Oriente,20-02-2021,1416,8,25,0,4.714285714285714,0.0,33.0,0.0

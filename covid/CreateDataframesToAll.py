@@ -5,11 +5,11 @@ import os
 #import numba
 
 PATH = "brazil/"
-FILE_NAME = "brazil.csv"
+FILE_NAME = "Brazil.csv"
 
 #@jit(nopython=True, parallel=True)
 def extractDataframeByName(dataframe, location):
-    print("Processing... 0%".format( (counter*100)/number_of_names))
+    print("Processing... 0%")
     all_names = dataframe[location].unique().tolist()
 
     number_of_names = len(all_names)
@@ -81,7 +81,8 @@ def main():
 
     print("It took {:.2f} minutes".format((time.time() - tempo_inicial)/60) )
 
-    #os.system("./upload2TheCloud.sh")
+    os.system("rm Brazil.csv")
+    os.system("./upload2TheCloud.sh")
 
 if __name__ == "__main__":
     main()

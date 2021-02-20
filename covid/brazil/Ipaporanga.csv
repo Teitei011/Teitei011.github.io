@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Ipaporanga,27-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
-Ipaporanga,28-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Ipaporanga,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Ipaporanga,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Ipaporanga,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Ipaporanga,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -329,3 +329,4 @@ Ipaporanga,16-02-2021,505,2,3,0,1.7142857142857142,0.0,12.0,0.0
 Ipaporanga,17-02-2021,517,12,3,0,3.4285714285714284,0.0,24.0,0.0
 Ipaporanga,18-02-2021,517,0,3,0,3.4285714285714284,0.0,24.0,0.0
 Ipaporanga,19-02-2021,505,-12,3,0,1.7142857142857142,0.0,12.0,0.0
+Ipaporanga,20-02-2021,505,0,3,0,1.7142857142857142,0.0,12.0,0.0

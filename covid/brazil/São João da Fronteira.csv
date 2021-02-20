@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São João da Fronteira,27-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+São João da Fronteira,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São João da Fronteira,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São João da Fronteira,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São João da Fronteira,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -329,3 +329,4 @@ São João da Fronteira,16-02-2021,144,0,0,0,0.0,0.0,0.0,0.0
 São João da Fronteira,17-02-2021,144,0,0,0,0.0,0.0,0.0,0.0
 São João da Fronteira,18-02-2021,144,0,0,0,0.0,0.0,0.0,0.0
 São João da Fronteira,19-02-2021,144,0,0,0,0.0,0.0,0.0,0.0
+São João da Fronteira,20-02-2021,144,0,0,0,0.0,0.0,0.0,0.0

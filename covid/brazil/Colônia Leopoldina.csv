@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Colônia Leopoldina,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Colônia Leopoldina,28-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Colônia Leopoldina,29-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Colônia Leopoldina,30-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Colônia Leopoldina,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Colônia Leopoldina,29-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Colônia Leopoldina,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Colônia Leopoldina,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Colônia Leopoldina,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Colônia Leopoldina,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Colônia Leopoldina,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -329,3 +329,4 @@ Colônia Leopoldina,16-02-2021,267,0,12,0,0.0,0.14285714285714285,0.0,1.0
 Colônia Leopoldina,17-02-2021,267,0,12,0,0.0,0.14285714285714285,0.0,1.0
 Colônia Leopoldina,18-02-2021,267,0,12,0,0.0,0.14285714285714285,0.0,1.0
 Colônia Leopoldina,19-02-2021,267,0,12,0,0.0,0.14285714285714285,0.0,1.0
+Colônia Leopoldina,20-02-2021,268,1,12,0,0.14285714285714285,0.0,1.0,0.0

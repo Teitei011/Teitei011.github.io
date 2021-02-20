@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Palmeira das Missões,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Palmeira das Missões,28-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Palmeira das Missões,29-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Palmeira das Missões,30-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Palmeira das Missões,31-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Palmeira das Missões,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Palmeira das Missões,27-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Palmeira das Missões,28-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Palmeira das Missões,29-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Palmeira das Missões,30-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Palmeira das Missões,31-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Palmeira das Missões,01-04-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Palmeira das Missões,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Palmeira das Missões,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Palmeira das Missões,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -329,3 +329,4 @@ Palmeira das Missões,16-02-2021,1833,0,32,0,7.285714285714286,0.0,51.0,0.0
 Palmeira das Missões,17-02-2021,1838,5,32,0,7.571428571428571,0.0,53.0,0.0
 Palmeira das Missões,18-02-2021,1841,3,32,0,4.571428571428571,0.0,32.0,0.0
 Palmeira das Missões,19-02-2021,1842,1,33,1,4.714285714285714,0.14285714285714285,33.0,1.0
+Palmeira das Missões,20-02-2021,1842,0,33,0,4.571428571428571,0.14285714285714285,32.0,1.0
