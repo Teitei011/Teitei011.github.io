@@ -104,8 +104,7 @@ function setupBoxWithData(covidCases, locationName){
   //document.getElementById("DadosAtualizados").innerHTML = "<center>Esperando o Ministério da Saúde atualizar seus dados: " +"</center>" ;
  
  
-  document.getElementById("DadosAtualizados").innerHTML = "<center>Dados atualizados no dia: "  + changeDateOrder(covidCases.date[covidCases.cases.length -1]) + " 20:00" +"</center>" ;
-
+  document.getElementById("DadosAtualizados").innerHTML = "<center>Dados atualizados no dia: "  + covidCases.date[covidCases.cases.length -1] + " 20:00" +"</center>" ;
 }
 
 

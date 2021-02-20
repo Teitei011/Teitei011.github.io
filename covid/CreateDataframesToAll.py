@@ -81,7 +81,7 @@ def main():
 
     print("It took {:.2f} minutes".format((time.time() - tempo_inicial)/60) )
 
-    os.system("./upload2TheCloud.sh")
+    #os.system("./upload2TheCloud.sh")
 
 if __name__ == "__main__":
     main()
