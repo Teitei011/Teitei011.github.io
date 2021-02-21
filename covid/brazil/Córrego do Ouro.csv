@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Córrego do Ouro,27-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Córrego do Ouro,28-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Córrego do Ouro,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Córrego do Ouro,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Córrego do Ouro,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Córrego do Ouro,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -330,3 +330,4 @@ Córrego do Ouro,17-02-2021,128,0,1,0,0.5714285714285714,0.0,4.0,0.0
 Córrego do Ouro,18-02-2021,128,0,1,0,0.5714285714285714,0.0,4.0,0.0
 Córrego do Ouro,19-02-2021,129,1,1,0,0.7142857142857143,0.0,5.0,0.0
 Córrego do Ouro,20-02-2021,129,0,1,0,0.7142857142857143,0.0,5.0,0.0
+Córrego do Ouro,21-02-2021,129,0,1,0,0.7142857142857143,0.0,5.0,0.0

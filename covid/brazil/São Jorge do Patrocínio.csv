@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Jorge do Patrocínio,27-03-2020,0,0,0,0,2.2857142857142856,0.0,16.0,0.0
-São Jorge do Patrocínio,28-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
-São Jorge do Patrocínio,29-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+São Jorge do Patrocínio,27-03-2020,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
+São Jorge do Patrocínio,28-03-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
+São Jorge do Patrocínio,29-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
 São Jorge do Patrocínio,30-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-São Jorge do Patrocínio,31-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+São Jorge do Patrocínio,31-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
 São Jorge do Patrocínio,01-04-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 São Jorge do Patrocínio,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Jorge do Patrocínio,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -330,3 +330,4 @@ São Jorge do Patrocínio,17-02-2021,209,2,0,0,2.0,0.0,14.0,0.0
 São Jorge do Patrocínio,18-02-2021,210,1,0,0,2.142857142857143,0.0,15.0,0.0
 São Jorge do Patrocínio,19-02-2021,210,0,0,0,1.5714285714285714,0.0,11.0,0.0
 São Jorge do Patrocínio,20-02-2021,217,7,0,0,2.2857142857142856,0.0,16.0,0.0
+São Jorge do Patrocínio,21-02-2021,217,0,0,0,2.2857142857142856,0.0,16.0,0.0

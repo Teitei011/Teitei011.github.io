@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São José do Cedro,27-03-2020,0,0,0,0,3.0,0.14285714285714285,21.0,1.0
+São José do Cedro,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José do Cedro,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José do Cedro,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José do Cedro,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -330,3 +330,4 @@ São José do Cedro,17-02-2021,472,8,4,0,4.571428571428571,0.0,32.0,0.0
 São José do Cedro,18-02-2021,486,14,4,0,6.0,0.0,42.0,0.0
 São José do Cedro,19-02-2021,486,0,4,0,5.285714285714286,0.0,37.0,0.0
 São José do Cedro,20-02-2021,497,11,4,0,6.142857142857143,0.0,43.0,0.0
+São José do Cedro,21-02-2021,498,1,4,0,6.285714285714286,0.0,44.0,0.0

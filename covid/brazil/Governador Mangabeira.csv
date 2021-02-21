@@ -2,7 +2,7 @@ municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases
 Governador Mangabeira,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Governador Mangabeira,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Governador Mangabeira,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Governador Mangabeira,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Governador Mangabeira,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Mangabeira,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Mangabeira,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Mangabeira,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -330,3 +330,4 @@ Governador Mangabeira,17-02-2021,493,3,5,0,4.857142857142857,0.2857142857142857,
 Governador Mangabeira,18-02-2021,495,2,5,0,5.0,0.2857142857142857,35.0,2.0
 Governador Mangabeira,19-02-2021,496,1,5,0,3.857142857142857,0.2857142857142857,27.0,2.0
 Governador Mangabeira,20-02-2021,497,1,5,0,3.7142857142857144,0.14285714285714285,26.0,1.0
+Governador Mangabeira,21-02-2021,503,6,5,0,4.142857142857143,0.14285714285714285,29.0,1.0

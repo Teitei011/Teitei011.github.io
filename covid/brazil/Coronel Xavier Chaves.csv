@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Coronel Xavier Chaves,27-03-2020,0,0,0,0,18.428571428571427,0.2857142857142857,129.0,2.0
-Coronel Xavier Chaves,28-03-2020,0,0,0,0,15.571428571428571,0.2857142857142857,109.0,2.0
-Coronel Xavier Chaves,29-03-2020,0,0,0,0,11.0,0.14285714285714285,77.0,1.0
-Coronel Xavier Chaves,30-03-2020,0,0,0,0,11.285714285714286,0.0,79.0,0.0
-Coronel Xavier Chaves,31-03-2020,0,0,0,0,8.714285714285714,0.0,61.0,0.0
-Coronel Xavier Chaves,01-04-2020,0,0,0,0,5.428571428571429,0.0,38.0,0.0
+Coronel Xavier Chaves,27-03-2020,0,0,0,0,23.0,0.2857142857142857,161.0,2.0
+Coronel Xavier Chaves,28-03-2020,0,0,0,0,18.428571428571427,0.14285714285714285,129.0,1.0
+Coronel Xavier Chaves,29-03-2020,0,0,0,0,18.714285714285715,0.0,131.0,0.0
+Coronel Xavier Chaves,30-03-2020,0,0,0,0,16.142857142857142,0.0,113.0,0.0
+Coronel Xavier Chaves,31-03-2020,0,0,0,0,12.857142857142858,0.0,90.0,0.0
+Coronel Xavier Chaves,01-04-2020,0,0,0,0,7.428571428571429,0.0,52.0,0.0
 Coronel Xavier Chaves,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coronel Xavier Chaves,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coronel Xavier Chaves,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -330,3 +330,4 @@ Coronel Xavier Chaves,17-02-2021,121,7,1,0,1.1428571428571428,0.0,8.0,0.0
 Coronel Xavier Chaves,18-02-2021,121,0,1,0,1.1428571428571428,0.0,8.0,0.0
 Coronel Xavier Chaves,19-02-2021,121,0,1,0,1.1428571428571428,0.0,8.0,0.0
 Coronel Xavier Chaves,20-02-2021,121,0,1,0,1.1428571428571428,0.0,8.0,0.0
+Coronel Xavier Chaves,21-02-2021,121,0,1,0,1.0,0.0,7.0,0.0

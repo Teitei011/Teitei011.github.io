@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Cachoeira do Piriá,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Cachoeira do Piriá,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cachoeira do Piriá,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cachoeira do Piriá,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cachoeira do Piriá,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -330,3 +330,4 @@ Cachoeira do Piriá,17-02-2021,542,0,3,0,0.0,0.0,0.0,0.0
 Cachoeira do Piriá,18-02-2021,542,0,3,0,0.0,0.0,0.0,0.0
 Cachoeira do Piriá,19-02-2021,542,0,3,0,0.0,0.0,0.0,0.0
 Cachoeira do Piriá,20-02-2021,542,0,3,0,0.0,0.0,0.0,0.0
+Cachoeira do Piriá,21-02-2021,542,0,3,0,0.0,0.0,0.0,0.0

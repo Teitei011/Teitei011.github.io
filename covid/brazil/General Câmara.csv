@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-General Câmara,27-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-General Câmara,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+General Câmara,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+General Câmara,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 General Câmara,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 General Câmara,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 General Câmara,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -330,3 +330,4 @@ General Câmara,17-02-2021,285,0,12,0,2.2857142857142856,0.0,16.0,0.0
 General Câmara,18-02-2021,284,-1,12,0,0.8571428571428571,0.0,6.0,0.0
 General Câmara,19-02-2021,284,0,12,0,0.8571428571428571,0.0,6.0,0.0
 General Câmara,20-02-2021,284,0,12,0,-0.14285714285714285,0.0,-1.0,0.0
+General Câmara,21-02-2021,285,1,12,0,-0.14285714285714285,0.0,-1.0,0.0

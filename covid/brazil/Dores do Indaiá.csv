@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Dores do Indaiá,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Dores do Indaiá,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Dores do Indaiá,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Dores do Indaiá,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Dores do Indaiá,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Dores do Indaiá,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Dores do Indaiá,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -330,3 +330,4 @@ Dores do Indaiá,17-02-2021,428,3,7,0,1.7142857142857142,0.0,12.0,0.0
 Dores do Indaiá,18-02-2021,431,3,7,0,1.4285714285714286,0.0,10.0,0.0
 Dores do Indaiá,19-02-2021,432,1,7,0,1.2857142857142858,0.0,9.0,0.0
 Dores do Indaiá,20-02-2021,434,2,7,0,1.2857142857142858,0.0,9.0,0.0
+Dores do Indaiá,21-02-2021,434,0,7,0,1.2857142857142858,0.0,9.0,0.0

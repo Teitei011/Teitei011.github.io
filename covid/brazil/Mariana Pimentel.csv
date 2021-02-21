@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Mariana Pimentel,27-03-2020,0,0,0,0,5.142857142857143,0.0,36.0,0.0
-Mariana Pimentel,28-03-2020,0,0,0,0,5.142857142857143,0.0,36.0,0.0
-Mariana Pimentel,29-03-2020,0,0,0,0,5.142857142857143,0.0,36.0,0.0
-Mariana Pimentel,30-03-2020,0,0,0,0,5.142857142857143,0.0,36.0,0.0
-Mariana Pimentel,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Mariana Pimentel,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Mariana Pimentel,27-03-2020,0,0,0,0,20.285714285714285,0.0,142.0,0.0
+Mariana Pimentel,28-03-2020,0,0,0,0,20.285714285714285,0.0,142.0,0.0
+Mariana Pimentel,29-03-2020,0,0,0,0,20.285714285714285,0.0,142.0,0.0
+Mariana Pimentel,30-03-2020,0,0,0,0,15.142857142857142,0.0,106.0,0.0
+Mariana Pimentel,31-03-2020,0,0,0,0,15.142857142857142,0.0,106.0,0.0
+Mariana Pimentel,01-04-2020,0,0,0,0,15.142857142857142,0.0,106.0,0.0
 Mariana Pimentel,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Mariana Pimentel,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Mariana Pimentel,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -330,3 +330,4 @@ Mariana Pimentel,17-02-2021,94,0,2,0,0.5714285714285714,0.0,4.0,0.0
 Mariana Pimentel,18-02-2021,94,0,2,0,0.2857142857142857,0.0,2.0,0.0
 Mariana Pimentel,19-02-2021,94,0,2,0,0.0,0.0,0.0,0.0
 Mariana Pimentel,20-02-2021,94,0,2,0,0.0,0.0,0.0,0.0
+Mariana Pimentel,21-02-2021,94,0,2,0,0.0,0.0,0.0,0.0

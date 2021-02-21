@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Governador Edison Lobão,27-03-2020,0,0,0,0,3.857142857142857,0.0,27.0,0.0
+Governador Edison Lobão,27-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
 Governador Edison Lobão,28-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
 Governador Edison Lobão,29-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Governador Edison Lobão,30-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Governador Edison Lobão,31-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Governador Edison Lobão,30-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Governador Edison Lobão,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Edison Lobão,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Edison Lobão,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Edison Lobão,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -330,3 +330,4 @@ Governador Edison Lobão,17-02-2021,571,0,8,0,0.0,0.0,0.0,0.0
 Governador Edison Lobão,18-02-2021,571,0,8,0,0.0,0.0,0.0,0.0
 Governador Edison Lobão,19-02-2021,571,0,8,0,0.0,0.0,0.0,0.0
 Governador Edison Lobão,20-02-2021,571,0,8,0,0.0,0.0,0.0,0.0
+Governador Edison Lobão,21-02-2021,571,0,8,0,0.0,0.0,0.0,0.0

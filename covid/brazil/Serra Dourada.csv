@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Serra Dourada,27-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Serra Dourada,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Serra Dourada,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Serra Dourada,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Serra Dourada,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -330,3 +330,4 @@ Serra Dourada,17-02-2021,381,0,6,0,0.0,0.0,0.0,0.0
 Serra Dourada,18-02-2021,381,0,6,0,0.0,0.0,0.0,0.0
 Serra Dourada,19-02-2021,381,0,6,0,0.0,0.0,0.0,0.0
 Serra Dourada,20-02-2021,381,0,6,0,0.0,0.0,0.0,0.0
+Serra Dourada,21-02-2021,381,0,6,0,0.0,0.0,0.0,0.0

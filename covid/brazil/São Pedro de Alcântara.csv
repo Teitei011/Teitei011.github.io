@@ -2,7 +2,7 @@ municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases
 São Pedro de Alcântara,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 São Pedro de Alcântara,28-03-2020,1,1,0,0,0.2857142857142857,0.0,2.0,0.0
 São Pedro de Alcântara,29-03-2020,1,0,0,0,0.2857142857142857,0.0,2.0,0.0
-São Pedro de Alcântara,30-03-2020,1,0,0,0,0.2857142857142857,0.0,2.0,0.0
+São Pedro de Alcântara,30-03-2020,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
 São Pedro de Alcântara,31-03-2020,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
 São Pedro de Alcântara,01-04-2020,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
 São Pedro de Alcântara,02-04-2020,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
@@ -330,3 +330,4 @@ São Pedro de Alcântara,17-02-2021,534,0,4,0,0.0,0.0,0.0,0.0
 São Pedro de Alcântara,18-02-2021,534,0,4,0,0.0,0.0,0.0,0.0
 São Pedro de Alcântara,19-02-2021,533,-1,4,0,-0.14285714285714285,0.0,-1.0,0.0
 São Pedro de Alcântara,20-02-2021,533,0,4,0,0.0,0.0,0.0,0.0
+São Pedro de Alcântara,21-02-2021,533,0,4,0,0.0,0.0,0.0,0.0

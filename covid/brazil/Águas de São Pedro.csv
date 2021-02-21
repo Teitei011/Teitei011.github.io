@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Águas de São Pedro,27-03-2020,0,0,0,0,4.142857142857143,0.0,29.0,0.0
 Águas de São Pedro,28-03-2020,0,0,0,0,4.142857142857143,0.0,29.0,0.0
-Águas de São Pedro,29-03-2020,0,0,0,0,4.142857142857143,0.0,29.0,0.0
-Águas de São Pedro,30-03-2020,0,0,0,0,3.142857142857143,0.0,22.0,0.0
-Águas de São Pedro,31-03-2020,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
-Águas de São Pedro,01-04-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
+Águas de São Pedro,29-03-2020,0,0,0,0,3.142857142857143,0.0,22.0,0.0
+Águas de São Pedro,30-03-2020,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
+Águas de São Pedro,31-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
+Águas de São Pedro,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Águas de São Pedro,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Águas de São Pedro,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Águas de São Pedro,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -330,3 +330,4 @@ municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases
 Águas de São Pedro,18-02-2021,127,1,2,0,0.7142857142857143,0.0,5.0,0.0
 Águas de São Pedro,19-02-2021,131,4,2,0,1.0,0.0,7.0,0.0
 Águas de São Pedro,20-02-2021,131,0,2,0,0.7142857142857143,0.0,5.0,0.0
+Águas de São Pedro,21-02-2021,131,0,2,0,0.7142857142857143,0.0,5.0,0.0

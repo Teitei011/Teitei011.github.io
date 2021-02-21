@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Campos dos Goytacazes,27-03-2020,0,0,0,0,12.142857142857142,0.0,85.0,0.0
-Campos dos Goytacazes,28-03-2020,1,1,0,0,11.428571428571429,0.0,80.0,0.0
-Campos dos Goytacazes,29-03-2020,1,0,0,0,6.428571428571429,0.0,45.0,0.0
-Campos dos Goytacazes,30-03-2020,1,0,0,0,1.1428571428571428,0.0,8.0,0.0
-Campos dos Goytacazes,31-03-2020,1,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Campos dos Goytacazes,01-04-2020,1,0,0,0,0.0,0.0,0.0,0.0
+Campos dos Goytacazes,27-03-2020,0,0,0,0,11.571428571428571,0.0,81.0,0.0
+Campos dos Goytacazes,28-03-2020,1,1,0,0,6.714285714285714,0.0,47.0,0.0
+Campos dos Goytacazes,29-03-2020,1,0,0,0,1.4285714285714286,0.0,10.0,0.0
+Campos dos Goytacazes,30-03-2020,1,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Campos dos Goytacazes,31-03-2020,1,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Campos dos Goytacazes,01-04-2020,1,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Campos dos Goytacazes,02-04-2020,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Campos dos Goytacazes,03-04-2020,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Campos dos Goytacazes,04-04-2020,1,0,0,0,0.0,0.0,0.0,0.0
@@ -330,3 +330,4 @@ Campos dos Goytacazes,17-02-2021,17258,1,697,0,22.0,1.7142857142857142,154.0,12.
 Campos dos Goytacazes,18-02-2021,17275,17,701,4,13.571428571428571,2.0,95.0,14.0
 Campos dos Goytacazes,19-02-2021,17302,27,706,5,9.142857142857142,1.7142857142857142,64.0,12.0
 Campos dos Goytacazes,20-02-2021,17337,35,711,5,12.428571428571429,2.0,87.0,14.0
+Campos dos Goytacazes,21-02-2021,17346,9,711,0,13.428571428571429,2.0,94.0,14.0

@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Álvares Machado,27-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-Álvares Machado,28-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Álvares Machado,28-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
 Álvares Machado,29-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Álvares Machado,30-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Álvares Machado,31-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Álvares Machado,01-04-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Álvares Machado,30-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Álvares Machado,31-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Álvares Machado,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Álvares Machado,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Álvares Machado,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Álvares Machado,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -330,3 +330,4 @@ municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases
 Álvares Machado,18-02-2021,650,14,15,0,5.571428571428571,0.0,39.0,0.0
 Álvares Machado,19-02-2021,654,4,15,0,3.857142857142857,0.0,27.0,0.0
 Álvares Machado,20-02-2021,659,5,15,0,4.0,0.0,28.0,0.0
+Álvares Machado,21-02-2021,660,1,15,0,4.0,0.0,28.0,0.0

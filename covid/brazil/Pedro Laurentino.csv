@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Pedro Laurentino,27-03-2020,0,0,0,0,9.142857142857142,0.14285714285714285,64.0,1.0
-Pedro Laurentino,28-03-2020,0,0,0,0,9.0,0.14285714285714285,63.0,1.0
-Pedro Laurentino,29-03-2020,0,0,0,0,4.714285714285714,0.14285714285714285,33.0,1.0
-Pedro Laurentino,30-03-2020,0,0,0,0,3.5714285714285716,0.14285714285714285,25.0,1.0
-Pedro Laurentino,31-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
-Pedro Laurentino,01-04-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Pedro Laurentino,28-03-2020,0,0,0,0,4.857142857142857,0.14285714285714285,34.0,1.0
+Pedro Laurentino,29-03-2020,0,0,0,0,3.7142857142857144,0.14285714285714285,26.0,1.0
+Pedro Laurentino,30-03-2020,0,0,0,0,2.2857142857142856,0.0,16.0,0.0
+Pedro Laurentino,31-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Pedro Laurentino,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Pedro Laurentino,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pedro Laurentino,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pedro Laurentino,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -330,3 +330,4 @@ Pedro Laurentino,17-02-2021,61,0,2,0,0.0,0.0,0.0,0.0
 Pedro Laurentino,18-02-2021,61,0,2,0,0.0,0.0,0.0,0.0
 Pedro Laurentino,19-02-2021,61,0,2,0,0.0,0.0,0.0,0.0
 Pedro Laurentino,20-02-2021,61,0,2,0,0.0,0.0,0.0,0.0
+Pedro Laurentino,21-02-2021,61,0,2,0,0.0,0.0,0.0,0.0
