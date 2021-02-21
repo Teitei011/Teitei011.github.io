@@ -74,10 +74,10 @@ def main():
     cities = splitDataframe2Something(unprocessedDataset, "municipio")
     states = splitDataframe2Something(unprocessedDataset, "estado")
     brazil = splitDataframe2Something(unprocessedDataset, "Brasil")
-    brazil.to_csv(f"{PATH}/brasil.csv")
+    brazil.to_csv(f"{PATH}/Brasil.csv")
 
-    extractDataframeByName(cities, "municipio")
-    extractDataframeByName(states, "estado")
+    #extractDataframeByName(cities, "municipio")
+    #extractDataframeByName(states, "estado")
 
     print("It took {:.2f} minutes".format((time.time() - tempo_inicial)/60) )
 
