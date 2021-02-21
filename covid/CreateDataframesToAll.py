@@ -74,7 +74,7 @@ def main():
     cities = splitDataframe2Something(unprocessedDataset, "municipio")
     states = splitDataframe2Something(unprocessedDataset, "estado")
     brazil = splitDataframe2Something(unprocessedDataset, "Brasil")
-    brazil.to_csv(f"{PATH}/Brasil.csv")
+    brazil.to_csv(f"{PATH}/Brasil.csv", index=False)
 
     #extractDataframeByName(cities, "municipio")
     #extractDataframeByName(states, "estado")
