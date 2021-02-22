@@ -104,7 +104,7 @@ function setupBoxWithData(covidCases, locationName){
   //document.getElementById("DadosAtualizados").innerHTML = "<center>Esperando o Ministério da Saúde atualizar seus dados: " +"</center>" ;
  
  
-  document.getElementById("DadosAtualizados").innerHTML = "<center>Dados atualizados no dia: "  + covidCases.date[covidCases.cases.length -1] + " 20:00" +"</center>" ;
+  document.getElementById("DadosAtualizados").innerHTML = "<center>Dados atualizados no dia: "  + changeDateSign(covidCases.date[covidCases.cases.length -1]) + " 20:00" +"</center>" ;
 }
 
 
@@ -206,6 +206,7 @@ function change2Dot(nStr){
 
  function changeNumber(value){
   return  value.replace(".", ',');
+
  } 
 
  async function changeDateOrderArray(array){
@@ -217,9 +218,8 @@ function change2Dot(nStr){
   return new_array;
 }
 
- function changeDateOrder(nStr){
-  let x = nStr.split('-');
-  return x[2] + "/" + x[1] + "/" + x[0];
+ function changeDateSign(nStr){
+    return nStr.replace("-", "/")
  }
 
 //          <img src="https://profile-counter.glitch.me/Teitei011/count.svg"></img> 
