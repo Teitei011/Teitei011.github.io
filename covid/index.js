@@ -133,7 +133,6 @@ async function graphIt(chartId, label, type, date, data_covid) {
 
 async function getData(locationName) {
   const response = await fetch("brazil/" + locationName + ".csv");
-  console.log("brazil/" + locationName + ".csv")
   const data = await response.text();
 
   const date = [];
@@ -164,16 +163,16 @@ async function getData(locationName) {
     });
 
 
-      // Removing the undefined value
-    date.pop();
-    cases.pop();
-    deaths.pop();
-    daily_cases.pop();
-    daily_deaths.pop();
-    cases_moving_average.pop();
-    deaths_moving_average.pop();
-    sum_of_daily_cases_week.pop();
-    sum_of_daily_deaths_week.pop();
+        // Brasil dataset is different than the rest 
+      date.pop();
+      cases.pop();
+      deaths.pop();
+      daily_cases.pop();
+      daily_deaths.pop();
+      cases_moving_average.pop();
+      deaths_moving_average.pop();
+      sum_of_daily_cases_week.pop();
+      sum_of_daily_deaths_week.pop();
 
 
    // date = await changeDateOrderArray(date);
