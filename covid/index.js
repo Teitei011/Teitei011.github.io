@@ -133,6 +133,7 @@ async function graphIt(chartId, label, type, date, data_covid) {
 
 async function getData(locationName) {
   const response = await fetch("brazil/" + locationName + ".csv");
+  console.log("brazil/" + locationName + ".csv")
   const data = await response.text();
 
   const date = [];
