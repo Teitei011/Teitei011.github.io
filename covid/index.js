@@ -219,7 +219,7 @@ function change2Dot(nStr){
 }
 
  function changeDateSign(nStr){
-    return nStr.replace("-", "/")
+    return nStr;
  }
 
 //          <img src="https://profile-counter.glitch.me/Teitei011/count.svg"></img> 
