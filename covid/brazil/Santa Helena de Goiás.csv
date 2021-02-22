@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santa Helena de Goiás,27-03-2020,0,0,0,0,7.285714285714286,0.14285714285714285,51.0,1.0
-Santa Helena de Goiás,28-03-2020,0,0,0,0,6.142857142857143,0.14285714285714285,43.0,1.0
-Santa Helena de Goiás,29-03-2020,0,0,0,0,4.857142857142857,0.14285714285714285,34.0,1.0
-Santa Helena de Goiás,30-03-2020,0,0,0,0,4.571428571428571,0.0,32.0,0.0
-Santa Helena de Goiás,31-03-2020,0,0,0,0,3.0,0.0,21.0,0.0
-Santa Helena de Goiás,01-04-2020,0,0,0,0,2.2857142857142856,0.0,16.0,0.0
+Santa Helena de Goiás,27-03-2020,0,0,0,0,6.571428571428571,0.14285714285714285,46.0,1.0
+Santa Helena de Goiás,28-03-2020,0,0,0,0,5.285714285714286,0.14285714285714285,37.0,1.0
+Santa Helena de Goiás,29-03-2020,0,0,0,0,5.0,0.0,35.0,0.0
+Santa Helena de Goiás,30-03-2020,0,0,0,0,3.4285714285714284,0.0,24.0,0.0
+Santa Helena de Goiás,31-03-2020,0,0,0,0,2.7142857142857144,0.0,19.0,0.0
+Santa Helena de Goiás,01-04-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Santa Helena de Goiás,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Helena de Goiás,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Helena de Goiás,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -331,3 +331,4 @@ Santa Helena de Goiás,18-02-2021,3548,5,111,0,10.714285714285714,0.142857142857
 Santa Helena de Goiás,19-02-2021,3548,0,111,0,10.571428571428571,0.0,74.0,0.0
 Santa Helena de Goiás,20-02-2021,3549,1,111,0,10.714285714285714,0.0,75.0,0.0
 Santa Helena de Goiás,21-02-2021,3549,0,111,0,10.714285714285714,0.0,75.0,0.0
+Santa Helena de Goiás,22-02-2021,3583,34,111,0,5.571428571428571,0.0,39.0,0.0

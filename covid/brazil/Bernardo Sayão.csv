@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Bernardo Sayão,27-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
-Bernardo Sayão,28-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-Bernardo Sayão,29-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Bernardo Sayão,30-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Bernardo Sayão,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Bernardo Sayão,27-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Bernardo Sayão,28-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Bernardo Sayão,29-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Bernardo Sayão,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Bernardo Sayão,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bernardo Sayão,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bernardo Sayão,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bernardo Sayão,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -331,3 +331,4 @@ Bernardo Sayão,18-02-2021,131,0,4,0,0.0,0.0,0.0,0.0
 Bernardo Sayão,19-02-2021,136,5,4,0,0.7142857142857143,0.0,5.0,0.0
 Bernardo Sayão,20-02-2021,138,2,4,0,1.0,0.0,7.0,0.0
 Bernardo Sayão,21-02-2021,138,0,4,0,1.0,0.0,7.0,0.0
+Bernardo Sayão,22-02-2021,138,0,4,0,1.0,0.0,7.0,0.0

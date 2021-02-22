@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Alvorada do Sul,27-03-2020,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
 Alvorada do Sul,28-03-2020,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
-Alvorada do Sul,29-03-2020,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
-Alvorada do Sul,30-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
+Alvorada do Sul,29-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
+Alvorada do Sul,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Alvorada do Sul,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Alvorada do Sul,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Alvorada do Sul,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -331,3 +331,4 @@ Alvorada do Sul,18-02-2021,334,3,8,0,2.5714285714285716,0.0,18.0,0.0
 Alvorada do Sul,19-02-2021,334,0,8,0,2.4285714285714284,0.0,17.0,0.0
 Alvorada do Sul,20-02-2021,338,4,8,0,2.857142857142857,0.0,20.0,0.0
 Alvorada do Sul,21-02-2021,340,2,8,0,3.142857142857143,0.0,22.0,0.0
+Alvorada do Sul,22-02-2021,342,2,8,0,3.2857142857142856,0.0,23.0,0.0

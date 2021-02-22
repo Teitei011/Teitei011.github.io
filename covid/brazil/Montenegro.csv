@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Montenegro,27-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
-Montenegro,28-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
+Montenegro,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Montenegro,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Montenegro,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Montenegro,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -331,3 +331,4 @@ Montenegro,18-02-2021,3716,59,56,6,18.857142857142858,0.8571428571428571,132.0,6
 Montenegro,19-02-2021,3775,59,56,0,22.857142857142858,0.8571428571428571,160.0,6.0
 Montenegro,20-02-2021,3805,30,57,1,21.0,1.0,147.0,7.0
 Montenegro,21-02-2021,3805,0,57,0,21.0,1.0,147.0,7.0
+Montenegro,22-02-2021,3808,3,58,1,21.714285714285715,1.1428571428571428,152.0,8.0

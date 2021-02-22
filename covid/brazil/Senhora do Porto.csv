@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Senhora do Porto,27-03-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
-Senhora do Porto,28-03-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
+Senhora do Porto,28-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
 Senhora do Porto,29-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
-Senhora do Porto,30-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
+Senhora do Porto,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Senhora do Porto,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Senhora do Porto,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Senhora do Porto,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -331,3 +331,4 @@ Senhora do Porto,18-02-2021,26,0,0,0,0.0,0.0,0.0,0.0
 Senhora do Porto,19-02-2021,26,0,0,0,0.0,0.0,0.0,0.0
 Senhora do Porto,20-02-2021,26,0,0,0,0.0,0.0,0.0,0.0
 Senhora do Porto,21-02-2021,26,0,0,0,0.0,0.0,0.0,0.0
+Senhora do Porto,22-02-2021,26,0,0,0,0.0,0.0,0.0,0.0

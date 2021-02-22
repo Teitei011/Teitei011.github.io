@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Guaramiranga,27-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Guaramiranga,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Guaramiranga,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Guaramiranga,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Guaramiranga,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -331,3 +331,4 @@ Guaramiranga,18-02-2021,234,0,1,0,1.5714285714285714,0.0,11.0,0.0
 Guaramiranga,19-02-2021,232,-2,1,0,1.1428571428571428,0.0,8.0,0.0
 Guaramiranga,20-02-2021,232,0,1,0,1.1428571428571428,0.0,8.0,0.0
 Guaramiranga,21-02-2021,233,1,1,0,1.0,0.0,7.0,0.0
+Guaramiranga,22-02-2021,233,0,1,0,0.7142857142857143,0.0,5.0,0.0

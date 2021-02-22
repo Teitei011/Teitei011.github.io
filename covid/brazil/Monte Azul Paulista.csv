@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Monte Azul Paulista,27-03-2020,0,0,0,0,7.142857142857143,0.0,50.0,0.0
-Monte Azul Paulista,28-03-2020,0,0,0,0,7.142857142857143,0.0,50.0,0.0
-Monte Azul Paulista,29-03-2020,0,0,0,0,5.571428571428571,0.0,39.0,0.0
+Monte Azul Paulista,28-03-2020,0,0,0,0,5.571428571428571,0.0,39.0,0.0
+Monte Azul Paulista,29-03-2020,0,0,0,0,4.571428571428571,0.0,32.0,0.0
 Monte Azul Paulista,30-03-2020,0,0,0,0,4.571428571428571,0.0,32.0,0.0
-Monte Azul Paulista,31-03-2020,0,0,0,0,4.571428571428571,0.0,32.0,0.0
-Monte Azul Paulista,01-04-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Monte Azul Paulista,31-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Monte Azul Paulista,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Monte Azul Paulista,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Monte Azul Paulista,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Monte Azul Paulista,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -331,3 +331,4 @@ Monte Azul Paulista,18-02-2021,618,5,5,0,4.428571428571429,0.14285714285714285,3
 Monte Azul Paulista,19-02-2021,621,3,5,0,4.142857142857143,0.14285714285714285,29.0,1.0
 Monte Azul Paulista,20-02-2021,625,4,5,0,4.428571428571429,0.0,31.0,0.0
 Monte Azul Paulista,21-02-2021,626,1,5,0,4.571428571428571,0.0,32.0,0.0
+Monte Azul Paulista,22-02-2021,626,0,5,0,4.428571428571429,0.0,31.0,0.0

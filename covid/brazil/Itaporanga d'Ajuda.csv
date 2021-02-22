@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Itaporanga d'Ajuda,27-03-2020,0,0,0,0,8.142857142857142,0.0,57.0,0.0
-Itaporanga d'Ajuda,28-03-2020,0,0,0,0,7.857142857142857,0.0,55.0,0.0
-Itaporanga d'Ajuda,29-03-2020,0,0,0,0,7.571428571428571,0.0,53.0,0.0
-Itaporanga d'Ajuda,30-03-2020,0,0,0,0,5.857142857142857,0.0,41.0,0.0
-Itaporanga d'Ajuda,31-03-2020,0,0,0,0,5.571428571428571,0.0,39.0,0.0
-Itaporanga d'Ajuda,01-04-2020,0,0,0,0,4.142857142857143,0.0,29.0,0.0
+Itaporanga d'Ajuda,27-03-2020,0,0,0,0,8.285714285714286,0.0,58.0,0.0
+Itaporanga d'Ajuda,28-03-2020,0,0,0,0,8.0,0.0,56.0,0.0
+Itaporanga d'Ajuda,29-03-2020,0,0,0,0,6.285714285714286,0.0,44.0,0.0
+Itaporanga d'Ajuda,30-03-2020,0,0,0,0,6.0,0.0,42.0,0.0
+Itaporanga d'Ajuda,31-03-2020,0,0,0,0,4.571428571428571,0.0,32.0,0.0
+Itaporanga d'Ajuda,01-04-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Itaporanga d'Ajuda,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Itaporanga d'Ajuda,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Itaporanga d'Ajuda,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -331,3 +331,4 @@ Itaporanga d'Ajuda,18-02-2021,1681,-3,39,0,0.5714285714285714,0.0,4.0,0.0
 Itaporanga d'Ajuda,19-02-2021,1682,1,39,0,0.7142857142857143,0.0,5.0,0.0
 Itaporanga d'Ajuda,20-02-2021,1693,11,39,0,2.2857142857142856,0.0,16.0,0.0
 Itaporanga d'Ajuda,21-02-2021,1699,6,39,0,2.2857142857142856,0.0,16.0,0.0
+Itaporanga d'Ajuda,22-02-2021,1710,11,39,0,3.7142857142857144,0.0,26.0,0.0

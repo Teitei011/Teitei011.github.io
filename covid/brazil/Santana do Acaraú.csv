@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santana do Acaraú,27-03-2020,0,0,0,0,2.857142857142857,0.0,20.0,0.0
+Santana do Acaraú,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Santana do Acaraú,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Santana do Acaraú,29-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Santana do Acaraú,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana do Acaraú,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana do Acaraú,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana do Acaraú,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -331,3 +331,4 @@ Santana do Acaraú,18-02-2021,1262,0,31,0,5.0,0.0,35.0,0.0
 Santana do Acaraú,19-02-2021,1255,-7,31,0,4.0,0.0,28.0,0.0
 Santana do Acaraú,20-02-2021,1255,0,31,0,4.0,0.0,28.0,0.0
 Santana do Acaraú,21-02-2021,1255,0,31,0,2.2857142857142856,-0.14285714285714285,16.0,-1.0
+Santana do Acaraú,22-02-2021,1256,1,31,0,1.7142857142857142,-0.14285714285714285,12.0,-1.0

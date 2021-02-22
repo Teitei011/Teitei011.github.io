@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Senhora de Oliveira,27-03-2020,0,0,0,0,12.571428571428571,0.0,88.0,0.0
-Senhora de Oliveira,28-03-2020,0,0,0,0,9.857142857142858,0.0,69.0,0.0
-Senhora de Oliveira,29-03-2020,0,0,0,0,8.428571428571429,0.0,59.0,0.0
-Senhora de Oliveira,30-03-2020,0,0,0,0,4.857142857142857,0.0,34.0,0.0
-Senhora de Oliveira,31-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
-Senhora de Oliveira,01-04-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Senhora de Oliveira,27-03-2020,0,0,0,0,10.285714285714286,0.0,72.0,0.0
+Senhora de Oliveira,28-03-2020,0,0,0,0,8.857142857142858,0.0,62.0,0.0
+Senhora de Oliveira,29-03-2020,0,0,0,0,5.285714285714286,0.0,37.0,0.0
+Senhora de Oliveira,30-03-2020,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
+Senhora de Oliveira,31-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Senhora de Oliveira,01-04-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Senhora de Oliveira,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Senhora de Oliveira,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Senhora de Oliveira,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -331,3 +331,4 @@ Senhora de Oliveira,18-02-2021,47,0,2,0,0.14285714285714285,0.0,1.0,0.0
 Senhora de Oliveira,19-02-2021,47,0,3,1,0.14285714285714285,0.14285714285714285,1.0,1.0
 Senhora de Oliveira,20-02-2021,47,0,3,0,0.14285714285714285,0.14285714285714285,1.0,1.0
 Senhora de Oliveira,21-02-2021,47,0,3,0,0.14285714285714285,0.14285714285714285,1.0,1.0
+Senhora de Oliveira,22-02-2021,47,0,3,0,0.14285714285714285,0.14285714285714285,1.0,1.0

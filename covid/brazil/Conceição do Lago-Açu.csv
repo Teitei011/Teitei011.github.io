@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Conceição do Lago-Açu,27-03-2020,0,0,0,0,2.142857142857143,0.14285714285714285,15.0,1.0
-Conceição do Lago-Açu,28-03-2020,0,0,0,0,2.0,0.14285714285714285,14.0,1.0
-Conceição do Lago-Açu,29-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Conceição do Lago-Açu,30-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Conceição do Lago-Açu,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Conceição do Lago-Açu,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Conceição do Lago-Açu,28-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
+Conceição do Lago-Açu,29-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
+Conceição do Lago-Açu,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Conceição do Lago-Açu,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Conceição do Lago-Açu,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Conceição do Lago-Açu,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Conceição do Lago-Açu,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Conceição do Lago-Açu,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -331,3 +331,4 @@ Conceição do Lago-Açu,18-02-2021,174,0,9,0,0.0,0.0,0.0,0.0
 Conceição do Lago-Açu,19-02-2021,174,0,9,0,0.0,0.0,0.0,0.0
 Conceição do Lago-Açu,20-02-2021,174,0,9,0,0.0,0.0,0.0,0.0
 Conceição do Lago-Açu,21-02-2021,174,0,9,0,0.0,0.0,0.0,0.0
+Conceição do Lago-Açu,22-02-2021,174,0,9,0,0.0,0.0,0.0,0.0

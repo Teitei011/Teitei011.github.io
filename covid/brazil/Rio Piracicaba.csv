@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Rio Piracicaba,27-03-2020,0,0,0,0,3.142857142857143,0.0,22.0,0.0
-Rio Piracicaba,28-03-2020,0,0,0,0,3.142857142857143,0.0,22.0,0.0
+Rio Piracicaba,28-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
 Rio Piracicaba,29-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-Rio Piracicaba,30-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Rio Piracicaba,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Rio Piracicaba,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Rio Piracicaba,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Rio Piracicaba,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -331,3 +331,4 @@ Rio Piracicaba,18-02-2021,834,0,10,0,3.142857142857143,0.2857142857142857,22.0,2
 Rio Piracicaba,19-02-2021,835,1,10,0,3.2857142857142856,0.2857142857142857,23.0,2.0
 Rio Piracicaba,20-02-2021,836,1,10,0,3.4285714285714284,0.2857142857142857,24.0,2.0
 Rio Piracicaba,21-02-2021,838,2,10,0,3.7142857142857144,0.2857142857142857,26.0,2.0
+Rio Piracicaba,22-02-2021,838,0,10,0,3.7142857142857144,0.2857142857142857,26.0,2.0

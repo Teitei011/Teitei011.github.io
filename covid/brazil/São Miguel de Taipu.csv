@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São Miguel de Taipu,27-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
 São Miguel de Taipu,28-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-São Miguel de Taipu,29-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-São Miguel de Taipu,30-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-São Miguel de Taipu,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+São Miguel de Taipu,29-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+São Miguel de Taipu,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+São Miguel de Taipu,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel de Taipu,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel de Taipu,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel de Taipu,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -331,3 +331,4 @@ São Miguel de Taipu,18-02-2021,202,0,6,0,0.7142857142857143,0.0,5.0,0.0
 São Miguel de Taipu,19-02-2021,202,0,6,0,0.7142857142857143,0.0,5.0,0.0
 São Miguel de Taipu,20-02-2021,202,0,6,0,0.7142857142857143,0.0,5.0,0.0
 São Miguel de Taipu,21-02-2021,202,0,6,0,0.7142857142857143,0.0,5.0,0.0
+São Miguel de Taipu,22-02-2021,202,0,6,0,0.2857142857142857,0.0,2.0,0.0

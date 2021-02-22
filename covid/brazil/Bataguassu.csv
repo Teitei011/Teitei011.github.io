@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Bataguassu,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Bataguassu,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Bataguassu,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bataguassu,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bataguassu,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bataguassu,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -331,3 +331,4 @@ Bataguassu,18-02-2021,1599,6,16,0,2.2857142857142856,0.0,16.0,0.0
 Bataguassu,19-02-2021,1603,4,17,1,2.0,0.14285714285714285,14.0,1.0
 Bataguassu,20-02-2021,1613,10,17,0,2.857142857142857,0.14285714285714285,20.0,1.0
 Bataguassu,21-02-2021,1614,1,17,0,3.0,0.14285714285714285,21.0,1.0
+Bataguassu,22-02-2021,1616,2,17,0,3.2857142857142856,0.14285714285714285,23.0,1.0

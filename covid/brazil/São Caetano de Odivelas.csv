@@ -2,8 +2,8 @@ municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases
 São Caetano de Odivelas,27-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
 São Caetano de Odivelas,28-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
 São Caetano de Odivelas,29-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-São Caetano de Odivelas,30-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-São Caetano de Odivelas,31-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+São Caetano de Odivelas,30-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+São Caetano de Odivelas,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Caetano de Odivelas,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Caetano de Odivelas,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Caetano de Odivelas,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -331,3 +331,4 @@ São Caetano de Odivelas,18-02-2021,747,0,21,0,0.42857142857142855,0.0,3.0,0.0
 São Caetano de Odivelas,19-02-2021,747,0,21,0,0.14285714285714285,0.0,1.0,0.0
 São Caetano de Odivelas,20-02-2021,747,0,21,0,0.14285714285714285,0.0,1.0,0.0
 São Caetano de Odivelas,21-02-2021,747,0,21,0,0.14285714285714285,0.0,1.0,0.0
+São Caetano de Odivelas,22-02-2021,746,-1,21,0,0.0,0.0,0.0,0.0

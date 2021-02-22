@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Morro do Chapéu,27-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Morro do Chapéu,28-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Morro do Chapéu,29-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Morro do Chapéu,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Morro do Chapéu,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Morro do Chapéu,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Morro do Chapéu,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Morro do Chapéu,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -331,3 +331,4 @@ Morro do Chapéu,18-02-2021,1304,9,10,0,4.142857142857143,0.0,29.0,0.0
 Morro do Chapéu,19-02-2021,1307,3,10,0,4.428571428571429,0.0,31.0,0.0
 Morro do Chapéu,20-02-2021,1323,16,10,0,6.142857142857143,0.0,43.0,0.0
 Morro do Chapéu,21-02-2021,1323,0,10,0,6.0,0.0,42.0,0.0
+Morro do Chapéu,22-02-2021,1325,2,10,0,6.285714285714286,0.0,44.0,0.0

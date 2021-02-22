@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Bom Jesus do Galho,27-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
 Bom Jesus do Galho,28-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Bom Jesus do Galho,29-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Bom Jesus do Galho,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Bom Jesus do Galho,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Bom Jesus do Galho,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bom Jesus do Galho,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bom Jesus do Galho,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bom Jesus do Galho,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -331,3 +331,4 @@ Bom Jesus do Galho,18-02-2021,288,0,9,0,0.7142857142857143,0.0,5.0,0.0
 Bom Jesus do Galho,19-02-2021,290,2,9,0,1.0,0.0,7.0,0.0
 Bom Jesus do Galho,20-02-2021,290,0,9,0,1.0,0.0,7.0,0.0
 Bom Jesus do Galho,21-02-2021,290,0,9,0,0.7142857142857143,0.0,5.0,0.0
+Bom Jesus do Galho,22-02-2021,290,0,9,0,0.7142857142857143,0.0,5.0,0.0

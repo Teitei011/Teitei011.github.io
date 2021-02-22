@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Riacho de Santana,27-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
-Riacho de Santana,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Riacho de Santana,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Riacho de Santana,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Riacho de Santana,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Riacho de Santana,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Riacho de Santana,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -331,3 +331,4 @@ Riacho de Santana,18-02-2021,656,0,5,0,4.857142857142857,0.14285714285714285,34.
 Riacho de Santana,19-02-2021,692,36,5,0,7.142857142857143,0.14285714285714285,50.0,1.0
 Riacho de Santana,20-02-2021,693,1,5,0,7.0,0.0,49.0,0.0
 Riacho de Santana,21-02-2021,697,4,5,0,7.571428571428571,0.0,53.0,0.0
+Riacho de Santana,22-02-2021,709,12,5,0,7.571428571428571,0.0,53.0,0.0
