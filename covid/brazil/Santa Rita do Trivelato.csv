@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santa Rita do Trivelato,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Santa Rita do Trivelato,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santa Rita do Trivelato,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Santa Rita do Trivelato,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Santa Rita do Trivelato,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Santa Rita do Trivelato,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santa Rita do Trivelato,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santa Rita do Trivelato,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Santa Rita do Trivelato,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santa Rita do Trivelato,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santa Rita do Trivelato,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Santa Rita do Trivelato,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Rita do Trivelato,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Rita do Trivelato,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -332,3 +332,4 @@ Santa Rita do Trivelato,19-02-2021,53,0,2,0,0.0,0.0,0.0,0.0
 Santa Rita do Trivelato,20-02-2021,54,1,2,0,0.14285714285714285,0.0,1.0,0.0
 Santa Rita do Trivelato,21-02-2021,54,0,2,0,0.14285714285714285,0.0,1.0,0.0
 Santa Rita do Trivelato,22-02-2021,56,2,2,0,0.42857142857142855,0.0,3.0,0.0
+Santa Rita do Trivelato,23-02-2021,56,0,2,0,0.42857142857142855,0.0,3.0,0.0

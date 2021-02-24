@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Conceição do Castelo,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Conceição do Castelo,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Conceição do Castelo,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Conceição do Castelo,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Conceição do Castelo,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Conceição do Castelo,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -332,3 +332,4 @@ Conceição do Castelo,19-02-2021,918,6,15,0,2.0,0.0,14.0,0.0
 Conceição do Castelo,20-02-2021,918,0,15,0,1.8571428571428572,0.0,13.0,0.0
 Conceição do Castelo,21-02-2021,920,2,15,0,2.142857142857143,0.0,15.0,0.0
 Conceição do Castelo,22-02-2021,924,4,15,0,2.7142857142857144,0.0,19.0,0.0
+Conceição do Castelo,23-02-2021,923,-1,15,0,2.4285714285714284,0.0,17.0,0.0

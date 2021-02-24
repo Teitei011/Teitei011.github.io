@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Uiramutã,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Uiramutã,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Uiramutã,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Uiramutã,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Uiramutã,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -332,3 +332,4 @@ Uiramutã,19-02-2021,1062,0,7,0,0.0,0.0,0.0,0.0
 Uiramutã,20-02-2021,1062,0,7,0,0.0,0.0,0.0,0.0
 Uiramutã,21-02-2021,1062,0,7,0,0.0,0.0,0.0,0.0
 Uiramutã,22-02-2021,1062,0,7,0,0.0,0.0,0.0,0.0
+Uiramutã,23-02-2021,1062,0,7,0,0.0,0.0,0.0,0.0

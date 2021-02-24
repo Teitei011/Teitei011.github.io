@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Júlio de Castilhos,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Júlio de Castilhos,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Júlio de Castilhos,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Júlio de Castilhos,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Júlio de Castilhos,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Júlio de Castilhos,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -332,3 +332,4 @@ Júlio de Castilhos,19-02-2021,749,1,7,0,0.0,0.0,0.0,0.0
 Júlio de Castilhos,20-02-2021,749,0,7,0,0.0,0.0,0.0,0.0
 Júlio de Castilhos,21-02-2021,779,30,7,0,4.285714285714286,0.0,30.0,0.0
 Júlio de Castilhos,22-02-2021,780,1,8,1,4.428571428571429,0.14285714285714285,31.0,1.0
+Júlio de Castilhos,23-02-2021,788,8,8,0,5.571428571428571,0.14285714285714285,39.0,1.0

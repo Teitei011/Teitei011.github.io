@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Presidente Epitácio,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Presidente Epitácio,28-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Presidente Epitácio,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Presidente Epitácio,29-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Presidente Epitácio,30-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Presidente Epitácio,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Epitácio,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Epitácio,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Epitácio,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -332,3 +332,4 @@ Presidente Epitácio,19-02-2021,1075,1,29,0,3.0,0.14285714285714285,21.0,1.0
 Presidente Epitácio,20-02-2021,1079,4,29,0,2.7142857142857144,0.14285714285714285,19.0,1.0
 Presidente Epitácio,21-02-2021,1079,0,29,0,2.7142857142857144,0.14285714285714285,19.0,1.0
 Presidente Epitácio,22-02-2021,1079,0,29,0,2.4285714285714284,0.14285714285714285,17.0,1.0
+Presidente Epitácio,23-02-2021,1096,17,29,0,4.0,0.14285714285714285,28.0,1.0

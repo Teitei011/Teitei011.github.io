@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santana da Vargem,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Santana da Vargem,28-03-2020,0,0,0,0,-0.14285714285714285,0.0,-1.0,0.0
-Santana da Vargem,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santana da Vargem,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santana da Vargem,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santana da Vargem,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Santana da Vargem,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Santana da Vargem,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santana da Vargem,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santana da Vargem,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santana da Vargem,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santana da Vargem,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Santana da Vargem,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana da Vargem,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana da Vargem,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -332,3 +332,4 @@ Santana da Vargem,19-02-2021,123,0,3,0,0.0,0.0,0.0,0.0
 Santana da Vargem,20-02-2021,123,0,3,0,0.0,0.0,0.0,0.0
 Santana da Vargem,21-02-2021,123,0,3,0,0.0,0.0,0.0,0.0
 Santana da Vargem,22-02-2021,123,0,3,0,0.0,0.0,0.0,0.0
+Santana da Vargem,23-02-2021,123,0,3,0,0.0,0.0,0.0,0.0

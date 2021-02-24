@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Doutor Severiano,27-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
-Doutor Severiano,28-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
-Doutor Severiano,29-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Doutor Severiano,30-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Doutor Severiano,28-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
+Doutor Severiano,29-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Doutor Severiano,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Doutor Severiano,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Doutor Severiano,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Doutor Severiano,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -332,3 +332,4 @@ Doutor Severiano,19-02-2021,440,0,10,0,2.142857142857143,0.14285714285714285,15.
 Doutor Severiano,20-02-2021,440,0,10,0,2.142857142857143,0.14285714285714285,15.0,1.0
 Doutor Severiano,21-02-2021,441,1,10,0,2.2857142857142856,0.14285714285714285,16.0,1.0
 Doutor Severiano,22-02-2021,441,0,10,0,0.2857142857142857,0.0,2.0,0.0
+Doutor Severiano,23-02-2021,441,0,10,0,0.2857142857142857,0.0,2.0,0.0

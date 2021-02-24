@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 General Maynard,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-General Maynard,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
+General Maynard,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 General Maynard,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 General Maynard,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-General Maynard,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+General Maynard,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 General Maynard,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 General Maynard,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 General Maynard,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -332,3 +332,4 @@ General Maynard,19-02-2021,179,-1,6,0,0.14285714285714285,0.0,1.0,0.0
 General Maynard,20-02-2021,179,0,6,0,0.14285714285714285,0.0,1.0,0.0
 General Maynard,21-02-2021,179,0,6,0,-0.14285714285714285,0.0,-1.0,0.0
 General Maynard,22-02-2021,180,1,6,0,0.0,0.0,0.0,0.0
+General Maynard,23-02-2021,180,0,6,0,0.0,0.0,0.0,0.0

@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Machadinho D'Oeste,27-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Machadinho D'Oeste,28-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Machadinho D'Oeste,29-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Machadinho D'Oeste,30-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Machadinho D'Oeste,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Machadinho D'Oeste,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Machadinho D'Oeste,27-03-2020,0,0,0,0,3.0,0.0,21.0,0.0
+Machadinho D'Oeste,28-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
+Machadinho D'Oeste,29-03-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
+Machadinho D'Oeste,30-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Machadinho D'Oeste,31-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Machadinho D'Oeste,01-04-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
 Machadinho D'Oeste,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Machadinho D'Oeste,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Machadinho D'Oeste,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -332,3 +332,4 @@ Machadinho D'Oeste,19-02-2021,3036,10,21,0,13.285714285714286,0.0,93.0,0.0
 Machadinho D'Oeste,20-02-2021,3036,0,21,0,11.0,0.14285714285714285,77.0,1.0
 Machadinho D'Oeste,21-02-2021,3036,0,21,0,11.0,0.14285714285714285,77.0,1.0
 Machadinho D'Oeste,22-02-2021,3120,84,21,0,22.857142857142858,0.0,160.0,0.0
+Machadinho D'Oeste,23-02-2021,3180,60,23,2,31.428571428571427,0.2857142857142857,220.0,2.0

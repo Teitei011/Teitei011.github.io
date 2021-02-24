@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santo Antônio do Grama,27-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
-Santo Antônio do Grama,28-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
-Santo Antônio do Grama,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santo Antônio do Grama,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santo Antônio do Grama,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santo Antônio do Grama,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Santo Antônio do Grama,27-03-2020,0,0,0,0,3.0,0.0,21.0,0.0
+Santo Antônio do Grama,28-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Santo Antônio do Grama,29-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Santo Antônio do Grama,30-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Santo Antônio do Grama,31-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Santo Antônio do Grama,01-04-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Santo Antônio do Grama,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Grama,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Grama,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -332,3 +332,4 @@ Santo Antônio do Grama,19-02-2021,79,3,3,0,1.1428571428571428,0.0,8.0,0.0
 Santo Antônio do Grama,20-02-2021,79,0,3,0,1.0,0.0,7.0,0.0
 Santo Antônio do Grama,21-02-2021,84,5,3,0,1.5714285714285714,0.0,11.0,0.0
 Santo Antônio do Grama,22-02-2021,84,0,3,0,1.5714285714285714,0.0,11.0,0.0
+Santo Antônio do Grama,23-02-2021,84,0,3,0,1.5714285714285714,0.0,11.0,0.0

@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Schroeder,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Schroeder,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Schroeder,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Schroeder,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Schroeder,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -332,3 +332,4 @@ Schroeder,19-02-2021,1938,22,9,0,11.714285714285714,0.0,82.0,0.0
 Schroeder,20-02-2021,1951,13,9,0,10.142857142857142,0.0,71.0,0.0
 Schroeder,21-02-2021,1966,15,9,0,11.857142857142858,0.0,83.0,0.0
 Schroeder,22-02-2021,1970,4,9,0,11.571428571428571,0.0,81.0,0.0
+Schroeder,23-02-2021,1979,9,9,0,10.857142857142858,0.0,76.0,0.0

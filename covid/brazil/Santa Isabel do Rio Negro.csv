@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santa Isabel do Rio Negro,27-03-2020,0,0,0,0,2.2857142857142856,0.0,16.0,0.0
-Santa Isabel do Rio Negro,28-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
-Santa Isabel do Rio Negro,29-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
-Santa Isabel do Rio Negro,30-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-Santa Isabel do Rio Negro,31-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Santa Isabel do Rio Negro,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Santa Isabel do Rio Negro,27-03-2020,0,0,0,0,3.142857142857143,0.0,22.0,0.0
+Santa Isabel do Rio Negro,28-03-2020,0,0,0,0,2.7142857142857144,0.0,19.0,0.0
+Santa Isabel do Rio Negro,29-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Santa Isabel do Rio Negro,30-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
+Santa Isabel do Rio Negro,31-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Santa Isabel do Rio Negro,01-04-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
 Santa Isabel do Rio Negro,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Isabel do Rio Negro,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Isabel do Rio Negro,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -332,3 +332,4 @@ Santa Isabel do Rio Negro,19-02-2021,2633,1,39,0,2.857142857142857,0.28571428571
 Santa Isabel do Rio Negro,20-02-2021,2633,0,39,0,1.1428571428571428,0.2857142857142857,8.0,2.0
 Santa Isabel do Rio Negro,21-02-2021,2640,7,39,0,2.142857142857143,0.2857142857142857,15.0,2.0
 Santa Isabel do Rio Negro,22-02-2021,2640,0,39,0,2.142857142857143,0.14285714285714285,15.0,1.0
+Santa Isabel do Rio Negro,23-02-2021,2640,0,39,0,2.142857142857143,0.14285714285714285,15.0,1.0

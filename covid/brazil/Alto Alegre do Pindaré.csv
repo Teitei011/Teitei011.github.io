@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Alto Alegre do Pindaré,27-03-2020,0,0,0,0,6.428571428571429,0.0,45.0,0.0
-Alto Alegre do Pindaré,28-03-2020,0,0,0,0,6.428571428571429,0.0,45.0,0.0
-Alto Alegre do Pindaré,29-03-2020,0,0,0,0,5.142857142857143,0.0,36.0,0.0
-Alto Alegre do Pindaré,30-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Alto Alegre do Pindaré,28-03-2020,0,0,0,0,5.142857142857143,0.0,36.0,0.0
+Alto Alegre do Pindaré,29-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Alto Alegre do Pindaré,30-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Alto Alegre do Pindaré,31-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Alto Alegre do Pindaré,01-04-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Alto Alegre do Pindaré,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Alto Alegre do Pindaré,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Alto Alegre do Pindaré,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Alto Alegre do Pindaré,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -332,3 +332,4 @@ Alto Alegre do Pindaré,19-02-2021,1636,7,25,0,2.142857142857143,0.0,15.0,0.0
 Alto Alegre do Pindaré,20-02-2021,1653,17,25,0,4.571428571428571,0.0,32.0,0.0
 Alto Alegre do Pindaré,21-02-2021,1653,0,25,0,4.571428571428571,0.0,32.0,0.0
 Alto Alegre do Pindaré,22-02-2021,1653,0,25,0,4.571428571428571,0.0,32.0,0.0
+Alto Alegre do Pindaré,23-02-2021,1653,0,25,0,4.571428571428571,0.0,32.0,0.0

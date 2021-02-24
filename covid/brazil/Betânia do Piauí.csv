@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Betânia do Piauí,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Betânia do Piauí,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Betânia do Piauí,29-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Betânia do Piauí,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Betânia do Piauí,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Betânia do Piauí,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Betânia do Piauí,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -332,3 +332,4 @@ Betânia do Piauí,19-02-2021,133,8,2,0,3.2857142857142856,0.0,23.0,0.0
 Betânia do Piauí,20-02-2021,133,0,2,0,2.2857142857142856,0.0,16.0,0.0
 Betânia do Piauí,21-02-2021,133,0,2,0,1.2857142857142858,0.0,9.0,0.0
 Betânia do Piauí,22-02-2021,133,0,2,0,1.2857142857142858,0.0,9.0,0.0
+Betânia do Piauí,23-02-2021,133,0,2,0,1.2857142857142858,0.0,9.0,0.0

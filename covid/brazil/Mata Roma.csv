@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Mata Roma,27-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Mata Roma,28-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Mata Roma,29-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Mata Roma,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Mata Roma,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Mata Roma,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Mata Roma,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -332,3 +332,4 @@ Mata Roma,19-02-2021,349,0,10,0,0.0,0.0,0.0,0.0
 Mata Roma,20-02-2021,349,0,10,0,0.0,0.0,0.0,0.0
 Mata Roma,21-02-2021,349,0,10,0,0.0,0.0,0.0,0.0
 Mata Roma,22-02-2021,349,0,10,0,0.0,0.0,0.0,0.0
+Mata Roma,23-02-2021,349,0,10,0,0.0,0.0,0.0,0.0

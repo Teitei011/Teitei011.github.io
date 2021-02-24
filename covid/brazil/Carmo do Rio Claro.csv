@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Carmo do Rio Claro,27-03-2020,0,0,0,0,10.571428571428571,0.2857142857142857,74.0,2.0
+Carmo do Rio Claro,27-03-2020,0,0,0,0,0.0,0.2857142857142857,0.0,2.0
 Carmo do Rio Claro,28-03-2020,0,0,0,0,0.0,0.2857142857142857,0.0,2.0
-Carmo do Rio Claro,29-03-2020,0,0,0,0,0.0,0.2857142857142857,0.0,2.0
+Carmo do Rio Claro,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Carmo do Rio Claro,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Carmo do Rio Claro,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Carmo do Rio Claro,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -332,3 +332,4 @@ Carmo do Rio Claro,19-02-2021,393,0,12,3,32.142857142857146,0.42857142857142855,
 Carmo do Rio Claro,20-02-2021,393,0,13,1,32.142857142857146,0.5714285714285714,225.0,4.0
 Carmo do Rio Claro,21-02-2021,393,0,13,0,32.142857142857146,0.5714285714285714,225.0,4.0
 Carmo do Rio Claro,22-02-2021,393,0,13,0,32.142857142857146,0.5714285714285714,225.0,4.0
+Carmo do Rio Claro,23-02-2021,393,0,13,0,32.142857142857146,0.5714285714285714,225.0,4.0

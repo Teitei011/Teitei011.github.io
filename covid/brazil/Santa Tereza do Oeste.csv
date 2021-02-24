@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santa Tereza do Oeste,27-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Santa Tereza do Oeste,28-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Santa Tereza do Oeste,29-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Santa Tereza do Oeste,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Santa Tereza do Oeste,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Tereza do Oeste,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Tereza do Oeste,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Tereza do Oeste,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -332,3 +332,4 @@ Santa Tereza do Oeste,19-02-2021,584,1,6,0,9.714285714285714,0.0,68.0,0.0
 Santa Tereza do Oeste,20-02-2021,586,2,6,0,9.142857142857142,0.0,64.0,0.0
 Santa Tereza do Oeste,21-02-2021,588,2,6,0,9.285714285714286,0.0,65.0,0.0
 Santa Tereza do Oeste,22-02-2021,595,7,6,0,10.142857142857142,0.0,71.0,0.0
+Santa Tereza do Oeste,23-02-2021,611,16,7,1,8.714285714285714,0.14285714285714285,61.0,1.0

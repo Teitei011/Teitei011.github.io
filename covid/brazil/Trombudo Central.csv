@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Trombudo Central,27-03-2020,0,0,0,0,10.571428571428571,0.0,74.0,0.0
-Trombudo Central,28-03-2020,0,0,0,0,10.571428571428571,0.0,74.0,0.0
-Trombudo Central,29-03-2020,0,0,0,0,10.571428571428571,0.0,74.0,0.0
-Trombudo Central,30-03-2020,0,0,0,0,5.571428571428571,0.0,39.0,0.0
-Trombudo Central,31-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Trombudo Central,01-04-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
+Trombudo Central,27-03-2020,0,0,0,0,11.428571428571429,0.0,80.0,0.0
+Trombudo Central,28-03-2020,0,0,0,0,11.428571428571429,0.0,80.0,0.0
+Trombudo Central,29-03-2020,0,0,0,0,6.428571428571429,0.0,45.0,0.0
+Trombudo Central,30-03-2020,0,0,0,0,2.7142857142857144,0.0,19.0,0.0
+Trombudo Central,31-03-2020,0,0,0,0,2.7142857142857144,0.0,19.0,0.0
+Trombudo Central,01-04-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
 Trombudo Central,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Trombudo Central,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Trombudo Central,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -332,3 +332,4 @@ Trombudo Central,19-02-2021,602,5,7,0,2.2857142857142856,0.0,16.0,0.0
 Trombudo Central,20-02-2021,604,2,7,0,2.2857142857142856,0.0,16.0,0.0
 Trombudo Central,21-02-2021,604,0,7,0,2.142857142857143,0.0,15.0,0.0
 Trombudo Central,22-02-2021,607,3,7,0,2.5714285714285716,0.0,18.0,0.0
+Trombudo Central,23-02-2021,609,2,7,0,2.2857142857142856,0.0,16.0,0.0

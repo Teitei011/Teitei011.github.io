@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Vitória de Santo Antão,27-03-2020,0,0,0,0,-0.14285714285714285,0.0,-1.0,0.0
 Vitória de Santo Antão,28-03-2020,0,0,0,0,-0.14285714285714285,0.0,-1.0,0.0
-Vitória de Santo Antão,29-03-2020,0,0,0,0,-0.14285714285714285,0.0,-1.0,0.0
+Vitória de Santo Antão,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Vitória de Santo Antão,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Vitória de Santo Antão,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Vitória de Santo Antão,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -332,3 +332,4 @@ Vitória de Santo Antão,19-02-2021,2770,6,184,0,9.714285714285714,0.85714285714
 Vitória de Santo Antão,20-02-2021,2775,5,184,0,6.428571428571429,0.8571428571428571,45.0,6.0
 Vitória de Santo Antão,21-02-2021,2777,2,184,0,6.285714285714286,0.7142857142857143,44.0,5.0
 Vitória de Santo Antão,22-02-2021,2777,0,184,0,6.142857142857143,0.7142857142857143,43.0,5.0
+Vitória de Santo Antão,23-02-2021,2782,5,185,1,5.0,0.7142857142857143,35.0,5.0

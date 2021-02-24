@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Dona Francisca,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Dona Francisca,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Dona Francisca,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Dona Francisca,30-03-2020,0,0,0,0,-55.714285714285715,-0.42857142857142855,-390.0,-3.0
+Dona Francisca,29-03-2020,0,0,0,0,-55.714285714285715,-0.42857142857142855,-390.0,-3.0
+Dona Francisca,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Dona Francisca,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Dona Francisca,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Dona Francisca,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -332,3 +332,4 @@ Dona Francisca,19-02-2021,33,1,2,0,0.42857142857142855,0.0,3.0,0.0
 Dona Francisca,20-02-2021,34,1,2,0,0.2857142857142857,0.0,2.0,0.0
 Dona Francisca,21-02-2021,34,0,2,0,0.2857142857142857,0.0,2.0,0.0
 Dona Francisca,22-02-2021,34,0,2,0,0.2857142857142857,0.0,2.0,0.0
+Dona Francisca,23-02-2021,34,0,2,0,0.2857142857142857,0.0,2.0,0.0

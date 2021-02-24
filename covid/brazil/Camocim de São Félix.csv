@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Camocim de São Félix,27-03-2020,0,0,0,0,5.285714285714286,0.0,37.0,0.0
-Camocim de São Félix,28-03-2020,0,0,0,0,2.857142857142857,0.42857142857142855,20.0,3.0
-Camocim de São Félix,29-03-2020,0,0,0,0,2.857142857142857,0.42857142857142855,20.0,3.0
-Camocim de São Félix,30-03-2020,0,0,0,0,4.857142857142857,0.0,34.0,0.0
-Camocim de São Félix,31-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
-Camocim de São Félix,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Camocim de São Félix,27-03-2020,0,0,0,0,4.0,0.42857142857142855,28.0,3.0
+Camocim de São Félix,28-03-2020,0,0,0,0,4.0,0.42857142857142855,28.0,3.0
+Camocim de São Félix,29-03-2020,0,0,0,0,6.0,0.0,42.0,0.0
+Camocim de São Félix,30-03-2020,0,0,0,0,3.5714285714285716,0.0,25.0,0.0
+Camocim de São Félix,31-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Camocim de São Félix,01-04-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
 Camocim de São Félix,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Camocim de São Félix,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Camocim de São Félix,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -332,3 +332,4 @@ Camocim de São Félix,19-02-2021,328,4,11,0,0.5714285714285714,0.0,4.0,0.0
 Camocim de São Félix,20-02-2021,330,2,11,0,0.8571428571428571,0.0,6.0,0.0
 Camocim de São Félix,21-02-2021,331,1,11,0,1.0,0.0,7.0,0.0
 Camocim de São Félix,22-02-2021,331,0,11,0,1.0,0.0,7.0,0.0
+Camocim de São Félix,23-02-2021,331,0,11,0,1.0,0.0,7.0,0.0

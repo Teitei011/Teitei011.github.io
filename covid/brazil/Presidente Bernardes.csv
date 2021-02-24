@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Presidente Bernardes,27-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-Presidente Bernardes,28-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-Presidente Bernardes,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Presidente Bernardes,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Presidente Bernardes,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Presidente Bernardes,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Presidente Bernardes,27-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Presidente Bernardes,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Presidente Bernardes,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Presidente Bernardes,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Presidente Bernardes,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Presidente Bernardes,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Presidente Bernardes,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Bernardes,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Bernardes,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -332,3 +332,4 @@ Presidente Bernardes,19-02-2021,635,3,16,0,1.1428571428571428,0.0,8.0,0.0
 Presidente Bernardes,20-02-2021,635,0,16,0,1.1428571428571428,0.0,8.0,0.0
 Presidente Bernardes,21-02-2021,635,0,16,0,1.1428571428571428,0.0,8.0,0.0
 Presidente Bernardes,22-02-2021,635,0,16,0,1.1428571428571428,0.0,8.0,0.0
+Presidente Bernardes,23-02-2021,638,3,16,0,1.5714285714285714,0.0,11.0,0.0

@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Riachão do Dantas,27-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
-Riachão do Dantas,28-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
-Riachão do Dantas,29-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-Riachão do Dantas,30-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Riachão do Dantas,31-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Riachão do Dantas,27-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Riachão do Dantas,28-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Riachão do Dantas,29-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Riachão do Dantas,30-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Riachão do Dantas,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Riachão do Dantas,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Riachão do Dantas,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Riachão do Dantas,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -332,3 +332,4 @@ Riachão do Dantas,19-02-2021,851,3,19,0,2.5714285714285716,0.0,18.0,0.0
 Riachão do Dantas,20-02-2021,851,0,19,0,1.7142857142857142,0.0,12.0,0.0
 Riachão do Dantas,21-02-2021,854,3,19,0,1.4285714285714286,0.0,10.0,0.0
 Riachão do Dantas,22-02-2021,856,2,19,0,1.5714285714285714,0.0,11.0,0.0
+Riachão do Dantas,23-02-2021,857,1,19,0,1.5714285714285714,0.0,11.0,0.0

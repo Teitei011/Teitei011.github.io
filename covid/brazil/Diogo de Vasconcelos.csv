@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Diogo de Vasconcelos,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Diogo de Vasconcelos,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Diogo de Vasconcelos,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Diogo de Vasconcelos,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Diogo de Vasconcelos,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Diogo de Vasconcelos,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -332,3 +332,4 @@ Diogo de Vasconcelos,19-02-2021,39,0,1,0,0.0,0.0,0.0,0.0
 Diogo de Vasconcelos,20-02-2021,40,1,1,0,0.14285714285714285,0.0,1.0,0.0
 Diogo de Vasconcelos,21-02-2021,40,0,1,0,0.14285714285714285,0.0,1.0,0.0
 Diogo de Vasconcelos,22-02-2021,40,0,1,0,0.14285714285714285,0.0,1.0,0.0
+Diogo de Vasconcelos,23-02-2021,40,0,1,0,0.14285714285714285,0.0,1.0,0.0
