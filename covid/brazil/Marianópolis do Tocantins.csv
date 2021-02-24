@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Marianópolis do Tocantins,27-03-2020,0,0,0,0,0.6428571428571429,0.0,9.0,0.0
-Marianópolis do Tocantins,28-03-2020,0,0,0,0,0.6428571428571429,0.0,8.0,0.0
-Marianópolis do Tocantins,29-03-2020,0,0,0,0,0.6428571428571429,0.0,8.0,0.0
-Marianópolis do Tocantins,30-03-2020,0,0,0,0,0.6428571428571429,0.0,7.0,0.0
-Marianópolis do Tocantins,31-03-2020,0,0,0,0,0.6428571428571429,0.0,5.0,0.0
-Marianópolis do Tocantins,01-04-2020,0,0,0,0,0.6428571428571429,0.0,5.0,0.0
-Marianópolis do Tocantins,02-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
-Marianópolis do Tocantins,03-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
-Marianópolis do Tocantins,04-04-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
-Marianópolis do Tocantins,05-04-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
-Marianópolis do Tocantins,06-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
-Marianópolis do Tocantins,07-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
-Marianópolis do Tocantins,08-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
+Marianópolis do Tocantins,27-03-2020,0,0,0,0,0.8571428571428571,0.0,11.0,0.0
+Marianópolis do Tocantins,28-03-2020,0,0,0,0,0.8571428571428571,0.0,11.0,0.0
+Marianópolis do Tocantins,29-03-2020,0,0,0,0,0.8571428571428571,0.0,10.0,0.0
+Marianópolis do Tocantins,30-03-2020,0,0,0,0,0.8571428571428571,0.0,8.0,0.0
+Marianópolis do Tocantins,31-03-2020,0,0,0,0,0.8571428571428571,0.0,8.0,0.0
+Marianópolis do Tocantins,01-04-2020,0,0,0,0,0.8571428571428571,0.0,3.0,0.0
+Marianópolis do Tocantins,02-04-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
+Marianópolis do Tocantins,03-04-2020,0,0,0,0,0.7857142857142857,0.0,0.0,0.0
+Marianópolis do Tocantins,04-04-2020,0,0,0,0,0.7857142857142857,0.0,0.0,0.0
+Marianópolis do Tocantins,05-04-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
+Marianópolis do Tocantins,06-04-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
+Marianópolis do Tocantins,07-04-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
+Marianópolis do Tocantins,08-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Marianópolis do Tocantins,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Marianópolis do Tocantins,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Marianópolis do Tocantins,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -333,3 +333,4 @@ Marianópolis do Tocantins,20-02-2021,167,16,5,0,2.142857142857143,0.0,20.0,0.0
 Marianópolis do Tocantins,21-02-2021,170,3,5,0,2.357142857142857,0.0,23.0,0.0
 Marianópolis do Tocantins,22-02-2021,170,0,5,0,2.2857142857142856,0.0,21.0,0.0
 Marianópolis do Tocantins,23-02-2021,180,10,5,0,3.0,0.0,31.0,0.0
+Marianópolis do Tocantins,24-02-2021,185,5,5,0,3.2142857142857144,0.0,35.0,0.0

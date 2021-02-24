@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Novo Jardim,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Novo Jardim,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Novo Jardim,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Novo Jardim,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Novo Jardim,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Novo Jardim,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -333,3 +333,4 @@ Novo Jardim,20-02-2021,72,0,0,0,0.0,0.0,0.0,0.0
 Novo Jardim,21-02-2021,72,0,0,0,0.0,0.0,0.0,0.0
 Novo Jardim,22-02-2021,72,0,0,0,0.0,0.0,0.0,0.0
 Novo Jardim,23-02-2021,72,0,0,0,0.0,0.0,0.0,0.0
+Novo Jardim,24-02-2021,72,0,0,0,0.0,0.0,0.0,0.0

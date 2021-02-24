@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Miguel da Baixa Grande,27-03-2020,0,0,0,0,4.428571428571429,0.07142857142857142,20.0,0.0
-São Miguel da Baixa Grande,28-03-2020,0,0,0,0,3.142857142857143,0.0,20.0,0.0
-São Miguel da Baixa Grande,29-03-2020,0,0,0,0,2.7142857142857144,0.0,15.0,0.0
-São Miguel da Baixa Grande,30-03-2020,0,0,0,0,2.5714285714285716,0.0,12.0,0.0
-São Miguel da Baixa Grande,31-03-2020,0,0,0,0,2.5714285714285716,0.0,12.0,0.0
-São Miguel da Baixa Grande,01-04-2020,0,0,0,0,2.5,0.0,12.0,0.0
-São Miguel da Baixa Grande,02-04-2020,0,0,0,0,2.5,0.0,0.0,0.0
-São Miguel da Baixa Grande,03-04-2020,0,0,0,0,1.4285714285714286,0.0,0.0,0.0
-São Miguel da Baixa Grande,04-04-2020,0,0,0,0,1.4285714285714286,0.0,0.0,0.0
-São Miguel da Baixa Grande,05-04-2020,0,0,0,0,1.0714285714285714,0.0,0.0,0.0
-São Miguel da Baixa Grande,06-04-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
-São Miguel da Baixa Grande,07-04-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
-São Miguel da Baixa Grande,08-04-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
+São Miguel da Baixa Grande,27-03-2020,0,0,0,0,3.7142857142857144,0.0,28.0,0.0
+São Miguel da Baixa Grande,28-03-2020,0,0,0,0,3.2857142857142856,0.0,23.0,0.0
+São Miguel da Baixa Grande,29-03-2020,0,0,0,0,3.142857142857143,0.0,20.0,0.0
+São Miguel da Baixa Grande,30-03-2020,0,0,0,0,3.142857142857143,0.0,20.0,0.0
+São Miguel da Baixa Grande,31-03-2020,0,0,0,0,3.0714285714285716,0.0,20.0,0.0
+São Miguel da Baixa Grande,01-04-2020,0,0,0,0,3.0714285714285716,0.0,8.0,0.0
+São Miguel da Baixa Grande,02-04-2020,0,0,0,0,2.0,0.0,0.0,0.0
+São Miguel da Baixa Grande,03-04-2020,0,0,0,0,2.0,0.0,0.0,0.0
+São Miguel da Baixa Grande,04-04-2020,0,0,0,0,1.6428571428571428,0.0,0.0,0.0
+São Miguel da Baixa Grande,05-04-2020,0,0,0,0,1.4285714285714286,0.0,0.0,0.0
+São Miguel da Baixa Grande,06-04-2020,0,0,0,0,1.4285714285714286,0.0,0.0,0.0
+São Miguel da Baixa Grande,07-04-2020,0,0,0,0,1.4285714285714286,0.0,0.0,0.0
+São Miguel da Baixa Grande,08-04-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
 São Miguel da Baixa Grande,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel da Baixa Grande,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel da Baixa Grande,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -333,3 +333,4 @@ São Miguel da Baixa Grande,20-02-2021,44,0,1,0,0.35714285714285715,0.0,0.0,0.0
 São Miguel da Baixa Grande,21-02-2021,44,0,1,0,0.35714285714285715,0.0,0.0,0.0
 São Miguel da Baixa Grande,22-02-2021,44,0,1,0,0.35714285714285715,0.0,0.0,0.0
 São Miguel da Baixa Grande,23-02-2021,45,1,1,0,0.42857142857142855,0.0,1.0,0.0
+São Miguel da Baixa Grande,24-02-2021,45,0,1,0,0.2857142857142857,0.0,1.0,0.0

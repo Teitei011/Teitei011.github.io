@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Araguainha,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Araguainha,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Araguainha,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Araguainha,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Araguainha,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -333,3 +333,4 @@ Araguainha,20-02-2021,15,0,0,0,0.0,0.0,0.0,0.0
 Araguainha,21-02-2021,15,0,0,0,0.0,0.0,0.0,0.0
 Araguainha,22-02-2021,15,0,0,0,0.0,0.0,0.0,0.0
 Araguainha,23-02-2021,15,0,0,0,0.0,0.0,0.0,0.0
+Araguainha,24-02-2021,15,0,0,0,0.0,0.0,0.0,0.0

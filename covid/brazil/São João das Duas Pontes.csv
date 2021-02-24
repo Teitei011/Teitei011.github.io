@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São João das Duas Pontes,27-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-São João das Duas Pontes,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-São João das Duas Pontes,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-São João das Duas Pontes,30-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-São João das Duas Pontes,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-São João das Duas Pontes,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
-São João das Duas Pontes,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
-São João das Duas Pontes,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
-São João das Duas Pontes,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
-São João das Duas Pontes,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
-São João das Duas Pontes,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
-São João das Duas Pontes,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
-São João das Duas Pontes,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+São João das Duas Pontes,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+São João das Duas Pontes,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+São João das Duas Pontes,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+São João das Duas Pontes,30-03-2020,0,0,0,0,0.07142857142857142,0.0,1.0,0.0
+São João das Duas Pontes,31-03-2020,0,0,0,0,0.07142857142857142,0.0,1.0,0.0
+São João das Duas Pontes,01-04-2020,0,0,0,0,0.07142857142857142,0.0,1.0,0.0
+São João das Duas Pontes,02-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+São João das Duas Pontes,03-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+São João das Duas Pontes,04-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+São João das Duas Pontes,05-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+São João das Duas Pontes,06-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+São João das Duas Pontes,07-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+São João das Duas Pontes,08-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 São João das Duas Pontes,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São João das Duas Pontes,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São João das Duas Pontes,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -333,3 +333,4 @@ São João das Duas Pontes,20-02-2021,113,0,4,0,0.14285714285714285,0.0,0.0,0.0
 São João das Duas Pontes,21-02-2021,113,0,4,0,0.14285714285714285,0.0,0.0,0.0
 São João das Duas Pontes,22-02-2021,113,0,4,0,0.14285714285714285,0.0,0.0,0.0
 São João das Duas Pontes,23-02-2021,113,0,4,0,0.14285714285714285,0.0,0.0,0.0
+São João das Duas Pontes,24-02-2021,113,0,4,0,0.07142857142857142,0.0,0.0,0.0

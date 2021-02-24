@@ -1,12 +1,12 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Vargem Grande do Sul,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Vargem Grande do Sul,28-03-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+Vargem Grande do Sul,27-03-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+Vargem Grande do Sul,28-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Vargem Grande do Sul,29-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Vargem Grande do Sul,30-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Vargem Grande do Sul,31-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Vargem Grande do Sul,01-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Vargem Grande do Sul,02-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Vargem Grande do Sul,03-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Vargem Grande do Sul,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Vargem Grande do Sul,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Vargem Grande do Sul,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Vargem Grande do Sul,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -333,3 +333,4 @@ Vargem Grande do Sul,20-02-2021,1470,9,25,0,7.357142857142857,0.0714285714285714
 Vargem Grande do Sul,21-02-2021,1470,0,25,0,7.357142857142857,0.07142857142857142,49.0,1.0
 Vargem Grande do Sul,22-02-2021,1470,0,25,0,7.357142857142857,0.07142857142857142,48.0,1.0
 Vargem Grande do Sul,23-02-2021,1479,9,25,0,7.571428571428571,0.07142857142857142,28.0,1.0
+Vargem Grande do Sul,24-02-2021,1479,0,25,0,5.5,0.07142857142857142,26.0,0.0

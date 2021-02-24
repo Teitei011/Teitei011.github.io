@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Pariquera-Açu,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Pariquera-Açu,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pariquera-Açu,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pariquera-Açu,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pariquera-Açu,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -333,3 +333,4 @@ Pariquera-Açu,20-02-2021,1307,29,24,0,5.857142857142857,0.07142857142857142,32.
 Pariquera-Açu,21-02-2021,1307,0,24,0,5.857142857142857,0.07142857142857142,32.0,0.0
 Pariquera-Açu,22-02-2021,1309,2,24,0,6.0,0.07142857142857142,34.0,0.0
 Pariquera-Açu,23-02-2021,1309,0,25,1,5.357142857142857,0.14285714285714285,33.0,1.0
+Pariquera-Açu,24-02-2021,1310,1,26,1,5.357142857142857,0.21428571428571427,33.0,2.0

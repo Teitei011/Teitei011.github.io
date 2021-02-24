@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santa Cruz da Vitória,27-03-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
-Santa Cruz da Vitória,28-03-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+Santa Cruz da Vitória,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Cruz da Vitória,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Cruz da Vitória,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Cruz da Vitória,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -333,3 +333,4 @@ Santa Cruz da Vitória,20-02-2021,369,2,5,0,3.642857142857143,0.0,29.0,0.0
 Santa Cruz da Vitória,21-02-2021,370,1,5,0,3.7142857142857144,0.0,26.0,0.0
 Santa Cruz da Vitória,22-02-2021,370,0,5,0,2.9285714285714284,0.0,25.0,0.0
 Santa Cruz da Vitória,23-02-2021,379,9,5,0,3.142857142857143,0.0,30.0,0.0
+Santa Cruz da Vitória,24-02-2021,379,0,5,0,2.857142857142857,0.0,27.0,0.0

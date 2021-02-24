@@ -23,14 +23,14 @@ async function setup(locationName) {
   const covidCases = await getData(locationName);
 
   graphIt(
-    "myChart1",
+    "TotalDeCasos",
     "Total de Casos: " + locationName,
     "line",
     covidCases.date,
     covidCases.cases
   );
   graphIt(
-    "myChart2",
+    "TotalDeMortes",
     "Total de Mortes: " + locationName,
     "line",
     covidCases.date,
@@ -38,14 +38,14 @@ async function setup(locationName) {
   );
 
   graphIt(
-    "myChart3",
+    "CasosDiarios",
     "Casos diários: " + locationName,
     "line",
     covidCases.date,
     covidCases.daily_cases
   );
   graphIt(
-    "myChart4",
+    "MortesDiarias",
     "Mortes diárias: " + locationName,
     "line",
     covidCases.date,
@@ -53,14 +53,14 @@ async function setup(locationName) {
   );
 
   graphIt(
-    "myChart5",
+    "MovelCasos",
     "Média móvel de casos: " + locationName,
     "line",
     covidCases.date,
     covidCases.cases_moving_average
   );
   graphIt(
-    "myChart6",
+    "MovelMortes",
     "Média móvel de mortes: " + locationName,
     "line",
     covidCases.date,
@@ -88,24 +88,24 @@ function setupBoxWithData(covidCases, locationName){
   if(variacao_casos > 0){
     variacao_casos = "+" + change2Dot(parseFloat(variacao_casos).toFixed(2));
   } else{
-    variacao_casos = change2Dot(changeNumber(parseFloat(variacao_casos).toFixed(2)));
+    variacao_casos = change2Dot(changeSymbol(parseFloat(variacao_casos).toFixed(2)));
   }
   if (variacao_mortes > 0){
     variacao_mortes = "+" + change2Dot(parseFloat(variacao_mortes).toFixed(2));
   } else{
-    variacao_mortes = change2Dot(changeNumber(parseFloat(variacao_mortes).toFixed(2)));
+    variacao_mortes = change2Dot(changeSymbol(parseFloat(variacao_mortes).toFixed(2)));
   }
 
-  document.getElementById("variacao_casos").innerHTML =  changeNumber(variacao_casos) + "%";
-  document.getElementById("variacao_mortes").innerHTML =  changeNumber(variacao_mortes) + "%";
+  document.getElementById("variacao_casos").innerHTML =  changeSymbol(variacao_casos) + "%";
+  document.getElementById("variacao_mortes").innerHTML =  changeSymbol(variacao_mortes) + "%";
 
   document.getElementById("novos_casos").innerHTML = change2Dot( parseFloat(covidCases.sum_of_daily_cases_week[covidCases.sum_of_daily_cases_week.length -1]).toFixed(0));
   document.getElementById("novas_mortes").innerHTML = change2Dot(parseFloat(covidCases.sum_of_daily_deaths_week[covidCases.sum_of_daily_deaths_week.length -1]).toFixed(0));
   //document.getElementById("DadosAtualizados").innerHTML = "<center>Esperando o Ministério da Saúde atualizar seus dados: " +"</center>" ;
  
  
-  // document.getElementById("DadosAtualizados").innerHTML = "<center>Dados atualizados no dia: "  + changeDateSign(covidCases.date[covidCases.cases.length -1]) + " 20:00" +"</center>" ;
-  document.getElementById("DadosAtualizados").innerHTML = "<center>Dados atualizados no dia: "  + "24/02/2021" + " 09:53" +"</center>" ;
+  document.getElementById("DadosAtualizados").innerHTML = "<center>Dados atualizados no dia: "  + covidCases.date[covidCases.cases.length -1] + " 20:00" +"</center>" ;
+  // document.getElementById("DadosAtualizados").innerHTML = "<center>Dados atualizados no dia: "  + "24/02/2021" + " 09:53" +"</center>" ;
 }
 
 
@@ -205,22 +205,7 @@ function change2Dot(nStr){
  }
 
 
- function changeNumber(value){
+ function changeSymbol(value){
   return  value.replace(".", ',');
 
  } 
-
- async function changeDateOrderArray(array){
-  let new_array = [];
-  for (let i = 0; i < array.length; i++){
-    let x = array[i].split('-');
-    new_array.push( x[2] + "/" + x[1] + "/" + x[0]);
-  }
-  return new_array;
-}
-
- function changeDateSign(nStr){
-    return nStr;
- }
-
-//          <img src="https://profile-counter.glitch.me/Teitei011/count.svg"></img> 

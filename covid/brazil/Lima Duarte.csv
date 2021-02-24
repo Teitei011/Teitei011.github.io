@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Lima Duarte,27-03-2020,0,0,0,0,1.7857142857142858,0.0,0.0,0.0
-Lima Duarte,28-03-2020,0,0,0,0,1.5,0.0,0.0,0.0
+Lima Duarte,27-03-2020,0,0,0,0,1.5,0.0,0.0,0.0
+Lima Duarte,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lima Duarte,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lima Duarte,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lima Duarte,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -333,3 +333,4 @@ Lima Duarte,20-02-2021,359,0,18,0,1.0,0.0,6.0,0.0
 Lima Duarte,21-02-2021,359,0,18,0,1.0,0.0,6.0,0.0
 Lima Duarte,22-02-2021,359,0,18,0,1.0,0.0,6.0,0.0
 Lima Duarte,23-02-2021,364,5,18,0,1.3571428571428572,0.0,10.0,0.0
+Lima Duarte,24-02-2021,365,1,18,0,1.0,0.0,6.0,0.0

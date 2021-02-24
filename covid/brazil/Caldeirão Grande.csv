@@ -1,11 +1,11 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Caldeirão Grande,27-03-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+Caldeirão Grande,27-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Caldeirão Grande,28-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Caldeirão Grande,29-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Caldeirão Grande,30-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Caldeirão Grande,31-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Caldeirão Grande,01-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Caldeirão Grande,02-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
+Caldeirão Grande,01-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
+Caldeirão Grande,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Caldeirão Grande,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Caldeirão Grande,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Caldeirão Grande,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -333,3 +333,4 @@ Caldeirão Grande,20-02-2021,518,0,4,0,0.35714285714285715,0.0,2.0,0.0
 Caldeirão Grande,21-02-2021,520,2,4,0,0.5,0.0,2.0,0.0
 Caldeirão Grande,22-02-2021,520,0,4,0,0.5,0.0,2.0,0.0
 Caldeirão Grande,23-02-2021,521,1,4,0,0.5714285714285714,0.0,3.0,0.0
+Caldeirão Grande,24-02-2021,521,0,4,0,0.5714285714285714,0.0,3.0,0.0

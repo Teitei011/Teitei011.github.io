@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Barra do Jacaré,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Barra do Jacaré,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Barra do Jacaré,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Barra do Jacaré,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Barra do Jacaré,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Barra do Jacaré,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -333,3 +333,4 @@ Barra do Jacaré,20-02-2021,116,1,0,0,1.0714285714285714,0.0,4.0,0.0
 Barra do Jacaré,21-02-2021,118,2,0,0,0.7857142857142857,0.0,6.0,0.0
 Barra do Jacaré,22-02-2021,118,0,0,0,0.7857142857142857,0.0,5.0,0.0
 Barra do Jacaré,23-02-2021,119,1,0,0,0.8571428571428571,0.0,6.0,0.0
+Barra do Jacaré,24-02-2021,119,0,0,0,0.8571428571428571,0.0,6.0,0.0

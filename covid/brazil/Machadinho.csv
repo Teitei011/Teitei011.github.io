@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Machadinho,27-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Machadinho,28-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
-Machadinho,29-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
+Machadinho,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Machadinho,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Machadinho,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Machadinho,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -333,3 +333,4 @@ Machadinho,20-02-2021,393,4,4,0,1.4285714285714286,0.0,13.0,0.0
 Machadinho,21-02-2021,393,0,4,0,1.4285714285714286,0.0,13.0,0.0
 Machadinho,22-02-2021,393,0,4,0,1.4285714285714286,0.0,13.0,0.0
 Machadinho,23-02-2021,401,8,4,0,1.8571428571428572,0.0,21.0,0.0
+Machadinho,24-02-2021,409,8,4,0,2.357142857142857,0.0,29.0,0.0

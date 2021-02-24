@@ -1,11 +1,11 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Nossa Senhora de Nazaré,27-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
-Nossa Senhora de Nazaré,28-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Nossa Senhora de Nazaré,27-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Nossa Senhora de Nazaré,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Nossa Senhora de Nazaré,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Nossa Senhora de Nazaré,30-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Nossa Senhora de Nazaré,31-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Nossa Senhora de Nazaré,01-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Nossa Senhora de Nazaré,02-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Nossa Senhora de Nazaré,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nossa Senhora de Nazaré,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nossa Senhora de Nazaré,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nossa Senhora de Nazaré,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -333,3 +333,4 @@ Nossa Senhora de Nazaré,20-02-2021,132,0,7,0,1.0714285714285714,0.1428571428571
 Nossa Senhora de Nazaré,21-02-2021,132,0,7,0,1.0714285714285714,0.14285714285714285,5.0,1.0
 Nossa Senhora de Nazaré,22-02-2021,133,1,7,0,1.1428571428571428,0.14285714285714285,6.0,1.0
 Nossa Senhora de Nazaré,23-02-2021,133,0,7,0,1.0,0.14285714285714285,6.0,1.0
+Nossa Senhora de Nazaré,24-02-2021,134,1,7,0,1.0,0.07142857142857142,6.0,1.0

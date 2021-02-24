@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Carrapateira,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Carrapateira,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Carrapateira,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Carrapateira,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Carrapateira,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Carrapateira,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Carrapateira,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -333,3 +333,4 @@ Carrapateira,20-02-2021,324,0,4,0,8.642857142857142,0.07142857142857142,33.0,0.0
 Carrapateira,21-02-2021,330,6,4,0,7.571428571428571,0.07142857142857142,37.0,0.0
 Carrapateira,22-02-2021,336,6,4,0,7.142857142857143,0.0,43.0,0.0
 Carrapateira,23-02-2021,338,2,4,0,6.857142857142857,0.0,45.0,0.0
+Carrapateira,24-02-2021,343,5,4,0,7.142857142857143,0.0,50.0,0.0
