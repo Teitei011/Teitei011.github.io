@@ -20,7 +20,7 @@ def extractDataframeByName(dataframe, location):
 
         #print("Processing... {}  - {:.2f}%".format(name, (counter*100)/number_of_names))
         if (counter % 530 == 0):
-            print("Processing... {:.2f}%".format( (counter*100)/number_of_names))
+            print("Processing... {:.0f}%".format( (counter*100)/number_of_names))
 
 
         newDataframe = dataframe.loc[dataframe[location] == name]
@@ -57,8 +57,8 @@ def splitDataframe2Something(dataframe, name): # Regiao pro Brasil né? # Estado
     
     newDataframe.reset_index(inplace = True)
     newDataframe["data"] = changeDateOrder(newDataframe["data"])
-    newDataframe["daily cases moving average"] = newDataframe['casosNovos'].rolling(window=7).mean()
-    newDataframe["daily deaths moving average"] = newDataframe['obitosNovos'].rolling(window=7).mean()
+    newDataframe["daily cases moving average"] = newDataframe['casosNovos'].rolling(window=14).mean()
+    newDataframe["daily deaths moving average"] = newDataframe['obitosNovos'].rolling(window=14).mean()
     newDataframe["sum_of_daily_cases_week"] = newDataframe['casosNovos'].rolling(window=7).sum() 
     newDataframe["sum_of_daily_deaths_week"] = newDataframe['obitosNovos'].rolling(window=7).sum() 
 
