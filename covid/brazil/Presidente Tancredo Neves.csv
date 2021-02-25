@@ -1,12 +1,12 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Presidente Tancredo Neves,27-03-2020,0,0,0,0,0.07142857142857142,0.0,1.0,0.0
+Presidente Tancredo Neves,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Presidente Tancredo Neves,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Presidente Tancredo Neves,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Presidente Tancredo Neves,30-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Presidente Tancredo Neves,31-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Presidente Tancredo Neves,01-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Presidente Tancredo Neves,02-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Presidente Tancredo Neves,03-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Presidente Tancredo Neves,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Tancredo Neves,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Tancredo Neves,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Tancredo Neves,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -334,3 +334,4 @@ Presidente Tancredo Neves,21-02-2021,1319,0,22,0,4.285714285714286,0.14285714285
 Presidente Tancredo Neves,22-02-2021,1324,5,22,0,4.642857142857143,0.14285714285714285,30.0,1.0
 Presidente Tancredo Neves,23-02-2021,1327,3,22,0,4.857142857142857,0.14285714285714285,33.0,1.0
 Presidente Tancredo Neves,24-02-2021,1330,3,22,0,4.857142857142857,0.07142857142857142,35.0,1.0
+Presidente Tancredo Neves,25-02-2021,1340,10,22,0,3.7857142857142856,0.07142857142857142,35.0,0.0

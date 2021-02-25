@@ -1,11 +1,11 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Vespasiano Corrêa,27-03-2020,0,0,0,0,0.0,0.2857142857142857,0.0,0.0
+Vespasiano Corrêa,27-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,0.0
 Vespasiano Corrêa,28-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,0.0
-Vespasiano Corrêa,29-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,0.0
+Vespasiano Corrêa,29-03-2020,0,0,0,0,0.0,0.07142857142857142,0.0,0.0
 Vespasiano Corrêa,30-03-2020,0,0,0,0,0.0,0.07142857142857142,0.0,0.0
 Vespasiano Corrêa,31-03-2020,0,0,0,0,0.0,0.07142857142857142,0.0,0.0
-Vespasiano Corrêa,01-04-2020,0,0,0,0,0.0,0.07142857142857142,0.0,0.0
-Vespasiano Corrêa,02-04-2020,0,0,0,0,0.0,0.14285714285714285,0.0,0.0
+Vespasiano Corrêa,01-04-2020,0,0,0,0,0.0,0.14285714285714285,0.0,0.0
+Vespasiano Corrêa,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Vespasiano Corrêa,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Vespasiano Corrêa,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Vespasiano Corrêa,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -334,3 +334,4 @@ Vespasiano Corrêa,21-02-2021,124,0,4,0,0.6428571428571429,0.0,2.0,0.0
 Vespasiano Corrêa,22-02-2021,124,0,4,0,0.6428571428571429,0.0,2.0,0.0
 Vespasiano Corrêa,23-02-2021,126,2,4,0,0.35714285714285715,0.0,4.0,0.0
 Vespasiano Corrêa,24-02-2021,130,4,4,0,0.6428571428571429,0.0,8.0,0.0
+Vespasiano Corrêa,25-02-2021,130,0,5,1,0.5714285714285714,0.07142857142857142,7.0,1.0

@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Uirapuru,27-03-2020,0,0,0,0,1.7857142857142858,0.0,0.0,0.0
+Uirapuru,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Uirapuru,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Uirapuru,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Uirapuru,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -334,3 +334,4 @@ Uirapuru,21-02-2021,77,-1,4,0,0.6428571428571429,0.0,5.0,0.0
 Uirapuru,22-02-2021,77,0,4,0,0.5,0.0,5.0,0.0
 Uirapuru,23-02-2021,78,1,4,0,0.5714285714285714,0.0,6.0,0.0
 Uirapuru,24-02-2021,80,2,4,0,0.6428571428571429,0.0,8.0,0.0
+Uirapuru,25-02-2021,79,-1,4,0,0.6428571428571429,0.0,3.0,0.0

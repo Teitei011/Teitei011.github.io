@@ -1,16 +1,16 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Couto de Magalhães de Minas,27-03-2020,0,0,0,0,0.7142857142857143,0.0,3.0,0.0
-Couto de Magalhães de Minas,28-03-2020,0,0,0,0,0.7142857142857143,0.0,2.0,0.0
+Couto de Magalhães de Minas,27-03-2020,0,0,0,0,0.7142857142857143,0.0,2.0,0.0
+Couto de Magalhães de Minas,28-03-2020,0,0,0,0,0.7142857142857143,0.0,1.0,0.0
 Couto de Magalhães de Minas,29-03-2020,0,0,0,0,0.7142857142857143,0.0,1.0,0.0
 Couto de Magalhães de Minas,30-03-2020,0,0,0,0,0.7142857142857143,0.0,1.0,0.0
-Couto de Magalhães de Minas,31-03-2020,0,0,0,0,0.7142857142857143,0.0,1.0,0.0
-Couto de Magalhães de Minas,01-04-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
-Couto de Magalhães de Minas,02-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
-Couto de Magalhães de Minas,03-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
-Couto de Magalhães de Minas,04-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Couto de Magalhães de Minas,31-03-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
+Couto de Magalhães de Minas,01-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+Couto de Magalhães de Minas,02-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
+Couto de Magalhães de Minas,03-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Couto de Magalhães de Minas,04-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Couto de Magalhães de Minas,05-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Couto de Magalhães de Minas,06-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Couto de Magalhães de Minas,07-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Couto de Magalhães de Minas,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Couto de Magalhães de Minas,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Couto de Magalhães de Minas,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Couto de Magalhães de Minas,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -334,3 +334,4 @@ Couto de Magalhães de Minas,21-02-2021,29,0,0,0,0.07142857142857142,0.0,1.0,0.0
 Couto de Magalhães de Minas,22-02-2021,29,0,0,0,0.07142857142857142,0.0,1.0,0.0
 Couto de Magalhães de Minas,23-02-2021,29,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Couto de Magalhães de Minas,24-02-2021,29,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Couto de Magalhães de Minas,25-02-2021,30,1,0,0,0.14285714285714285,0.0,1.0,0.0

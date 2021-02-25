@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Igarapé do Meio,27-03-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
+Igarapé do Meio,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Igarapé do Meio,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Igarapé do Meio,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Igarapé do Meio,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -334,3 +334,4 @@ Igarapé do Meio,21-02-2021,351,0,11,0,0.7857142857142857,0.07142857142857142,2.
 Igarapé do Meio,22-02-2021,351,0,11,0,0.7857142857142857,0.07142857142857142,2.0,0.0
 Igarapé do Meio,23-02-2021,351,0,11,0,0.7857142857142857,0.07142857142857142,2.0,0.0
 Igarapé do Meio,24-02-2021,351,0,11,0,0.5714285714285714,0.07142857142857142,0.0,0.0
+Igarapé do Meio,25-02-2021,351,0,11,0,0.5714285714285714,0.07142857142857142,0.0,0.0

@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Pedra do Indaiá,27-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Pedra do Indaiá,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pedra do Indaiá,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pedra do Indaiá,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pedra do Indaiá,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -334,3 +334,4 @@ Pedra do Indaiá,21-02-2021,129,0,6,0,0.07142857142857142,0.14285714285714285,1.
 Pedra do Indaiá,22-02-2021,129,0,6,0,0.07142857142857142,0.14285714285714285,1.0,1.0
 Pedra do Indaiá,23-02-2021,129,0,6,0,0.07142857142857142,0.14285714285714285,1.0,1.0
 Pedra do Indaiá,24-02-2021,129,0,6,0,0.07142857142857142,0.14285714285714285,1.0,0.0
+Pedra do Indaiá,25-02-2021,129,0,6,0,0.07142857142857142,0.14285714285714285,1.0,0.0

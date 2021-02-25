@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santo Antônio de Posse,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio de Posse,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santo Antônio de Posse,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Santo Antônio de Posse,29-03-2020,0,0,0,0,-0.07142857142857142,0.0,0.0,0.0
 Santo Antônio de Posse,30-03-2020,0,0,0,0,-0.07142857142857142,0.0,0.0,0.0
-Santo Antônio de Posse,31-03-2020,0,0,0,0,-0.07142857142857142,0.0,0.0,0.0
+Santo Antônio de Posse,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio de Posse,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio de Posse,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio de Posse,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -334,3 +334,4 @@ Santo Antônio de Posse,21-02-2021,1225,1,16,0,8.428571428571429,0.0714285714285
 Santo Antônio de Posse,22-02-2021,1225,0,16,0,8.428571428571429,0.07142857142857142,56.0,1.0
 Santo Antônio de Posse,23-02-2021,1244,19,16,0,9.142857142857142,0.07142857142857142,58.0,1.0
 Santo Antônio de Posse,24-02-2021,1245,1,16,0,9.0,0.07142857142857142,57.0,1.0
+Santo Antônio de Posse,25-02-2021,1258,13,16,0,8.5,0.07142857142857142,47.0,1.0
