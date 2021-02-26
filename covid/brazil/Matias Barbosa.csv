@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Matias Barbosa,27-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,0.0
+Matias Barbosa,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Matias Barbosa,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Matias Barbosa,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Matias Barbosa,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -335,3 +335,4 @@ Matias Barbosa,22-02-2021,777,0,17,0,4.357142857142857,0.2857142857142857,35.0,1
 Matias Barbosa,23-02-2021,777,0,17,0,4.285714285714286,0.2857142857142857,31.0,1.0
 Matias Barbosa,24-02-2021,792,15,18,1,4.285714285714286,0.21428571428571427,38.0,1.0
 Matias Barbosa,25-02-2021,794,2,18,0,4.142857142857143,0.21428571428571427,36.0,1.0
+Matias Barbosa,26-02-2021,806,12,18,0,4.857142857142857,0.21428571428571427,38.0,1.0

@@ -10,6 +10,8 @@ PATH = "brazil/"
 FILE_NAME = "Brazil.csv"
 
 X_POSITION, Y_POSITION = 0 , 0
+py.FAILSAFE = False
+
 
 #@jit(nopython=True, parallel=True)
 def extractDataframeByName(dataframe, location):
@@ -76,7 +78,8 @@ def downloadData():
     seeScreenSize()
     # Click in the right button
     time.sleep(15) 
-    py.click(X_POSITION, Y_POSITION, duration=0.25)
+    py.moveTo(X_POSITION, Y_POSITION)
+    py.click(X_POSITION, Y_POSITION)
     time.sleep(60)
 
     # CHange the file's name
@@ -119,16 +122,16 @@ def seeScreenSize():
     else:
         X_POSITION, Y_POSITION = 1183, 267
 
+    print(X_POSITION, Y_POSITION)
+
 def main():
     downloadData()
     processData()
 
+schedule.every().day.at("15:57").do(main)
+if __name__ == "__main__":
+    main()
 
-schedule.every().day.at("15:10").do(main)
-
-
-
-# if __name__ == "__main__":
-#     main()
-
-    
+while True:
+    schedule.run_pending()
+    time.sleep(1)

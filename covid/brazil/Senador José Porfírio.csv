@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Senador José Porfírio,27-03-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
+Senador José Porfírio,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Senador José Porfírio,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Senador José Porfírio,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Senador José Porfírio,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -335,3 +335,4 @@ Senador José Porfírio,22-02-2021,652,0,15,0,0.07142857142857142,0.0,0.0,0.0
 Senador José Porfírio,23-02-2021,654,2,15,0,0.21428571428571427,0.0,2.0,0.0
 Senador José Porfírio,24-02-2021,654,0,15,0,0.21428571428571427,0.0,2.0,0.0
 Senador José Porfírio,25-02-2021,654,0,15,0,0.21428571428571427,0.0,2.0,0.0
+Senador José Porfírio,26-02-2021,655,1,15,0,0.21428571428571427,0.0,3.0,0.0

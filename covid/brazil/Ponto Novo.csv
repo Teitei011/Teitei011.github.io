@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Ponto Novo,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Ponto Novo,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Ponto Novo,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Ponto Novo,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Ponto Novo,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -335,3 +335,4 @@ Ponto Novo,22-02-2021,525,0,3,0,3.2857142857142856,0.0,44.0,0.0
 Ponto Novo,23-02-2021,529,4,3,0,3.5714285714285716,0.0,24.0,0.0
 Ponto Novo,24-02-2021,531,2,3,0,3.7142857142857144,0.0,22.0,0.0
 Ponto Novo,25-02-2021,531,0,3,0,3.7142857142857144,0.0,12.0,0.0
+Ponto Novo,26-02-2021,531,0,3,0,3.7142857142857144,0.0,8.0,0.0

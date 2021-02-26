@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Gameleira de Goiás,27-03-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
 Gameleira de Goiás,28-03-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
-Gameleira de Goiás,29-03-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
-Gameleira de Goiás,30-03-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
-Gameleira de Goiás,31-03-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+Gameleira de Goiás,29-03-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
+Gameleira de Goiás,30-03-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+Gameleira de Goiás,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Gameleira de Goiás,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Gameleira de Goiás,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Gameleira de Goiás,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -335,3 +335,4 @@ Gameleira de Goiás,22-02-2021,152,5,3,0,2.0,0.0,19.0,0.0
 Gameleira de Goiás,23-02-2021,164,12,3,0,2.5,0.0,31.0,0.0
 Gameleira de Goiás,24-02-2021,164,0,3,0,2.5,0.0,30.0,0.0
 Gameleira de Goiás,25-02-2021,175,11,3,0,3.0,0.0,41.0,0.0
+Gameleira de Goiás,26-02-2021,188,13,3,0,3.9285714285714284,0.0,54.0,0.0

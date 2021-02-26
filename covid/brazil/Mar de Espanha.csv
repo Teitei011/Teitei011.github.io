@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Mar de Espanha,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Mar de Espanha,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Mar de Espanha,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Mar de Espanha,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Mar de Espanha,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Mar de Espanha,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Mar de Espanha,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -335,3 +335,4 @@ Mar de Espanha,22-02-2021,618,0,18,0,11.0,0.2857142857142857,78.0,1.0
 Mar de Espanha,23-02-2021,618,0,18,0,11.0,0.2857142857142857,78.0,1.0
 Mar de Espanha,24-02-2021,631,13,18,0,9.071428571428571,0.21428571428571427,91.0,0.0
 Mar de Espanha,25-02-2021,644,13,18,0,9.214285714285714,0.21428571428571427,104.0,0.0
+Mar de Espanha,26-02-2021,644,0,18,0,8.571428571428571,0.21428571428571427,104.0,0.0

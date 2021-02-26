@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Porto Amazonas,27-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Porto Amazonas,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Porto Amazonas,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Porto Amazonas,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Porto Amazonas,30-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Porto Amazonas,31-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Porto Amazonas,01-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Porto Amazonas,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Porto Amazonas,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Porto Amazonas,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Porto Amazonas,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -335,3 +335,4 @@ Porto Amazonas,22-02-2021,163,1,2,0,2.857142857142857,0.0,35.0,0.0
 Porto Amazonas,23-02-2021,171,8,2,0,3.2857142857142856,0.0,40.0,0.0
 Porto Amazonas,24-02-2021,177,6,2,0,3.7142857142857144,0.0,29.0,0.0
 Porto Amazonas,25-02-2021,194,17,2,0,4.857142857142857,0.0,45.0,0.0
+Porto Amazonas,26-02-2021,214,20,2,0,6.285714285714286,0.0,63.0,0.0

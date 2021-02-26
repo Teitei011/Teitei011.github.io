@@ -1,11 +1,11 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Quarto Centenário,27-03-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
+Quarto Centenário,27-03-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 Quarto Centenário,28-03-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 Quarto Centenário,29-03-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 Quarto Centenário,30-03-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 Quarto Centenário,31-03-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 Quarto Centenário,01-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
-Quarto Centenário,02-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
+Quarto Centenário,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Quarto Centenário,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Quarto Centenário,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Quarto Centenário,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -335,3 +335,4 @@ Quarto Centenário,22-02-2021,132,0,1,0,0.2857142857142857,0.0,0.0,0.0
 Quarto Centenário,23-02-2021,132,0,1,0,0.14285714285714285,0.0,0.0,0.0
 Quarto Centenário,24-02-2021,132,0,1,0,0.14285714285714285,0.0,0.0,0.0
 Quarto Centenário,25-02-2021,132,0,1,0,0.14285714285714285,0.0,0.0,0.0
+Quarto Centenário,26-02-2021,132,0,1,0,0.14285714285714285,0.0,0.0,0.0
