@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Floresta do Araguaia,27-03-2020,0,0,0,0,2.2142857142857144,0.0,13.0,0.0
-Floresta do Araguaia,28-03-2020,0,0,0,0,2.2142857142857144,0.0,13.0,0.0
-Floresta do Araguaia,29-03-2020,0,0,0,0,2.2142857142857144,0.0,13.0,0.0
-Floresta do Araguaia,30-03-2020,0,0,0,0,1.7857142857142858,0.0,4.0,0.0
-Floresta do Araguaia,31-03-2020,0,0,0,0,1.7142857142857142,0.0,1.0,0.0
-Floresta do Araguaia,01-04-2020,0,0,0,0,1.4285714285714286,0.0,0.0,0.0
-Floresta do Araguaia,02-04-2020,0,0,0,0,0.9285714285714286,0.0,0.0,0.0
-Floresta do Araguaia,03-04-2020,0,0,0,0,0.9285714285714286,0.0,0.0,0.0
-Floresta do Araguaia,04-04-2020,0,0,0,0,0.9285714285714286,0.0,0.0,0.0
-Floresta do Araguaia,05-04-2020,0,0,0,0,0.9285714285714286,0.0,0.0,0.0
+Floresta do Araguaia,27-03-2020,0,0,0,0,2.4285714285714284,0.0,16.0,0.0
+Floresta do Araguaia,28-03-2020,0,0,0,0,2.4285714285714284,0.0,16.0,0.0
+Floresta do Araguaia,29-03-2020,0,0,0,0,2.0,0.0,7.0,0.0
+Floresta do Araguaia,30-03-2020,0,0,0,0,1.9285714285714286,0.0,4.0,0.0
+Floresta do Araguaia,31-03-2020,0,0,0,0,1.6428571428571428,0.0,3.0,0.0
+Floresta do Araguaia,01-04-2020,0,0,0,0,1.1428571428571428,0.0,3.0,0.0
+Floresta do Araguaia,02-04-2020,0,0,0,0,1.1428571428571428,0.0,0.0,0.0
+Floresta do Araguaia,03-04-2020,0,0,0,0,1.1428571428571428,0.0,0.0,0.0
+Floresta do Araguaia,04-04-2020,0,0,0,0,1.1428571428571428,0.0,0.0,0.0
+Floresta do Araguaia,05-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
 Floresta do Araguaia,06-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
-Floresta do Araguaia,07-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Floresta do Araguaia,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Floresta do Araguaia,07-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
+Floresta do Araguaia,08-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Floresta do Araguaia,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Floresta do Araguaia,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Floresta do Araguaia,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -336,3 +336,4 @@ Floresta do Araguaia,23-02-2021,513,0,8,0,1.1428571428571428,0.0,16.0,0.0
 Floresta do Araguaia,24-02-2021,514,1,8,0,1.2142857142857142,0.0,17.0,0.0
 Floresta do Araguaia,25-02-2021,514,0,8,0,1.2142857142857142,0.0,17.0,0.0
 Floresta do Araguaia,26-02-2021,514,0,8,0,1.2142857142857142,0.0,8.0,0.0
+Floresta do Araguaia,27-02-2021,514,0,8,0,1.2142857142857142,0.0,1.0,0.0

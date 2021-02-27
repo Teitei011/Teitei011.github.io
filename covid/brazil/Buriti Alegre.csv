@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Buriti Alegre,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Buriti Alegre,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Buriti Alegre,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Buriti Alegre,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Buriti Alegre,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Buriti Alegre,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Buriti Alegre,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -336,3 +336,4 @@ Buriti Alegre,23-02-2021,520,1,13,0,2.857142857142857,0.07142857142857142,29.0,0
 Buriti Alegre,24-02-2021,527,7,13,0,3.357142857142857,0.07142857142857142,28.0,0.0
 Buriti Alegre,25-02-2021,537,10,13,0,3.4285714285714284,0.0,37.0,0.0
 Buriti Alegre,26-02-2021,538,1,13,0,3.5,0.0,35.0,0.0
+Buriti Alegre,27-02-2021,537,-1,13,0,3.357142857142857,0.0,34.0,0.0

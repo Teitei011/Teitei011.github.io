@@ -1,15 +1,15 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Serra da Saudade,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Serra da Saudade,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Serra da Saudade,28-03-2020,0,0,0,0,0.07142857142857142,0.0,1.0,0.0
 Serra da Saudade,29-03-2020,0,0,0,0,0.07142857142857142,0.0,1.0,0.0
-Serra da Saudade,30-03-2020,0,0,0,0,0.07142857142857142,0.0,1.0,0.0
+Serra da Saudade,30-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Serra da Saudade,31-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Serra da Saudade,01-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Serra da Saudade,02-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Serra da Saudade,03-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Serra da Saudade,04-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Serra da Saudade,05-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Serra da Saudade,06-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Serra da Saudade,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Serra da Saudade,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Serra da Saudade,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Serra da Saudade,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -336,3 +336,4 @@ Serra da Saudade,23-02-2021,22,0,0,0,0.0,0.0,0.0,0.0
 Serra da Saudade,24-02-2021,22,0,0,0,0.0,0.0,0.0,0.0
 Serra da Saudade,25-02-2021,22,0,0,0,0.0,0.0,0.0,0.0
 Serra da Saudade,26-02-2021,22,0,0,0,0.0,0.0,0.0,0.0
+Serra da Saudade,27-02-2021,22,0,0,0,0.0,0.0,0.0,0.0

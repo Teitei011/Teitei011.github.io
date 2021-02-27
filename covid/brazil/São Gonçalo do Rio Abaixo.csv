@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Gonçalo do Rio Abaixo,27-03-2020,0,0,0,0,0.7142857142857143,0.0,6.0,0.0
+São Gonçalo do Rio Abaixo,27-03-2020,0,0,0,0,0.5714285714285714,0.0,6.0,0.0
 São Gonçalo do Rio Abaixo,28-03-2020,0,0,0,0,0.5714285714285714,0.0,6.0,0.0
-São Gonçalo do Rio Abaixo,29-03-2020,0,0,0,0,0.5714285714285714,0.0,6.0,0.0
+São Gonçalo do Rio Abaixo,29-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 São Gonçalo do Rio Abaixo,30-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-São Gonçalo do Rio Abaixo,31-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-São Gonçalo do Rio Abaixo,01-04-2020,0,0,0,0,0.5,0.0,3.0,0.0
-São Gonçalo do Rio Abaixo,02-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
+São Gonçalo do Rio Abaixo,31-03-2020,0,0,0,0,0.5,0.0,3.0,0.0
+São Gonçalo do Rio Abaixo,01-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
+São Gonçalo do Rio Abaixo,02-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 São Gonçalo do Rio Abaixo,03-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 São Gonçalo do Rio Abaixo,04-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
-São Gonçalo do Rio Abaixo,05-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
+São Gonçalo do Rio Abaixo,05-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
 São Gonçalo do Rio Abaixo,06-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
-São Gonçalo do Rio Abaixo,07-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
-São Gonçalo do Rio Abaixo,08-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
+São Gonçalo do Rio Abaixo,07-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
+São Gonçalo do Rio Abaixo,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Gonçalo do Rio Abaixo,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Gonçalo do Rio Abaixo,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Gonçalo do Rio Abaixo,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -336,3 +336,4 @@ São Gonçalo do Rio Abaixo,23-02-2021,674,1,8,0,2.2857142857142856,0.0,14.0,0.0
 São Gonçalo do Rio Abaixo,24-02-2021,676,2,8,0,2.142857142857143,0.0,12.0,0.0
 São Gonçalo do Rio Abaixo,25-02-2021,677,1,8,0,2.0,0.0,11.0,0.0
 São Gonçalo do Rio Abaixo,26-02-2021,681,4,8,0,2.0714285714285716,0.0,13.0,0.0
+São Gonçalo do Rio Abaixo,27-02-2021,683,2,9,1,2.0,0.07142857142857142,13.0,1.0

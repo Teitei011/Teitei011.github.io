@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Governador Celso Ramos,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Governador Celso Ramos,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Celso Ramos,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Celso Ramos,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Celso Ramos,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -336,3 +336,4 @@ Governador Celso Ramos,23-02-2021,1607,4,11,0,5.785714285714286,0.07142857142857
 Governador Celso Ramos,24-02-2021,1609,2,11,0,5.571428571428571,0.07142857142857142,31.0,0.0
 Governador Celso Ramos,25-02-2021,1624,15,11,0,6.0,0.07142857142857142,38.0,0.0
 Governador Celso Ramos,26-02-2021,1634,10,11,0,6.5,0.07142857142857142,44.0,0.0
+Governador Celso Ramos,27-02-2021,1636,2,11,0,5.714285714285714,0.07142857142857142,45.0,0.0

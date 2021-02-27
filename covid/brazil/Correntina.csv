@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Correntina,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Correntina,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Correntina,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Correntina,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Correntina,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -336,3 +336,4 @@ Correntina,23-02-2021,1151,5,5,0,9.5,0.0,55.0,0.0
 Correntina,24-02-2021,1159,8,5,0,9.785714285714286,0.0,34.0,0.0
 Correntina,25-02-2021,1172,13,5,0,10.5,0.0,43.0,0.0
 Correntina,26-02-2021,1175,3,7,2,9.928571428571429,0.14285714285714285,33.0,2.0
+Correntina,27-02-2021,1189,14,7,0,10.0,0.14285714285714285,43.0,2.0
