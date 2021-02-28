@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Miguel do Passa Quatro,27-03-2020,0,0,0,0,23.071428571428573,0.21428571428571427,183.0,0.0
-São Miguel do Passa Quatro,28-03-2020,0,0,0,0,23.071428571428573,0.21428571428571427,152.0,0.0
-São Miguel do Passa Quatro,29-03-2020,0,0,0,0,22.357142857142858,0.21428571428571427,124.0,0.0
-São Miguel do Passa Quatro,30-03-2020,0,0,0,0,21.214285714285715,0.14285714285714285,94.0,0.0
-São Miguel do Passa Quatro,31-03-2020,0,0,0,0,18.857142857142858,0.14285714285714285,61.0,0.0
-São Miguel do Passa Quatro,01-04-2020,0,0,0,0,14.285714285714286,0.0,31.0,0.0
-São Miguel do Passa Quatro,02-04-2020,0,0,0,0,13.428571428571429,0.0,0.0,0.0
-São Miguel do Passa Quatro,03-04-2020,0,0,0,0,13.071428571428571,0.0,0.0,0.0
-São Miguel do Passa Quatro,04-04-2020,0,0,0,0,10.857142857142858,0.0,0.0,0.0
-São Miguel do Passa Quatro,05-04-2020,0,0,0,0,8.857142857142858,0.0,0.0,0.0
-São Miguel do Passa Quatro,06-04-2020,0,0,0,0,6.714285714285714,0.0,0.0,0.0
-São Miguel do Passa Quatro,07-04-2020,0,0,0,0,4.357142857142857,0.0,0.0,0.0
-São Miguel do Passa Quatro,08-04-2020,0,0,0,0,2.2142857142857144,0.0,0.0,0.0
+São Miguel do Passa Quatro,27-03-2020,0,0,0,0,23.642857142857142,0.21428571428571427,160.0,0.0
+São Miguel do Passa Quatro,28-03-2020,0,0,0,0,22.928571428571427,0.21428571428571427,132.0,0.0
+São Miguel do Passa Quatro,29-03-2020,0,0,0,0,21.785714285714285,0.14285714285714285,102.0,0.0
+São Miguel do Passa Quatro,30-03-2020,0,0,0,0,19.428571428571427,0.14285714285714285,69.0,0.0
+São Miguel do Passa Quatro,31-03-2020,0,0,0,0,14.857142857142858,0.0,39.0,0.0
+São Miguel do Passa Quatro,01-04-2020,0,0,0,0,14.0,0.0,8.0,0.0
+São Miguel do Passa Quatro,02-04-2020,0,0,0,0,13.642857142857142,0.0,0.0,0.0
+São Miguel do Passa Quatro,03-04-2020,0,0,0,0,11.428571428571429,0.0,0.0,0.0
+São Miguel do Passa Quatro,04-04-2020,0,0,0,0,9.428571428571429,0.0,0.0,0.0
+São Miguel do Passa Quatro,05-04-2020,0,0,0,0,7.285714285714286,0.0,0.0,0.0
+São Miguel do Passa Quatro,06-04-2020,0,0,0,0,4.928571428571429,0.0,0.0,0.0
+São Miguel do Passa Quatro,07-04-2020,0,0,0,0,2.7857142857142856,0.0,0.0,0.0
+São Miguel do Passa Quatro,08-04-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
 São Miguel do Passa Quatro,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel do Passa Quatro,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel do Passa Quatro,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -337,3 +337,4 @@ São Miguel do Passa Quatro,24-02-2021,133,0,2,0,0.14285714285714285,0.0,-3.0,0.
 São Miguel do Passa Quatro,25-02-2021,133,0,2,0,-0.21428571428571427,0.0,-3.0,0.0
 São Miguel do Passa Quatro,26-02-2021,133,0,2,0,-0.21428571428571427,0.0,-1.0,0.0
 São Miguel do Passa Quatro,27-02-2021,133,0,2,0,-0.21428571428571427,0.0,-1.0,0.0
+São Miguel do Passa Quatro,28-02-2021,133,0,2,0,-0.21428571428571427,0.0,-1.0,0.0

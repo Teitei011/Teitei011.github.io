@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Fernandes Tourinho,27-03-2020,0,0,0,0,0.2857142857142857,0.0,4.0,0.0
-Fernandes Tourinho,28-03-2020,0,0,0,0,0.2857142857142857,0.0,4.0,0.0
+Fernandes Tourinho,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Fernandes Tourinho,29-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Fernandes Tourinho,30-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Fernandes Tourinho,30-03-2020,0,0,0,0,0.2857142857142857,0.0,1.0,0.0
 Fernandes Tourinho,31-03-2020,0,0,0,0,0.2857142857142857,0.0,1.0,0.0
-Fernandes Tourinho,01-04-2020,0,0,0,0,0.2857142857142857,0.0,1.0,0.0
+Fernandes Tourinho,01-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
 Fernandes Tourinho,02-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
 Fernandes Tourinho,03-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
-Fernandes Tourinho,04-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+Fernandes Tourinho,04-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Fernandes Tourinho,05-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Fernandes Tourinho,06-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Fernandes Tourinho,06-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Fernandes Tourinho,07-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Fernandes Tourinho,08-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Fernandes Tourinho,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Fernandes Tourinho,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Fernandes Tourinho,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Fernandes Tourinho,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -337,3 +337,4 @@ Fernandes Tourinho,24-02-2021,63,0,7,0,0.42857142857142855,0.0,2.0,0.0
 Fernandes Tourinho,25-02-2021,63,0,7,0,0.2857142857142857,0.0,2.0,0.0
 Fernandes Tourinho,26-02-2021,63,0,7,0,0.2857142857142857,0.0,1.0,0.0
 Fernandes Tourinho,27-02-2021,63,0,7,0,0.14285714285714285,0.0,0.0,0.0
+Fernandes Tourinho,28-02-2021,63,0,7,0,0.07142857142857142,0.0,0.0,0.0

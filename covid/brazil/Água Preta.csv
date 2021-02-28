@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Água Preta,27-03-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
+Água Preta,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Água Preta,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Água Preta,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Água Preta,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -337,3 +337,4 @@ municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases
 Água Preta,25-02-2021,1128,0,50,0,0.21428571428571427,0.14285714285714285,1.0,0.0
 Água Preta,26-02-2021,1131,3,50,0,0.35714285714285715,0.07142857142857142,4.0,0.0
 Água Preta,27-02-2021,1131,0,50,0,0.35714285714285715,0.07142857142857142,3.0,0.0
+Água Preta,28-02-2021,1132,1,50,0,0.42857142857142855,0.0,4.0,0.0

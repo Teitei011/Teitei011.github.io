@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Marajá do Sena,27-03-2020,0,0,0,0,0.07142857142857142,0.07142857142857142,0.0,0.0
-Marajá do Sena,28-03-2020,0,0,0,0,0.07142857142857142,0.07142857142857142,0.0,0.0
+Marajá do Sena,28-03-2020,0,0,0,0,0.0,0.07142857142857142,0.0,0.0
 Marajá do Sena,29-03-2020,0,0,0,0,0.0,0.07142857142857142,0.0,0.0
-Marajá do Sena,30-03-2020,0,0,0,0,0.0,0.07142857142857142,0.0,0.0
+Marajá do Sena,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Marajá do Sena,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Marajá do Sena,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Marajá do Sena,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -337,3 +337,4 @@ Marajá do Sena,24-02-2021,174,0,3,0,0.0,0.0,0.0,0.0
 Marajá do Sena,25-02-2021,174,0,3,0,0.0,0.0,0.0,0.0
 Marajá do Sena,26-02-2021,174,0,3,0,0.0,0.0,0.0,0.0
 Marajá do Sena,27-02-2021,174,0,3,0,0.0,0.0,0.0,0.0
+Marajá do Sena,28-02-2021,174,0,3,0,0.0,0.0,0.0,0.0

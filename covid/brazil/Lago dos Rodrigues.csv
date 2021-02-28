@@ -1,14 +1,14 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Lago dos Rodrigues,27-03-2020,0,0,0,0,2.0,0.0,28.0,0.0
-Lago dos Rodrigues,28-03-2020,0,0,0,0,2.0,0.0,28.0,0.0
-Lago dos Rodrigues,29-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
+Lago dos Rodrigues,28-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
+Lago dos Rodrigues,29-03-2020,0,0,0,0,2.0,0.0,0.0,0.0
 Lago dos Rodrigues,30-03-2020,0,0,0,0,2.0,0.0,0.0,0.0
 Lago dos Rodrigues,31-03-2020,0,0,0,0,2.0,0.0,0.0,0.0
 Lago dos Rodrigues,01-04-2020,0,0,0,0,2.0,0.0,0.0,0.0
 Lago dos Rodrigues,02-04-2020,0,0,0,0,2.0,0.0,0.0,0.0
 Lago dos Rodrigues,03-04-2020,0,0,0,0,2.0,0.0,0.0,0.0
-Lago dos Rodrigues,04-04-2020,0,0,0,0,2.0,0.0,0.0,0.0
-Lago dos Rodrigues,05-04-2020,0,0,0,0,1.0,0.0,0.0,0.0
+Lago dos Rodrigues,04-04-2020,0,0,0,0,1.0,0.0,0.0,0.0
+Lago dos Rodrigues,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lago dos Rodrigues,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lago dos Rodrigues,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lago dos Rodrigues,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -337,3 +337,4 @@ Lago dos Rodrigues,24-02-2021,450,0,9,0,1.2857142857142858,0.0,18.0,0.0
 Lago dos Rodrigues,25-02-2021,450,0,9,0,1.2857142857142858,0.0,18.0,0.0
 Lago dos Rodrigues,26-02-2021,450,0,9,0,1.2857142857142858,0.0,0.0,0.0
 Lago dos Rodrigues,27-02-2021,450,0,9,0,1.2857142857142858,0.0,0.0,0.0
+Lago dos Rodrigues,28-02-2021,450,0,9,0,1.2857142857142858,0.0,0.0,0.0

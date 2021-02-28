@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santa Cruz do Rio Pardo,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Santa Cruz do Rio Pardo,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Santa Cruz do Rio Pardo,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Cruz do Rio Pardo,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Cruz do Rio Pardo,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Cruz do Rio Pardo,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -337,3 +337,4 @@ Santa Cruz do Rio Pardo,24-02-2021,1555,24,20,0,12.785714285714286,0.07142857142
 Santa Cruz do Rio Pardo,25-02-2021,1581,26,20,0,14.428571428571429,0.07142857142857142,146.0,1.0
 Santa Cruz do Rio Pardo,26-02-2021,1619,38,21,1,16.857142857142858,0.14285714285714285,167.0,1.0
 Santa Cruz do Rio Pardo,27-02-2021,1634,15,21,0,15.928571428571429,0.14285714285714285,164.0,1.0
+Santa Cruz do Rio Pardo,28-02-2021,1635,1,21,0,15.785714285714286,0.14285714285714285,160.0,1.0
