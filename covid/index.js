@@ -99,8 +99,8 @@ function setupBoxWithData(covidCases, locationName){
   document.getElementById("variacao_casos").innerHTML =  changeSymbol(variacao_casos) + "%";
   document.getElementById("variacao_mortes").innerHTML =  changeSymbol(variacao_mortes) + "%";
 
-  document.getElementById("novos_casos").innerHTML = change2Dot( parseFloat(covidCases.sum_of_daily_cases_week[covidCases.sum_of_daily_cases_week.length -1]).toFixed(0));
-  document.getElementById("novas_mortes").innerHTML = change2Dot(parseFloat(covidCases.sum_of_daily_deaths_week[covidCases.sum_of_daily_deaths_week.length -1]).toFixed(0));
+  document.getElementById("novos_casos").innerHTML = change2Dot( parseFloat(covidCases.cases_moving_average[covidCases.sum_of_daily_cases_week.length -1]).toFixed(0));
+  document.getElementById("novas_mortes").innerHTML = change2Dot(parseFloat(covidCases.deaths_moving_average[covidCases.sum_of_daily_deaths_week.length -1]).toFixed(0));
   //document.getElementById("DadosAtualizados").innerHTML = "<center>Esperando o Ministério da Saúde atualizar seus dados: " +"</center>" ;
  
  
