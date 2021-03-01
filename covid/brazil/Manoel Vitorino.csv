@@ -1,13 +1,13 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Manoel Vitorino,27-03-2020,0,0,0,0,0.5,0.0,6.0,0.0
-Manoel Vitorino,28-03-2020,0,0,0,0,0.5,0.0,6.0,0.0
+Manoel Vitorino,28-03-2020,0,0,0,0,0.5,0.0,0.0,0.0
 Manoel Vitorino,29-03-2020,0,0,0,0,0.5,0.0,0.0,0.0
 Manoel Vitorino,30-03-2020,0,0,0,0,0.5,0.0,0.0,0.0
 Manoel Vitorino,31-03-2020,0,0,0,0,0.5,0.0,0.0,0.0
-Manoel Vitorino,01-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
+Manoel Vitorino,01-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 Manoel Vitorino,02-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 Manoel Vitorino,03-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
-Manoel Vitorino,04-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
+Manoel Vitorino,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Manoel Vitorino,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Manoel Vitorino,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Manoel Vitorino,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -338,3 +338,4 @@ Manoel Vitorino,25-02-2021,586,2,16,0,1.5,0.21428571428571427,11.0,1.0
 Manoel Vitorino,26-02-2021,596,10,16,0,2.142857142857143,0.21428571428571427,18.0,1.0
 Manoel Vitorino,27-02-2021,599,3,16,0,2.2857142857142856,0.14285714285714285,19.0,1.0
 Manoel Vitorino,28-02-2021,600,1,16,0,2.357142857142857,0.14285714285714285,20.0,1.0
+Manoel Vitorino,01-03-2021,601,1,16,0,2.2857142857142856,0.14285714285714285,19.0,1.0

@@ -1,16 +1,16 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Girau do Ponciano,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Girau do Ponciano,28-03-2020,0,0,0,0,0.5,0.0,4.0,0.0
+Girau do Ponciano,27-03-2020,0,0,0,0,0.5,0.0,4.0,0.0
+Girau do Ponciano,28-03-2020,0,0,0,0,0.5,0.0,3.0,0.0
 Girau do Ponciano,29-03-2020,0,0,0,0,0.5,0.0,3.0,0.0
-Girau do Ponciano,30-03-2020,0,0,0,0,0.5,0.0,3.0,0.0
-Girau do Ponciano,31-03-2020,0,0,0,0,0.5,0.0,2.0,0.0
-Girau do Ponciano,01-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
+Girau do Ponciano,30-03-2020,0,0,0,0,0.5,0.0,2.0,0.0
+Girau do Ponciano,31-03-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
+Girau do Ponciano,01-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
 Girau do Ponciano,02-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
 Girau do Ponciano,03-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
-Girau do Ponciano,04-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+Girau do Ponciano,04-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Girau do Ponciano,05-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
-Girau do Ponciano,06-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
-Girau do Ponciano,07-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Girau do Ponciano,06-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Girau do Ponciano,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Girau do Ponciano,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Girau do Ponciano,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Girau do Ponciano,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -338,3 +338,4 @@ Girau do Ponciano,25-02-2021,1422,2,25,0,0.5,0.0,5.0,0.0
 Girau do Ponciano,26-02-2021,1422,0,25,0,0.5,0.0,5.0,0.0
 Girau do Ponciano,27-02-2021,1422,0,25,0,0.5,0.0,5.0,0.0
 Girau do Ponciano,28-02-2021,1423,1,25,0,0.5714285714285714,0.0,6.0,0.0
+Girau do Ponciano,01-03-2021,1423,0,25,0,0.42857142857142855,0.0,3.0,0.0

@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santana do Ipanema,27-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Santana do Ipanema,28-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Santana do Ipanema,29-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Santana do Ipanema,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana do Ipanema,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana do Ipanema,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana do Ipanema,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -338,3 +338,4 @@ Santana do Ipanema,25-02-2021,2805,42,37,0,16.0,0.21428571428571427,127.0,2.0
 Santana do Ipanema,26-02-2021,2817,12,37,0,16.0,0.21428571428571427,137.0,2.0
 Santana do Ipanema,27-02-2021,2846,29,37,0,16.785714285714285,0.21428571428571427,140.0,1.0
 Santana do Ipanema,28-02-2021,2861,15,37,0,16.857142857142858,0.14285714285714285,147.0,1.0
+Santana do Ipanema,01-03-2021,2870,9,37,0,16.5,0.14285714285714285,145.0,1.0

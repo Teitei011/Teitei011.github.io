@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Alfredo Wagner,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Alfredo Wagner,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Alfredo Wagner,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Alfredo Wagner,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Alfredo Wagner,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Alfredo Wagner,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -338,3 +338,4 @@ Alfredo Wagner,25-02-2021,541,1,1,0,0.14285714285714285,0.0,2.0,0.0
 Alfredo Wagner,26-02-2021,542,1,1,0,0.21428571428571427,0.0,2.0,0.0
 Alfredo Wagner,27-02-2021,542,0,1,0,0.21428571428571427,0.0,2.0,0.0
 Alfredo Wagner,28-02-2021,542,0,1,0,0.21428571428571427,0.0,2.0,0.0
+Alfredo Wagner,01-03-2021,542,0,1,0,0.21428571428571427,0.0,2.0,0.0

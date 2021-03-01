@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santa Rita do Passa Quatro,27-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Santa Rita do Passa Quatro,28-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Santa Rita do Passa Quatro,29-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Santa Rita do Passa Quatro,30-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Santa Rita do Passa Quatro,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Santa Rita do Passa Quatro,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Rita do Passa Quatro,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Rita do Passa Quatro,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Rita do Passa Quatro,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -338,3 +338,4 @@ Santa Rita do Passa Quatro,25-02-2021,673,1,18,0,1.7857142857142858,0.0,11.0,0.0
 Santa Rita do Passa Quatro,26-02-2021,673,0,18,0,1.0714285714285714,0.0,9.0,0.0
 Santa Rita do Passa Quatro,27-02-2021,680,7,19,1,1.5714285714285714,0.07142857142857142,13.0,1.0
 Santa Rita do Passa Quatro,28-02-2021,680,0,19,0,1.5714285714285714,0.07142857142857142,13.0,1.0
+Santa Rita do Passa Quatro,01-03-2021,680,0,19,0,1.5714285714285714,0.07142857142857142,13.0,1.0
