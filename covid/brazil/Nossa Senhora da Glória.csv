@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Nossa Senhora da Glória,27-03-2020,0,0,0,0,0.21428571428571427,0.0,1.0,0.0
 Nossa Senhora da Glória,28-03-2020,1,1,0,0,0.2857142857142857,0.0,2.0,0.0
-Nossa Senhora da Glória,29-03-2020,1,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Nossa Senhora da Glória,29-03-2020,1,0,0,0,0.21428571428571427,0.0,2.0,0.0
 Nossa Senhora da Glória,30-03-2020,1,0,0,0,0.21428571428571427,0.0,2.0,0.0
-Nossa Senhora da Glória,31-03-2020,1,0,0,0,0.21428571428571427,0.0,2.0,0.0
-Nossa Senhora da Glória,01-04-2020,1,0,0,0,0.14285714285714285,0.0,2.0,0.0
+Nossa Senhora da Glória,31-03-2020,1,0,0,0,0.14285714285714285,0.0,2.0,0.0
+Nossa Senhora da Glória,01-04-2020,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Nossa Senhora da Glória,02-04-2020,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Nossa Senhora da Glória,03-04-2020,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Nossa Senhora da Glória,04-04-2020,1,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Nossa Senhora da Glória,05-04-2020,1,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Nossa Senhora da Glória,06-04-2020,1,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Nossa Senhora da Glória,07-04-2020,1,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Nossa Senhora da Glória,08-04-2020,1,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Nossa Senhora da Glória,08-04-2020,1,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Nossa Senhora da Glória,09-04-2020,1,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Nossa Senhora da Glória,10-04-2020,2,1,0,0,0.14285714285714285,0.0,1.0,0.0
 Nossa Senhora da Glória,11-04-2020,2,0,0,0,0.07142857142857142,0.0,1.0,0.0
@@ -339,3 +339,4 @@ Nossa Senhora da Glória,26-02-2021,1681,9,36,0,3.857142857142857,0.0,16.0,0.0
 Nossa Senhora da Glória,27-02-2021,1687,6,36,0,3.2142857142857144,0.0,22.0,0.0
 Nossa Senhora da Glória,28-02-2021,1701,14,36,0,3.2857142857142856,0.0,34.0,0.0
 Nossa Senhora da Glória,01-03-2021,1705,4,36,0,3.4285714285714284,0.0,37.0,0.0
+Nossa Senhora da Glória,02-03-2021,1705,0,36,0,3.0,0.0,37.0,0.0

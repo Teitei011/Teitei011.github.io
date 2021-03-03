@@ -1,16 +1,16 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santana do São Francisco,27-03-2020,0,0,0,0,0.42857142857142855,0.0,4.0,0.0
 Santana do São Francisco,28-03-2020,0,0,0,0,0.42857142857142855,0.0,4.0,0.0
-Santana do São Francisco,29-03-2020,0,0,0,0,0.42857142857142855,0.0,4.0,0.0
+Santana do São Francisco,29-03-2020,0,0,0,0,0.35714285714285715,0.0,4.0,0.0
 Santana do São Francisco,30-03-2020,0,0,0,0,0.35714285714285715,0.0,4.0,0.0
-Santana do São Francisco,31-03-2020,0,0,0,0,0.35714285714285715,0.0,4.0,0.0
+Santana do São Francisco,31-03-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
 Santana do São Francisco,01-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
 Santana do São Francisco,02-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
 Santana do São Francisco,03-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
 Santana do São Francisco,04-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
 Santana do São Francisco,05-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
 Santana do São Francisco,06-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
-Santana do São Francisco,07-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+Santana do São Francisco,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana do São Francisco,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana do São Francisco,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana do São Francisco,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -339,3 +339,4 @@ Santana do São Francisco,26-02-2021,285,1,8,0,1.2857142857142858,0.0,12.0,0.0
 Santana do São Francisco,27-02-2021,285,0,8,0,0.9285714285714286,0.0,12.0,0.0
 Santana do São Francisco,28-02-2021,287,2,8,0,1.0714285714285714,0.0,11.0,0.0
 Santana do São Francisco,01-03-2021,287,0,8,0,1.0,0.0,9.0,0.0
+Santana do São Francisco,02-03-2021,287,0,8,0,1.0,0.0,5.0,0.0

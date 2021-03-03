@@ -1,13 +1,13 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Ferraz de Vasconcelos,27-03-2020,0,0,0,0,0.14285714285714285,0.0,2.0,0.0
-Ferraz de Vasconcelos,28-03-2020,3,3,0,0,0.35714285714285715,0.0,5.0,0.0
+Ferraz de Vasconcelos,28-03-2020,3,3,0,0,0.35714285714285715,0.0,3.0,0.0
 Ferraz de Vasconcelos,29-03-2020,3,0,0,0,0.35714285714285715,0.0,3.0,0.0
 Ferraz de Vasconcelos,30-03-2020,3,0,0,0,0.35714285714285715,0.0,3.0,0.0
 Ferraz de Vasconcelos,31-03-2020,5,2,0,0,0.5,0.0,5.0,0.0
 Ferraz de Vasconcelos,01-04-2020,9,4,0,0,0.7857142857142857,0.0,9.0,0.0
 Ferraz de Vasconcelos,02-04-2020,12,3,0,0,1.0,0.0,12.0,0.0
 Ferraz de Vasconcelos,03-04-2020,14,2,0,0,1.1428571428571428,0.0,14.0,0.0
-Ferraz de Vasconcelos,04-04-2020,15,1,0,0,1.2142857142857142,0.0,12.0,0.0
+Ferraz de Vasconcelos,04-04-2020,15,1,0,0,1.0714285714285714,0.0,12.0,0.0
 Ferraz de Vasconcelos,05-04-2020,15,0,0,0,1.0714285714285714,0.0,12.0,0.0
 Ferraz de Vasconcelos,06-04-2020,16,1,0,0,1.1428571428571428,0.0,13.0,0.0
 Ferraz de Vasconcelos,07-04-2020,19,3,0,0,1.3571428571428572,0.0,14.0,0.0
@@ -339,3 +339,4 @@ Ferraz de Vasconcelos,26-02-2021,5924,45,185,-1,22.785714285714285,0.5,240.0,2.0
 Ferraz de Vasconcelos,27-02-2021,5948,24,185,0,23.857142857142858,0.5,255.0,2.0
 Ferraz de Vasconcelos,28-02-2021,5964,16,185,0,24.928571428571427,0.5,240.0,2.0
 Ferraz de Vasconcelos,01-03-2021,5972,8,185,0,25.0,0.42857142857142855,197.0,2.0
+Ferraz de Vasconcelos,02-03-2021,6042,70,185,0,28.071428571428573,0.14285714285714285,226.0,0.0

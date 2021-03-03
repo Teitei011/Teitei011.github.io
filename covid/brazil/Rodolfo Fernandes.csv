@@ -1,13 +1,13 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Rodolfo Fernandes,27-03-2020,0,0,0,0,0.07142857142857142,0.07142857142857142,1.0,0.0
-Rodolfo Fernandes,28-03-2020,0,0,0,0,0.07142857142857142,0.07142857142857142,1.0,0.0
-Rodolfo Fernandes,29-03-2020,0,0,0,0,0.07142857142857142,0.07142857142857142,0.0,0.0
+Rodolfo Fernandes,28-03-2020,0,0,0,0,0.07142857142857142,0.07142857142857142,0.0,0.0
+Rodolfo Fernandes,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Rodolfo Fernandes,30-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Rodolfo Fernandes,31-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Rodolfo Fernandes,01-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Rodolfo Fernandes,02-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Rodolfo Fernandes,03-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Rodolfo Fernandes,04-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Rodolfo Fernandes,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Rodolfo Fernandes,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Rodolfo Fernandes,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Rodolfo Fernandes,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -339,3 +339,4 @@ Rodolfo Fernandes,26-02-2021,241,4,5,0,1.0,0.0,6.0,0.0
 Rodolfo Fernandes,27-02-2021,241,0,5,0,1.0,0.0,6.0,0.0
 Rodolfo Fernandes,28-02-2021,241,0,5,0,1.0,0.0,6.0,0.0
 Rodolfo Fernandes,01-03-2021,241,0,5,0,0.5714285714285714,0.0,6.0,0.0
+Rodolfo Fernandes,02-03-2021,241,0,5,0,0.6428571428571429,0.0,6.0,0.0

@@ -1,15 +1,15 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Primavera de Rondônia,27-03-2020,0,0,0,0,1.0,0.0,1.0,0.0
-Primavera de Rondônia,28-03-2020,0,0,0,0,1.0,0.0,1.0,0.0
+Primavera de Rondônia,28-03-2020,0,0,0,0,0.7857142857142857,0.0,1.0,0.0
 Primavera de Rondônia,29-03-2020,0,0,0,0,0.7857142857142857,0.0,1.0,0.0
-Primavera de Rondônia,30-03-2020,0,0,0,0,0.7857142857142857,0.0,1.0,0.0
+Primavera de Rondônia,30-03-2020,0,0,0,0,0.7857142857142857,0.0,0.0,0.0
 Primavera de Rondônia,31-03-2020,0,0,0,0,0.7857142857142857,0.0,0.0,0.0
 Primavera de Rondônia,01-04-2020,0,0,0,0,0.7857142857142857,0.0,0.0,0.0
-Primavera de Rondônia,02-04-2020,0,0,0,0,0.7857142857142857,0.0,0.0,0.0
+Primavera de Rondônia,02-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Primavera de Rondônia,03-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Primavera de Rondônia,04-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Primavera de Rondônia,05-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Primavera de Rondônia,06-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Primavera de Rondônia,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Primavera de Rondônia,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Primavera de Rondônia,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Primavera de Rondônia,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -339,3 +339,4 @@ Primavera de Rondônia,26-02-2021,99,2,3,0,0.7857142857142857,0.0,5.0,0.0
 Primavera de Rondônia,27-02-2021,99,0,3,0,0.7142857142857143,0.0,4.0,0.0
 Primavera de Rondônia,28-02-2021,99,0,3,0,0.7142857142857143,0.0,4.0,0.0
 Primavera de Rondônia,01-03-2021,101,2,3,0,0.8571428571428571,0.0,6.0,0.0
+Primavera de Rondônia,02-03-2021,101,0,3,0,0.8571428571428571,0.0,5.0,0.0

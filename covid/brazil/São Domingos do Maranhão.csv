@@ -1,15 +1,15 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Domingos do Maranhão,27-03-2020,0,0,0,0,0.21428571428571427,0.0,2.0,-1.0
-São Domingos do Maranhão,28-03-2020,0,0,0,0,0.21428571428571427,0.0,1.0,0.0
+São Domingos do Maranhão,27-03-2020,0,0,0,0,0.21428571428571427,0.0,1.0,0.0
+São Domingos do Maranhão,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 São Domingos do Maranhão,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-São Domingos do Maranhão,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+São Domingos do Maranhão,30-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 São Domingos do Maranhão,31-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 São Domingos do Maranhão,01-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-São Domingos do Maranhão,02-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-São Domingos do Maranhão,03-04-2020,0,0,0,0,0.14285714285714285,-0.07142857142857142,0.0,0.0
+São Domingos do Maranhão,02-04-2020,0,0,0,0,0.14285714285714285,-0.07142857142857142,0.0,0.0
+São Domingos do Maranhão,03-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 São Domingos do Maranhão,04-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 São Domingos do Maranhão,05-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-São Domingos do Maranhão,06-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+São Domingos do Maranhão,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Domingos do Maranhão,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Domingos do Maranhão,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Domingos do Maranhão,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -339,3 +339,4 @@ São Domingos do Maranhão,26-02-2021,1637,4,13,0,2.0,0.07142857142857142,21.0,1
 São Domingos do Maranhão,27-02-2021,1644,7,13,0,2.4285714285714284,0.07142857142857142,25.0,1.0
 São Domingos do Maranhão,28-02-2021,1644,0,13,0,2.4285714285714284,0.07142857142857142,25.0,1.0
 São Domingos do Maranhão,01-03-2021,1645,1,13,0,2.5,0.07142857142857142,26.0,1.0
+São Domingos do Maranhão,02-03-2021,1645,0,13,0,2.2857142857142856,0.07142857142857142,22.0,1.0
