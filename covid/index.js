@@ -103,7 +103,6 @@ function setupBoxWithData(covidCases, locationName){
   document.getElementById("novas_mortes").innerHTML = change2Dot(parseFloat(covidCases.deaths_moving_average[covidCases.sum_of_daily_deaths_week.length -1]).toFixed(0));
   //document.getElementById("DadosAtualizados").innerHTML = "<center>Esperando o Ministério da Saúde atualizar seus dados: " +"</center>" ;
  
- 
   document.getElementById("DadosAtualizados").innerHTML = "<center>Dados atualizados no dia: "  + covidCases.date[covidCases.cases.length -1] + " 21:00" +"</center>" ;
   // document.getElementById("DadosAtualizados").innerHTML = "<center>Dados atualizados no dia: "  + "24/02/2021" + " 09:53" +"</center>" ;
 }
