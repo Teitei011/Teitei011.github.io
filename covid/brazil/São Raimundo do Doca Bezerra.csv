@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Raimundo do Doca Bezerra,27-03-2020,0,0,0,0,0.8571428571428571,0.0,12.0,0.0
-São Raimundo do Doca Bezerra,28-03-2020,0,0,0,0,0.8571428571428571,0.0,8.0,0.0
-São Raimundo do Doca Bezerra,29-03-2020,0,0,0,0,0.8571428571428571,0.0,7.0,0.0
-São Raimundo do Doca Bezerra,30-03-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
-São Raimundo do Doca Bezerra,31-03-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
-São Raimundo do Doca Bezerra,01-04-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
-São Raimundo do Doca Bezerra,02-04-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
-São Raimundo do Doca Bezerra,03-04-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
+São Raimundo do Doca Bezerra,27-03-2020,0,0,0,0,0.9285714285714286,0.0,9.0,0.0
+São Raimundo do Doca Bezerra,28-03-2020,0,0,0,0,0.9285714285714286,0.0,8.0,0.0
+São Raimundo do Doca Bezerra,29-03-2020,0,0,0,0,0.9285714285714286,0.0,1.0,0.0
+São Raimundo do Doca Bezerra,30-03-2020,0,0,0,0,0.9285714285714286,0.0,1.0,0.0
+São Raimundo do Doca Bezerra,31-03-2020,0,0,0,0,0.9285714285714286,0.0,1.0,0.0
+São Raimundo do Doca Bezerra,01-04-2020,0,0,0,0,0.9285714285714286,0.0,1.0,0.0
+São Raimundo do Doca Bezerra,02-04-2020,0,0,0,0,0.9285714285714286,0.0,0.0,0.0
+São Raimundo do Doca Bezerra,03-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
 São Raimundo do Doca Bezerra,04-04-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
-São Raimundo do Doca Bezerra,05-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
-São Raimundo do Doca Bezerra,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
-São Raimundo do Doca Bezerra,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
-São Raimundo do Doca Bezerra,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+São Raimundo do Doca Bezerra,05-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+São Raimundo do Doca Bezerra,06-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+São Raimundo do Doca Bezerra,07-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+São Raimundo do Doca Bezerra,08-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 São Raimundo do Doca Bezerra,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Raimundo do Doca Bezerra,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Raimundo do Doca Bezerra,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -340,3 +340,4 @@ São Raimundo do Doca Bezerra,27-02-2021,91,0,2,0,0.07142857142857142,0.0,1.0,0.
 São Raimundo do Doca Bezerra,28-02-2021,91,0,2,0,0.07142857142857142,0.0,1.0,0.0
 São Raimundo do Doca Bezerra,01-03-2021,91,0,2,0,0.07142857142857142,0.0,1.0,0.0
 São Raimundo do Doca Bezerra,02-03-2021,91,0,2,0,0.07142857142857142,0.0,0.0,0.0
+São Raimundo do Doca Bezerra,03-03-2021,91,0,2,0,0.07142857142857142,0.0,0.0,0.0

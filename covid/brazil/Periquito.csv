@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Periquito,27-03-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+Periquito,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Periquito,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Periquito,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Periquito,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -340,3 +340,4 @@ Periquito,27-02-2021,335,0,15,0,0.6428571428571429,0.0,4.0,0.0
 Periquito,28-02-2021,335,0,15,0,0.2857142857142857,0.0,2.0,0.0
 Periquito,01-03-2021,335,0,15,0,0.2857142857142857,0.0,2.0,0.0
 Periquito,02-03-2021,335,0,15,0,0.2857142857142857,0.0,2.0,0.0
+Periquito,03-03-2021,335,0,15,0,0.2857142857142857,0.0,2.0,0.0

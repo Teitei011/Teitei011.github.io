@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Sud Mennucci,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Sud Mennucci,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Sud Mennucci,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Sud Mennucci,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Sud Mennucci,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Sud Mennucci,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Sud Mennucci,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -340,3 +340,4 @@ Sud Mennucci,27-02-2021,443,14,1,0,2.5,0.0,28.0,0.0
 Sud Mennucci,28-02-2021,448,5,1,0,2.857142857142857,0.0,32.0,0.0
 Sud Mennucci,01-03-2021,448,0,1,0,2.7857142857142856,0.0,32.0,0.0
 Sud Mennucci,02-03-2021,457,9,1,0,3.2142857142857144,0.0,38.0,0.0
+Sud Mennucci,03-03-2021,457,0,1,0,3.0714285714285716,0.0,28.0,0.0

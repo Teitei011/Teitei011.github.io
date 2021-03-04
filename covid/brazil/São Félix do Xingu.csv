@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São Félix do Xingu,27-03-2020,0,0,0,0,-0.21428571428571427,0.0,0.0,0.0
-São Félix do Xingu,28-03-2020,0,0,0,0,-0.21428571428571427,0.0,0.0,0.0
+São Félix do Xingu,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Félix do Xingu,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Félix do Xingu,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Félix do Xingu,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -340,3 +340,4 @@ São Félix do Xingu,27-02-2021,3202,14,22,0,6.285714285714286,0.071428571428571
 São Félix do Xingu,28-02-2021,3214,12,22,0,7.071428571428571,0.07142857142857142,84.0,1.0
 São Félix do Xingu,01-03-2021,3232,18,22,0,8.357142857142858,0.07142857142857142,102.0,1.0
 São Félix do Xingu,02-03-2021,3253,21,22,0,9.857142857142858,0.07142857142857142,77.0,1.0
+São Félix do Xingu,03-03-2021,3335,82,22,0,15.714285714285714,0.07142857142857142,157.0,1.0

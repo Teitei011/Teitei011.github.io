@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Maracaju,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Maracaju,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Maracaju,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Maracaju,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Maracaju,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -340,3 +340,4 @@ Maracaju,27-02-2021,2900,10,36,0,6.928571428571429,0.0,66.0,0.0
 Maracaju,28-02-2021,2909,9,36,0,7.5,0.0,71.0,0.0
 Maracaju,01-03-2021,2915,6,36,0,7.928571428571429,0.0,76.0,0.0
 Maracaju,02-03-2021,2933,18,36,0,8.5,0.0,74.0,0.0
+Maracaju,03-03-2021,2943,10,36,0,9.071428571428571,0.0,86.0,0.0

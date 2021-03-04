@@ -1,14 +1,14 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Pimenteiras do Oeste,27-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Pimenteiras do Oeste,28-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Pimenteiras do Oeste,29-03-2020,0,0,0,0,0.5,0.0,1.0,0.0
+Pimenteiras do Oeste,28-03-2020,0,0,0,0,0.5,0.0,1.0,0.0
+Pimenteiras do Oeste,29-03-2020,0,0,0,0,0.5,0.0,0.0,0.0
 Pimenteiras do Oeste,30-03-2020,0,0,0,0,0.5,0.0,0.0,0.0
 Pimenteiras do Oeste,31-03-2020,0,0,0,0,0.5,0.0,0.0,0.0
-Pimenteiras do Oeste,01-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
-Pimenteiras do Oeste,02-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
+Pimenteiras do Oeste,01-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
+Pimenteiras do Oeste,02-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
 Pimenteiras do Oeste,03-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
-Pimenteiras do Oeste,04-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
-Pimenteiras do Oeste,05-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Pimenteiras do Oeste,04-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Pimenteiras do Oeste,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pimenteiras do Oeste,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pimenteiras do Oeste,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pimenteiras do Oeste,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -340,3 +340,4 @@ Pimenteiras do Oeste,27-02-2021,300,0,7,0,0.7142857142857143,0.0,7.0,0.0
 Pimenteiras do Oeste,28-02-2021,300,0,7,0,0.5714285714285714,0.0,7.0,0.0
 Pimenteiras do Oeste,01-03-2021,300,0,7,0,0.5714285714285714,0.0,7.0,0.0
 Pimenteiras do Oeste,02-03-2021,301,1,7,0,0.6428571428571429,0.0,8.0,0.0
+Pimenteiras do Oeste,03-03-2021,302,1,7,0,0.6428571428571429,0.0,9.0,0.0
