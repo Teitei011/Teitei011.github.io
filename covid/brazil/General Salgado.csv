@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 General Salgado,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 General Salgado,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-General Salgado,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+General Salgado,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 General Salgado,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 General Salgado,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 General Salgado,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -342,3 +342,4 @@ General Salgado,01-03-2021,476,0,4,0,1.2857142857142858,0.0,9.0,0.0
 General Salgado,02-03-2021,478,2,4,0,1.2142857142857142,0.0,8.0,0.0
 General Salgado,03-03-2021,478,0,4,0,1.1428571428571428,0.0,7.0,0.0
 General Salgado,04-03-2021,478,0,5,1,1.0,0.07142857142857142,4.0,1.0
+General Salgado,05-03-2021,482,4,6,1,1.2857142857142858,0.14285714285714285,7.0,2.0

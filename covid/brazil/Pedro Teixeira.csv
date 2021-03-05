@@ -1,12 +1,12 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Pedro Teixeira,27-03-2020,0,0,0,0,0.07142857142857142,0.0,1.0,0.0
+Pedro Teixeira,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Pedro Teixeira,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Pedro Teixeira,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Pedro Teixeira,30-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Pedro Teixeira,31-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Pedro Teixeira,01-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Pedro Teixeira,02-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Pedro Teixeira,03-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Pedro Teixeira,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pedro Teixeira,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pedro Teixeira,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pedro Teixeira,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -342,3 +342,4 @@ Pedro Teixeira,01-03-2021,23,0,0,0,0.0,0.0,0.0,0.0
 Pedro Teixeira,02-03-2021,23,0,0,0,0.0,0.0,0.0,0.0
 Pedro Teixeira,03-03-2021,23,0,0,0,0.0,0.0,0.0,0.0
 Pedro Teixeira,04-03-2021,23,0,0,0,0.0,0.0,0.0,0.0
+Pedro Teixeira,05-03-2021,23,0,0,0,0.0,0.0,0.0,0.0

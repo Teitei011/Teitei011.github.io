@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Bueno Brandão,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Bueno Brandão,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bueno Brandão,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bueno Brandão,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bueno Brandão,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -342,3 +342,4 @@ Bueno Brandão,01-03-2021,297,3,7,0,2.2857142857142856,0.07142857142857142,22.0,
 Bueno Brandão,02-03-2021,302,5,7,0,2.642857142857143,0.07142857142857142,25.0,0.0
 Bueno Brandão,03-03-2021,308,6,7,0,2.5714285714285716,0.07142857142857142,30.0,0.0
 Bueno Brandão,04-03-2021,310,2,7,0,2.642857142857143,0.0,27.0,0.0
+Bueno Brandão,05-03-2021,312,2,7,0,2.7142857142857144,0.0,25.0,0.0

@@ -1,16 +1,16 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Aparecida do Rio Negro,27-03-2020,0,0,0,0,0.2857142857142857,0.0,1.0,0.0
+Aparecida do Rio Negro,27-03-2020,0,0,0,0,0.21428571428571427,0.0,1.0,0.0
 Aparecida do Rio Negro,28-03-2020,0,0,0,0,0.21428571428571427,0.0,1.0,0.0
 Aparecida do Rio Negro,29-03-2020,0,0,0,0,0.21428571428571427,0.0,1.0,0.0
-Aparecida do Rio Negro,30-03-2020,0,0,0,0,0.21428571428571427,0.0,1.0,0.0
-Aparecida do Rio Negro,31-03-2020,0,0,0,0,0.07142857142857142,0.0,1.0,0.0
+Aparecida do Rio Negro,30-03-2020,0,0,0,0,0.07142857142857142,0.0,1.0,0.0
+Aparecida do Rio Negro,31-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Aparecida do Rio Negro,01-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Aparecida do Rio Negro,02-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Aparecida do Rio Negro,03-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Aparecida do Rio Negro,04-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Aparecida do Rio Negro,05-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Aparecida do Rio Negro,06-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Aparecida do Rio Negro,07-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Aparecida do Rio Negro,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Aparecida do Rio Negro,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Aparecida do Rio Negro,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Aparecida do Rio Negro,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -342,3 +342,4 @@ Aparecida do Rio Negro,01-03-2021,188,13,3,0,3.2857142857142856,0.0,31.0,0.0
 Aparecida do Rio Negro,02-03-2021,188,0,3,0,3.2857142857142856,0.0,25.0,0.0
 Aparecida do Rio Negro,03-03-2021,188,0,3,0,3.0714285714285716,0.0,24.0,0.0
 Aparecida do Rio Negro,04-03-2021,188,0,3,0,2.642857142857143,0.0,21.0,0.0
+Aparecida do Rio Negro,05-03-2021,192,4,3,0,2.7857142857142856,0.0,25.0,0.0

@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São João do Rio do Peixe,27-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+São João do Rio do Peixe,27-03-2020,0,0,0,0,1.0,0.0,4.0,0.0
 São João do Rio do Peixe,28-03-2020,0,0,0,0,1.0,0.0,4.0,0.0
 São João do Rio do Peixe,29-03-2020,0,0,0,0,1.0,0.0,4.0,0.0
-São João do Rio do Peixe,30-03-2020,0,0,0,0,1.0,0.0,4.0,0.0
-São João do Rio do Peixe,31-03-2020,0,0,0,0,0.5714285714285714,0.0,1.0,0.0
-São João do Rio do Peixe,01-04-2020,0,0,0,0,0.42857142857142855,0.0,1.0,0.0
+São João do Rio do Peixe,30-03-2020,0,0,0,0,0.5714285714285714,0.0,1.0,0.0
+São João do Rio do Peixe,31-03-2020,0,0,0,0,0.42857142857142855,0.0,1.0,0.0
+São João do Rio do Peixe,01-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
 São João do Rio do Peixe,02-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
-São João do Rio do Peixe,03-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
+São João do Rio do Peixe,03-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
 São João do Rio do Peixe,04-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
 São João do Rio do Peixe,05-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
-São João do Rio do Peixe,06-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+São João do Rio do Peixe,06-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 São João do Rio do Peixe,07-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-São João do Rio do Peixe,08-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+São João do Rio do Peixe,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São João do Rio do Peixe,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São João do Rio do Peixe,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São João do Rio do Peixe,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -342,3 +342,4 @@ São João do Rio do Peixe,01-03-2021,589,0,11,0,2.357142857142857,0.14285714285
 São João do Rio do Peixe,02-03-2021,589,0,11,0,2.2857142857142856,0.14285714285714285,17.0,1.0
 São João do Rio do Peixe,03-03-2021,591,2,11,0,1.7857142857142858,0.14285714285714285,14.0,0.0
 São João do Rio do Peixe,04-03-2021,594,3,11,0,1.7857142857142858,0.14285714285714285,16.0,0.0
+São João do Rio do Peixe,05-03-2021,597,3,11,0,2.0,0.14285714285714285,16.0,0.0
