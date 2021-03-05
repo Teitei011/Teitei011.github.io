@@ -1,16 +1,16 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Governador Luiz Rocha,27-03-2020,0,0,0,0,4.142857142857143,0.07142857142857142,23.0,0.0
-Governador Luiz Rocha,28-03-2020,0,0,0,0,3.7142857142857144,0.0,14.0,0.0
-Governador Luiz Rocha,29-03-2020,0,0,0,0,3.7142857142857144,0.0,13.0,0.0
-Governador Luiz Rocha,30-03-2020,0,0,0,0,3.642857142857143,0.0,13.0,0.0
-Governador Luiz Rocha,31-03-2020,0,0,0,0,3.357142857142857,0.0,9.0,0.0
-Governador Luiz Rocha,01-04-2020,0,0,0,0,2.9285714285714284,0.0,6.0,0.0
-Governador Luiz Rocha,02-04-2020,0,0,0,0,2.142857142857143,0.0,0.0,0.0
-Governador Luiz Rocha,03-04-2020,0,0,0,0,1.6428571428571428,0.0,0.0,0.0
-Governador Luiz Rocha,04-04-2020,0,0,0,0,1.0,0.0,0.0,0.0
-Governador Luiz Rocha,05-04-2020,0,0,0,0,0.9285714285714286,0.0,0.0,0.0
-Governador Luiz Rocha,06-04-2020,0,0,0,0,0.9285714285714286,0.0,0.0,0.0
-Governador Luiz Rocha,07-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
+Governador Luiz Rocha,27-03-2020,0,0,0,0,4.142857142857143,0.0,20.0,0.0
+Governador Luiz Rocha,28-03-2020,0,0,0,0,4.142857142857143,0.0,19.0,0.0
+Governador Luiz Rocha,29-03-2020,0,0,0,0,4.071428571428571,0.0,19.0,0.0
+Governador Luiz Rocha,30-03-2020,0,0,0,0,3.7857142857142856,0.0,15.0,0.0
+Governador Luiz Rocha,31-03-2020,0,0,0,0,3.357142857142857,0.0,12.0,0.0
+Governador Luiz Rocha,01-04-2020,0,0,0,0,2.5714285714285716,0.0,6.0,0.0
+Governador Luiz Rocha,02-04-2020,0,0,0,0,2.0714285714285716,0.0,0.0,0.0
+Governador Luiz Rocha,03-04-2020,0,0,0,0,1.4285714285714286,0.0,0.0,0.0
+Governador Luiz Rocha,04-04-2020,0,0,0,0,1.3571428571428572,0.0,0.0,0.0
+Governador Luiz Rocha,05-04-2020,0,0,0,0,1.3571428571428572,0.0,0.0,0.0
+Governador Luiz Rocha,06-04-2020,0,0,0,0,1.0714285714285714,0.0,0.0,0.0
+Governador Luiz Rocha,07-04-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
 Governador Luiz Rocha,08-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 Governador Luiz Rocha,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Luiz Rocha,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -341,3 +341,4 @@ Governador Luiz Rocha,28-02-2021,178,0,1,0,0.21428571428571427,0.0,2.0,0.0
 Governador Luiz Rocha,01-03-2021,178,0,1,0,0.21428571428571427,0.0,2.0,0.0
 Governador Luiz Rocha,02-03-2021,178,0,1,0,0.21428571428571427,0.0,2.0,0.0
 Governador Luiz Rocha,03-03-2021,178,0,1,0,0.21428571428571427,0.0,2.0,0.0
+Governador Luiz Rocha,04-03-2021,178,0,1,0,0.14285714285714285,0.0,2.0,0.0

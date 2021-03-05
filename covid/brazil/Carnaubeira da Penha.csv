@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Carnaubeira da Penha,27-03-2020,0,0,0,0,3.9285714285714284,0.07142857142857142,26.0,0.0
-Carnaubeira da Penha,28-03-2020,0,0,0,0,4.071428571428571,0.14285714285714285,26.0,0.0
-Carnaubeira da Penha,29-03-2020,0,0,0,0,4.0,0.0,20.0,0.0
-Carnaubeira da Penha,30-03-2020,0,0,0,0,3.7857142857142856,0.0,4.0,0.0
-Carnaubeira da Penha,31-03-2020,0,0,0,0,3.357142857142857,0.0,4.0,0.0
-Carnaubeira da Penha,01-04-2020,0,0,0,0,3.0,0.0,4.0,0.0
-Carnaubeira da Penha,02-04-2020,0,0,0,0,2.0,0.0,0.0,0.0
-Carnaubeira da Penha,03-04-2020,0,0,0,0,1.8571428571428572,0.0,0.0,0.0
-Carnaubeira da Penha,04-04-2020,0,0,0,0,1.8571428571428572,0.0,0.0,0.0
-Carnaubeira da Penha,05-04-2020,0,0,0,0,1.4285714285714286,0.0,0.0,0.0
-Carnaubeira da Penha,06-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
-Carnaubeira da Penha,07-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
-Carnaubeira da Penha,08-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+Carnaubeira da Penha,27-03-2020,0,0,0,0,4.785714285714286,0.14285714285714285,36.0,0.0
+Carnaubeira da Penha,28-03-2020,0,0,0,0,4.714285714285714,0.0,30.0,0.0
+Carnaubeira da Penha,29-03-2020,0,0,0,0,4.5,0.0,14.0,0.0
+Carnaubeira da Penha,30-03-2020,0,0,0,0,4.071428571428571,0.0,14.0,0.0
+Carnaubeira da Penha,31-03-2020,0,0,0,0,3.7142857142857144,0.0,14.0,0.0
+Carnaubeira da Penha,01-04-2020,0,0,0,0,2.7142857142857144,0.0,10.0,0.0
+Carnaubeira da Penha,02-04-2020,0,0,0,0,2.5714285714285716,0.0,0.0,0.0
+Carnaubeira da Penha,03-04-2020,0,0,0,0,2.5714285714285716,0.0,0.0,0.0
+Carnaubeira da Penha,04-04-2020,0,0,0,0,2.142857142857143,0.0,0.0,0.0
+Carnaubeira da Penha,05-04-2020,0,0,0,0,1.0,0.0,0.0,0.0
+Carnaubeira da Penha,06-04-2020,0,0,0,0,1.0,0.0,0.0,0.0
+Carnaubeira da Penha,07-04-2020,0,0,0,0,1.0,0.0,0.0,0.0
+Carnaubeira da Penha,08-04-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
 Carnaubeira da Penha,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Carnaubeira da Penha,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Carnaubeira da Penha,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -341,3 +341,4 @@ Carnaubeira da Penha,28-02-2021,82,0,3,0,0.21428571428571427,0.0,0.0,0.0
 Carnaubeira da Penha,01-03-2021,82,0,3,0,0.21428571428571427,0.0,0.0,0.0
 Carnaubeira da Penha,02-03-2021,82,0,3,0,0.21428571428571427,0.0,0.0,0.0
 Carnaubeira da Penha,03-03-2021,82,0,3,0,0.14285714285714285,0.0,0.0,0.0
+Carnaubeira da Penha,04-03-2021,82,0,3,0,0.14285714285714285,0.0,0.0,0.0

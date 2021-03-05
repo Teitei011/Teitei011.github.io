@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Amaralina,27-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Amaralina,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Amaralina,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Amaralina,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Amaralina,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -341,3 +341,4 @@ Amaralina,28-02-2021,20,0,0,0,0.14285714285714285,0.0,2.0,0.0
 Amaralina,01-03-2021,22,2,0,0,0.2857142857142857,0.0,4.0,0.0
 Amaralina,02-03-2021,22,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Amaralina,03-03-2021,22,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Amaralina,04-03-2021,22,0,0,0,0.2857142857142857,0.0,2.0,0.0

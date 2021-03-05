@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Conceição de Ipanema,27-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Conceição de Ipanema,28-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Conceição de Ipanema,29-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Conceição de Ipanema,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Conceição de Ipanema,30-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Conceição de Ipanema,31-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Conceição de Ipanema,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Conceição de Ipanema,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Conceição de Ipanema,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Conceição de Ipanema,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -341,3 +341,4 @@ Conceição de Ipanema,28-02-2021,222,0,2,0,0.7142857142857143,0.071428571428571
 Conceição de Ipanema,01-03-2021,222,0,2,0,0.7142857142857143,0.07142857142857142,2.0,0.0
 Conceição de Ipanema,02-03-2021,222,0,2,0,0.6428571428571429,0.07142857142857142,2.0,0.0
 Conceição de Ipanema,03-03-2021,222,0,2,0,0.6428571428571429,0.07142857142857142,2.0,0.0
+Conceição de Ipanema,04-03-2021,224,2,2,0,0.7142857142857143,0.0,2.0,0.0

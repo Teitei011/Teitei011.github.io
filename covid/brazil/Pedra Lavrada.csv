@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Pedra Lavrada,27-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Pedra Lavrada,28-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
-Pedra Lavrada,29-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
+Pedra Lavrada,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Pedra Lavrada,30-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Pedra Lavrada,31-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Pedra Lavrada,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pedra Lavrada,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pedra Lavrada,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pedra Lavrada,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -341,3 +341,4 @@ Pedra Lavrada,28-02-2021,105,1,1,0,1.1428571428571428,0.0,7.0,0.0
 Pedra Lavrada,01-03-2021,107,2,1,0,1.1428571428571428,0.0,8.0,0.0
 Pedra Lavrada,02-03-2021,107,0,1,0,1.1428571428571428,0.0,8.0,0.0
 Pedra Lavrada,03-03-2021,107,0,1,0,1.1428571428571428,0.0,7.0,0.0
+Pedra Lavrada,04-03-2021,107,0,1,0,1.0,0.0,6.0,0.0

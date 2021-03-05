@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São João da Urtiga,27-03-2020,0,0,0,0,0.2857142857142857,0.07142857142857142,0.0,0.0
+São João da Urtiga,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 São João da Urtiga,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-São João da Urtiga,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+São João da Urtiga,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São João da Urtiga,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São João da Urtiga,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São João da Urtiga,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -341,3 +341,4 @@ São João da Urtiga,28-02-2021,408,0,4,0,2.142857142857143,0.0,15.0,0.0
 São João da Urtiga,01-03-2021,408,0,4,0,2.142857142857143,0.0,15.0,0.0
 São João da Urtiga,02-03-2021,424,16,4,0,3.2857142857142856,0.0,31.0,0.0
 São João da Urtiga,03-03-2021,436,12,4,0,4.142857142857143,0.0,31.0,0.0
+São João da Urtiga,04-03-2021,442,6,4,0,3.857142857142857,0.0,37.0,0.0

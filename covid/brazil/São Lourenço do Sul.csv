@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Lourenço do Sul,27-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+São Lourenço do Sul,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Lourenço do Sul,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Lourenço do Sul,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Lourenço do Sul,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -341,3 +341,4 @@ São Lourenço do Sul,28-02-2021,1609,11,35,0,9.285714285714286,0.14285714285714
 São Lourenço do Sul,01-03-2021,1607,-2,36,1,9.142857142857142,0.21428571428571427,85.0,2.0
 São Lourenço do Sul,02-03-2021,1637,30,36,0,11.285714285714286,0.21428571428571427,91.0,2.0
 São Lourenço do Sul,03-03-2021,1652,15,36,0,12.357142857142858,0.21428571428571427,89.0,2.0
+São Lourenço do Sul,04-03-2021,1671,19,36,0,13.5,0.14285714285714285,101.0,2.0

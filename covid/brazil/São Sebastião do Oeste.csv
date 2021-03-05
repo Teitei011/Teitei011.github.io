@@ -1,12 +1,12 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Sebastião do Oeste,27-03-2020,0,0,0,0,0.07142857142857142,0.0,1.0,0.0
+São Sebastião do Oeste,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 São Sebastião do Oeste,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 São Sebastião do Oeste,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 São Sebastião do Oeste,30-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 São Sebastião do Oeste,31-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 São Sebastião do Oeste,01-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 São Sebastião do Oeste,02-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-São Sebastião do Oeste,03-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+São Sebastião do Oeste,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Sebastião do Oeste,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Sebastião do Oeste,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Sebastião do Oeste,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -341,3 +341,4 @@ São Sebastião do Oeste,28-02-2021,154,0,3,0,0.35714285714285715,0.0,4.0,0.0
 São Sebastião do Oeste,01-03-2021,154,0,3,0,0.35714285714285715,0.0,4.0,0.0
 São Sebastião do Oeste,02-03-2021,154,0,3,0,0.35714285714285715,0.0,4.0,0.0
 São Sebastião do Oeste,03-03-2021,154,0,3,0,0.35714285714285715,0.0,1.0,0.0
+São Sebastião do Oeste,04-03-2021,154,0,3,0,0.35714285714285715,0.0,1.0,0.0
