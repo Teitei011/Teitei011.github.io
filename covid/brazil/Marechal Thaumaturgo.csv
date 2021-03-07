@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Marechal Thaumaturgo,27-03-2020,0,0,0,0,5.357142857142857,0.0,38.0,0.0
-Marechal Thaumaturgo,28-03-2020,0,0,0,0,4.928571428571429,0.0,32.0,0.0
-Marechal Thaumaturgo,29-03-2020,0,0,0,0,4.928571428571429,0.0,30.0,0.0
-Marechal Thaumaturgo,30-03-2020,0,0,0,0,4.0,0.0,27.0,0.0
-Marechal Thaumaturgo,31-03-2020,0,0,0,0,4.0,0.0,10.0,0.0
-Marechal Thaumaturgo,01-04-2020,0,0,0,0,3.5,0.0,6.0,0.0
-Marechal Thaumaturgo,02-04-2020,0,0,0,0,3.2857142857142856,0.0,0.0,0.0
-Marechal Thaumaturgo,03-04-2020,0,0,0,0,2.7142857142857144,0.0,0.0,0.0
-Marechal Thaumaturgo,04-04-2020,0,0,0,0,2.2857142857142856,0.0,0.0,0.0
-Marechal Thaumaturgo,05-04-2020,0,0,0,0,2.142857142857143,0.0,0.0,0.0
-Marechal Thaumaturgo,06-04-2020,0,0,0,0,1.9285714285714286,0.0,0.0,0.0
-Marechal Thaumaturgo,07-04-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
-Marechal Thaumaturgo,08-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
+Marechal Thaumaturgo,27-03-2020,0,0,0,0,5.642857142857143,0.0,42.0,0.0
+Marechal Thaumaturgo,28-03-2020,0,0,0,0,5.642857142857143,0.0,40.0,0.0
+Marechal Thaumaturgo,29-03-2020,0,0,0,0,4.714285714285714,0.0,37.0,0.0
+Marechal Thaumaturgo,30-03-2020,0,0,0,0,4.714285714285714,0.0,20.0,0.0
+Marechal Thaumaturgo,31-03-2020,0,0,0,0,4.214285714285714,0.0,16.0,0.0
+Marechal Thaumaturgo,01-04-2020,0,0,0,0,4.0,0.0,10.0,0.0
+Marechal Thaumaturgo,02-04-2020,0,0,0,0,3.4285714285714284,0.0,0.0,0.0
+Marechal Thaumaturgo,03-04-2020,0,0,0,0,3.0,0.0,0.0,0.0
+Marechal Thaumaturgo,04-04-2020,0,0,0,0,2.857142857142857,0.0,0.0,0.0
+Marechal Thaumaturgo,05-04-2020,0,0,0,0,2.642857142857143,0.0,0.0,0.0
+Marechal Thaumaturgo,06-04-2020,0,0,0,0,1.4285714285714286,0.0,0.0,0.0
+Marechal Thaumaturgo,07-04-2020,0,0,0,0,1.1428571428571428,0.0,0.0,0.0
+Marechal Thaumaturgo,08-04-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
 Marechal Thaumaturgo,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Marechal Thaumaturgo,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Marechal Thaumaturgo,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -343,3 +343,4 @@ Marechal Thaumaturgo,02-03-2021,807,-1,6,0,3.357142857142857,0.0,20.0,0.0
 Marechal Thaumaturgo,03-03-2021,837,30,6,0,5.428571428571429,0.0,48.0,0.0
 Marechal Thaumaturgo,04-03-2021,838,1,6,0,4.357142857142857,0.0,41.0,0.0
 Marechal Thaumaturgo,05-03-2021,838,0,6,0,4.357142857142857,0.0,37.0,0.0
+Marechal Thaumaturgo,06-03-2021,850,12,7,1,5.142857142857143,0.07142857142857142,42.0,1.0

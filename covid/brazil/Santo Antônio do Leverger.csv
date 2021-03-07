@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santo Antônio do Leverger,27-03-2020,0,0,0,0,0.5714285714285714,0.0,6.0,0.0
+Santo Antônio do Leverger,27-03-2020,0,0,0,0,0.5714285714285714,0.0,5.0,0.0
 Santo Antônio do Leverger,28-03-2020,0,0,0,0,0.5714285714285714,0.0,5.0,0.0
 Santo Antônio do Leverger,29-03-2020,0,0,0,0,0.5714285714285714,0.0,5.0,0.0
 Santo Antônio do Leverger,30-03-2020,0,0,0,0,0.5714285714285714,0.0,5.0,0.0
 Santo Antônio do Leverger,31-03-2020,0,0,0,0,0.5714285714285714,0.0,5.0,0.0
-Santo Antônio do Leverger,01-04-2020,0,0,0,0,0.5714285714285714,0.0,5.0,0.0
-Santo Antônio do Leverger,02-04-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
-Santo Antônio do Leverger,03-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
+Santo Antônio do Leverger,01-04-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
+Santo Antônio do Leverger,02-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
+Santo Antônio do Leverger,03-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
 Santo Antônio do Leverger,04-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
 Santo Antônio do Leverger,05-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
 Santo Antônio do Leverger,06-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
 Santo Antônio do Leverger,07-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
-Santo Antônio do Leverger,08-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
+Santo Antônio do Leverger,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Leverger,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Leverger,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Leverger,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -343,3 +343,4 @@ Santo Antônio do Leverger,02-03-2021,510,11,23,0,2.5714285714285716,0.071428571
 Santo Antônio do Leverger,03-03-2021,514,4,23,0,2.642857142857143,0.07142857142857142,27.0,0.0
 Santo Antônio do Leverger,04-03-2021,519,5,23,0,2.9285714285714284,0.07142857142857142,32.0,0.0
 Santo Antônio do Leverger,05-03-2021,519,0,23,0,2.9285714285714284,0.0,28.0,0.0
+Santo Antônio do Leverger,06-03-2021,519,0,23,0,2.7857142857142856,0.0,26.0,0.0

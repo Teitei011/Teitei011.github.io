@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Pinheiro Machado,27-03-2020,0,0,0,0,0.0,0.07142857142857142,0.0,0.0
+Pinheiro Machado,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pinheiro Machado,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pinheiro Machado,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pinheiro Machado,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -343,3 +343,4 @@ Pinheiro Machado,02-03-2021,371,7,7,0,1.9285714285714286,0.0,24.0,0.0
 Pinheiro Machado,03-03-2021,373,2,7,0,2.0714285714285716,0.0,20.0,0.0
 Pinheiro Machado,04-03-2021,381,8,7,0,2.5714285714285716,0.0,24.0,0.0
 Pinheiro Machado,05-03-2021,385,4,7,0,2.857142857142857,0.0,25.0,0.0
+Pinheiro Machado,06-03-2021,391,6,7,0,3.2142857142857144,0.0,28.0,0.0

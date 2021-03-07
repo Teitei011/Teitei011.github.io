@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santo Antônio da Patrulha,27-03-2020,0,0,0,0,2.142857142857143,0.0,26.0,0.0
-Santo Antônio da Patrulha,28-03-2020,1,1,0,0,2.0714285714285716,0.0,27.0,0.0
+Santo Antônio da Patrulha,27-03-2020,0,0,0,0,2.0,0.0,26.0,0.0
+Santo Antônio da Patrulha,28-03-2020,1,1,0,0,1.8571428571428572,0.0,27.0,0.0
 Santo Antônio da Patrulha,29-03-2020,1,0,0,0,1.8571428571428572,0.0,27.0,0.0
 Santo Antônio da Patrulha,30-03-2020,1,0,0,0,1.8571428571428572,0.0,27.0,0.0
 Santo Antônio da Patrulha,31-03-2020,1,0,0,0,1.8571428571428572,0.0,27.0,0.0
-Santo Antônio da Patrulha,01-04-2020,1,0,0,0,1.8571428571428572,0.0,27.0,0.0
-Santo Antônio da Patrulha,02-04-2020,1,0,0,0,1.8571428571428572,0.0,1.0,0.0
+Santo Antônio da Patrulha,01-04-2020,1,0,0,0,1.8571428571428572,0.0,1.0,0.0
+Santo Antônio da Patrulha,02-04-2020,1,0,0,0,1.9285714285714286,0.0,1.0,0.0
 Santo Antônio da Patrulha,03-04-2020,1,0,0,0,1.9285714285714286,0.0,1.0,0.0
 Santo Antônio da Patrulha,04-04-2020,1,0,0,0,1.9285714285714286,0.0,0.0,0.0
 Santo Antônio da Patrulha,05-04-2020,1,0,0,0,1.9285714285714286,0.0,0.0,0.0
 Santo Antônio da Patrulha,06-04-2020,1,0,0,0,1.9285714285714286,0.0,0.0,0.0
 Santo Antônio da Patrulha,07-04-2020,1,0,0,0,1.9285714285714286,0.0,0.0,0.0
-Santo Antônio da Patrulha,08-04-2020,1,0,0,0,1.9285714285714286,0.0,0.0,0.0
+Santo Antônio da Patrulha,08-04-2020,1,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Santo Antônio da Patrulha,09-04-2020,2,1,0,0,0.14285714285714285,0.0,1.0,0.0
 Santo Antônio da Patrulha,10-04-2020,2,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Santo Antônio da Patrulha,11-04-2020,2,0,0,0,0.07142857142857142,0.0,1.0,0.0
@@ -343,3 +343,4 @@ Santo Antônio da Patrulha,02-03-2021,2982,24,69,0,7.285714285714286,0.142857142
 Santo Antônio da Patrulha,03-03-2021,3049,67,69,0,12.071428571428571,0.14285714285714285,164.0,0.0
 Santo Antônio da Patrulha,04-03-2021,3122,73,69,0,17.214285714285715,0.14285714285714285,233.0,0.0
 Santo Antônio da Patrulha,05-03-2021,3222,100,70,1,24.214285714285715,0.21428571428571427,326.0,1.0
+Santo Antônio da Patrulha,06-03-2021,3273,51,71,1,27.571428571428573,0.21428571428571427,373.0,2.0

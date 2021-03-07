@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Bujari,27-03-2020,0,0,0,0,0.0,0.07142857142857142,0.0,0.0
+Bujari,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bujari,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bujari,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bujari,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -343,3 +343,4 @@ Bujari,02-03-2021,632,2,8,0,4.571428571428571,0.0,45.0,0.0
 Bujari,03-03-2021,633,1,8,0,4.428571428571429,0.0,40.0,0.0
 Bujari,04-03-2021,662,29,8,0,6.5,0.0,69.0,0.0
 Bujari,05-03-2021,678,16,8,0,7.071428571428571,0.0,67.0,0.0
+Bujari,06-03-2021,695,17,8,0,8.0,0.0,82.0,0.0
