@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Pedras Grandes,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Pedras Grandes,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Pedras Grandes,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Pedras Grandes,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pedras Grandes,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pedras Grandes,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pedras Grandes,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -344,3 +344,4 @@ Pedras Grandes,03-03-2021,331,10,9,0,4.214285714285714,0.0,39.0,0.0
 Pedras Grandes,04-03-2021,335,4,9,0,4.428571428571429,0.0,29.0,0.0
 Pedras Grandes,05-03-2021,335,0,9,0,3.357142857142857,0.0,26.0,0.0
 Pedras Grandes,06-03-2021,337,2,9,0,3.2857142857142856,0.0,24.0,0.0
+Pedras Grandes,07-03-2021,337,0,9,0,3.2857142857142856,0.0,22.0,0.0

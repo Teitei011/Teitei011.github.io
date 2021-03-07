@@ -1,11 +1,11 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Barão de Monte Alto,27-03-2020,0,0,0,0,0.21428571428571427,0.07142857142857142,0.0,0.0
 Barão de Monte Alto,28-03-2020,0,0,0,0,0.21428571428571427,0.07142857142857142,0.0,0.0
-Barão de Monte Alto,29-03-2020,0,0,0,0,0.21428571428571427,0.07142857142857142,0.0,0.0
+Barão de Monte Alto,29-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Barão de Monte Alto,30-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Barão de Monte Alto,31-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Barão de Monte Alto,01-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
-Barão de Monte Alto,02-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
+Barão de Monte Alto,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Barão de Monte Alto,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Barão de Monte Alto,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Barão de Monte Alto,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -344,3 +344,4 @@ Barão de Monte Alto,03-03-2021,144,2,6,0,0.35714285714285715,0.0,2.0,0.0
 Barão de Monte Alto,04-03-2021,144,0,6,0,0.35714285714285715,0.0,2.0,0.0
 Barão de Monte Alto,05-03-2021,144,0,6,0,0.35714285714285715,0.0,2.0,0.0
 Barão de Monte Alto,06-03-2021,144,0,6,0,0.35714285714285715,0.0,2.0,0.0
+Barão de Monte Alto,07-03-2021,144,0,6,0,0.35714285714285715,0.0,2.0,0.0

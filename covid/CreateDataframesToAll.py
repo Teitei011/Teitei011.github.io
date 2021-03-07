@@ -7,6 +7,10 @@ import os
 PATH = "brazil/"
 FILE_NAME = "Brazil.csv"
 
+
+tempo_inicial = time.time()
+
+
 #@jit(nopython=True, parallel=True)
 def extractDataframeByName(dataframe, location):
     print("Processing... 0%")
@@ -20,7 +24,8 @@ def extractDataframeByName(dataframe, location):
 
         #print("Processing... {}  - {:.2f}%".format(name, (counter*100)/number_of_names))
         if (counter % 530 == 0):
-            print("Processing... {:.0f}%".format( (counter*100)/number_of_names))
+	    tempo = (tempo_inicial -  time.time())/60
+            print("Processing... {:.0f}% -- {:.2f}".format( (counter*100)/number_of_names), tempo )
 
 
         newDataframe = dataframe.loc[dataframe[location] == name]
@@ -66,7 +71,6 @@ def splitDataframe2Something(dataframe, name): # Regiao pro Brasil né? # Estado
     return newDataframe
 
 def main():
-    tempo_inicial = time.time()
 
     #def pre_processing_csv_data(file_name):
     unprocessedDataset = pd.read_csv(str(FILE_NAME), delimiter=";", error_bad_lines=False)
