@@ -1,14 +1,14 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Francisco de Itabapoana,27-03-2020,0,0,0,0,3.2142857142857144,0.07142857142857142,10.0,0.0
-São Francisco de Itabapoana,28-03-2020,0,0,0,0,3.142857142857143,0.07142857142857142,7.0,0.0
-São Francisco de Itabapoana,29-03-2020,0,0,0,0,2.7142857142857144,0.0,2.0,0.0
+São Francisco de Itabapoana,27-03-2020,0,0,0,0,3.142857142857143,0.07142857142857142,7.0,0.0
+São Francisco de Itabapoana,28-03-2020,0,0,0,0,2.7142857142857144,0.0,2.0,0.0
+São Francisco de Itabapoana,29-03-2020,0,0,0,0,2.2857142857142856,0.0,0.0,0.0
 São Francisco de Itabapoana,30-03-2020,0,0,0,0,2.2857142857142856,0.0,0.0,0.0
-São Francisco de Itabapoana,31-03-2020,0,0,0,0,2.2857142857142856,0.0,0.0,0.0
+São Francisco de Itabapoana,31-03-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
 São Francisco de Itabapoana,01-04-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
 São Francisco de Itabapoana,02-04-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
-São Francisco de Itabapoana,03-04-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
-São Francisco de Itabapoana,04-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
-São Francisco de Itabapoana,05-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+São Francisco de Itabapoana,03-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
+São Francisco de Itabapoana,04-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+São Francisco de Itabapoana,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Francisco de Itabapoana,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Francisco de Itabapoana,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Francisco de Itabapoana,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -345,3 +345,4 @@ São Francisco de Itabapoana,04-03-2021,1066,0,33,0,2.2142857142857144,0.2857142
 São Francisco de Itabapoana,05-03-2021,1068,2,33,0,1.7857142857142858,0.2857142857142857,10.0,0.0
 São Francisco de Itabapoana,06-03-2021,1068,0,33,0,1.5714285714285714,0.21428571428571427,6.0,0.0
 São Francisco de Itabapoana,07-03-2021,1069,1,33,0,1.5714285714285714,0.21428571428571427,6.0,0.0
+São Francisco de Itabapoana,08-03-2021,1074,5,33,0,1.9285714285714286,0.21428571428571427,11.0,0.0

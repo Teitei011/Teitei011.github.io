@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santa Rita de Caldas,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Santa Rita de Caldas,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Rita de Caldas,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Rita de Caldas,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Rita de Caldas,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -345,3 +345,4 @@ Santa Rita de Caldas,04-03-2021,348,2,10,0,2.4285714285714284,0.0,21.0,0.0
 Santa Rita de Caldas,05-03-2021,348,0,10,0,2.2857142857142856,0.0,18.0,0.0
 Santa Rita de Caldas,06-03-2021,348,0,10,0,2.2857142857142856,0.0,18.0,0.0
 Santa Rita de Caldas,07-03-2021,357,9,10,0,2.9285714285714284,0.0,22.0,0.0
+Santa Rita de Caldas,08-03-2021,357,0,10,0,2.9285714285714284,0.0,22.0,0.0

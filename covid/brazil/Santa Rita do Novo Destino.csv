@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santa Rita do Novo Destino,27-03-2020,0,0,0,0,1.5,0.0,17.0,0.0
-Santa Rita do Novo Destino,28-03-2020,0,0,0,0,1.5,0.0,17.0,0.0
-Santa Rita do Novo Destino,29-03-2020,0,0,0,0,1.2857142857142858,0.0,17.0,0.0
-Santa Rita do Novo Destino,30-03-2020,0,0,0,0,1.2857142857142858,0.0,5.0,0.0
+Santa Rita do Novo Destino,28-03-2020,0,0,0,0,1.2857142857142858,0.0,17.0,0.0
+Santa Rita do Novo Destino,29-03-2020,0,0,0,0,1.2857142857142858,0.0,5.0,0.0
+Santa Rita do Novo Destino,30-03-2020,0,0,0,0,1.2857142857142858,0.0,3.0,0.0
 Santa Rita do Novo Destino,31-03-2020,0,0,0,0,1.2857142857142858,0.0,3.0,0.0
-Santa Rita do Novo Destino,01-04-2020,0,0,0,0,1.2857142857142858,0.0,3.0,0.0
+Santa Rita do Novo Destino,01-04-2020,0,0,0,0,1.2142857142857142,0.0,0.0,0.0
 Santa Rita do Novo Destino,02-04-2020,0,0,0,0,1.2142857142857142,0.0,0.0,0.0
 Santa Rita do Novo Destino,03-04-2020,0,0,0,0,1.2142857142857142,0.0,0.0,0.0
 Santa Rita do Novo Destino,04-04-2020,0,0,0,0,1.2142857142857142,0.0,0.0,0.0
-Santa Rita do Novo Destino,05-04-2020,0,0,0,0,1.2142857142857142,0.0,0.0,0.0
-Santa Rita do Novo Destino,06-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
+Santa Rita do Novo Destino,05-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
+Santa Rita do Novo Destino,06-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Santa Rita do Novo Destino,07-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
-Santa Rita do Novo Destino,08-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
+Santa Rita do Novo Destino,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Rita do Novo Destino,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Rita do Novo Destino,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Rita do Novo Destino,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -345,3 +345,4 @@ Santa Rita do Novo Destino,04-03-2021,113,3,6,0,0.7857142857142857,0.07142857142
 Santa Rita do Novo Destino,05-03-2021,127,14,6,0,1.7857142857142858,0.07142857142857142,22.0,1.0
 Santa Rita do Novo Destino,06-03-2021,119,-8,6,0,1.2142857142857142,0.07142857142857142,14.0,1.0
 Santa Rita do Novo Destino,07-03-2021,119,0,6,0,1.2142857142857142,0.07142857142857142,13.0,1.0
+Santa Rita do Novo Destino,08-03-2021,119,0,6,0,1.2142857142857142,0.07142857142857142,13.0,1.0

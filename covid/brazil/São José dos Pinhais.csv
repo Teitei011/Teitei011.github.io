@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São José dos Pinhais,27-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-São José dos Pinhais,28-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+São José dos Pinhais,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José dos Pinhais,29-03-2020,1,1,0,0,0.07142857142857142,0.0,1.0,0.0
 São José dos Pinhais,30-03-2020,1,0,0,0,0.07142857142857142,0.0,1.0,0.0
 São José dos Pinhais,31-03-2020,3,2,0,0,0.21428571428571427,0.0,3.0,0.0
@@ -345,3 +345,4 @@ São José dos Pinhais,04-03-2021,14677,169,362,-2,77.92857142857143,1.214285714
 São José dos Pinhais,05-03-2021,14722,45,363,1,78.35714285714286,0.8571428571428571,569.0,5.0
 São José dos Pinhais,06-03-2021,14832,110,365,2,81.14285714285714,0.9285714285714286,614.0,6.0
 São José dos Pinhais,07-03-2021,14992,160,366,1,85.92857142857143,1.0,711.0,7.0
+São José dos Pinhais,08-03-2021,15002,10,366,0,82.92857142857143,0.9285714285714286,660.0,7.0

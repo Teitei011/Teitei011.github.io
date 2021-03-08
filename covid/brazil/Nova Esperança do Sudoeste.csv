@@ -1,14 +1,14 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Nova Esperança do Sudoeste,27-03-2020,0,0,0,0,0.14285714285714285,0.0,2.0,0.0
+Nova Esperança do Sudoeste,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Nova Esperança do Sudoeste,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Nova Esperança do Sudoeste,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Nova Esperança do Sudoeste,29-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Nova Esperança do Sudoeste,30-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Nova Esperança do Sudoeste,31-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Nova Esperança do Sudoeste,01-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Nova Esperança do Sudoeste,02-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Nova Esperança do Sudoeste,03-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Nova Esperança do Sudoeste,03-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Nova Esperança do Sudoeste,04-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Nova Esperança do Sudoeste,05-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Nova Esperança do Sudoeste,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Esperança do Sudoeste,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Esperança do Sudoeste,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Esperança do Sudoeste,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -345,3 +345,4 @@ Nova Esperança do Sudoeste,04-03-2021,349,7,2,1,5.214285714285714,0.07142857142
 Nova Esperança do Sudoeste,05-03-2021,354,5,2,0,5.357142857142857,0.07142857142857142,45.0,1.0
 Nova Esperança do Sudoeste,06-03-2021,364,10,2,0,5.5,0.07142857142857142,50.0,1.0
 Nova Esperança do Sudoeste,07-03-2021,364,0,2,0,5.5,0.07142857142857142,49.0,1.0
+Nova Esperança do Sudoeste,08-03-2021,373,9,2,0,6.0,0.07142857142857142,49.0,1.0

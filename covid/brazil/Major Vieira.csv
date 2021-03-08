@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Major Vieira,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Major Vieira,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Major Vieira,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Major Vieira,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Major Vieira,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Major Vieira,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -345,3 +345,4 @@ Major Vieira,04-03-2021,156,0,3,0,0.42857142857142855,0.0,3.0,0.0
 Major Vieira,05-03-2021,156,0,3,0,0.35714285714285715,0.0,1.0,0.0
 Major Vieira,06-03-2021,161,5,3,0,0.5714285714285714,0.0,6.0,0.0
 Major Vieira,07-03-2021,161,0,3,0,0.5714285714285714,0.0,6.0,0.0
+Major Vieira,08-03-2021,161,0,3,0,0.5714285714285714,0.0,6.0,0.0
