@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Estrela do Norte,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Estrela do Norte,27-03-2020,0,0,0,0,-0.07142857142857142,0.0,0.0,0.0
 Estrela do Norte,28-03-2020,0,0,0,0,-0.07142857142857142,0.0,0.0,0.0
 Estrela do Norte,29-03-2020,0,0,0,0,-0.07142857142857142,0.0,0.0,0.0
-Estrela do Norte,30-03-2020,0,0,0,0,-0.07142857142857142,0.0,0.0,0.0
+Estrela do Norte,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Estrela do Norte,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Estrela do Norte,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Estrela do Norte,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -346,3 +346,4 @@ Estrela do Norte,05-03-2021,264,3,3,0,1.8571428571428572,0.0,16.0,0.0
 Estrela do Norte,06-03-2021,264,0,3,0,1.6428571428571428,0.0,16.0,0.0
 Estrela do Norte,07-03-2021,264,0,3,0,1.5,0.0,16.0,0.0
 Estrela do Norte,08-03-2021,285,21,3,0,3.0,0.0,37.0,0.0
+Estrela do Norte,09-03-2021,314,29,3,0,5.071428571428571,0.0,62.0,0.0

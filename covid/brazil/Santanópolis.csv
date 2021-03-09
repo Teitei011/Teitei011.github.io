@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santanópolis,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Santanópolis,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Santanópolis,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santanópolis,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santanópolis,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santanópolis,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -346,3 +346,4 @@ Santanópolis,05-03-2021,358,6,4,0,1.5714285714285714,0.0,13.0,0.0
 Santanópolis,06-03-2021,358,0,4,0,1.5,0.0,13.0,0.0
 Santanópolis,07-03-2021,358,0,4,0,1.5,0.0,10.0,0.0
 Santanópolis,08-03-2021,358,0,4,0,1.5,0.0,10.0,0.0
+Santanópolis,09-03-2021,359,1,4,0,1.2857142857142858,0.0,11.0,0.0

@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Governador Eugênio Barros,27-03-2020,0,0,0,0,0.42857142857142855,0.5,6.0,6.0
+Governador Eugênio Barros,27-03-2020,0,0,0,0,0.5,0.5,2.0,2.0
 Governador Eugênio Barros,28-03-2020,0,0,0,0,0.5,0.5,2.0,2.0
 Governador Eugênio Barros,29-03-2020,0,0,0,0,0.5,0.5,2.0,2.0
 Governador Eugênio Barros,30-03-2020,0,0,0,0,0.5,0.5,2.0,2.0
-Governador Eugênio Barros,31-03-2020,0,0,0,0,0.5,0.5,2.0,2.0
-Governador Eugênio Barros,01-04-2020,0,0,0,0,0.42857142857142855,0.42857142857142855,2.0,2.0
+Governador Eugênio Barros,31-03-2020,0,0,0,0,0.42857142857142855,0.42857142857142855,2.0,2.0
+Governador Eugênio Barros,01-04-2020,0,0,0,0,0.42857142857142855,0.42857142857142855,0.0,0.0
 Governador Eugênio Barros,02-04-2020,0,0,0,0,0.42857142857142855,0.42857142857142855,0.0,0.0
-Governador Eugênio Barros,03-04-2020,0,0,0,0,0.42857142857142855,0.42857142857142855,0.0,0.0
+Governador Eugênio Barros,03-04-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,0.0,0.0
 Governador Eugênio Barros,04-04-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,0.0,0.0
 Governador Eugênio Barros,05-04-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,0.0,0.0
 Governador Eugênio Barros,06-04-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,0.0,0.0
 Governador Eugênio Barros,07-04-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,0.0,0.0
-Governador Eugênio Barros,08-04-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,0.0,0.0
+Governador Eugênio Barros,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Eugênio Barros,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Eugênio Barros,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Eugênio Barros,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -346,3 +346,4 @@ Governador Eugênio Barros,05-03-2021,478,1,7,2,1.7857142857142858,0.5,7.0,3.0
 Governador Eugênio Barros,06-03-2021,478,0,7,0,1.7857142857142858,0.5,4.0,3.0
 Governador Eugênio Barros,07-03-2021,478,0,7,0,1.7857142857142858,0.5,4.0,2.0
 Governador Eugênio Barros,08-03-2021,478,0,7,0,1.1428571428571428,0.5,4.0,2.0
+Governador Eugênio Barros,09-03-2021,478,0,7,0,1.1428571428571428,0.5,1.0,2.0
