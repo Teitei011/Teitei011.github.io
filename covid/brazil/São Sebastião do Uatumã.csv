@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Sebastião do Uatumã,27-03-2020,0,0,0,0,1.1428571428571428,0.0,9.0,0.0
-São Sebastião do Uatumã,28-03-2020,0,0,0,0,1.0714285714285714,0.0,9.0,0.0
+São Sebastião do Uatumã,27-03-2020,0,0,0,0,1.0714285714285714,0.0,9.0,0.0
+São Sebastião do Uatumã,28-03-2020,0,0,0,0,1.0,0.0,9.0,0.0
 São Sebastião do Uatumã,29-03-2020,0,0,0,0,1.0,0.0,9.0,0.0
 São Sebastião do Uatumã,30-03-2020,0,0,0,0,1.0,0.0,9.0,0.0
-São Sebastião do Uatumã,31-03-2020,0,0,0,0,1.0,0.0,9.0,0.0
-São Sebastião do Uatumã,01-04-2020,0,0,0,0,0.7857142857142857,0.0,9.0,0.0
+São Sebastião do Uatumã,31-03-2020,0,0,0,0,0.7857142857142857,0.0,9.0,0.0
+São Sebastião do Uatumã,01-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
 São Sebastião do Uatumã,02-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
 São Sebastião do Uatumã,03-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
 São Sebastião do Uatumã,04-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
 São Sebastião do Uatumã,05-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
 São Sebastião do Uatumã,06-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
 São Sebastião do Uatumã,07-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
-São Sebastião do Uatumã,08-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
+São Sebastião do Uatumã,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Sebastião do Uatumã,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Sebastião do Uatumã,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Sebastião do Uatumã,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -347,3 +347,4 @@ São Sebastião do Uatumã,06-03-2021,1342,11,17,0,6.5,0.0,44.0,0.0
 São Sebastião do Uatumã,07-03-2021,1342,0,17,0,6.5,0.0,36.0,0.0
 São Sebastião do Uatumã,08-03-2021,1342,0,17,0,6.5,0.0,36.0,0.0
 São Sebastião do Uatumã,09-03-2021,1351,9,17,0,7.142857142857143,0.0,29.0,0.0
+São Sebastião do Uatumã,10-03-2021,1361,10,17,0,5.142857142857143,0.0,39.0,0.0

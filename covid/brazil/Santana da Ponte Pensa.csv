@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santana da Ponte Pensa,27-03-2020,0,0,0,0,0.07142857142857142,0.07142857142857142,0.0,0.0
+Santana da Ponte Pensa,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana da Ponte Pensa,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana da Ponte Pensa,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana da Ponte Pensa,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -347,3 +347,4 @@ Santana da Ponte Pensa,06-03-2021,28,0,2,0,0.14285714285714285,0.071428571428571
 Santana da Ponte Pensa,07-03-2021,28,0,2,0,0.14285714285714285,0.07142857142857142,1.0,1.0
 Santana da Ponte Pensa,08-03-2021,28,0,2,0,0.14285714285714285,0.07142857142857142,1.0,1.0
 Santana da Ponte Pensa,09-03-2021,28,0,2,0,0.07142857142857142,0.07142857142857142,1.0,1.0
+Santana da Ponte Pensa,10-03-2021,28,0,2,0,0.07142857142857142,0.07142857142857142,0.0,1.0

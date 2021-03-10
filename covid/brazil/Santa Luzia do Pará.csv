@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santa Luzia do Pará,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Santa Luzia do Pará,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Santa Luzia do Pará,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Santa Luzia do Pará,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Luzia do Pará,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Luzia do Pará,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Luzia do Pará,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -347,3 +347,4 @@ Santa Luzia do Pará,06-03-2021,1064,1,14,1,0.42857142857142855,0.07142857142857
 Santa Luzia do Pará,07-03-2021,1064,0,14,0,0.42857142857142855,0.07142857142857142,1.0,1.0
 Santa Luzia do Pará,08-03-2021,1064,0,14,0,0.42857142857142855,0.07142857142857142,1.0,1.0
 Santa Luzia do Pará,09-03-2021,1064,0,14,0,0.42857142857142855,0.07142857142857142,1.0,1.0
+Santa Luzia do Pará,10-03-2021,1064,0,14,0,0.42857142857142855,0.07142857142857142,1.0,1.0

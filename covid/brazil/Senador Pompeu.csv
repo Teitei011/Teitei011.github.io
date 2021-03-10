@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Senador Pompeu,27-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Senador Pompeu,28-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Senador Pompeu,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Senador Pompeu,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Senador Pompeu,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Senador Pompeu,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -347,3 +347,4 @@ Senador Pompeu,06-03-2021,962,8,20,1,4.5,0.14285714285714285,41.0,2.0
 Senador Pompeu,07-03-2021,969,7,20,0,4.357142857142857,0.14285714285714285,35.0,2.0
 Senador Pompeu,08-03-2021,969,0,20,0,4.357142857142857,0.14285714285714285,33.0,2.0
 Senador Pompeu,09-03-2021,969,0,20,0,4.214285714285714,0.14285714285714285,25.0,2.0
+Senador Pompeu,10-03-2021,968,-1,20,0,4.071428571428571,0.14285714285714285,24.0,1.0

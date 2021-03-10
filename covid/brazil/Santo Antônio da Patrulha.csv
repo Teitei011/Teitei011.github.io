@@ -1,15 +1,15 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santo Antônio da Patrulha,27-03-2020,0,0,0,0,1.7142857142857142,0.0,25.0,0.0
-Santo Antônio da Patrulha,28-03-2020,1,1,0,0,1.7857142857142858,0.0,26.0,0.0
-Santo Antônio da Patrulha,29-03-2020,1,0,0,0,1.7857142857142858,0.0,0.0,0.0
-Santo Antônio da Patrulha,30-03-2020,1,0,0,0,1.8571428571428572,0.0,0.0,0.0
+Santo Antônio da Patrulha,28-03-2020,1,1,0,0,1.7857142857142858,0.0,0.0,0.0
+Santo Antônio da Patrulha,29-03-2020,1,0,0,0,1.8571428571428572,0.0,0.0,0.0
+Santo Antônio da Patrulha,30-03-2020,1,0,0,0,1.8571428571428572,0.0,1.0,0.0
 Santo Antônio da Patrulha,31-03-2020,1,0,0,0,1.8571428571428572,0.0,1.0,0.0
 Santo Antônio da Patrulha,01-04-2020,1,0,0,0,1.8571428571428572,0.0,1.0,0.0
 Santo Antônio da Patrulha,02-04-2020,1,0,0,0,1.8571428571428572,0.0,1.0,0.0
 Santo Antônio da Patrulha,03-04-2020,1,0,0,0,1.8571428571428572,0.0,1.0,0.0
-Santo Antônio da Patrulha,04-04-2020,1,0,0,0,1.8571428571428572,0.0,0.0,0.0
+Santo Antônio da Patrulha,04-04-2020,1,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio da Patrulha,05-04-2020,1,0,0,0,0.0,0.0,0.0,0.0
-Santo Antônio da Patrulha,06-04-2020,1,0,0,0,0.0,0.0,0.0,0.0
+Santo Antônio da Patrulha,06-04-2020,1,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Santo Antônio da Patrulha,07-04-2020,1,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Santo Antônio da Patrulha,08-04-2020,1,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Santo Antônio da Patrulha,09-04-2020,2,1,0,0,0.14285714285714285,0.0,1.0,0.0
@@ -347,3 +347,4 @@ Santo Antônio da Patrulha,06-03-2021,3273,51,71,1,27.571428571428573,0.21428571
 Santo Antônio da Patrulha,07-03-2021,3275,2,71,0,27.642857142857142,0.21428571428571427,370.0,2.0
 Santo Antônio da Patrulha,08-03-2021,3319,44,71,0,30.714285714285715,0.14285714285714285,361.0,2.0
 Santo Antônio da Patrulha,09-03-2021,3362,43,71,0,34.142857142857146,0.14285714285714285,380.0,2.0
+Santo Antônio da Patrulha,10-03-2021,3394,32,71,0,36.357142857142854,0.14285714285714285,345.0,2.0

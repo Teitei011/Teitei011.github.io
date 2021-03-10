@@ -1,14 +1,14 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Espírito Santo do Pinhal,27-03-2020,0,0,0,0,1.6428571428571428,0.0,23.0,0.0
 Espírito Santo do Pinhal,28-03-2020,0,0,0,0,1.6428571428571428,0.0,23.0,0.0
-Espírito Santo do Pinhal,29-03-2020,0,0,0,0,1.6428571428571428,0.0,23.0,0.0
+Espírito Santo do Pinhal,29-03-2020,0,0,0,0,1.6428571428571428,0.0,0.0,0.0
 Espírito Santo do Pinhal,30-03-2020,0,0,0,0,1.6428571428571428,0.0,0.0,0.0
 Espírito Santo do Pinhal,31-03-2020,0,0,0,0,1.6428571428571428,0.0,0.0,0.0
 Espírito Santo do Pinhal,01-04-2020,0,0,0,0,1.6428571428571428,0.0,0.0,0.0
 Espírito Santo do Pinhal,02-04-2020,0,0,0,0,1.6428571428571428,0.0,0.0,0.0
 Espírito Santo do Pinhal,03-04-2020,0,0,0,0,1.6428571428571428,0.0,0.0,0.0
 Espírito Santo do Pinhal,04-04-2020,0,0,0,0,1.6428571428571428,0.0,0.0,0.0
-Espírito Santo do Pinhal,05-04-2020,0,0,0,0,1.6428571428571428,0.0,0.0,0.0
+Espírito Santo do Pinhal,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Espírito Santo do Pinhal,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Espírito Santo do Pinhal,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Espírito Santo do Pinhal,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -347,3 +347,4 @@ Espírito Santo do Pinhal,06-03-2021,2548,19,48,1,18.071428571428573,0.571428571
 Espírito Santo do Pinhal,07-03-2021,2558,10,48,0,18.071428571428573,0.5714285714285714,78.0,4.0
 Espírito Santo do Pinhal,08-03-2021,2563,5,48,0,16.571428571428573,0.5714285714285714,68.0,4.0
 Espírito Santo do Pinhal,09-03-2021,2593,30,51,3,17.928571428571427,0.7857142857142857,93.0,5.0
+Espírito Santo do Pinhal,10-03-2021,2596,3,51,0,16.571428571428573,0.7857142857142857,85.0,5.0
