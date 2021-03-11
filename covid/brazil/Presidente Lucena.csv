@@ -1,16 +1,16 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Presidente Lucena,27-03-2020,0,0,0,0,0.7857142857142857,0.0,6.0,0.0
+Presidente Lucena,27-03-2020,0,0,0,0,0.6428571428571429,0.0,6.0,0.0
 Presidente Lucena,28-03-2020,0,0,0,0,0.6428571428571429,0.0,6.0,0.0
 Presidente Lucena,29-03-2020,0,0,0,0,0.6428571428571429,0.0,6.0,0.0
 Presidente Lucena,30-03-2020,0,0,0,0,0.6428571428571429,0.0,6.0,0.0
-Presidente Lucena,31-03-2020,0,0,0,0,0.6428571428571429,0.0,6.0,0.0
+Presidente Lucena,31-03-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
 Presidente Lucena,01-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
-Presidente Lucena,02-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
+Presidente Lucena,02-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 Presidente Lucena,03-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 Presidente Lucena,04-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 Presidente Lucena,05-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 Presidente Lucena,06-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
-Presidente Lucena,07-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
+Presidente Lucena,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Lucena,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Lucena,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Lucena,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -348,3 +348,4 @@ Presidente Lucena,07-03-2021,248,0,1,0,4.071428571428571,0.0,35.0,0.0
 Presidente Lucena,08-03-2021,248,0,1,0,4.071428571428571,0.0,35.0,0.0
 Presidente Lucena,09-03-2021,260,12,1,0,4.714285714285714,0.0,36.0,0.0
 Presidente Lucena,10-03-2021,262,2,1,0,4.571428571428571,0.0,30.0,0.0
+Presidente Lucena,11-03-2021,270,8,1,0,5.0,0.0,36.0,0.0

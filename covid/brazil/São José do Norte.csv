@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São José do Norte,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+São José do Norte,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José do Norte,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José do Norte,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José do Norte,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -348,3 +348,4 @@ São José do Norte,07-03-2021,498,-1,20,0,0.35714285714285715,0.142857142857142
 São José do Norte,08-03-2021,499,1,20,0,0.35714285714285715,0.14285714285714285,3.0,1.0
 São José do Norte,09-03-2021,499,0,20,0,0.35714285714285715,0.14285714285714285,2.0,0.0
 São José do Norte,10-03-2021,499,0,20,0,0.35714285714285715,0.14285714285714285,2.0,0.0
+São José do Norte,11-03-2021,499,0,20,0,0.2857142857142857,0.07142857142857142,1.0,0.0

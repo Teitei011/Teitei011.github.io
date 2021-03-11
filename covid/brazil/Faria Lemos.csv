@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Faria Lemos,27-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Faria Lemos,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Faria Lemos,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Faria Lemos,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Faria Lemos,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -348,3 +348,4 @@ Faria Lemos,07-03-2021,116,0,3,0,0.7857142857142857,0.0,7.0,0.0
 Faria Lemos,08-03-2021,116,0,3,0,0.7857142857142857,0.0,7.0,0.0
 Faria Lemos,09-03-2021,116,0,3,0,0.7857142857142857,0.0,7.0,0.0
 Faria Lemos,10-03-2021,116,0,3,0,0.7857142857142857,0.0,3.0,0.0
+Faria Lemos,11-03-2021,118,2,3,0,0.7142857142857143,0.0,4.0,0.0

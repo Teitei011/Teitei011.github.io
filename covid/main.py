@@ -1,16 +1,14 @@
+import multiprocessing as mp
 import pandas as pd
 import time
-import webbrowser
-import pyautogui as py
 import os
-import schedule
-
+#import numba
 
 PATH = "brazil/"
 FILE_NAME = "Brazil.csv"
 
-X_POSITION, Y_POSITION = 0 , 0
-py.FAILSAFE = False
+
+tempo_inicial = time.time()
 
 
 #@jit(nopython=True, parallel=True)
@@ -26,7 +24,7 @@ def extractDataframeByName(dataframe, location):
 
         #print("Processing... {}  - {:.2f}%".format(name, (counter*100)/number_of_names))
         if (counter % 530 == 0):
-            print("Processing... {:.0f}%".format( (counter*100)/number_of_names))
+            print("Processing... {:.0f}% -- ".format( (counter*100)/number_of_names))
 
 
         newDataframe = dataframe.loc[dataframe[location] == name]
@@ -71,24 +69,7 @@ def splitDataframe2Something(dataframe, name): # Regiao pro Brasil né? # Estado
     
     return newDataframe
 
-def downloadData():
-    webbrowser.open("https://covid.saude.gov.br/")
-
-
-    seeScreenSize()
-    # Click in the right button
-    time.sleep(15) 
-    py.moveTo(X_POSITION, Y_POSITION)
-    py.click(X_POSITION, Y_POSITION)
-    time.sleep(60)
-
-    # CHange the file's name
-
-    os.system("cp ~/Downloads/*.csv Brazil.csv")
-
-
-def processData():
-    tempo_inicial = time.time()
+def main():
 
     #def pre_processing_csv_data(file_name):
     unprocessedDataset = pd.read_csv(str(FILE_NAME), delimiter=";", error_bad_lines=False)
@@ -106,32 +87,5 @@ def processData():
     os.system("rm Brazil.csv")
     os.system("./upload2TheCloud.sh")
 
-
-
-def tellMeThePosition(intervalBetweenTheResponses):
-    time.sleep(intervalBetweenTheResponses)
-    for i in range(10):
-        time.sleep(intervalBetweenTheResponses)
-        print(py.position())
-
-
-def seeScreenSize():
-    wh = py.size() 
-    if (wh[0] > 1400):
-        X_POSITION, Y_POSITION = 2550, 259
-    else:
-        X_POSITION, Y_POSITION = 1183, 267
-
-    print(X_POSITION, Y_POSITION)
-
-def main():
-    downloadData()
-    processData()
-
-schedule.every().day.at("15:57").do(main)
 if __name__ == "__main__":
     main()
-
-while True:
-    schedule.run_pending()
-    time.sleep(1)

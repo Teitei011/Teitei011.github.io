@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Serra Talhada,27-03-2020,0,0,0,0,0.9285714285714286,0.0,0.0,0.0
+Serra Talhada,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Serra Talhada,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Serra Talhada,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Serra Talhada,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -348,3 +348,4 @@ Serra Talhada,07-03-2021,7193,6,101,2,14.928571428571429,0.5,124.0,6.0
 Serra Talhada,08-03-2021,7193,0,101,0,14.5,0.42857142857142855,120.0,6.0
 Serra Talhada,09-03-2021,7229,36,102,1,17.142857142857142,0.5,147.0,6.0
 Serra Talhada,10-03-2021,7251,22,103,1,17.285714285714285,0.5714285714285714,133.0,7.0
+Serra Talhada,11-03-2021,7273,22,103,0,18.428571428571427,0.5714285714285714,113.0,5.0

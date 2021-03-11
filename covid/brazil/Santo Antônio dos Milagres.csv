@@ -1,16 +1,16 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santo Antônio dos Milagres,27-03-2020,0,0,0,0,1.1428571428571428,0.07142857142857142,9.0,0.0
+Santo Antônio dos Milagres,27-03-2020,0,0,0,0,0.7142857142857143,0.07142857142857142,5.0,0.0
 Santo Antônio dos Milagres,28-03-2020,0,0,0,0,0.7142857142857143,0.07142857142857142,5.0,0.0
 Santo Antônio dos Milagres,29-03-2020,0,0,0,0,0.7142857142857143,0.07142857142857142,5.0,0.0
 Santo Antônio dos Milagres,30-03-2020,0,0,0,0,0.7142857142857143,0.07142857142857142,5.0,0.0
-Santo Antônio dos Milagres,31-03-2020,0,0,0,0,0.7142857142857143,0.07142857142857142,5.0,0.0
+Santo Antônio dos Milagres,31-03-2020,0,0,0,0,0.7142857142857143,0.07142857142857142,0.0,0.0
 Santo Antônio dos Milagres,01-04-2020,0,0,0,0,0.7142857142857143,0.07142857142857142,0.0,0.0
-Santo Antônio dos Milagres,02-04-2020,0,0,0,0,0.7142857142857143,0.07142857142857142,0.0,0.0
-Santo Antônio dos Milagres,03-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
+Santo Antônio dos Milagres,02-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
+Santo Antônio dos Milagres,03-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
 Santo Antônio dos Milagres,04-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
 Santo Antônio dos Milagres,05-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
 Santo Antônio dos Milagres,06-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
-Santo Antônio dos Milagres,07-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
+Santo Antônio dos Milagres,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio dos Milagres,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio dos Milagres,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio dos Milagres,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -348,3 +348,4 @@ Santo Antônio dos Milagres,07-03-2021,75,0,1,0,0.0,0.0,0.0,0.0
 Santo Antônio dos Milagres,08-03-2021,75,0,1,0,0.0,0.0,0.0,0.0
 Santo Antônio dos Milagres,09-03-2021,75,0,1,0,0.0,0.0,0.0,0.0
 Santo Antônio dos Milagres,10-03-2021,75,0,1,0,0.0,0.0,0.0,0.0
+Santo Antônio dos Milagres,11-03-2021,75,0,1,0,0.0,0.0,0.0,0.0

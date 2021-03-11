@@ -1,15 +1,15 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Aliança do Tocantins,27-03-2020,0,0,0,0,0.35714285714285715,0.0,-2.0,0.0
-Aliança do Tocantins,28-03-2020,0,0,0,0,0.35714285714285715,0.0,-2.0,0.0
-Aliança do Tocantins,29-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Aliança do Tocantins,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Aliança do Tocantins,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Aliança do Tocantins,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Aliança do Tocantins,30-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Aliança do Tocantins,31-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Aliança do Tocantins,01-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Aliança do Tocantins,02-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Aliança do Tocantins,02-04-2020,0,0,0,0,-0.14285714285714285,0.0,0.0,0.0
 Aliança do Tocantins,03-04-2020,0,0,0,0,-0.14285714285714285,0.0,0.0,0.0
-Aliança do Tocantins,04-04-2020,0,0,0,0,-0.14285714285714285,0.0,0.0,0.0
-Aliança do Tocantins,05-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Aliança do Tocantins,06-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Aliança do Tocantins,04-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Aliança do Tocantins,05-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Aliança do Tocantins,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Aliança do Tocantins,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Aliança do Tocantins,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Aliança do Tocantins,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -348,3 +348,4 @@ Aliança do Tocantins,07-03-2021,357,0,8,0,2.142857142857143,0.0,17.0,0.0
 Aliança do Tocantins,08-03-2021,360,3,8,0,2.0714285714285716,0.0,20.0,0.0
 Aliança do Tocantins,09-03-2021,368,8,8,0,2.5,0.0,21.0,0.0
 Aliança do Tocantins,10-03-2021,384,16,8,0,3.4285714285714284,0.0,34.0,0.0
+Aliança do Tocantins,11-03-2021,392,8,8,0,3.857142857142857,0.0,35.0,0.0
