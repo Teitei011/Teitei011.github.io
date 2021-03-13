@@ -1,14 +1,14 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santa Bárbara do Leste,27-03-2020,0,0,0,0,2.4285714285714284,0.07142857142857142,5.0,0.0
-Santa Bárbara do Leste,28-03-2020,0,0,0,0,2.4285714285714284,0.07142857142857142,5.0,0.0
-Santa Bárbara do Leste,29-03-2020,0,0,0,0,2.2142857142857144,0.0,5.0,0.0
+Santa Bárbara do Leste,28-03-2020,0,0,0,0,2.2142857142857144,0.0,5.0,0.0
+Santa Bárbara do Leste,29-03-2020,0,0,0,0,1.3571428571428572,0.0,0.0,0.0
 Santa Bárbara do Leste,30-03-2020,0,0,0,0,1.3571428571428572,0.0,0.0,0.0
-Santa Bárbara do Leste,31-03-2020,0,0,0,0,1.3571428571428572,0.0,0.0,0.0
-Santa Bárbara do Leste,01-04-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
+Santa Bárbara do Leste,31-03-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
+Santa Bárbara do Leste,01-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
 Santa Bárbara do Leste,02-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
 Santa Bárbara do Leste,03-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
 Santa Bárbara do Leste,04-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
-Santa Bárbara do Leste,05-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
+Santa Bárbara do Leste,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Bárbara do Leste,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Bárbara do Leste,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Bárbara do Leste,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -350,3 +350,4 @@ Santa Bárbara do Leste,09-03-2021,315,1,18,0,0.7857142857142857,0.0714285714285
 Santa Bárbara do Leste,10-03-2021,315,0,18,0,0.7142857142857143,0.07142857142857142,6.0,0.0
 Santa Bárbara do Leste,11-03-2021,315,0,18,0,0.7142857142857143,0.0,4.0,0.0
 Santa Bárbara do Leste,12-03-2021,317,2,18,0,0.7857142857142857,0.0,6.0,0.0
+Santa Bárbara do Leste,13-03-2021,318,1,18,0,0.8571428571428571,0.0,5.0,0.0

@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Celso Ramos,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Celso Ramos,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Celso Ramos,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Celso Ramos,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Celso Ramos,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -350,3 +350,4 @@ Celso Ramos,09-03-2021,241,2,2,0,1.3571428571428572,0.0,10.0,0.0
 Celso Ramos,10-03-2021,248,7,3,1,1.5,0.07142857142857142,19.0,1.0
 Celso Ramos,11-03-2021,249,1,3,0,1.5714285714285714,0.07142857142857142,19.0,1.0
 Celso Ramos,12-03-2021,249,0,3,0,1.5714285714285714,0.07142857142857142,13.0,1.0
+Celso Ramos,13-03-2021,249,0,3,0,1.3571428571428572,0.07142857142857142,11.0,1.0
