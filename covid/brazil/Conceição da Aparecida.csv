@@ -2,7 +2,7 @@ municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases
 Conceição da Aparecida,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Conceição da Aparecida,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Conceição da Aparecida,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Conceição da Aparecida,30-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Conceição da Aparecida,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Conceição da Aparecida,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Conceição da Aparecida,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Conceição da Aparecida,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -349,3 +349,4 @@ Conceição da Aparecida,08-03-2021,255,0,4,0,0.35714285714285715,0.0,3.0,0.0
 Conceição da Aparecida,09-03-2021,255,0,4,0,0.35714285714285715,0.0,3.0,0.0
 Conceição da Aparecida,10-03-2021,260,5,4,0,0.7142857142857143,0.0,7.0,0.0
 Conceição da Aparecida,11-03-2021,262,2,5,1,0.7857142857142857,0.07142857142857142,9.0,1.0
+Conceição da Aparecida,12-03-2021,263,1,5,0,0.8571428571428571,0.07142857142857142,8.0,1.0

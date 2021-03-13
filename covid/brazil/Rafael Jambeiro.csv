@@ -1,11 +1,11 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Rafael Jambeiro,27-03-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
-Rafael Jambeiro,28-03-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
+Rafael Jambeiro,27-03-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
+Rafael Jambeiro,28-03-2020,0,0,0,0,0.5,0.0,0.0,0.0
 Rafael Jambeiro,29-03-2020,0,0,0,0,0.5,0.0,0.0,0.0
 Rafael Jambeiro,30-03-2020,0,0,0,0,0.5,0.0,0.0,0.0
 Rafael Jambeiro,31-03-2020,0,0,0,0,0.5,0.0,0.0,0.0
 Rafael Jambeiro,01-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
-Rafael Jambeiro,02-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
+Rafael Jambeiro,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Rafael Jambeiro,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Rafael Jambeiro,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Rafael Jambeiro,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -349,3 +349,4 @@ Rafael Jambeiro,08-03-2021,463,0,10,0,3.2142857142857144,0.14285714285714285,27.
 Rafael Jambeiro,09-03-2021,472,9,10,0,3.7857142857142856,0.14285714285714285,32.0,0.0
 Rafael Jambeiro,10-03-2021,473,1,11,1,3.857142857142857,0.21428571428571427,27.0,1.0
 Rafael Jambeiro,11-03-2021,481,8,11,0,4.142857142857143,0.21428571428571427,31.0,1.0
+Rafael Jambeiro,12-03-2021,482,1,11,0,3.857142857142857,0.14285714285714285,29.0,1.0

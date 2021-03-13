@@ -1,13 +1,13 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santo Antônio da Patrulha,27-03-2020,0,0,0,0,1.7142857142857142,0.0,-1.0,0.0
-Santo Antônio da Patrulha,28-03-2020,1,1,0,0,1.8571428571428572,0.0,0.0,0.0
+Santo Antônio da Patrulha,27-03-2020,0,0,0,0,1.7857142857142858,0.0,-1.0,0.0
+Santo Antônio da Patrulha,28-03-2020,1,1,0,0,1.8571428571428572,0.0,1.0,0.0
 Santo Antônio da Patrulha,29-03-2020,1,0,0,0,1.8571428571428572,0.0,1.0,0.0
 Santo Antônio da Patrulha,30-03-2020,1,0,0,0,1.8571428571428572,0.0,1.0,0.0
 Santo Antônio da Patrulha,31-03-2020,1,0,0,0,1.8571428571428572,0.0,1.0,0.0
 Santo Antônio da Patrulha,01-04-2020,1,0,0,0,1.8571428571428572,0.0,1.0,0.0
-Santo Antônio da Patrulha,02-04-2020,1,0,0,0,1.8571428571428572,0.0,1.0,0.0
+Santo Antônio da Patrulha,02-04-2020,1,0,0,0,0.0,0.0,1.0,0.0
 Santo Antônio da Patrulha,03-04-2020,1,0,0,0,0.0,0.0,1.0,0.0
-Santo Antônio da Patrulha,04-04-2020,1,0,0,0,0.0,0.0,0.0,0.0
+Santo Antônio da Patrulha,04-04-2020,1,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Santo Antônio da Patrulha,05-04-2020,1,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Santo Antônio da Patrulha,06-04-2020,1,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Santo Antônio da Patrulha,07-04-2020,1,0,0,0,0.07142857142857142,0.0,0.0,0.0
@@ -349,3 +349,4 @@ Santo Antônio da Patrulha,08-03-2021,3319,44,71,0,30.714285714285715,0.14285714
 Santo Antônio da Patrulha,09-03-2021,3362,43,71,0,34.142857142857146,0.14285714285714285,380.0,2.0
 Santo Antônio da Patrulha,10-03-2021,3394,32,71,0,36.357142857142854,0.14285714285714285,345.0,2.0
 Santo Antônio da Patrulha,11-03-2021,3473,79,73,2,41.714285714285715,0.2857142857142857,351.0,4.0
+Santo Antônio da Patrulha,12-03-2021,3481,8,76,3,41.785714285714285,0.5,259.0,6.0
