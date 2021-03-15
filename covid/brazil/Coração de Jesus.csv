@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Coração de Jesus,27-03-2020,0,0,0,0,0.7857142857142857,0.0,0.0,0.0
+Coração de Jesus,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coração de Jesus,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coração de Jesus,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coração de Jesus,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -352,3 +352,4 @@ Coração de Jesus,11-03-2021,292,0,5,2,2.2857142857142856,0.14285714285714285,1
 Coração de Jesus,12-03-2021,300,8,5,0,2.857142857142857,0.14285714285714285,23.0,2.0
 Coração de Jesus,13-03-2021,300,0,6,1,2.7142857142857144,0.21428571428571427,20.0,3.0
 Coração de Jesus,14-03-2021,300,0,6,0,2.7142857142857144,0.21428571428571427,20.0,3.0
+Coração de Jesus,15-03-2021,300,0,6,0,2.7142857142857144,0.21428571428571427,20.0,3.0

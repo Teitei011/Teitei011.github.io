@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Moita Bonita,27-03-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+Moita Bonita,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Moita Bonita,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Moita Bonita,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Moita Bonita,30-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Moita Bonita,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Moita Bonita,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Moita Bonita,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Moita Bonita,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -352,3 +352,4 @@ Moita Bonita,11-03-2021,831,0,10,0,1.0,0.0,4.0,0.0
 Moita Bonita,12-03-2021,831,0,10,0,1.0,0.0,3.0,0.0
 Moita Bonita,13-03-2021,836,5,10,0,1.3571428571428572,0.0,8.0,0.0
 Moita Bonita,14-03-2021,837,1,10,0,1.2857142857142858,0.0,7.0,0.0
+Moita Bonita,15-03-2021,837,0,10,0,1.2857142857142858,0.0,6.0,0.0

@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Frederico Westphalen,27-03-2020,0,0,0,0,9.0,0.0,77.0,0.0
-Frederico Westphalen,28-03-2020,0,0,0,0,8.928571428571429,0.0,56.0,0.0
-Frederico Westphalen,29-03-2020,0,0,0,0,6.857142857142857,0.0,56.0,0.0
-Frederico Westphalen,30-03-2020,0,0,0,0,6.5,0.0,54.0,0.0
-Frederico Westphalen,31-03-2020,0,0,0,0,5.714285714285714,0.0,34.0,0.0
-Frederico Westphalen,01-04-2020,0,0,0,0,5.642857142857143,0.0,7.0,0.0
+Frederico Westphalen,27-03-2020,0,0,0,0,8.928571428571429,0.0,56.0,0.0
+Frederico Westphalen,28-03-2020,0,0,0,0,6.857142857142857,0.0,56.0,0.0
+Frederico Westphalen,29-03-2020,0,0,0,0,6.5,0.0,54.0,0.0
+Frederico Westphalen,30-03-2020,0,0,0,0,5.714285714285714,0.0,34.0,0.0
+Frederico Westphalen,31-03-2020,0,0,0,0,5.642857142857143,0.0,7.0,0.0
+Frederico Westphalen,01-04-2020,0,0,0,0,5.5,0.0,0.0,0.0
 Frederico Westphalen,02-04-2020,0,0,0,0,5.5,0.0,0.0,0.0
-Frederico Westphalen,03-04-2020,0,0,0,0,5.5,0.0,0.0,0.0
+Frederico Westphalen,03-04-2020,0,0,0,0,4.0,0.0,0.0,0.0
 Frederico Westphalen,04-04-2020,0,0,0,0,4.0,0.0,0.0,0.0
-Frederico Westphalen,05-04-2020,0,0,0,0,4.0,0.0,0.0,0.0
-Frederico Westphalen,06-04-2020,0,0,0,0,3.857142857142857,0.0,0.0,0.0
-Frederico Westphalen,07-04-2020,0,0,0,0,2.4285714285714284,0.0,0.0,0.0
-Frederico Westphalen,08-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
+Frederico Westphalen,05-04-2020,0,0,0,0,3.857142857142857,0.0,0.0,0.0
+Frederico Westphalen,06-04-2020,0,0,0,0,2.4285714285714284,0.0,0.0,0.0
+Frederico Westphalen,07-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
+Frederico Westphalen,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Frederico Westphalen,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Frederico Westphalen,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Frederico Westphalen,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -352,3 +352,4 @@ Frederico Westphalen,11-03-2021,2570,60,32,2,13.785714285714286,0.85714285714285
 Frederico Westphalen,12-03-2021,2704,134,33,1,20.5,0.9285714285714286,234.0,9.0
 Frederico Westphalen,13-03-2021,2704,0,34,1,20.428571428571427,1.0,207.0,9.0
 Frederico Westphalen,14-03-2021,2730,26,37,3,22.285714285714285,1.2142857142857142,234.0,12.0
+Frederico Westphalen,15-03-2021,2727,-3,38,1,22.214285714285715,1.2857142857142858,227.0,12.0

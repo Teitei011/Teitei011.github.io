@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Jerônimo Monteiro,27-03-2020,0,0,0,0,0.5,0.0,0.0,0.0
-Jerônimo Monteiro,28-03-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+Jerônimo Monteiro,27-03-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+Jerônimo Monteiro,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Jerônimo Monteiro,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Jerônimo Monteiro,30-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Jerônimo Monteiro,31-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Jerônimo Monteiro,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Jerônimo Monteiro,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Jerônimo Monteiro,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Jerônimo Monteiro,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -352,3 +352,4 @@ Jerônimo Monteiro,11-03-2021,779,4,27,0,3.4285714285714284,0.0,26.0,0.0
 Jerônimo Monteiro,12-03-2021,789,10,27,0,4.071428571428571,0.0,35.0,0.0
 Jerônimo Monteiro,13-03-2021,795,6,27,0,4.357142857142857,0.0,33.0,0.0
 Jerônimo Monteiro,14-03-2021,798,3,27,0,4.571428571428571,0.0,35.0,0.0
+Jerônimo Monteiro,15-03-2021,801,3,27,0,4.785714285714286,0.0,38.0,0.0

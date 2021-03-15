@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Olho D'Água do Piauí,27-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Olho D'Água do Piauí,28-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Olho D'Água do Piauí,29-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Olho D'Água do Piauí,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Olho D'Água do Piauí,30-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Olho D'Água do Piauí,31-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Olho D'Água do Piauí,01-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Olho D'Água do Piauí,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Olho D'Água do Piauí,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Olho D'Água do Piauí,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Olho D'Água do Piauí,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -352,3 +352,4 @@ Olho D'Água do Piauí,11-03-2021,135,3,3,0,0.21428571428571427,0.0,3.0,0.0
 Olho D'Água do Piauí,12-03-2021,135,0,3,0,0.21428571428571427,0.0,3.0,0.0
 Olho D'Água do Piauí,13-03-2021,135,0,3,0,0.21428571428571427,0.0,3.0,0.0
 Olho D'Água do Piauí,14-03-2021,135,0,3,0,0.21428571428571427,0.0,3.0,0.0
+Olho D'Água do Piauí,15-03-2021,135,0,3,0,0.21428571428571427,0.0,3.0,0.0

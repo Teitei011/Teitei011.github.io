@@ -1,16 +1,16 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Cássia dos Coqueiros,27-03-2020,0,0,0,0,1.5,0.07142857142857142,12.0,0.0
-Cássia dos Coqueiros,28-03-2020,0,0,0,0,1.5,0.07142857142857142,12.0,0.0
+Cássia dos Coqueiros,28-03-2020,0,0,0,0,1.2857142857142858,0.0,7.0,0.0
 Cássia dos Coqueiros,29-03-2020,0,0,0,0,1.2857142857142858,0.0,7.0,0.0
-Cássia dos Coqueiros,30-03-2020,0,0,0,0,1.2857142857142858,0.0,7.0,0.0
-Cássia dos Coqueiros,31-03-2020,0,0,0,0,1.1428571428571428,0.0,2.0,0.0
-Cássia dos Coqueiros,01-04-2020,0,0,0,0,1.0714285714285714,0.0,0.0,0.0
-Cássia dos Coqueiros,02-04-2020,0,0,0,0,0.7857142857142857,0.0,0.0,0.0
+Cássia dos Coqueiros,30-03-2020,0,0,0,0,1.1428571428571428,0.0,2.0,0.0
+Cássia dos Coqueiros,31-03-2020,0,0,0,0,1.0714285714285714,0.0,0.0,0.0
+Cássia dos Coqueiros,01-04-2020,0,0,0,0,0.7857142857142857,0.0,0.0,0.0
+Cássia dos Coqueiros,02-04-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
 Cássia dos Coqueiros,03-04-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
-Cássia dos Coqueiros,04-04-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
+Cássia dos Coqueiros,04-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
 Cássia dos Coqueiros,05-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
-Cássia dos Coqueiros,06-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
-Cássia dos Coqueiros,07-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Cássia dos Coqueiros,06-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Cássia dos Coqueiros,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cássia dos Coqueiros,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cássia dos Coqueiros,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cássia dos Coqueiros,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -352,3 +352,4 @@ Cássia dos Coqueiros,11-03-2021,139,2,1,0,0.5,0.0,5.0,0.0
 Cássia dos Coqueiros,12-03-2021,139,0,1,0,0.5,0.0,5.0,0.0
 Cássia dos Coqueiros,13-03-2021,139,0,1,0,0.5,0.0,5.0,0.0
 Cássia dos Coqueiros,14-03-2021,139,0,1,0,0.5,0.0,5.0,0.0
+Cássia dos Coqueiros,15-03-2021,139,0,1,0,0.5,0.0,5.0,0.0

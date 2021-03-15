@@ -24,7 +24,7 @@ def extractDataframeByName(dataframe, location):
 
         #print("Processing... {}  - {:.2f}%".format(name, (counter*100)/number_of_names))
         if (counter % 530 == 0):
-            print("Processing... {:.0f}% -- ".format( (counter*100)/number_of_names))
+            print("Processing... {:.0f}% ".format( (counter*100)/number_of_names))
 
 
         newDataframe = dataframe.loc[dataframe[location] == name]

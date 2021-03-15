@@ -1,14 +1,14 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Monsenhor Paulo,27-03-2020,0,0,0,0,0.5,0.0,7.0,0.0
 Monsenhor Paulo,28-03-2020,0,0,0,0,0.5,0.0,7.0,0.0
-Monsenhor Paulo,29-03-2020,0,0,0,0,0.5,0.0,7.0,0.0
+Monsenhor Paulo,29-03-2020,0,0,0,0,0.5,0.0,0.0,0.0
 Monsenhor Paulo,30-03-2020,0,0,0,0,0.5,0.0,0.0,0.0
 Monsenhor Paulo,31-03-2020,0,0,0,0,0.5,0.0,0.0,0.0
 Monsenhor Paulo,01-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
 Monsenhor Paulo,02-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
 Monsenhor Paulo,03-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
 Monsenhor Paulo,04-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
-Monsenhor Paulo,05-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
+Monsenhor Paulo,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Monsenhor Paulo,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Monsenhor Paulo,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Monsenhor Paulo,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -352,3 +352,4 @@ Monsenhor Paulo,11-03-2021,171,0,2,0,0.0,0.14285714285714285,0.0,0.0
 Monsenhor Paulo,12-03-2021,171,0,2,0,0.0,0.14285714285714285,0.0,0.0
 Monsenhor Paulo,13-03-2021,171,0,2,0,0.0,0.0,0.0,0.0
 Monsenhor Paulo,14-03-2021,171,0,2,0,0.0,0.0,0.0,0.0
+Monsenhor Paulo,15-03-2021,171,0,2,0,0.0,0.0,0.0,0.0
