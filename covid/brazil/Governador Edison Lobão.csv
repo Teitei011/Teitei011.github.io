@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Governador Edison Lobão,27-03-2020,0,0,0,0,2.0714285714285716,0.0,28.0,0.0
-Governador Edison Lobão,28-03-2020,0,0,0,0,2.0714285714285716,0.0,23.0,0.0
-Governador Edison Lobão,29-03-2020,0,0,0,0,2.0714285714285716,0.0,21.0,0.0
-Governador Edison Lobão,30-03-2020,0,0,0,0,2.0714285714285716,0.0,17.0,0.0
-Governador Edison Lobão,31-03-2020,0,0,0,0,2.0714285714285716,0.0,10.0,0.0
-Governador Edison Lobão,01-04-2020,0,0,0,0,2.0,0.0,5.0,0.0
+Governador Edison Lobão,27-03-2020,0,0,0,0,2.0714285714285716,0.0,23.0,0.0
+Governador Edison Lobão,28-03-2020,0,0,0,0,2.0714285714285716,0.0,21.0,0.0
+Governador Edison Lobão,29-03-2020,0,0,0,0,2.0714285714285716,0.0,17.0,0.0
+Governador Edison Lobão,30-03-2020,0,0,0,0,2.0714285714285716,0.0,10.0,0.0
+Governador Edison Lobão,31-03-2020,0,0,0,0,2.0,0.0,5.0,0.0
+Governador Edison Lobão,01-04-2020,0,0,0,0,2.0,0.0,0.0,0.0
 Governador Edison Lobão,02-04-2020,0,0,0,0,2.0,0.0,0.0,0.0
-Governador Edison Lobão,03-04-2020,0,0,0,0,2.0,0.0,0.0,0.0
-Governador Edison Lobão,04-04-2020,0,0,0,0,1.6428571428571428,0.0,0.0,0.0
-Governador Edison Lobão,05-04-2020,0,0,0,0,1.5,0.0,0.0,0.0
-Governador Edison Lobão,06-04-2020,0,0,0,0,1.2142857142857142,0.0,0.0,0.0
-Governador Edison Lobão,07-04-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
-Governador Edison Lobão,08-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
+Governador Edison Lobão,03-04-2020,0,0,0,0,1.6428571428571428,0.0,0.0,0.0
+Governador Edison Lobão,04-04-2020,0,0,0,0,1.5,0.0,0.0,0.0
+Governador Edison Lobão,05-04-2020,0,0,0,0,1.2142857142857142,0.0,0.0,0.0
+Governador Edison Lobão,06-04-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
+Governador Edison Lobão,07-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
+Governador Edison Lobão,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Edison Lobão,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Edison Lobão,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Edison Lobão,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -351,3 +351,4 @@ Governador Edison Lobão,10-03-2021,580,2,18,2,0.6428571428571429,0.642857142857
 Governador Edison Lobão,11-03-2021,580,0,18,0,0.6428571428571429,0.6428571428571429,4.0,4.0
 Governador Edison Lobão,12-03-2021,580,0,18,0,0.6428571428571429,0.6428571428571429,4.0,4.0
 Governador Edison Lobão,13-03-2021,580,0,18,0,0.6428571428571429,0.6428571428571429,4.0,4.0
+Governador Edison Lobão,14-03-2021,581,1,19,1,0.6428571428571429,0.6428571428571429,5.0,5.0

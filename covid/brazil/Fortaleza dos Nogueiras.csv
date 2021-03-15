@@ -1,14 +1,14 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Fortaleza dos Nogueiras,27-03-2020,0,0,0,0,-0.5,0.0,3.0,0.0
-Fortaleza dos Nogueiras,28-03-2020,0,0,0,0,-0.5,0.0,3.0,0.0
-Fortaleza dos Nogueiras,29-03-2020,0,0,0,0,0.21428571428571427,0.0,2.0,0.0
+Fortaleza dos Nogueiras,28-03-2020,0,0,0,0,0.21428571428571427,0.0,2.0,0.0
+Fortaleza dos Nogueiras,29-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Fortaleza dos Nogueiras,30-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Fortaleza dos Nogueiras,31-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Fortaleza dos Nogueiras,01-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Fortaleza dos Nogueiras,02-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Fortaleza dos Nogueiras,03-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
-Fortaleza dos Nogueiras,04-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
-Fortaleza dos Nogueiras,05-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Fortaleza dos Nogueiras,04-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Fortaleza dos Nogueiras,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Fortaleza dos Nogueiras,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Fortaleza dos Nogueiras,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Fortaleza dos Nogueiras,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -351,3 +351,4 @@ Fortaleza dos Nogueiras,10-03-2021,826,4,8,0,1.5714285714285714,0.07142857142857
 Fortaleza dos Nogueiras,11-03-2021,827,1,8,0,1.4285714285714286,0.07142857142857142,14.0,1.0
 Fortaleza dos Nogueiras,12-03-2021,827,0,8,0,1.4285714285714286,0.07142857142857142,11.0,1.0
 Fortaleza dos Nogueiras,13-03-2021,827,0,8,0,1.2857142857142858,0.07142857142857142,11.0,0.0
+Fortaleza dos Nogueiras,14-03-2021,827,0,8,0,1.2857142857142858,0.07142857142857142,11.0,0.0

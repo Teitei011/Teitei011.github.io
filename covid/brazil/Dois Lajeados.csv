@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Dois Lajeados,27-03-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+Dois Lajeados,27-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Dois Lajeados,28-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Dois Lajeados,29-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Dois Lajeados,30-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Dois Lajeados,31-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Dois Lajeados,01-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Dois Lajeados,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Dois Lajeados,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Dois Lajeados,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Dois Lajeados,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -351,3 +351,4 @@ Dois Lajeados,10-03-2021,224,9,0,0,5.5,0.0,40.0,0.0
 Dois Lajeados,11-03-2021,224,0,0,0,5.5,0.0,39.0,0.0
 Dois Lajeados,12-03-2021,238,14,0,0,6.285714285714286,0.0,32.0,0.0
 Dois Lajeados,13-03-2021,245,7,0,0,6.0,0.0,39.0,0.0
+Dois Lajeados,14-03-2021,245,0,0,0,5.928571428571429,0.0,41.0,0.0

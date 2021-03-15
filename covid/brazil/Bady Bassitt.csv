@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Bady Bassitt,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Bady Bassitt,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Bady Bassitt,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bady Bassitt,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bady Bassitt,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bady Bassitt,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -351,3 +351,4 @@ Bady Bassitt,10-03-2021,1760,39,25,0,14.357142857142858,0.0,124.0,0.0
 Bady Bassitt,11-03-2021,1776,16,25,0,13.714285714285714,0.0,116.0,0.0
 Bady Bassitt,12-03-2021,1796,20,25,0,13.714285714285714,0.0,131.0,0.0
 Bady Bassitt,13-03-2021,1805,9,25,0,13.642857142857142,0.0,136.0,0.0
+Bady Bassitt,14-03-2021,1812,7,26,1,13.785714285714286,0.07142857142857142,142.0,1.0

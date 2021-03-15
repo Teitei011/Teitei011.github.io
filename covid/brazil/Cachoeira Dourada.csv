@@ -1,15 +1,15 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Cachoeira Dourada,27-03-2020,0,0,0,0,1.9285714285714286,0.0,5.0,0.0
-Cachoeira Dourada,28-03-2020,0,0,0,0,1.9285714285714286,0.0,7.0,0.0
-Cachoeira Dourada,29-03-2020,0,0,0,0,1.6428571428571428,0.0,2.0,0.0
-Cachoeira Dourada,30-03-2020,0,0,0,0,1.2142857142857142,0.0,2.0,0.0
-Cachoeira Dourada,31-03-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
-Cachoeira Dourada,01-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
-Cachoeira Dourada,02-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
-Cachoeira Dourada,03-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
-Cachoeira Dourada,04-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
+Cachoeira Dourada,27-03-2020,0,0,0,0,1.9285714285714286,0.0,7.0,0.0
+Cachoeira Dourada,28-03-2020,0,0,0,0,1.6428571428571428,0.0,2.0,0.0
+Cachoeira Dourada,29-03-2020,0,0,0,0,1.2142857142857142,0.0,2.0,0.0
+Cachoeira Dourada,30-03-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
+Cachoeira Dourada,31-03-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
+Cachoeira Dourada,01-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+Cachoeira Dourada,02-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
+Cachoeira Dourada,03-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
+Cachoeira Dourada,04-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Cachoeira Dourada,05-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Cachoeira Dourada,06-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Cachoeira Dourada,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cachoeira Dourada,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cachoeira Dourada,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cachoeira Dourada,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -351,3 +351,4 @@ Cachoeira Dourada,10-03-2021,363,8,4,0,2.5,0.0,21.0,0.0
 Cachoeira Dourada,11-03-2021,370,7,4,0,2.5,0.0,25.0,0.0
 Cachoeira Dourada,12-03-2021,371,1,4,0,2.7142857142857144,0.0,24.0,0.0
 Cachoeira Dourada,13-03-2021,373,2,4,0,2.5714285714285716,0.0,23.0,0.0
+Cachoeira Dourada,14-03-2021,373,0,4,0,2.5,0.0,22.0,0.0
