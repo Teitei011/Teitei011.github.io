@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Nuporanga,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Nuporanga,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Nuporanga,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nuporanga,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nuporanga,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nuporanga,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -353,3 +353,4 @@ Nuporanga,12-03-2021,230,0,3,0,1.0714285714285714,0.0,4.0,0.0
 Nuporanga,13-03-2021,230,0,3,0,1.0714285714285714,0.0,4.0,0.0
 Nuporanga,14-03-2021,230,0,3,0,1.0714285714285714,0.0,3.0,0.0
 Nuporanga,15-03-2021,230,0,3,0,1.0714285714285714,0.0,3.0,0.0
+Nuporanga,16-03-2021,230,0,3,0,0.7857142857142857,0.0,3.0,0.0

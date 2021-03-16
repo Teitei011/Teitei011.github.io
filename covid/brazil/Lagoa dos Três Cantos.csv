@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Lagoa dos Três Cantos,27-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
-Lagoa dos Três Cantos,28-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
-Lagoa dos Três Cantos,29-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Lagoa dos Três Cantos,28-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Lagoa dos Três Cantos,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lagoa dos Três Cantos,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lagoa dos Três Cantos,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lagoa dos Três Cantos,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -353,3 +353,4 @@ Lagoa dos Três Cantos,12-03-2021,185,0,4,0,3.2142857142857144,0.071428571428571
 Lagoa dos Três Cantos,13-03-2021,186,1,4,0,2.642857142857143,0.07142857142857142,9.0,0.0
 Lagoa dos Três Cantos,14-03-2021,186,0,4,0,2.5714285714285716,0.07142857142857142,9.0,0.0
 Lagoa dos Três Cantos,15-03-2021,184,-2,4,0,2.0714285714285716,0.07142857142857142,7.0,0.0
+Lagoa dos Três Cantos,16-03-2021,189,5,4,0,2.0,0.07142857142857142,8.0,0.0

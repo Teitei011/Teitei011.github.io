@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Getulina,27-03-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
+Getulina,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Getulina,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Getulina,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Getulina,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -353,3 +353,4 @@ Getulina,12-03-2021,530,0,6,0,4.142857142857143,0.0,20.0,0.0
 Getulina,13-03-2021,533,3,6,0,3.7857142857142856,0.0,9.0,0.0
 Getulina,14-03-2021,533,0,6,0,3.0,0.0,9.0,0.0
 Getulina,15-03-2021,533,0,6,0,2.857142857142857,0.0,9.0,0.0
+Getulina,16-03-2021,546,13,6,0,3.2857142857142856,0.0,21.0,0.0

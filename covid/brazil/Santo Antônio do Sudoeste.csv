@@ -1,12 +1,12 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santo Antônio do Sudoeste,27-03-2020,0,0,0,0,0.07142857142857142,0.0,1.0,0.0
+Santo Antônio do Sudoeste,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Santo Antônio do Sudoeste,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Santo Antônio do Sudoeste,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Santo Antônio do Sudoeste,30-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Santo Antônio do Sudoeste,31-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Santo Antônio do Sudoeste,01-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Santo Antônio do Sudoeste,02-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Santo Antônio do Sudoeste,03-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Santo Antônio do Sudoeste,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Sudoeste,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Sudoeste,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Sudoeste,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -353,3 +353,4 @@ Santo Antônio do Sudoeste,12-03-2021,902,3,5,0,10.714285714285714,0.0,68.0,0.0
 Santo Antônio do Sudoeste,13-03-2021,916,14,5,0,11.285714285714286,0.0,70.0,0.0
 Santo Antônio do Sudoeste,14-03-2021,916,0,5,0,11.285714285714286,0.0,70.0,0.0
 Santo Antônio do Sudoeste,15-03-2021,918,2,5,0,11.428571428571429,0.0,71.0,0.0
+Santo Antônio do Sudoeste,16-03-2021,926,8,5,0,9.357142857142858,0.0,79.0,0.0

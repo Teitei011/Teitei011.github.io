@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Conceição de Macabu,27-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Conceição de Macabu,28-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Conceição de Macabu,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Conceição de Macabu,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Conceição de Macabu,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Conceição de Macabu,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -353,3 +353,4 @@ Conceição de Macabu,12-03-2021,1512,2,35,0,5.0,0.35714285714285715,49.0,4.0
 Conceição de Macabu,13-03-2021,1513,1,35,0,4.5,0.2857142857142857,50.0,4.0
 Conceição de Macabu,14-03-2021,1513,0,35,0,4.428571428571429,0.2857142857142857,28.0,4.0
 Conceição de Macabu,15-03-2021,1540,27,35,0,6.285714285714286,0.2857142857142857,48.0,4.0
+Conceição de Macabu,16-03-2021,1541,1,36,1,6.214285714285714,0.35714285714285715,46.0,5.0

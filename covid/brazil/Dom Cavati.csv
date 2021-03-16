@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Dom Cavati,27-03-2020,0,0,0,0,0.07142857142857142,0.07142857142857142,0.0,0.0
+Dom Cavati,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Dom Cavati,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Dom Cavati,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Dom Cavati,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -353,3 +353,4 @@ Dom Cavati,12-03-2021,346,0,9,0,1.6428571428571428,0.0,7.0,0.0
 Dom Cavati,13-03-2021,352,6,9,0,2.0714285714285716,0.0,11.0,0.0
 Dom Cavati,14-03-2021,352,0,9,0,2.0714285714285716,0.0,11.0,0.0
 Dom Cavati,15-03-2021,352,0,9,0,2.0714285714285716,0.0,11.0,0.0
+Dom Cavati,16-03-2021,352,0,9,0,2.0714285714285716,0.0,10.0,0.0
