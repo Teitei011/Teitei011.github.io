@@ -1,13 +1,13 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santana do Manhuaçu,27-03-2020,0,0,0,0,3.142857142857143,0.0,44.0,0.0
-Santana do Manhuaçu,28-03-2020,0,0,0,0,3.142857142857143,0.0,44.0,0.0
+Santana do Manhuaçu,28-03-2020,0,0,0,0,3.142857142857143,0.0,0.0,0.0
 Santana do Manhuaçu,29-03-2020,0,0,0,0,3.142857142857143,0.0,0.0,0.0
 Santana do Manhuaçu,30-03-2020,0,0,0,0,3.142857142857143,0.0,0.0,0.0
 Santana do Manhuaçu,31-03-2020,0,0,0,0,3.142857142857143,0.0,0.0,0.0
 Santana do Manhuaçu,01-04-2020,0,0,0,0,3.142857142857143,0.0,0.0,0.0
 Santana do Manhuaçu,02-04-2020,0,0,0,0,3.142857142857143,0.0,0.0,0.0
 Santana do Manhuaçu,03-04-2020,0,0,0,0,3.142857142857143,0.0,0.0,0.0
-Santana do Manhuaçu,04-04-2020,0,0,0,0,3.142857142857143,0.0,0.0,0.0
+Santana do Manhuaçu,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana do Manhuaçu,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana do Manhuaçu,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana do Manhuaçu,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -354,3 +354,4 @@ Santana do Manhuaçu,13-03-2021,476,9,2,0,4.357142857142857,0.0,29.0,0.0
 Santana do Manhuaçu,14-03-2021,476,0,2,0,3.9285714285714284,0.0,29.0,0.0
 Santana do Manhuaçu,15-03-2021,476,0,2,0,3.9285714285714284,0.0,29.0,0.0
 Santana do Manhuaçu,16-03-2021,483,7,2,0,4.214285714285714,0.0,36.0,0.0
+Santana do Manhuaçu,17-03-2021,485,2,2,0,3.7857142857142856,0.0,29.0,0.0

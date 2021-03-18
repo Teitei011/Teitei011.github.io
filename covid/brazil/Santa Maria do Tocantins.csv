@@ -2,14 +2,14 @@ municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases
 Santa Maria do Tocantins,27-03-2020,0,0,0,0,1.1428571428571428,0.0,16.0,0.0
 Santa Maria do Tocantins,28-03-2020,0,0,0,0,1.1428571428571428,0.0,16.0,0.0
 Santa Maria do Tocantins,29-03-2020,0,0,0,0,1.1428571428571428,0.0,16.0,0.0
-Santa Maria do Tocantins,30-03-2020,0,0,0,0,1.1428571428571428,0.0,16.0,0.0
+Santa Maria do Tocantins,30-03-2020,0,0,0,0,1.1428571428571428,0.0,0.0,0.0
 Santa Maria do Tocantins,31-03-2020,0,0,0,0,1.1428571428571428,0.0,0.0,0.0
 Santa Maria do Tocantins,01-04-2020,0,0,0,0,1.1428571428571428,0.0,0.0,0.0
 Santa Maria do Tocantins,02-04-2020,0,0,0,0,1.1428571428571428,0.0,0.0,0.0
 Santa Maria do Tocantins,03-04-2020,0,0,0,0,1.1428571428571428,0.0,0.0,0.0
 Santa Maria do Tocantins,04-04-2020,0,0,0,0,1.1428571428571428,0.0,0.0,0.0
 Santa Maria do Tocantins,05-04-2020,0,0,0,0,1.1428571428571428,0.0,0.0,0.0
-Santa Maria do Tocantins,06-04-2020,0,0,0,0,1.1428571428571428,0.0,0.0,0.0
+Santa Maria do Tocantins,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Maria do Tocantins,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Maria do Tocantins,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Maria do Tocantins,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -354,3 +354,4 @@ Santa Maria do Tocantins,13-03-2021,80,0,0,0,0.5,0.0,0.0,0.0
 Santa Maria do Tocantins,14-03-2021,80,0,0,0,0.5,0.0,0.0,0.0
 Santa Maria do Tocantins,15-03-2021,90,10,0,0,1.2142857142857142,0.0,10.0,0.0
 Santa Maria do Tocantins,16-03-2021,90,0,0,0,1.0714285714285714,0.0,10.0,0.0
+Santa Maria do Tocantins,17-03-2021,93,3,1,1,0.9285714285714286,0.07142857142857142,13.0,1.0

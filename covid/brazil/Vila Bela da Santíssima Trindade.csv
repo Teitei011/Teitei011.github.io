@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Vila Bela da Santíssima Trindade,27-03-2020,0,0,0,0,6.0,0.0,58.0,0.0
-Vila Bela da Santíssima Trindade,28-03-2020,0,0,0,0,6.0,0.0,34.0,0.0
-Vila Bela da Santíssima Trindade,29-03-2020,0,0,0,0,5.857142857142857,0.0,33.0,0.0
-Vila Bela da Santíssima Trindade,30-03-2020,0,0,0,0,5.857142857142857,0.0,28.0,0.0
-Vila Bela da Santíssima Trindade,31-03-2020,0,0,0,0,5.857142857142857,0.0,27.0,0.0
-Vila Bela da Santíssima Trindade,01-04-2020,0,0,0,0,5.857142857142857,0.0,27.0,0.0
-Vila Bela da Santíssima Trindade,02-04-2020,0,0,0,0,5.857142857142857,0.0,0.0,0.0
-Vila Bela da Santíssima Trindade,03-04-2020,0,0,0,0,4.142857142857143,0.0,0.0,0.0
-Vila Bela da Santíssima Trindade,04-04-2020,0,0,0,0,2.4285714285714284,0.0,0.0,0.0
-Vila Bela da Santíssima Trindade,05-04-2020,0,0,0,0,2.357142857142857,0.0,0.0,0.0
-Vila Bela da Santíssima Trindade,06-04-2020,0,0,0,0,2.0,0.0,0.0,0.0
-Vila Bela da Santíssima Trindade,07-04-2020,0,0,0,0,1.9285714285714286,0.0,0.0,0.0
-Vila Bela da Santíssima Trindade,08-04-2020,0,0,0,0,1.9285714285714286,0.0,0.0,0.0
+Vila Bela da Santíssima Trindade,27-03-2020,0,0,0,0,7.357142857142857,0.2857142857142857,53.0,4.0
+Vila Bela da Santíssima Trindade,28-03-2020,0,0,0,0,7.214285714285714,0.2857142857142857,52.0,4.0
+Vila Bela da Santíssima Trindade,29-03-2020,0,0,0,0,7.214285714285714,0.2857142857142857,47.0,4.0
+Vila Bela da Santíssima Trindade,30-03-2020,0,0,0,0,7.214285714285714,0.2857142857142857,46.0,4.0
+Vila Bela da Santíssima Trindade,31-03-2020,0,0,0,0,7.214285714285714,0.2857142857142857,46.0,4.0
+Vila Bela da Santíssima Trindade,01-04-2020,0,0,0,0,7.214285714285714,0.2857142857142857,19.0,4.0
+Vila Bela da Santíssima Trindade,02-04-2020,0,0,0,0,5.5,0.2857142857142857,0.0,0.0
+Vila Bela da Santíssima Trindade,03-04-2020,0,0,0,0,3.7857142857142856,0.2857142857142857,0.0,0.0
+Vila Bela da Santíssima Trindade,04-04-2020,0,0,0,0,3.7142857142857144,0.2857142857142857,0.0,0.0
+Vila Bela da Santíssima Trindade,05-04-2020,0,0,0,0,3.357142857142857,0.2857142857142857,0.0,0.0
+Vila Bela da Santíssima Trindade,06-04-2020,0,0,0,0,3.2857142857142856,0.2857142857142857,0.0,0.0
+Vila Bela da Santíssima Trindade,07-04-2020,0,0,0,0,3.2857142857142856,0.2857142857142857,0.0,0.0
+Vila Bela da Santíssima Trindade,08-04-2020,0,0,0,0,1.3571428571428572,0.2857142857142857,0.0,0.0
 Vila Bela da Santíssima Trindade,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Vila Bela da Santíssima Trindade,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Vila Bela da Santíssima Trindade,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -354,3 +354,4 @@ Vila Bela da Santíssima Trindade,13-03-2021,2040,31,37,1,16.5,0.5,136.0,4.0
 Vila Bela da Santíssima Trindade,14-03-2021,2040,0,37,0,15.714285714285714,0.5,136.0,4.0
 Vila Bela da Santíssima Trindade,15-03-2021,2053,13,38,1,16.5,0.5714285714285714,144.0,4.0
 Vila Bela da Santíssima Trindade,16-03-2021,2059,6,38,0,16.142857142857142,0.5714285714285714,124.0,3.0
+Vila Bela da Santíssima Trindade,17-03-2021,2065,6,38,0,16.142857142857142,0.5,113.0,2.0

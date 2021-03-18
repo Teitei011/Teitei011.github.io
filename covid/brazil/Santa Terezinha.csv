@@ -1,13 +1,13 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santa Terezinha,27-03-2020,0,0,0,0,1.9285714285714286,0.0,20.0,0.0
-Santa Terezinha,28-03-2020,0,0,0,0,1.5,0.0,1.0,0.0
+Santa Terezinha,27-03-2020,0,0,0,0,1.5,0.0,1.0,0.0
+Santa Terezinha,28-03-2020,0,0,0,0,1.5,0.0,0.0,0.0
 Santa Terezinha,29-03-2020,0,0,0,0,1.5,0.0,0.0,0.0
 Santa Terezinha,30-03-2020,0,0,0,0,1.5,0.0,0.0,0.0
 Santa Terezinha,31-03-2020,0,0,0,0,1.5,0.0,0.0,0.0
-Santa Terezinha,01-04-2020,0,0,0,0,1.5,0.0,0.0,0.0
+Santa Terezinha,01-04-2020,0,0,0,0,1.4285714285714286,0.0,0.0,0.0
 Santa Terezinha,02-04-2020,0,0,0,0,1.4285714285714286,0.0,0.0,0.0
-Santa Terezinha,03-04-2020,0,0,0,0,1.4285714285714286,0.0,0.0,0.0
-Santa Terezinha,04-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Santa Terezinha,03-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Santa Terezinha,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Terezinha,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Terezinha,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Terezinha,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -354,3 +354,4 @@ Santa Terezinha,13-03-2021,1244,10,32,0,5.928571428571429,0.0,45.0,0.0
 Santa Terezinha,14-03-2021,1247,3,32,0,6.142857142857143,0.0,48.0,0.0
 Santa Terezinha,15-03-2021,1246,-1,32,0,6.0,0.0,27.0,0.0
 Santa Terezinha,16-03-2021,1254,8,32,0,6.285714285714286,0.0,31.0,0.0
+Santa Terezinha,17-03-2021,1267,13,32,0,6.642857142857143,0.0,42.0,0.0
