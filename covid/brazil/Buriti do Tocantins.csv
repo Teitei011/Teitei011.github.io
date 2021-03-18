@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Buriti do Tocantins,27-03-2020,0,0,0,0,0.07142857142857142,0.0,1.0,0.0
-Buriti do Tocantins,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Buriti do Tocantins,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Buriti do Tocantins,30-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Buriti do Tocantins,31-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Buriti do Tocantins,01-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Buriti do Tocantins,02-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Buriti do Tocantins,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Buriti do Tocantins,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Buriti do Tocantins,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Buriti do Tocantins,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Buriti do Tocantins,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Buriti do Tocantins,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Buriti do Tocantins,02-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Buriti do Tocantins,03-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Buriti do Tocantins,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Buriti do Tocantins,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Buriti do Tocantins,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Buriti do Tocantins,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Buriti do Tocantins,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Buriti do Tocantins,04-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Buriti do Tocantins,05-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Buriti do Tocantins,06-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Buriti do Tocantins,07-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Buriti do Tocantins,08-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Buriti do Tocantins,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Buriti do Tocantins,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Buriti do Tocantins,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -355,3 +355,4 @@ Buriti do Tocantins,14-03-2021,440,0,2,0,2.5714285714285716,0.0,9.0,0.0
 Buriti do Tocantins,15-03-2021,440,0,2,0,2.5714285714285716,0.0,9.0,0.0
 Buriti do Tocantins,16-03-2021,445,5,2,0,2.5,0.0,11.0,0.0
 Buriti do Tocantins,17-03-2021,451,6,2,0,1.6428571428571428,0.0,15.0,0.0
+Buriti do Tocantins,18-03-2021,451,0,2,0,1.6428571428571428,0.0,15.0,0.0

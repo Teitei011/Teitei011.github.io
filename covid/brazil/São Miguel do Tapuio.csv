@@ -1,16 +1,16 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Miguel do Tapuio,27-03-2020,0,0,0,0,0.7857142857142857,0.0,7.0,0.0
+São Miguel do Tapuio,27-03-2020,0,0,0,0,0.5714285714285714,0.0,7.0,0.0
 São Miguel do Tapuio,28-03-2020,0,0,0,0,0.5714285714285714,0.0,7.0,0.0
 São Miguel do Tapuio,29-03-2020,0,0,0,0,0.5714285714285714,0.0,7.0,0.0
-São Miguel do Tapuio,30-03-2020,0,0,0,0,0.5714285714285714,0.0,7.0,0.0
-São Miguel do Tapuio,31-03-2020,0,0,0,0,0.5,0.0,4.0,0.0
+São Miguel do Tapuio,30-03-2020,0,0,0,0,0.5,0.0,4.0,0.0
+São Miguel do Tapuio,31-03-2020,0,0,0,0,0.5,0.0,0.0,0.0
 São Miguel do Tapuio,01-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
 São Miguel do Tapuio,02-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
 São Miguel do Tapuio,03-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
 São Miguel do Tapuio,04-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
 São Miguel do Tapuio,05-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
-São Miguel do Tapuio,06-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
-São Miguel do Tapuio,07-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+São Miguel do Tapuio,06-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+São Miguel do Tapuio,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel do Tapuio,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel do Tapuio,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel do Tapuio,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -355,3 +355,4 @@ São Miguel do Tapuio,14-03-2021,394,5,10,0,3.142857142857143,0.0,19.0,0.0
 São Miguel do Tapuio,15-03-2021,396,2,10,0,3.2857142857142856,0.0,21.0,0.0
 São Miguel do Tapuio,16-03-2021,396,0,10,0,2.9285714285714284,0.0,17.0,0.0
 São Miguel do Tapuio,17-03-2021,404,8,10,0,2.7857142857142856,0.0,22.0,0.0
+São Miguel do Tapuio,18-03-2021,404,0,10,0,2.7142857142857144,0.0,19.0,0.0

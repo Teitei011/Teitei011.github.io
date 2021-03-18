@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Mirante do Paranapanema,27-03-2020,0,0,0,0,9.642857142857142,0.0,48.0,0.0
-Mirante do Paranapanema,28-03-2020,0,0,0,0,9.428571428571429,0.0,35.0,0.0
-Mirante do Paranapanema,29-03-2020,0,0,0,0,9.428571428571429,0.0,33.0,0.0
-Mirante do Paranapanema,30-03-2020,0,0,0,0,9.428571428571429,0.0,33.0,0.0
-Mirante do Paranapanema,31-03-2020,0,0,0,0,9.071428571428571,0.0,22.0,0.0
-Mirante do Paranapanema,01-04-2020,0,0,0,0,4.071428571428571,0.0,11.0,0.0
-Mirante do Paranapanema,02-04-2020,0,0,0,0,4.071428571428571,0.0,0.0,0.0
-Mirante do Paranapanema,03-04-2020,0,0,0,0,3.4285714285714284,0.0,0.0,0.0
-Mirante do Paranapanema,04-04-2020,0,0,0,0,2.5,0.0,0.0,0.0
-Mirante do Paranapanema,05-04-2020,0,0,0,0,2.357142857142857,0.0,0.0,0.0
-Mirante do Paranapanema,06-04-2020,0,0,0,0,2.357142857142857,0.0,0.0,0.0
-Mirante do Paranapanema,07-04-2020,0,0,0,0,1.5714285714285714,0.0,0.0,0.0
-Mirante do Paranapanema,08-04-2020,0,0,0,0,0.7857142857142857,0.0,0.0,0.0
+Mirante do Paranapanema,27-03-2020,0,0,0,0,10.0,0.0,43.0,0.0
+Mirante do Paranapanema,28-03-2020,0,0,0,0,10.0,0.0,41.0,0.0
+Mirante do Paranapanema,29-03-2020,0,0,0,0,10.0,0.0,41.0,0.0
+Mirante do Paranapanema,30-03-2020,0,0,0,0,9.642857142857142,0.0,30.0,0.0
+Mirante do Paranapanema,31-03-2020,0,0,0,0,4.642857142857143,0.0,19.0,0.0
+Mirante do Paranapanema,01-04-2020,0,0,0,0,4.642857142857143,0.0,8.0,0.0
+Mirante do Paranapanema,02-04-2020,0,0,0,0,4.0,0.0,0.0,0.0
+Mirante do Paranapanema,03-04-2020,0,0,0,0,3.0714285714285716,0.0,0.0,0.0
+Mirante do Paranapanema,04-04-2020,0,0,0,0,2.9285714285714284,0.0,0.0,0.0
+Mirante do Paranapanema,05-04-2020,0,0,0,0,2.9285714285714284,0.0,0.0,0.0
+Mirante do Paranapanema,06-04-2020,0,0,0,0,2.142857142857143,0.0,0.0,0.0
+Mirante do Paranapanema,07-04-2020,0,0,0,0,1.3571428571428572,0.0,0.0,0.0
+Mirante do Paranapanema,08-04-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
 Mirante do Paranapanema,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Mirante do Paranapanema,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Mirante do Paranapanema,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -355,3 +355,4 @@ Mirante do Paranapanema,14-03-2021,356,0,9,0,1.7142857142857142,0.0,9.0,0.0
 Mirante do Paranapanema,15-03-2021,356,0,9,0,1.7142857142857142,0.0,9.0,0.0
 Mirante do Paranapanema,16-03-2021,361,5,9,0,1.3571428571428572,0.0,11.0,0.0
 Mirante do Paranapanema,17-03-2021,366,5,9,0,1.7142857142857142,0.0,15.0,0.0
+Mirante do Paranapanema,18-03-2021,369,3,9,0,1.6428571428571428,0.0,14.0,0.0

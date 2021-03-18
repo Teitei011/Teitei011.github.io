@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Brejo Santo,27-03-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
-Brejo Santo,28-03-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+Brejo Santo,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Brejo Santo,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Brejo Santo,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Brejo Santo,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -355,3 +355,4 @@ Brejo Santo,14-03-2021,4105,30,47,1,45.785714285714285,1.0,329.0,8.0
 Brejo Santo,15-03-2021,4233,128,47,0,51.285714285714285,1.0,457.0,8.0
 Brejo Santo,16-03-2021,4242,9,47,0,45.785714285714285,1.0,356.0,7.0
 Brejo Santo,17-03-2021,4273,31,47,0,47.642857142857146,1.0,367.0,7.0
+Brejo Santo,18-03-2021,4345,72,48,1,47.92857142857143,0.7857142857142857,429.0,2.0

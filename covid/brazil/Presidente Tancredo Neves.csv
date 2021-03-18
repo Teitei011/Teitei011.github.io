@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Presidente Tancredo Neves,27-03-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
-Presidente Tancredo Neves,28-03-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
-Presidente Tancredo Neves,29-03-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
-Presidente Tancredo Neves,30-03-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
-Presidente Tancredo Neves,31-03-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
-Presidente Tancredo Neves,01-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
-Presidente Tancredo Neves,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Presidente Tancredo Neves,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Presidente Tancredo Neves,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Presidente Tancredo Neves,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Presidente Tancredo Neves,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Presidente Tancredo Neves,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Presidente Tancredo Neves,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Presidente Tancredo Neves,27-03-2020,0,0,0,0,0.42857142857142855,0.0,2.0,0.0
+Presidente Tancredo Neves,28-03-2020,0,0,0,0,0.42857142857142855,0.0,2.0,0.0
+Presidente Tancredo Neves,29-03-2020,0,0,0,0,0.42857142857142855,0.0,2.0,0.0
+Presidente Tancredo Neves,30-03-2020,0,0,0,0,0.42857142857142855,0.0,2.0,0.0
+Presidente Tancredo Neves,31-03-2020,0,0,0,0,0.35714285714285715,0.0,2.0,0.0
+Presidente Tancredo Neves,01-04-2020,0,0,0,0,0.14285714285714285,0.0,2.0,0.0
+Presidente Tancredo Neves,02-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Presidente Tancredo Neves,03-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Presidente Tancredo Neves,04-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Presidente Tancredo Neves,05-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Presidente Tancredo Neves,06-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Presidente Tancredo Neves,07-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Presidente Tancredo Neves,08-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Presidente Tancredo Neves,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Tancredo Neves,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Tancredo Neves,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -355,3 +355,4 @@ Presidente Tancredo Neves,14-03-2021,1411,0,26,0,4.785714285714286,0.28571428571
 Presidente Tancredo Neves,15-03-2021,1411,0,26,0,4.785714285714286,0.2857142857142857,23.0,0.0
 Presidente Tancredo Neves,16-03-2021,1416,5,26,0,5.142857142857143,0.2857142857142857,22.0,0.0
 Presidente Tancredo Neves,17-03-2021,1420,4,26,0,4.928571428571429,0.21428571428571427,21.0,0.0
+Presidente Tancredo Neves,18-03-2021,1428,8,26,0,4.071428571428571,0.21428571428571427,27.0,0.0

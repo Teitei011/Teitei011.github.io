@@ -1,15 +1,15 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Morro Cabeça no Tempo,27-03-2020,0,0,0,0,1.5,0.0,5.0,0.0
+Morro Cabeça no Tempo,27-03-2020,0,0,0,0,1.2857142857142858,0.0,1.0,0.0
 Morro Cabeça no Tempo,28-03-2020,0,0,0,0,1.2857142857142858,0.0,1.0,0.0
 Morro Cabeça no Tempo,29-03-2020,0,0,0,0,1.2857142857142858,0.0,1.0,0.0
-Morro Cabeça no Tempo,30-03-2020,0,0,0,0,1.2857142857142858,0.0,1.0,0.0
-Morro Cabeça no Tempo,31-03-2020,0,0,0,0,1.2142857142857142,0.0,0.0,0.0
-Morro Cabeça no Tempo,01-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
+Morro Cabeça no Tempo,30-03-2020,0,0,0,0,1.2142857142857142,0.0,0.0,0.0
+Morro Cabeça no Tempo,31-03-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
+Morro Cabeça no Tempo,01-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
 Morro Cabeça no Tempo,02-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
-Morro Cabeça no Tempo,03-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
+Morro Cabeça no Tempo,03-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Morro Cabeça no Tempo,04-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Morro Cabeça no Tempo,05-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Morro Cabeça no Tempo,06-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Morro Cabeça no Tempo,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Morro Cabeça no Tempo,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Morro Cabeça no Tempo,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Morro Cabeça no Tempo,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -355,3 +355,4 @@ Morro Cabeça no Tempo,14-03-2021,64,0,1,0,0.07142857142857142,0.071428571428571
 Morro Cabeça no Tempo,15-03-2021,64,0,1,0,0.07142857142857142,0.0,0.0,0.0
 Morro Cabeça no Tempo,16-03-2021,64,0,1,0,0.0,0.0,0.0,0.0
 Morro Cabeça no Tempo,17-03-2021,64,0,1,0,0.0,0.0,0.0,0.0
+Morro Cabeça no Tempo,18-03-2021,65,1,1,0,0.07142857142857142,0.0,1.0,0.0

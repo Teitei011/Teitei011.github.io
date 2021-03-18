@@ -1,15 +1,15 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santo Antônio do Leverger,27-03-2020,0,0,0,0,0.6428571428571429,0.0,3.0,0.0
+Santo Antônio do Leverger,27-03-2020,0,0,0,0,0.2857142857142857,0.0,3.0,0.0
 Santo Antônio do Leverger,28-03-2020,0,0,0,0,0.2857142857142857,0.0,3.0,0.0
-Santo Antônio do Leverger,29-03-2020,0,0,0,0,0.2857142857142857,0.0,3.0,0.0
-Santo Antônio do Leverger,30-03-2020,0,0,0,0,0.21428571428571427,0.0,1.0,0.0
+Santo Antônio do Leverger,29-03-2020,0,0,0,0,0.21428571428571427,0.0,1.0,0.0
+Santo Antônio do Leverger,30-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Santo Antônio do Leverger,31-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Santo Antônio do Leverger,01-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Santo Antônio do Leverger,02-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Santo Antônio do Leverger,03-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Santo Antônio do Leverger,04-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
-Santo Antônio do Leverger,05-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
-Santo Antônio do Leverger,06-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Santo Antônio do Leverger,05-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Santo Antônio do Leverger,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Leverger,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Leverger,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Leverger,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -355,3 +355,4 @@ Santo Antônio do Leverger,14-03-2021,550,0,26,0,4.071428571428571,0.21428571428
 Santo Antônio do Leverger,15-03-2021,551,1,26,0,3.7142857142857144,0.21428571428571427,7.0,2.0
 Santo Antônio do Leverger,16-03-2021,552,1,26,0,3.0,0.21428571428571427,5.0,2.0
 Santo Antônio do Leverger,17-03-2021,586,34,26,0,5.142857142857143,0.21428571428571427,39.0,1.0
+Santo Antônio do Leverger,18-03-2021,588,2,26,0,4.928571428571429,0.21428571428571427,40.0,0.0
