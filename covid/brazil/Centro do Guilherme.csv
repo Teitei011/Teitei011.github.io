@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Centro do Guilherme,27-03-2020,0,0,0,0,4.357142857142857,0.0,49.0,0.0
-Centro do Guilherme,28-03-2020,0,0,0,0,4.357142857142857,0.0,49.0,0.0
-Centro do Guilherme,29-03-2020,0,0,0,0,4.214285714285714,0.0,49.0,0.0
-Centro do Guilherme,30-03-2020,0,0,0,0,4.071428571428571,0.0,49.0,0.0
-Centro do Guilherme,31-03-2020,0,0,0,0,4.0,0.0,42.0,0.0
-Centro do Guilherme,01-04-2020,0,0,0,0,3.5714285714285716,0.0,36.0,0.0
+Centro do Guilherme,28-03-2020,0,0,0,0,4.214285714285714,0.0,49.0,0.0
+Centro do Guilherme,29-03-2020,0,0,0,0,4.071428571428571,0.0,49.0,0.0
+Centro do Guilherme,30-03-2020,0,0,0,0,4.0,0.0,42.0,0.0
+Centro do Guilherme,31-03-2020,0,0,0,0,3.5714285714285716,0.0,36.0,0.0
+Centro do Guilherme,01-04-2020,0,0,0,0,3.5,0.0,0.0,0.0
 Centro do Guilherme,02-04-2020,0,0,0,0,3.5,0.0,0.0,0.0
 Centro do Guilherme,03-04-2020,0,0,0,0,3.5,0.0,0.0,0.0
 Centro do Guilherme,04-04-2020,0,0,0,0,3.5,0.0,0.0,0.0
 Centro do Guilherme,05-04-2020,0,0,0,0,3.5,0.0,0.0,0.0
-Centro do Guilherme,06-04-2020,0,0,0,0,3.5,0.0,0.0,0.0
-Centro do Guilherme,07-04-2020,0,0,0,0,3.0,0.0,0.0,0.0
-Centro do Guilherme,08-04-2020,0,0,0,0,2.5714285714285716,0.0,0.0,0.0
+Centro do Guilherme,06-04-2020,0,0,0,0,3.0,0.0,0.0,0.0
+Centro do Guilherme,07-04-2020,0,0,0,0,2.5714285714285716,0.0,0.0,0.0
+Centro do Guilherme,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Centro do Guilherme,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Centro do Guilherme,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Centro do Guilherme,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -357,3 +357,4 @@ Centro do Guilherme,16-03-2021,373,0,3,0,0.8571428571428571,0.0,11.0,0.0
 Centro do Guilherme,17-03-2021,373,0,3,0,0.8571428571428571,0.0,11.0,0.0
 Centro do Guilherme,18-03-2021,373,0,3,0,0.8571428571428571,0.0,11.0,0.0
 Centro do Guilherme,19-03-2021,374,1,3,0,0.8571428571428571,0.0,4.0,0.0
+Centro do Guilherme,20-03-2021,377,3,3,0,1.0714285714285714,0.0,4.0,0.0

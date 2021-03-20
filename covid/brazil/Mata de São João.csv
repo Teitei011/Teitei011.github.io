@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Mata de São João,27-03-2020,0,0,0,0,-0.07142857142857142,0.0,0.0,0.0
+Mata de São João,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Mata de São João,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Mata de São João,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Mata de São João,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -357,3 +357,4 @@ Mata de São João,16-03-2021,2875,48,28,1,38.142857142857146,0.4285714285714285
 Mata de São João,17-03-2021,2881,6,29,1,35.214285714285715,0.35714285714285715,222.0,4.0
 Mata de São João,18-03-2021,2910,29,31,2,34.5,0.42857142857142855,206.0,4.0
 Mata de São João,19-03-2021,2921,11,32,1,32.42857142857143,0.5,173.0,5.0
+Mata de São João,20-03-2021,2962,41,32,0,31.0,0.5,176.0,5.0

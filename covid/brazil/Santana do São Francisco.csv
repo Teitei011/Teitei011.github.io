@@ -2,16 +2,16 @@ municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases
 Santana do São Francisco,27-03-2020,0,0,0,0,1.0,0.0,9.0,0.0
 Santana do São Francisco,28-03-2020,0,0,0,0,1.0,0.0,9.0,0.0
 Santana do São Francisco,29-03-2020,0,0,0,0,1.0,0.0,9.0,0.0
-Santana do São Francisco,30-03-2020,0,0,0,0,1.0,0.0,9.0,0.0
-Santana do São Francisco,31-03-2020,0,0,0,0,0.9285714285714286,0.0,9.0,0.0
-Santana do São Francisco,01-04-2020,0,0,0,0,0.7857142857142857,0.0,9.0,0.0
+Santana do São Francisco,30-03-2020,0,0,0,0,0.9285714285714286,0.0,9.0,0.0
+Santana do São Francisco,31-03-2020,0,0,0,0,0.7857142857142857,0.0,9.0,0.0
+Santana do São Francisco,01-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
 Santana do São Francisco,02-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
 Santana do São Francisco,03-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
 Santana do São Francisco,04-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
 Santana do São Francisco,05-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
 Santana do São Francisco,06-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
 Santana do São Francisco,07-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
-Santana do São Francisco,08-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
+Santana do São Francisco,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana do São Francisco,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana do São Francisco,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana do São Francisco,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -357,3 +357,4 @@ Santana do São Francisco,16-03-2021,319,11,12,0,2.2857142857142856,0.2857142857
 Santana do São Francisco,17-03-2021,324,5,12,0,2.5714285714285716,0.2857142857142857,19.0,1.0
 Santana do São Francisco,18-03-2021,324,0,12,0,2.5714285714285716,0.2857142857142857,19.0,1.0
 Santana do São Francisco,19-03-2021,325,1,12,0,2.5714285714285716,0.2857142857142857,20.0,1.0
+Santana do São Francisco,20-03-2021,325,0,12,0,2.5714285714285716,0.2857142857142857,19.0,1.0
