@@ -1,15 +1,15 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Maximiliano de Almeida,27-03-2020,0,0,0,0,1.0714285714285714,0.0,1.0,0.0
 Maximiliano de Almeida,28-03-2020,0,0,0,0,1.0714285714285714,0.0,1.0,0.0
-Maximiliano de Almeida,29-03-2020,0,0,0,0,1.0714285714285714,0.0,1.0,0.0
-Maximiliano de Almeida,30-03-2020,0,0,0,0,0.5714285714285714,0.0,1.0,0.0
+Maximiliano de Almeida,29-03-2020,0,0,0,0,0.5714285714285714,0.0,1.0,0.0
+Maximiliano de Almeida,30-03-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 Maximiliano de Almeida,31-03-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 Maximiliano de Almeida,01-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
-Maximiliano de Almeida,02-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
+Maximiliano de Almeida,02-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Maximiliano de Almeida,03-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Maximiliano de Almeida,04-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Maximiliano de Almeida,05-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Maximiliano de Almeida,06-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Maximiliano de Almeida,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Maximiliano de Almeida,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Maximiliano de Almeida,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Maximiliano de Almeida,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -356,3 +356,4 @@ Maximiliano de Almeida,15-03-2021,295,-2,3,0,4.071428571428571,0.142857142857142
 Maximiliano de Almeida,16-03-2021,304,9,3,0,4.5,0.14285714285714285,49.0,1.0
 Maximiliano de Almeida,17-03-2021,308,4,3,0,4.714285714285714,0.14285714285714285,37.0,1.0
 Maximiliano de Almeida,18-03-2021,310,2,3,0,4.857142857142857,0.14285714285714285,36.0,1.0
+Maximiliano de Almeida,19-03-2021,320,10,3,0,5.285714285714286,0.14285714285714285,35.0,0.0

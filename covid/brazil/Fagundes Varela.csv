@@ -1,12 +1,12 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Fagundes Varela,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Fagundes Varela,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Fagundes Varela,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Fagundes Varela,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Fagundes Varela,30-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Fagundes Varela,31-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Fagundes Varela,01-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Fagundes Varela,02-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Fagundes Varela,03-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Fagundes Varela,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Fagundes Varela,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Fagundes Varela,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Fagundes Varela,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -356,3 +356,4 @@ Fagundes Varela,15-03-2021,189,0,2,0,1.3571428571428572,0.0,11.0,0.0
 Fagundes Varela,16-03-2021,197,8,2,0,1.7857142857142858,0.0,16.0,0.0
 Fagundes Varela,17-03-2021,203,6,2,0,2.2142857142857144,0.0,18.0,0.0
 Fagundes Varela,18-03-2021,203,0,2,0,2.0,0.0,15.0,0.0
+Fagundes Varela,19-03-2021,204,1,2,0,1.9285714285714286,0.0,15.0,0.0

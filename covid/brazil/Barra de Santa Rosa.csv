@@ -1,11 +1,11 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Barra de Santa Rosa,27-03-2020,0,0,0,0,0.07142857142857142,0.07142857142857142,0.0,0.0
-Barra de Santa Rosa,28-03-2020,0,0,0,0,0.07142857142857142,0.07142857142857142,0.0,0.0
+Barra de Santa Rosa,28-03-2020,0,0,0,0,0.0,0.07142857142857142,0.0,0.0
 Barra de Santa Rosa,29-03-2020,0,0,0,0,0.0,0.07142857142857142,0.0,0.0
 Barra de Santa Rosa,30-03-2020,0,0,0,0,0.0,0.07142857142857142,0.0,0.0
 Barra de Santa Rosa,31-03-2020,0,0,0,0,0.0,0.07142857142857142,0.0,0.0
-Barra de Santa Rosa,01-04-2020,0,0,0,0,0.0,0.07142857142857142,0.0,0.0
-Barra de Santa Rosa,02-04-2020,0,0,0,0,-0.07142857142857142,0.07142857142857142,0.0,0.0
+Barra de Santa Rosa,01-04-2020,0,0,0,0,-0.07142857142857142,0.07142857142857142,0.0,0.0
+Barra de Santa Rosa,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Barra de Santa Rosa,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Barra de Santa Rosa,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Barra de Santa Rosa,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -356,3 +356,4 @@ Barra de Santa Rosa,15-03-2021,624,3,3,0,2.357142857142857,0.0,24.0,0.0
 Barra de Santa Rosa,16-03-2021,627,3,3,0,2.4285714285714284,0.0,26.0,0.0
 Barra de Santa Rosa,17-03-2021,627,0,3,0,2.2857142857142856,0.0,23.0,0.0
 Barra de Santa Rosa,18-03-2021,629,2,3,0,2.357142857142857,0.0,21.0,0.0
+Barra de Santa Rosa,19-03-2021,637,8,3,0,2.9285714285714284,0.0,29.0,0.0

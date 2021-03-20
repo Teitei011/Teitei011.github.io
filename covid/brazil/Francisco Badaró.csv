@@ -1,12 +1,12 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Francisco Badaró,27-03-2020,0,0,0,0,0.21428571428571427,0.0,1.0,0.0
+Francisco Badaró,27-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Francisco Badaró,28-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Francisco Badaró,29-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Francisco Badaró,30-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Francisco Badaró,31-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Francisco Badaró,01-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
-Francisco Badaró,02-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
-Francisco Badaró,03-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Francisco Badaró,02-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Francisco Badaró,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Francisco Badaró,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Francisco Badaró,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Francisco Badaró,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -356,3 +356,4 @@ Francisco Badaró,15-03-2021,81,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Francisco Badaró,16-03-2021,81,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Francisco Badaró,17-03-2021,81,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Francisco Badaró,18-03-2021,81,0,0,0,0.0,0.0,0.0,0.0
+Francisco Badaró,19-03-2021,81,0,0,0,0.0,0.0,0.0,0.0

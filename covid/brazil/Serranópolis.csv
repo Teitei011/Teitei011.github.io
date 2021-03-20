@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Serranópolis,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Serranópolis,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Serranópolis,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Serranópolis,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Serranópolis,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Serranópolis,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -356,3 +356,4 @@ Serranópolis,15-03-2021,410,0,3,0,3.4285714285714284,0.0,29.0,0.0
 Serranópolis,16-03-2021,429,19,3,0,4.071428571428571,0.0,39.0,0.0
 Serranópolis,17-03-2021,437,8,3,0,4.642857142857143,0.0,45.0,0.0
 Serranópolis,18-03-2021,444,7,3,0,4.785714285714286,0.0,44.0,0.0
+Serranópolis,19-03-2021,448,4,3,0,5.071428571428571,0.0,44.0,0.0
