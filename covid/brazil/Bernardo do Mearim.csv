@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Bernardo do Mearim,27-03-2020,0,0,0,0,3.5,0.0,30.0,0.0
-Bernardo do Mearim,28-03-2020,0,0,0,0,3.5,0.0,30.0,0.0
-Bernardo do Mearim,29-03-2020,0,0,0,0,3.0,0.0,19.0,0.0
-Bernardo do Mearim,30-03-2020,0,0,0,0,2.7142857142857144,0.0,19.0,0.0
-Bernardo do Mearim,31-03-2020,0,0,0,0,2.5714285714285716,0.0,11.0,0.0
-Bernardo do Mearim,01-04-2020,0,0,0,0,2.357142857142857,0.0,-1.0,0.0
+Bernardo do Mearim,28-03-2020,0,0,0,0,3.0,0.0,19.0,0.0
+Bernardo do Mearim,29-03-2020,0,0,0,0,2.7142857142857144,0.0,19.0,0.0
+Bernardo do Mearim,30-03-2020,0,0,0,0,2.5714285714285716,0.0,11.0,0.0
+Bernardo do Mearim,31-03-2020,0,0,0,0,2.357142857142857,0.0,-1.0,0.0
+Bernardo do Mearim,01-04-2020,0,0,0,0,2.142857142857143,0.0,0.0,0.0
 Bernardo do Mearim,02-04-2020,0,0,0,0,2.142857142857143,0.0,0.0,0.0
 Bernardo do Mearim,03-04-2020,0,0,0,0,2.142857142857143,0.0,0.0,0.0
-Bernardo do Mearim,04-04-2020,0,0,0,0,2.142857142857143,0.0,0.0,0.0
+Bernardo do Mearim,04-04-2020,0,0,0,0,1.3571428571428572,0.0,0.0,0.0
 Bernardo do Mearim,05-04-2020,0,0,0,0,1.3571428571428572,0.0,0.0,0.0
-Bernardo do Mearim,06-04-2020,0,0,0,0,1.3571428571428572,0.0,0.0,0.0
-Bernardo do Mearim,07-04-2020,0,0,0,0,0.7857142857142857,0.0,0.0,0.0
-Bernardo do Mearim,08-04-2020,0,0,0,0,-0.07142857142857142,0.0,0.0,0.0
+Bernardo do Mearim,06-04-2020,0,0,0,0,0.7857142857142857,0.0,0.0,0.0
+Bernardo do Mearim,07-04-2020,0,0,0,0,-0.07142857142857142,0.0,0.0,0.0
+Bernardo do Mearim,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bernardo do Mearim,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bernardo do Mearim,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bernardo do Mearim,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -358,3 +358,4 @@ Bernardo do Mearim,17-03-2021,173,0,3,0,0.0,0.0,0.0,0.0
 Bernardo do Mearim,18-03-2021,173,0,3,0,0.0,0.0,0.0,0.0
 Bernardo do Mearim,19-03-2021,174,1,3,0,0.07142857142857142,0.0,1.0,0.0
 Bernardo do Mearim,20-03-2021,175,1,3,0,0.14285714285714285,0.0,2.0,0.0
+Bernardo do Mearim,21-03-2021,175,0,3,0,0.14285714285714285,0.0,2.0,0.0

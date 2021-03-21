@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Prudente de Morais,27-03-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
 Prudente de Morais,28-03-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
-Prudente de Morais,29-03-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
+Prudente de Morais,29-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Prudente de Morais,30-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Prudente de Morais,31-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Prudente de Morais,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Prudente de Morais,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Prudente de Morais,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Prudente de Morais,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -358,3 +358,4 @@ Prudente de Morais,17-03-2021,228,0,2,0,0.8571428571428571,0.0,0.0,0.0
 Prudente de Morais,18-03-2021,228,0,2,0,0.8571428571428571,0.0,0.0,0.0
 Prudente de Morais,19-03-2021,228,0,2,0,0.8571428571428571,0.0,0.0,0.0
 Prudente de Morais,20-03-2021,241,13,2,0,0.9285714285714286,0.0,13.0,0.0
+Prudente de Morais,21-03-2021,241,0,2,0,0.9285714285714286,0.0,13.0,0.0

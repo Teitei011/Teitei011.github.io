@@ -1,16 +1,16 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São José da Lagoa Tapada,27-03-2020,0,0,0,0,4.142857142857143,0.0,37.0,0.0
-São José da Lagoa Tapada,28-03-2020,0,0,0,0,4.142857142857143,0.0,37.0,0.0
-São José da Lagoa Tapada,29-03-2020,0,0,0,0,3.7857142857142856,0.0,32.0,0.0
-São José da Lagoa Tapada,30-03-2020,0,0,0,0,3.2857142857142856,0.0,26.0,0.0
-São José da Lagoa Tapada,31-03-2020,0,0,0,0,3.2142857142857144,0.0,10.0,0.0
-São José da Lagoa Tapada,01-04-2020,0,0,0,0,3.0,0.0,0.0,0.0
+São José da Lagoa Tapada,28-03-2020,0,0,0,0,3.7857142857142856,0.0,32.0,0.0
+São José da Lagoa Tapada,29-03-2020,0,0,0,0,3.2857142857142856,0.0,26.0,0.0
+São José da Lagoa Tapada,30-03-2020,0,0,0,0,3.2142857142857144,0.0,10.0,0.0
+São José da Lagoa Tapada,31-03-2020,0,0,0,0,3.0,0.0,0.0,0.0
+São José da Lagoa Tapada,01-04-2020,0,0,0,0,2.642857142857143,0.0,0.0,0.0
 São José da Lagoa Tapada,02-04-2020,0,0,0,0,2.642857142857143,0.0,0.0,0.0
 São José da Lagoa Tapada,03-04-2020,0,0,0,0,2.642857142857143,0.0,0.0,0.0
-São José da Lagoa Tapada,04-04-2020,0,0,0,0,2.642857142857143,0.0,0.0,0.0
-São José da Lagoa Tapada,05-04-2020,0,0,0,0,2.2857142857142856,0.0,0.0,0.0
-São José da Lagoa Tapada,06-04-2020,0,0,0,0,1.8571428571428572,0.0,0.0,0.0
-São José da Lagoa Tapada,07-04-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
+São José da Lagoa Tapada,04-04-2020,0,0,0,0,2.2857142857142856,0.0,0.0,0.0
+São José da Lagoa Tapada,05-04-2020,0,0,0,0,1.8571428571428572,0.0,0.0,0.0
+São José da Lagoa Tapada,06-04-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
+São José da Lagoa Tapada,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José da Lagoa Tapada,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José da Lagoa Tapada,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José da Lagoa Tapada,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -358,3 +358,4 @@ São José da Lagoa Tapada,17-03-2021,376,3,2,0,2.357142857142857,0.0,16.0,0.0
 São José da Lagoa Tapada,18-03-2021,380,4,2,0,1.8571428571428572,0.0,16.0,0.0
 São José da Lagoa Tapada,19-03-2021,380,0,2,0,1.8571428571428572,0.0,16.0,0.0
 São José da Lagoa Tapada,20-03-2021,383,3,2,0,2.357142857142857,0.0,13.0,0.0
+São José da Lagoa Tapada,21-03-2021,383,0,2,0,2.357142857142857,0.0,11.0,0.0

@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Campo Azul,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Campo Azul,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Campo Azul,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Campo Azul,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campo Azul,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campo Azul,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campo Azul,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -358,3 +358,4 @@ Campo Azul,17-03-2021,52,0,0,0,0.0,0.0,0.0,0.0
 Campo Azul,18-03-2021,52,0,0,0,0.0,0.0,0.0,0.0
 Campo Azul,19-03-2021,52,0,0,0,0.0,0.0,0.0,0.0
 Campo Azul,20-03-2021,52,0,0,0,0.0,0.0,0.0,0.0
+Campo Azul,21-03-2021,52,0,0,0,0.0,0.0,0.0,0.0

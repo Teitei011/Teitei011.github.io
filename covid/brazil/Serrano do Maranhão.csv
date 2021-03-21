@@ -1,13 +1,13 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Serrano do Maranhão,27-03-2020,0,0,0,0,0.14285714285714285,0.0,2.0,0.0
-Serrano do Maranhão,28-03-2020,0,0,0,0,0.14285714285714285,0.0,2.0,0.0
+Serrano do Maranhão,28-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Serrano do Maranhão,29-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Serrano do Maranhão,30-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Serrano do Maranhão,31-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Serrano do Maranhão,01-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Serrano do Maranhão,02-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Serrano do Maranhão,03-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Serrano do Maranhão,04-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Serrano do Maranhão,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Serrano do Maranhão,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Serrano do Maranhão,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Serrano do Maranhão,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -358,3 +358,4 @@ Serrano do Maranhão,17-03-2021,206,0,3,0,0.0,0.0,0.0,0.0
 Serrano do Maranhão,18-03-2021,206,0,3,0,0.0,0.0,0.0,0.0
 Serrano do Maranhão,19-03-2021,206,0,3,0,0.0,0.0,0.0,0.0
 Serrano do Maranhão,20-03-2021,206,0,3,0,0.0,0.0,0.0,0.0
+Serrano do Maranhão,21-03-2021,206,0,3,0,0.0,0.0,0.0,0.0

@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São José do Povo,27-03-2020,0,0,0,0,0.0,-0.07142857142857142,0.0,0.0
+São José do Povo,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José do Povo,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José do Povo,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José do Povo,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -358,3 +358,4 @@ São José do Povo,17-03-2021,117,0,5,0,0.07142857142857142,0.0,0.0,0.0
 São José do Povo,18-03-2021,118,1,5,0,0.14285714285714285,0.0,1.0,0.0
 São José do Povo,19-03-2021,119,1,5,0,0.14285714285714285,0.0,2.0,0.0
 São José do Povo,20-03-2021,119,0,5,0,0.14285714285714285,0.0,2.0,0.0
+São José do Povo,21-03-2021,119,0,5,0,0.14285714285714285,0.0,2.0,0.0

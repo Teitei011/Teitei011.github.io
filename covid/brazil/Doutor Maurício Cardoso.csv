@@ -1,16 +1,16 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Doutor Maurício Cardoso,27-03-2020,0,0,0,0,0.7857142857142857,0.0,8.0,0.0
-Doutor Maurício Cardoso,28-03-2020,0,0,0,0,0.7857142857142857,0.0,7.0,0.0
-Doutor Maurício Cardoso,29-03-2020,0,0,0,0,0.7857142857142857,0.0,6.0,0.0
-Doutor Maurício Cardoso,30-03-2020,0,0,0,0,0.5714285714285714,0.0,5.0,0.0
-Doutor Maurício Cardoso,31-03-2020,0,0,0,0,0.5714285714285714,0.0,1.0,0.0
+Doutor Maurício Cardoso,27-03-2020,0,0,0,0,0.7857142857142857,0.0,7.0,0.0
+Doutor Maurício Cardoso,28-03-2020,0,0,0,0,0.7857142857142857,0.0,6.0,0.0
+Doutor Maurício Cardoso,29-03-2020,0,0,0,0,0.5714285714285714,0.0,5.0,0.0
+Doutor Maurício Cardoso,30-03-2020,0,0,0,0,0.5714285714285714,0.0,1.0,0.0
+Doutor Maurício Cardoso,31-03-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
 Doutor Maurício Cardoso,01-04-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
 Doutor Maurício Cardoso,02-04-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
-Doutor Maurício Cardoso,03-04-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
-Doutor Maurício Cardoso,04-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
-Doutor Maurício Cardoso,05-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
-Doutor Maurício Cardoso,06-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
-Doutor Maurício Cardoso,07-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Doutor Maurício Cardoso,03-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
+Doutor Maurício Cardoso,04-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
+Doutor Maurício Cardoso,05-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
+Doutor Maurício Cardoso,06-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Doutor Maurício Cardoso,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Doutor Maurício Cardoso,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Doutor Maurício Cardoso,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Doutor Maurício Cardoso,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -358,3 +358,4 @@ Doutor Maurício Cardoso,17-03-2021,224,4,7,0,3.0,0.07142857142857142,21.0,1.0
 Doutor Maurício Cardoso,18-03-2021,228,4,7,0,2.642857142857143,0.07142857142857142,24.0,1.0
 Doutor Maurício Cardoso,19-03-2021,230,2,7,0,2.5714285714285716,0.07142857142857142,23.0,0.0
 Doutor Maurício Cardoso,20-03-2021,231,1,7,0,2.5714285714285716,0.07142857142857142,19.0,0.0
+Doutor Maurício Cardoso,21-03-2021,231,0,7,0,2.5714285714285716,0.07142857142857142,17.0,0.0
