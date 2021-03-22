@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Eugênio de Castro,27-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,0.0
-Eugênio de Castro,28-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,0.0
+Eugênio de Castro,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Eugênio de Castro,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Eugênio de Castro,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Eugênio de Castro,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -359,3 +359,4 @@ Eugênio de Castro,18-03-2021,170,2,4,0,2.2142857142857144,0.07142857142857142,1
 Eugênio de Castro,19-03-2021,173,3,4,0,1.7857142857142858,0.07142857142857142,9.0,0.0
 Eugênio de Castro,20-03-2021,174,1,4,0,1.7857142857142858,0.07142857142857142,8.0,0.0
 Eugênio de Castro,21-03-2021,174,0,4,0,1.7857142857142858,0.07142857142857142,8.0,0.0
+Eugênio de Castro,22-03-2021,174,0,4,0,1.7857142857142858,0.07142857142857142,8.0,0.0

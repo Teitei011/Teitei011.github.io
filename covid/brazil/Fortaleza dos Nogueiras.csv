@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Fortaleza dos Nogueiras,27-03-2020,0,0,0,0,0.5714285714285714,0.0,5.0,0.0
-Fortaleza dos Nogueiras,28-03-2020,0,0,0,0,0.5,0.0,5.0,0.0
+Fortaleza dos Nogueiras,27-03-2020,0,0,0,0,0.5,0.0,5.0,0.0
+Fortaleza dos Nogueiras,28-03-2020,0,0,0,0,0.35714285714285715,0.0,5.0,0.0
 Fortaleza dos Nogueiras,29-03-2020,0,0,0,0,0.35714285714285715,0.0,5.0,0.0
 Fortaleza dos Nogueiras,30-03-2020,0,0,0,0,0.35714285714285715,0.0,5.0,0.0
-Fortaleza dos Nogueiras,31-03-2020,0,0,0,0,0.35714285714285715,0.0,5.0,0.0
-Fortaleza dos Nogueiras,01-04-2020,0,0,0,0,0.35714285714285715,0.0,2.0,0.0
+Fortaleza dos Nogueiras,31-03-2020,0,0,0,0,0.35714285714285715,0.0,2.0,0.0
+Fortaleza dos Nogueiras,01-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
 Fortaleza dos Nogueiras,02-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
 Fortaleza dos Nogueiras,03-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
 Fortaleza dos Nogueiras,04-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
 Fortaleza dos Nogueiras,05-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
 Fortaleza dos Nogueiras,06-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
-Fortaleza dos Nogueiras,07-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
-Fortaleza dos Nogueiras,08-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Fortaleza dos Nogueiras,07-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Fortaleza dos Nogueiras,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Fortaleza dos Nogueiras,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Fortaleza dos Nogueiras,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Fortaleza dos Nogueiras,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -359,3 +359,4 @@ Fortaleza dos Nogueiras,18-03-2021,838,1,8,0,1.7857142857142858,0.07142857142857
 Fortaleza dos Nogueiras,19-03-2021,838,0,8,0,1.5714285714285714,0.07142857142857142,11.0,0.0
 Fortaleza dos Nogueiras,20-03-2021,841,3,8,0,1.7857142857142858,0.0,14.0,0.0
 Fortaleza dos Nogueiras,21-03-2021,841,0,8,0,1.7857142857142858,0.0,14.0,0.0
+Fortaleza dos Nogueiras,22-03-2021,841,0,8,0,1.7857142857142858,0.0,12.0,0.0

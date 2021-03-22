@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Palmeira dos Índios,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Palmeira dos Índios,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Palmeira dos Índios,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Palmeira dos Índios,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Palmeira dos Índios,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Palmeira dos Índios,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -359,3 +359,4 @@ Palmeira dos Índios,18-03-2021,2901,13,64,0,13.571428571428571,0.64285714285714
 Palmeira dos Índios,19-03-2021,2936,35,64,0,14.428571428571429,0.6428571428571429,151.0,1.0
 Palmeira dos Índios,20-03-2021,2940,4,64,0,14.214285714285714,0.6428571428571429,153.0,1.0
 Palmeira dos Índios,21-03-2021,2986,46,64,0,17.285714285714285,0.5714285714285714,150.0,1.0
+Palmeira dos Índios,22-03-2021,3002,16,64,0,18.0,0.5,122.0,1.0

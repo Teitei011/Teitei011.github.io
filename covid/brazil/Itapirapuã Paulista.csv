@@ -1,15 +1,15 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Itapirapuã Paulista,27-03-2020,0,0,0,0,6.785714285714286,0.0,66.0,0.0
-Itapirapuã Paulista,28-03-2020,0,0,0,0,6.785714285714286,0.0,66.0,0.0
-Itapirapuã Paulista,29-03-2020,0,0,0,0,5.285714285714286,0.0,21.0,0.0
-Itapirapuã Paulista,30-03-2020,0,0,0,0,4.714285714285714,0.0,15.0,0.0
+Itapirapuã Paulista,28-03-2020,0,0,0,0,5.285714285714286,0.0,21.0,0.0
+Itapirapuã Paulista,29-03-2020,0,0,0,0,4.714285714285714,0.0,15.0,0.0
+Itapirapuã Paulista,30-03-2020,0,0,0,0,4.714285714285714,0.0,0.0,0.0
 Itapirapuã Paulista,31-03-2020,0,0,0,0,4.714285714285714,0.0,0.0,0.0
 Itapirapuã Paulista,01-04-2020,0,0,0,0,4.714285714285714,0.0,0.0,0.0
 Itapirapuã Paulista,02-04-2020,0,0,0,0,4.714285714285714,0.0,0.0,0.0
 Itapirapuã Paulista,03-04-2020,0,0,0,0,4.714285714285714,0.0,0.0,0.0
-Itapirapuã Paulista,04-04-2020,0,0,0,0,4.714285714285714,0.0,0.0,0.0
-Itapirapuã Paulista,05-04-2020,0,0,0,0,1.5,0.0,0.0,0.0
-Itapirapuã Paulista,06-04-2020,0,0,0,0,1.0714285714285714,0.0,0.0,0.0
+Itapirapuã Paulista,04-04-2020,0,0,0,0,1.5,0.0,0.0,0.0
+Itapirapuã Paulista,05-04-2020,0,0,0,0,1.0714285714285714,0.0,0.0,0.0
+Itapirapuã Paulista,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Itapirapuã Paulista,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Itapirapuã Paulista,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Itapirapuã Paulista,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -359,3 +359,4 @@ Itapirapuã Paulista,18-03-2021,243,1,2,0,1.0714285714285714,0.0,12.0,0.0
 Itapirapuã Paulista,19-03-2021,245,2,2,0,1.1428571428571428,0.0,12.0,0.0
 Itapirapuã Paulista,20-03-2021,246,1,2,0,1.1428571428571428,0.0,12.0,0.0
 Itapirapuã Paulista,21-03-2021,252,6,2,0,1.5714285714285714,0.0,17.0,0.0
+Itapirapuã Paulista,22-03-2021,257,5,2,0,1.9285714285714286,0.0,20.0,0.0

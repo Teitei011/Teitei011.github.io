@@ -1,14 +1,14 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Água Fria de Goiás,27-03-2020,0,0,0,0,0.07142857142857142,0.0,1.0,0.0
 Água Fria de Goiás,28-03-2020,0,0,0,0,0.07142857142857142,0.0,1.0,0.0
-Água Fria de Goiás,29-03-2020,0,0,0,0,0.07142857142857142,0.0,1.0,0.0
+Água Fria de Goiás,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Água Fria de Goiás,30-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Água Fria de Goiás,31-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Água Fria de Goiás,01-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Água Fria de Goiás,02-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Água Fria de Goiás,03-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Água Fria de Goiás,04-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Água Fria de Goiás,05-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Água Fria de Goiás,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Água Fria de Goiás,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Água Fria de Goiás,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Água Fria de Goiás,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -359,3 +359,4 @@ municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases
 Água Fria de Goiás,19-03-2021,135,1,2,0,1.7142857142857142,0.0,16.0,0.0
 Água Fria de Goiás,20-03-2021,135,0,2,0,1.7142857142857142,0.0,10.0,0.0
 Água Fria de Goiás,21-03-2021,135,0,2,0,1.7142857142857142,0.0,10.0,0.0
+Água Fria de Goiás,22-03-2021,136,1,2,0,1.5714285714285714,0.0,4.0,0.0

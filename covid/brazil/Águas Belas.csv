@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Águas Belas,27-03-2020,0,0,0,0,0.35714285714285715,0.07142857142857142,0.0,0.0
-Águas Belas,28-03-2020,0,0,0,0,0.14285714285714285,0.07142857142857142,0.0,0.0
-Águas Belas,29-03-2020,0,0,0,0,0.0,0.07142857142857142,0.0,0.0
+Águas Belas,27-03-2020,0,0,0,0,0.14285714285714285,0.07142857142857142,0.0,0.0
+Águas Belas,28-03-2020,0,0,0,0,0.0,0.07142857142857142,0.0,0.0
+Águas Belas,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Águas Belas,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Águas Belas,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Águas Belas,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -359,3 +359,4 @@ municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases
 Águas Belas,19-03-2021,1216,3,26,0,1.7857142857142858,0.0,13.0,0.0
 Águas Belas,20-03-2021,1219,3,26,0,1.7857142857142858,0.0,16.0,0.0
 Águas Belas,21-03-2021,1220,1,26,0,1.8571428571428572,0.0,17.0,0.0
+Águas Belas,22-03-2021,1220,0,26,0,1.8571428571428572,0.0,17.0,0.0

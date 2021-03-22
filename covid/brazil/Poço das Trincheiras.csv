@@ -1,16 +1,16 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Poço das Trincheiras,27-03-2020,0,0,0,0,2.2857142857142856,0.0,9.0,0.0
-Poço das Trincheiras,28-03-2020,0,0,0,0,2.2142857142857144,0.0,7.0,0.0
-Poço das Trincheiras,29-03-2020,0,0,0,0,2.142857142857143,0.0,4.0,0.0
-Poço das Trincheiras,30-03-2020,0,0,0,0,2.0714285714285716,0.0,4.0,0.0
-Poço das Trincheiras,31-03-2020,0,0,0,0,1.2857142857142858,0.0,2.0,0.0
+Poço das Trincheiras,27-03-2020,0,0,0,0,2.2142857142857144,0.0,7.0,0.0
+Poço das Trincheiras,28-03-2020,0,0,0,0,2.142857142857143,0.0,4.0,0.0
+Poço das Trincheiras,29-03-2020,0,0,0,0,2.0714285714285716,0.0,4.0,0.0
+Poço das Trincheiras,30-03-2020,0,0,0,0,1.2857142857142858,0.0,2.0,0.0
+Poço das Trincheiras,31-03-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
 Poço das Trincheiras,01-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
 Poço das Trincheiras,02-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
-Poço das Trincheiras,03-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
-Poço das Trincheiras,04-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
+Poço das Trincheiras,03-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
+Poço das Trincheiras,04-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
 Poço das Trincheiras,05-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
-Poço das Trincheiras,06-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
-Poço das Trincheiras,07-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Poço das Trincheiras,06-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Poço das Trincheiras,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Poço das Trincheiras,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Poço das Trincheiras,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Poço das Trincheiras,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -359,3 +359,4 @@ Poço das Trincheiras,18-03-2021,253,2,3,0,2.2857142857142856,0.0,13.0,0.0
 Poço das Trincheiras,19-03-2021,274,21,3,0,3.7857142857142856,0.0,34.0,0.0
 Poço das Trincheiras,20-03-2021,276,2,3,0,3.142857142857143,0.0,36.0,0.0
 Poço das Trincheiras,21-03-2021,290,14,3,0,4.0,0.0,50.0,0.0
+Poço das Trincheiras,22-03-2021,290,0,3,0,4.0,0.0,39.0,0.0
