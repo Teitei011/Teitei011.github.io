@@ -1,16 +1,16 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Presidente Castelo Branco,27-03-2020,0,0,0,0,1.0714285714285714,0.0,6.0,0.0
-Presidente Castelo Branco,28-03-2020,0,0,0,0,1.0,0.0,6.0,0.0
+Presidente Castelo Branco,27-03-2020,0,0,0,0,1.0,0.0,6.0,0.0
+Presidente Castelo Branco,28-03-2020,0,0,0,0,0.9285714285714286,0.0,1.0,0.0
 Presidente Castelo Branco,29-03-2020,0,0,0,0,0.9285714285714286,0.0,1.0,0.0
-Presidente Castelo Branco,30-03-2020,0,0,0,0,0.9285714285714286,0.0,1.0,0.0
-Presidente Castelo Branco,31-03-2020,0,0,0,0,0.8571428571428571,0.0,1.0,0.0
+Presidente Castelo Branco,30-03-2020,0,0,0,0,0.8571428571428571,0.0,1.0,0.0
+Presidente Castelo Branco,31-03-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
 Presidente Castelo Branco,01-04-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
-Presidente Castelo Branco,02-04-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
+Presidente Castelo Branco,02-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 Presidente Castelo Branco,03-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
-Presidente Castelo Branco,04-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
+Presidente Castelo Branco,04-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Presidente Castelo Branco,05-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Presidente Castelo Branco,06-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Presidente Castelo Branco,07-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Presidente Castelo Branco,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Castelo Branco,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Castelo Branco,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Castelo Branco,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -360,3 +360,4 @@ Presidente Castelo Branco,19-03-2021,308,2,5,0,3.142857142857143,0.0714285714285
 Presidente Castelo Branco,20-03-2021,312,4,5,0,3.2142857142857144,0.07142857142857142,27.0,1.0
 Presidente Castelo Branco,21-03-2021,312,0,5,0,2.642857142857143,0.07142857142857142,26.0,1.0
 Presidente Castelo Branco,22-03-2021,313,1,5,0,2.7142857142857144,0.07142857142857142,19.0,1.0
+Presidente Castelo Branco,23-03-2021,315,2,5,0,2.7857142857142856,0.07142857142857142,12.0,1.0

@@ -1,14 +1,14 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Senador Elói de Souza,27-03-2020,0,0,0,0,0.35714285714285715,0.0,2.0,0.0
+Senador Elói de Souza,27-03-2020,0,0,0,0,0.14285714285714285,0.0,2.0,0.0
 Senador Elói de Souza,28-03-2020,0,0,0,0,0.14285714285714285,0.0,2.0,0.0
-Senador Elói de Souza,29-03-2020,0,0,0,0,0.14285714285714285,0.0,2.0,0.0
+Senador Elói de Souza,29-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Senador Elói de Souza,30-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Senador Elói de Souza,31-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Senador Elói de Souza,01-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Senador Elói de Souza,02-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Senador Elói de Souza,03-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Senador Elói de Souza,04-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Senador Elói de Souza,05-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Senador Elói de Souza,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Senador Elói de Souza,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Senador Elói de Souza,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Senador Elói de Souza,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -360,3 +360,4 @@ Senador Elói de Souza,19-03-2021,117,1,3,0,0.5,0.0,2.0,0.0
 Senador Elói de Souza,20-03-2021,116,-1,3,0,0.42857142857142855,0.0,1.0,0.0
 Senador Elói de Souza,21-03-2021,118,2,3,0,0.5714285714285714,0.0,3.0,0.0
 Senador Elói de Souza,22-03-2021,118,0,3,0,0.5,0.0,3.0,0.0
+Senador Elói de Souza,23-03-2021,119,1,3,0,0.5714285714285714,0.0,3.0,0.0

@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Chapada do Norte,27-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Chapada do Norte,28-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Chapada do Norte,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Chapada do Norte,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Chapada do Norte,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Chapada do Norte,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -360,3 +360,4 @@ Chapada do Norte,19-03-2021,52,4,1,0,0.7142857142857143,0.0,7.0,0.0
 Chapada do Norte,20-03-2021,50,-2,1,0,0.5714285714285714,0.0,3.0,0.0
 Chapada do Norte,21-03-2021,53,3,1,0,0.7857142857142857,0.0,6.0,0.0
 Chapada do Norte,22-03-2021,53,0,1,0,0.7857142857142857,0.0,6.0,0.0
+Chapada do Norte,23-03-2021,54,1,1,0,0.8571428571428571,0.0,7.0,0.0

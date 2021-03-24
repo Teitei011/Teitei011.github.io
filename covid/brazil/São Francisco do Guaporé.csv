@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São Francisco do Guaporé,27-03-2020,0,0,0,0,0.42857142857142855,0.07142857142857142,0.0,0.0
-São Francisco do Guaporé,28-03-2020,0,0,0,0,0.42857142857142855,0.07142857142857142,0.0,0.0
+São Francisco do Guaporé,28-03-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 São Francisco do Guaporé,29-03-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
-São Francisco do Guaporé,30-03-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
+São Francisco do Guaporé,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Francisco do Guaporé,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Francisco do Guaporé,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Francisco do Guaporé,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -360,3 +360,4 @@ São Francisco do Guaporé,19-03-2021,1424,13,24,0,22.714285714285715,0.5,135.0,
 São Francisco do Guaporé,20-03-2021,1431,7,24,0,21.357142857142858,0.5,131.0,0.0
 São Francisco do Guaporé,21-03-2021,1431,0,24,0,20.5,0.5,131.0,0.0
 São Francisco do Guaporé,22-03-2021,1435,4,26,2,19.285714285714285,0.5714285714285714,121.0,2.0
+São Francisco do Guaporé,23-03-2021,1466,31,28,2,18.857142857142858,0.7142857142857143,107.0,4.0

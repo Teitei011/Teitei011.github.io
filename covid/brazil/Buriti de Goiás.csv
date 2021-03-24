@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Buriti de Goiás,27-03-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
-Buriti de Goiás,28-03-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
+Buriti de Goiás,28-03-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
 Buriti de Goiás,29-03-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
-Buriti de Goiás,30-03-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
+Buriti de Goiás,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Buriti de Goiás,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Buriti de Goiás,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Buriti de Goiás,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -360,3 +360,4 @@ Buriti de Goiás,19-03-2021,133,0,1,0,0.14285714285714285,0.0,1.0,0.0
 Buriti de Goiás,20-03-2021,135,2,1,0,0.2857142857142857,0.0,3.0,0.0
 Buriti de Goiás,21-03-2021,135,0,1,0,0.2857142857142857,0.0,3.0,0.0
 Buriti de Goiás,22-03-2021,135,0,1,0,0.2857142857142857,0.0,3.0,0.0
+Buriti de Goiás,23-03-2021,137,2,1,0,0.42857142857142855,0.0,5.0,0.0

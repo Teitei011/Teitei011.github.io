@@ -1,16 +1,16 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Espírito Santo do Pinhal,27-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,2.0
 Espírito Santo do Pinhal,28-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,2.0
-Espírito Santo do Pinhal,29-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,2.0
+Espírito Santo do Pinhal,29-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
 Espírito Santo do Pinhal,30-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
-Espírito Santo do Pinhal,31-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
+Espírito Santo do Pinhal,31-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,0.0
 Espírito Santo do Pinhal,01-04-2020,0,0,0,0,0.0,0.14285714285714285,0.0,0.0
 Espírito Santo do Pinhal,02-04-2020,0,0,0,0,0.0,0.14285714285714285,0.0,0.0
 Espírito Santo do Pinhal,03-04-2020,0,0,0,0,0.0,0.14285714285714285,0.0,0.0
 Espírito Santo do Pinhal,04-04-2020,0,0,0,0,0.0,0.14285714285714285,0.0,0.0
-Espírito Santo do Pinhal,05-04-2020,0,0,0,0,0.0,0.14285714285714285,0.0,0.0
+Espírito Santo do Pinhal,05-04-2020,0,0,0,0,0.0,0.07142857142857142,0.0,0.0
 Espírito Santo do Pinhal,06-04-2020,0,0,0,0,0.0,0.07142857142857142,0.0,0.0
-Espírito Santo do Pinhal,07-04-2020,0,0,0,0,0.0,0.07142857142857142,0.0,0.0
+Espírito Santo do Pinhal,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Espírito Santo do Pinhal,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Espírito Santo do Pinhal,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Espírito Santo do Pinhal,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -360,3 +360,4 @@ Espírito Santo do Pinhal,19-03-2021,2844,19,56,0,22.5,0.6428571428571429,197.0,
 Espírito Santo do Pinhal,20-03-2021,2886,42,57,1,24.142857142857142,0.6428571428571429,207.0,4.0
 Espírito Santo do Pinhal,21-03-2021,2895,9,57,0,24.071428571428573,0.6428571428571429,198.0,4.0
 Espírito Santo do Pinhal,22-03-2021,2896,1,57,0,23.785714285714285,0.6428571428571429,196.0,4.0
+Espírito Santo do Pinhal,23-03-2021,2938,42,57,0,24.642857142857142,0.42857142857142855,203.0,3.0

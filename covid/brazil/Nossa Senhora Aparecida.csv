@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Nossa Senhora Aparecida,27-03-2020,0,0,0,0,1.7857142857142858,0.07142857142857142,13.0,0.0
-Nossa Senhora Aparecida,28-03-2020,0,0,0,0,1.7857142857142858,0.07142857142857142,13.0,0.0
-Nossa Senhora Aparecida,29-03-2020,0,0,0,0,1.7857142857142858,0.07142857142857142,7.0,0.0
+Nossa Senhora Aparecida,28-03-2020,0,0,0,0,1.7857142857142858,0.07142857142857142,7.0,0.0
+Nossa Senhora Aparecida,29-03-2020,0,0,0,0,1.5,0.07142857142857142,7.0,0.0
 Nossa Senhora Aparecida,30-03-2020,0,0,0,0,1.5,0.07142857142857142,7.0,0.0
 Nossa Senhora Aparecida,31-03-2020,0,0,0,0,1.5,0.07142857142857142,7.0,0.0
-Nossa Senhora Aparecida,01-04-2020,0,0,0,0,1.5,0.07142857142857142,7.0,0.0
-Nossa Senhora Aparecida,02-04-2020,0,0,0,0,1.0,0.0,0.0,0.0
+Nossa Senhora Aparecida,01-04-2020,0,0,0,0,1.0,0.0,0.0,0.0
+Nossa Senhora Aparecida,02-04-2020,0,0,0,0,0.9285714285714286,0.0,0.0,0.0
 Nossa Senhora Aparecida,03-04-2020,0,0,0,0,0.9285714285714286,0.0,0.0,0.0
-Nossa Senhora Aparecida,04-04-2020,0,0,0,0,0.9285714285714286,0.0,0.0,0.0
+Nossa Senhora Aparecida,04-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
 Nossa Senhora Aparecida,05-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
 Nossa Senhora Aparecida,06-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
 Nossa Senhora Aparecida,07-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
-Nossa Senhora Aparecida,08-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
+Nossa Senhora Aparecida,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nossa Senhora Aparecida,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nossa Senhora Aparecida,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nossa Senhora Aparecida,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -360,3 +360,4 @@ Nossa Senhora Aparecida,19-03-2021,365,1,6,0,3.642857142857143,0.0,32.0,0.0
 Nossa Senhora Aparecida,20-03-2021,365,0,6,0,3.642857142857143,0.0,32.0,0.0
 Nossa Senhora Aparecida,21-03-2021,376,11,6,0,3.4285714285714284,0.0,42.0,0.0
 Nossa Senhora Aparecida,22-03-2021,379,3,6,0,3.642857142857143,0.0,16.0,0.0
+Nossa Senhora Aparecida,23-03-2021,379,0,6,0,3.642857142857143,0.0,16.0,0.0

@@ -1,12 +1,12 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Nova Alvorada do Sul,27-03-2020,0,0,0,0,2.7857142857142856,0.0,11.0,0.0
+Nova Alvorada do Sul,27-03-2020,0,0,0,0,0.7857142857142857,0.0,0.0,0.0
 Nova Alvorada do Sul,28-03-2020,0,0,0,0,0.7857142857142857,0.0,0.0,0.0
 Nova Alvorada do Sul,29-03-2020,0,0,0,0,0.7857142857142857,0.0,0.0,0.0
 Nova Alvorada do Sul,30-03-2020,0,0,0,0,0.7857142857142857,0.0,0.0,0.0
 Nova Alvorada do Sul,31-03-2020,0,0,0,0,0.7857142857142857,0.0,0.0,0.0
 Nova Alvorada do Sul,01-04-2020,0,0,0,0,0.7857142857142857,0.0,0.0,0.0
 Nova Alvorada do Sul,02-04-2020,0,0,0,0,0.7857142857142857,0.0,0.0,0.0
-Nova Alvorada do Sul,03-04-2020,0,0,0,0,0.7857142857142857,0.0,0.0,0.0
+Nova Alvorada do Sul,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Alvorada do Sul,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Alvorada do Sul,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Alvorada do Sul,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -360,3 +360,4 @@ Nova Alvorada do Sul,19-03-2021,1137,6,14,0,7.714285714285714,0.0714285714285714
 Nova Alvorada do Sul,20-03-2021,1139,2,14,0,7.142857142857143,0.07142857142857142,42.0,0.0
 Nova Alvorada do Sul,21-03-2021,1138,-1,14,0,7.071428571428571,0.07142857142857142,40.0,0.0
 Nova Alvorada do Sul,22-03-2021,1138,0,14,0,7.071428571428571,0.07142857142857142,39.0,0.0
+Nova Alvorada do Sul,23-03-2021,1173,35,14,0,8.071428571428571,0.07142857142857142,61.0,0.0
