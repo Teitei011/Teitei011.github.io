@@ -1,15 +1,15 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Presidente Olegário,27-03-2020,0,0,0,0,0.21428571428571427,0.0,3.0,0.0
 Presidente Olegário,28-03-2020,0,0,0,0,0.21428571428571427,0.0,3.0,0.0
-Presidente Olegário,29-03-2020,0,0,0,0,0.21428571428571427,0.0,3.0,0.0
-Presidente Olegário,30-03-2020,0,0,0,0,0.21428571428571427,0.0,1.0,0.0
+Presidente Olegário,29-03-2020,0,0,0,0,0.21428571428571427,0.0,1.0,0.0
+Presidente Olegário,30-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Presidente Olegário,31-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Presidente Olegário,01-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Presidente Olegário,02-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Presidente Olegário,03-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Presidente Olegário,04-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
-Presidente Olegário,05-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
-Presidente Olegário,06-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Presidente Olegário,05-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Presidente Olegário,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Olegário,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Olegário,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Olegário,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -361,3 +361,4 @@ Presidente Olegário,20-03-2021,530,11,19,0,7.5,0.5714285714285714,66.0,3.0
 Presidente Olegário,21-03-2021,530,0,20,1,7.5,0.6428571428571429,66.0,3.0
 Presidente Olegário,22-03-2021,530,0,20,0,7.5,0.6428571428571429,66.0,3.0
 Presidente Olegário,23-03-2021,536,6,20,0,7.357142857142857,0.6428571428571429,59.0,3.0
+Presidente Olegário,24-03-2021,548,12,20,0,7.714285714285714,0.6428571428571429,49.0,2.0

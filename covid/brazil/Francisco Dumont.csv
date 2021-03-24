@@ -1,13 +1,13 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Francisco Dumont,27-03-2020,0,0,0,0,-0.2857142857142857,0.0,-4.0,0.0
-Francisco Dumont,28-03-2020,0,0,0,0,-0.2857142857142857,0.0,-4.0,0.0
+Francisco Dumont,28-03-2020,0,0,0,0,-0.2857142857142857,0.0,0.0,0.0
 Francisco Dumont,29-03-2020,0,0,0,0,-0.2857142857142857,0.0,0.0,0.0
 Francisco Dumont,30-03-2020,0,0,0,0,-0.2857142857142857,0.0,0.0,0.0
 Francisco Dumont,31-03-2020,0,0,0,0,-0.2857142857142857,0.0,0.0,0.0
 Francisco Dumont,01-04-2020,0,0,0,0,-0.2857142857142857,0.0,0.0,0.0
 Francisco Dumont,02-04-2020,0,0,0,0,-0.2857142857142857,0.0,0.0,0.0
 Francisco Dumont,03-04-2020,0,0,0,0,-0.2857142857142857,0.0,0.0,0.0
-Francisco Dumont,04-04-2020,0,0,0,0,-0.2857142857142857,0.0,0.0,0.0
+Francisco Dumont,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Francisco Dumont,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Francisco Dumont,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Francisco Dumont,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -361,3 +361,4 @@ Francisco Dumont,20-03-2021,73,3,3,0,1.0714285714285714,0.0,7.0,0.0
 Francisco Dumont,21-03-2021,73,0,3,0,1.0714285714285714,0.0,7.0,0.0
 Francisco Dumont,22-03-2021,73,0,3,0,1.0714285714285714,0.0,7.0,0.0
 Francisco Dumont,23-03-2021,77,4,3,0,1.2142857142857142,0.0,11.0,0.0
+Francisco Dumont,24-03-2021,82,5,3,0,1.5,0.0,15.0,0.0

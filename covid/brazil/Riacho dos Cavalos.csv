@@ -1,14 +1,14 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Riacho dos Cavalos,27-03-2020,0,0,0,0,0.21428571428571427,0.0,2.0,0.0
 Riacho dos Cavalos,28-03-2020,0,0,0,0,0.21428571428571427,0.0,2.0,0.0
-Riacho dos Cavalos,29-03-2020,0,0,0,0,0.21428571428571427,0.0,2.0,0.0
+Riacho dos Cavalos,29-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Riacho dos Cavalos,30-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Riacho dos Cavalos,31-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
-Riacho dos Cavalos,01-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
+Riacho dos Cavalos,01-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Riacho dos Cavalos,02-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Riacho dos Cavalos,03-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Riacho dos Cavalos,04-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Riacho dos Cavalos,05-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Riacho dos Cavalos,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Riacho dos Cavalos,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Riacho dos Cavalos,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Riacho dos Cavalos,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -361,3 +361,4 @@ Riacho dos Cavalos,20-03-2021,394,1,8,0,1.9285714285714286,0.0,14.0,0.0
 Riacho dos Cavalos,21-03-2021,395,1,8,0,1.9285714285714286,0.0,6.0,0.0
 Riacho dos Cavalos,22-03-2021,395,0,8,0,1.8571428571428572,0.0,5.0,0.0
 Riacho dos Cavalos,23-03-2021,395,0,8,0,1.2142857142857142,0.0,5.0,0.0
+Riacho dos Cavalos,24-03-2021,395,0,8,0,1.1428571428571428,0.0,3.0,0.0

@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Pedras de Maria da Cruz,27-03-2020,0,0,0,0,5.071428571428571,0.07142857142857142,42.0,0.0
-Pedras de Maria da Cruz,28-03-2020,0,0,0,0,4.714285714285714,0.07142857142857142,39.0,0.0
-Pedras de Maria da Cruz,29-03-2020,0,0,0,0,4.642857142857143,0.07142857142857142,38.0,0.0
-Pedras de Maria da Cruz,30-03-2020,0,0,0,0,3.7142857142857144,0.0,28.0,0.0
-Pedras de Maria da Cruz,31-03-2020,0,0,0,0,3.5714285714285716,0.0,22.0,0.0
-Pedras de Maria da Cruz,01-04-2020,0,0,0,0,3.2857142857142856,0.0,20.0,0.0
-Pedras de Maria da Cruz,02-04-2020,0,0,0,0,3.0714285714285716,0.0,0.0,0.0
-Pedras de Maria da Cruz,03-04-2020,0,0,0,0,3.0,0.0,0.0,0.0
-Pedras de Maria da Cruz,04-04-2020,0,0,0,0,2.7857142857142856,0.0,0.0,0.0
-Pedras de Maria da Cruz,05-04-2020,0,0,0,0,2.7142857142857144,0.0,0.0,0.0
-Pedras de Maria da Cruz,06-04-2020,0,0,0,0,2.0,0.0,0.0,0.0
-Pedras de Maria da Cruz,07-04-2020,0,0,0,0,1.5714285714285714,0.0,0.0,0.0
-Pedras de Maria da Cruz,08-04-2020,0,0,0,0,1.4285714285714286,0.0,0.0,0.0
+Pedras de Maria da Cruz,27-03-2020,0,0,0,0,4.714285714285714,0.07142857142857142,39.0,0.0
+Pedras de Maria da Cruz,28-03-2020,0,0,0,0,4.642857142857143,0.07142857142857142,38.0,0.0
+Pedras de Maria da Cruz,29-03-2020,0,0,0,0,3.7142857142857144,0.0,28.0,0.0
+Pedras de Maria da Cruz,30-03-2020,0,0,0,0,3.5714285714285716,0.0,22.0,0.0
+Pedras de Maria da Cruz,31-03-2020,0,0,0,0,3.2857142857142856,0.0,20.0,0.0
+Pedras de Maria da Cruz,01-04-2020,0,0,0,0,3.0714285714285716,0.0,0.0,0.0
+Pedras de Maria da Cruz,02-04-2020,0,0,0,0,3.0,0.0,0.0,0.0
+Pedras de Maria da Cruz,03-04-2020,0,0,0,0,2.7857142857142856,0.0,0.0,0.0
+Pedras de Maria da Cruz,04-04-2020,0,0,0,0,2.7142857142857144,0.0,0.0,0.0
+Pedras de Maria da Cruz,05-04-2020,0,0,0,0,2.0,0.0,0.0,0.0
+Pedras de Maria da Cruz,06-04-2020,0,0,0,0,1.5714285714285714,0.0,0.0,0.0
+Pedras de Maria da Cruz,07-04-2020,0,0,0,0,1.4285714285714286,0.0,0.0,0.0
+Pedras de Maria da Cruz,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pedras de Maria da Cruz,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pedras de Maria da Cruz,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pedras de Maria da Cruz,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -361,3 +361,4 @@ Pedras de Maria da Cruz,20-03-2021,194,0,2,0,3.857142857142857,0.0,54.0,0.0
 Pedras de Maria da Cruz,21-03-2021,194,0,2,0,3.857142857142857,0.0,54.0,0.0
 Pedras de Maria da Cruz,22-03-2021,194,0,2,0,3.857142857142857,0.0,54.0,0.0
 Pedras de Maria da Cruz,23-03-2021,194,0,2,0,3.857142857142857,0.0,54.0,0.0
+Pedras de Maria da Cruz,24-03-2021,194,0,2,0,3.857142857142857,0.0,0.0,0.0

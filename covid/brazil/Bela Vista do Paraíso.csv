@@ -1,12 +1,12 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Bela Vista do Paraíso,27-03-2020,0,0,0,0,0.5,0.0,3.0,0.0
-Bela Vista do Paraíso,28-03-2020,0,0,0,0,0.5,0.0,0.0,0.0
+Bela Vista do Paraíso,27-03-2020,0,0,0,0,0.5,0.0,0.0,0.0
+Bela Vista do Paraíso,28-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Bela Vista do Paraíso,29-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Bela Vista do Paraíso,30-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Bela Vista do Paraíso,31-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Bela Vista do Paraíso,01-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Bela Vista do Paraíso,02-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
-Bela Vista do Paraíso,03-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
+Bela Vista do Paraíso,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bela Vista do Paraíso,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bela Vista do Paraíso,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bela Vista do Paraíso,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -361,3 +361,4 @@ Bela Vista do Paraíso,20-03-2021,1274,6,28,0,18.357142857142858,0.5,147.0,0.0
 Bela Vista do Paraíso,21-03-2021,1281,7,28,0,16.857142857142858,0.5,154.0,0.0
 Bela Vista do Paraíso,22-03-2021,1301,20,34,6,16.857142857142858,0.9285714285714286,174.0,6.0
 Bela Vista do Paraíso,23-03-2021,1318,17,34,0,17.428571428571427,0.7142857142857143,163.0,6.0
+Bela Vista do Paraíso,24-03-2021,1337,19,34,0,16.642857142857142,0.6428571428571429,159.0,6.0

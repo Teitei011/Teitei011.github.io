@@ -1,13 +1,13 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santo Antônio do Jardim,27-03-2020,0,0,0,0,0.7142857142857143,0.0,2.0,0.0
-Santo Antônio do Jardim,28-03-2020,0,0,0,0,0.7142857142857143,0.0,2.0,0.0
+Santo Antônio do Jardim,28-03-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
 Santo Antônio do Jardim,29-03-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
-Santo Antônio do Jardim,30-03-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
+Santo Antônio do Jardim,30-03-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 Santo Antônio do Jardim,31-03-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 Santo Antônio do Jardim,01-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
-Santo Antônio do Jardim,02-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
+Santo Antônio do Jardim,02-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Santo Antônio do Jardim,03-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Santo Antônio do Jardim,04-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Santo Antônio do Jardim,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Jardim,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Jardim,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Jardim,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -361,3 +361,4 @@ Santo Antônio do Jardim,20-03-2021,286,6,5,0,3.4285714285714284,0.0714285714285
 Santo Antônio do Jardim,21-03-2021,287,1,5,0,3.5,0.07142857142857142,32.0,1.0
 Santo Antônio do Jardim,22-03-2021,287,0,5,0,3.357142857142857,0.07142857142857142,32.0,1.0
 Santo Antônio do Jardim,23-03-2021,292,5,5,0,3.357142857142857,0.07142857142857142,34.0,1.0
+Santo Antônio do Jardim,24-03-2021,295,3,5,0,3.5714285714285716,0.07142857142857142,32.0,1.0
