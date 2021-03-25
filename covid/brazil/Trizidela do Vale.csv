@@ -1,15 +1,15 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Trizidela do Vale,27-03-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
-Trizidela do Vale,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Trizidela do Vale,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Trizidela do Vale,28-03-2020,0,0,0,0,0.0,0.0,2.0,0.0
 Trizidela do Vale,29-03-2020,0,0,0,0,0.0,0.0,2.0,0.0
-Trizidela do Vale,30-03-2020,0,0,0,0,0.0,0.0,2.0,0.0
+Trizidela do Vale,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Trizidela do Vale,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Trizidela do Vale,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Trizidela do Vale,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Trizidela do Vale,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Trizidela do Vale,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Trizidela do Vale,04-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Trizidela do Vale,05-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Trizidela do Vale,06-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Trizidela do Vale,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Trizidela do Vale,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Trizidela do Vale,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Trizidela do Vale,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -362,3 +362,4 @@ Trizidela do Vale,21-03-2021,749,0,17,0,3.2857142857142856,0.0,46.0,0.0
 Trizidela do Vale,22-03-2021,749,0,17,0,3.2857142857142856,0.0,35.0,0.0
 Trizidela do Vale,23-03-2021,752,3,17,0,3.5,0.0,37.0,0.0
 Trizidela do Vale,24-03-2021,756,4,17,0,3.7857142857142856,0.0,41.0,0.0
+Trizidela do Vale,25-03-2021,764,8,17,0,4.357142857142857,0.0,24.0,0.0

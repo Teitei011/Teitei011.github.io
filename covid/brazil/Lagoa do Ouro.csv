@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Lagoa do Ouro,27-03-2020,0,0,0,0,5.428571428571429,0.0,0.0,0.0
-Lagoa do Ouro,28-03-2020,0,0,0,0,4.785714285714286,0.0,0.0,0.0
-Lagoa do Ouro,29-03-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
+Lagoa do Ouro,27-03-2020,0,0,0,0,4.785714285714286,0.0,0.0,0.0
+Lagoa do Ouro,28-03-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
+Lagoa do Ouro,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lagoa do Ouro,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lagoa do Ouro,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lagoa do Ouro,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -362,3 +362,4 @@ Lagoa do Ouro,21-03-2021,169,0,6,0,0.2857142857142857,0.0,2.0,0.0
 Lagoa do Ouro,22-03-2021,169,0,6,0,0.2857142857142857,0.0,2.0,0.0
 Lagoa do Ouro,23-03-2021,170,1,6,0,0.35714285714285715,0.0,2.0,0.0
 Lagoa do Ouro,24-03-2021,171,1,6,0,0.42857142857142855,0.0,3.0,0.0
+Lagoa do Ouro,25-03-2021,171,0,6,0,0.42857142857142855,0.0,3.0,0.0
