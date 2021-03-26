@@ -1,16 +1,16 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São José dos Ausentes,27-03-2020,0,0,0,0,0.21428571428571427,0.0,2.0,0.0
+São José dos Ausentes,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 São José dos Ausentes,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 São José dos Ausentes,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 São José dos Ausentes,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-São José dos Ausentes,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+São José dos Ausentes,31-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 São José dos Ausentes,01-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 São José dos Ausentes,02-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-São José dos Ausentes,03-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+São José dos Ausentes,03-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 São José dos Ausentes,04-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 São José dos Ausentes,05-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 São José dos Ausentes,06-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-São José dos Ausentes,07-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+São José dos Ausentes,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José dos Ausentes,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José dos Ausentes,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José dos Ausentes,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -363,3 +363,4 @@ São José dos Ausentes,22-03-2021,289,0,6,0,2.5,0.0,14.0,0.0
 São José dos Ausentes,23-03-2021,303,14,6,0,3.5,0.0,23.0,0.0
 São José dos Ausentes,24-03-2021,305,2,6,0,3.642857142857143,0.0,25.0,0.0
 São José dos Ausentes,25-03-2021,305,0,6,0,3.5,0.0,25.0,0.0
+São José dos Ausentes,26-03-2021,305,0,6,0,2.0714285714285716,0.0,16.0,0.0

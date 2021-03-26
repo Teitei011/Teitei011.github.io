@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Capim Branco,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Capim Branco,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Capim Branco,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Capim Branco,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Capim Branco,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -363,3 +363,4 @@ Capim Branco,22-03-2021,297,0,5,0,3.4285714285714284,0.07142857142857142,27.0,1.
 Capim Branco,23-03-2021,297,0,5,0,3.4285714285714284,0.07142857142857142,27.0,1.0
 Capim Branco,24-03-2021,322,25,5,0,5.0,0.07142857142857142,52.0,0.0
 Capim Branco,25-03-2021,338,16,5,0,5.857142857142857,0.07142857142857142,53.0,0.0
+Capim Branco,26-03-2021,343,5,5,0,6.071428571428571,0.07142857142857142,54.0,0.0

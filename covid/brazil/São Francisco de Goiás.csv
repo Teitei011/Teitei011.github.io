@@ -1,13 +1,13 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Francisco de Goiás,27-03-2020,0,0,0,0,0.5714285714285714,0.0,8.0,0.0
-São Francisco de Goiás,28-03-2020,0,0,0,0,0.5714285714285714,0.0,7.0,0.0
+São Francisco de Goiás,27-03-2020,0,0,0,0,0.5714285714285714,0.0,7.0,0.0
+São Francisco de Goiás,28-03-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
 São Francisco de Goiás,29-03-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
 São Francisco de Goiás,30-03-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
 São Francisco de Goiás,31-03-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
 São Francisco de Goiás,01-04-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
 São Francisco de Goiás,02-04-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
-São Francisco de Goiás,03-04-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
-São Francisco de Goiás,04-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
+São Francisco de Goiás,03-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
+São Francisco de Goiás,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Francisco de Goiás,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Francisco de Goiás,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Francisco de Goiás,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -363,3 +363,4 @@ São Francisco de Goiás,22-03-2021,260,0,6,0,0.7142857142857143,0.0714285714285
 São Francisco de Goiás,23-03-2021,260,0,6,0,0.7142857142857143,0.07142857142857142,5.0,1.0
 São Francisco de Goiás,24-03-2021,261,1,6,0,0.7142857142857143,0.07142857142857142,2.0,1.0
 São Francisco de Goiás,25-03-2021,261,0,6,0,0.7142857142857143,0.07142857142857142,1.0,1.0
+São Francisco de Goiás,26-03-2021,276,15,6,0,1.7142857142857142,0.07142857142857142,16.0,0.0

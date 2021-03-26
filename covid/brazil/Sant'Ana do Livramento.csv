@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Sant'Ana do Livramento,27-03-2020,0,0,0,0,2.357142857142857,0.0,14.0,0.0
-Sant'Ana do Livramento,28-03-2020,0,0,0,0,1.5714285714285714,0.0,12.0,0.0
-Sant'Ana do Livramento,29-03-2020,4,4,0,0,1.7857142857142858,0.0,15.0,0.0
-Sant'Ana do Livramento,30-03-2020,4,0,0,0,1.7142857142857142,0.0,15.0,0.0
-Sant'Ana do Livramento,31-03-2020,4,0,0,0,1.9285714285714286,0.0,13.0,0.0
-Sant'Ana do Livramento,01-04-2020,5,1,0,0,1.7857142857142858,0.0,12.0,0.0
-Sant'Ana do Livramento,02-04-2020,5,0,0,0,1.5714285714285714,0.0,5.0,0.0
-Sant'Ana do Livramento,03-04-2020,5,0,0,0,1.3571428571428572,0.0,5.0,0.0
-Sant'Ana do Livramento,04-04-2020,5,0,0,0,1.2142857142857142,0.0,5.0,0.0
+Sant'Ana do Livramento,27-03-2020,0,0,0,0,1.5714285714285714,0.0,12.0,0.0
+Sant'Ana do Livramento,28-03-2020,0,0,0,0,1.5,0.0,11.0,0.0
+Sant'Ana do Livramento,29-03-2020,4,4,0,0,1.7142857142857142,0.0,15.0,0.0
+Sant'Ana do Livramento,30-03-2020,4,0,0,0,1.9285714285714286,0.0,13.0,0.0
+Sant'Ana do Livramento,31-03-2020,4,0,0,0,1.7142857142857142,0.0,11.0,0.0
+Sant'Ana do Livramento,01-04-2020,5,1,0,0,1.5714285714285714,0.0,5.0,0.0
+Sant'Ana do Livramento,02-04-2020,5,0,0,0,1.3571428571428572,0.0,5.0,0.0
+Sant'Ana do Livramento,03-04-2020,5,0,0,0,1.2142857142857142,0.0,5.0,0.0
+Sant'Ana do Livramento,04-04-2020,5,0,0,0,1.1428571428571428,0.0,5.0,0.0
 Sant'Ana do Livramento,05-04-2020,5,0,0,0,1.1428571428571428,0.0,1.0,0.0
-Sant'Ana do Livramento,06-04-2020,7,2,0,0,1.2857142857142858,0.0,3.0,0.0
-Sant'Ana do Livramento,07-04-2020,7,0,0,0,1.1428571428571428,0.0,3.0,0.0
-Sant'Ana do Livramento,08-04-2020,7,0,0,0,1.0,0.0,2.0,0.0
+Sant'Ana do Livramento,06-04-2020,7,2,0,0,1.1428571428571428,0.0,3.0,0.0
+Sant'Ana do Livramento,07-04-2020,7,0,0,0,1.0,0.0,3.0,0.0
+Sant'Ana do Livramento,08-04-2020,7,0,0,0,0.5,0.0,2.0,0.0
 Sant'Ana do Livramento,09-04-2020,7,0,0,0,0.5,0.0,2.0,0.0
 Sant'Ana do Livramento,10-04-2020,7,0,0,0,0.5,0.0,2.0,0.0
 Sant'Ana do Livramento,11-04-2020,7,0,0,0,0.5,0.0,2.0,0.0
@@ -363,3 +363,4 @@ Sant'Ana do Livramento,22-03-2021,5016,0,64,3,74.85714285714286,1.64285714285714
 Sant'Ana do Livramento,23-03-2021,5149,133,64,0,75.14285714285714,1.6428571428571428,418.0,23.0
 Sant'Ana do Livramento,24-03-2021,5229,80,67,3,76.21428571428571,1.8571428571428572,467.0,26.0
 Sant'Ana do Livramento,25-03-2021,5310,81,69,2,77.21428571428571,2.0,469.0,26.0
+Sant'Ana do Livramento,26-03-2021,5310,0,69,0,64.64285714285714,2.0,385.0,15.0

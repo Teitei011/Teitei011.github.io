@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Campo Limpo Paulista,27-03-2020,0,0,0,0,2.142857142857143,0.0,25.0,0.0
-Campo Limpo Paulista,28-03-2020,0,0,0,0,1.9285714285714286,0.0,21.0,0.0
-Campo Limpo Paulista,29-03-2020,0,0,0,0,1.9285714285714286,0.0,21.0,0.0
-Campo Limpo Paulista,30-03-2020,0,0,0,0,1.9285714285714286,0.0,21.0,0.0
-Campo Limpo Paulista,31-03-2020,0,0,0,0,1.7857142857142858,0.0,12.0,0.0
-Campo Limpo Paulista,01-04-2020,0,0,0,0,1.7857142857142858,0.0,2.0,0.0
-Campo Limpo Paulista,02-04-2020,0,0,0,0,1.7857142857142858,0.0,0.0,0.0
-Campo Limpo Paulista,03-04-2020,0,0,0,0,1.7857142857142858,0.0,0.0,0.0
-Campo Limpo Paulista,04-04-2020,0,0,0,0,1.5,0.0,0.0,0.0
-Campo Limpo Paulista,05-04-2020,0,0,0,0,1.5,0.0,0.0,0.0
-Campo Limpo Paulista,06-04-2020,0,0,0,0,1.5,0.0,0.0,0.0
-Campo Limpo Paulista,07-04-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
-Campo Limpo Paulista,08-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Campo Limpo Paulista,27-03-2020,0,0,0,0,2.0,0.0,22.0,0.0
+Campo Limpo Paulista,28-03-2020,0,0,0,0,2.0,0.0,22.0,0.0
+Campo Limpo Paulista,29-03-2020,0,0,0,0,2.0,0.0,22.0,0.0
+Campo Limpo Paulista,30-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
+Campo Limpo Paulista,31-03-2020,0,0,0,0,1.8571428571428572,0.0,3.0,0.0
+Campo Limpo Paulista,01-04-2020,0,0,0,0,1.8571428571428572,0.0,1.0,0.0
+Campo Limpo Paulista,02-04-2020,0,0,0,0,1.8571428571428572,0.0,0.0,0.0
+Campo Limpo Paulista,03-04-2020,0,0,0,0,1.5714285714285714,0.0,0.0,0.0
+Campo Limpo Paulista,04-04-2020,0,0,0,0,1.5714285714285714,0.0,0.0,0.0
+Campo Limpo Paulista,05-04-2020,0,0,0,0,1.5714285714285714,0.0,0.0,0.0
+Campo Limpo Paulista,06-04-2020,0,0,0,0,0.9285714285714286,0.0,0.0,0.0
+Campo Limpo Paulista,07-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
+Campo Limpo Paulista,08-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Campo Limpo Paulista,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campo Limpo Paulista,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campo Limpo Paulista,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -363,3 +363,4 @@ Campo Limpo Paulista,22-03-2021,2873,8,106,0,29.928571428571427,0.28571428571428
 Campo Limpo Paulista,23-03-2021,2954,81,106,0,34.857142857142854,0.2857142857142857,310.0,2.0
 Campo Limpo Paulista,24-03-2021,2996,42,106,0,35.92857142857143,0.14285714285714285,312.0,2.0
 Campo Limpo Paulista,25-03-2021,3050,54,110,4,37.785714285714285,0.42857142857142855,333.0,6.0
+Campo Limpo Paulista,26-03-2021,3062,12,110,0,35.42857142857143,0.42857142857142855,301.0,5.0

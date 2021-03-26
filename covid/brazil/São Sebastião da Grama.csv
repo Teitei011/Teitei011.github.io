@@ -1,12 +1,12 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Sebastião da Grama,27-03-2020,0,0,0,0,0.2857142857142857,0.0,1.0,0.0
+São Sebastião da Grama,27-03-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
 São Sebastião da Grama,28-03-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
 São Sebastião da Grama,29-03-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
 São Sebastião da Grama,30-03-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
-São Sebastião da Grama,31-03-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+São Sebastião da Grama,31-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 São Sebastião da Grama,01-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 São Sebastião da Grama,02-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-São Sebastião da Grama,03-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+São Sebastião da Grama,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Sebastião da Grama,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Sebastião da Grama,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Sebastião da Grama,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -363,3 +363,4 @@ São Sebastião da Grama,22-03-2021,593,0,14,0,4.357142857142857,0.2142857142857
 São Sebastião da Grama,23-03-2021,595,2,14,0,4.5,0.21428571428571427,19.0,2.0
 São Sebastião da Grama,24-03-2021,600,5,16,2,3.2142857142857144,0.35714285714285715,21.0,2.0
 São Sebastião da Grama,25-03-2021,607,7,16,0,3.2142857142857144,0.35714285714285715,21.0,2.0
+São Sebastião da Grama,26-03-2021,608,1,16,0,2.7142857142857144,0.35714285714285715,22.0,2.0

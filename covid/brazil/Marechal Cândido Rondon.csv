@@ -1,12 +1,12 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Marechal Cândido Rondon,27-03-2020,0,0,0,0,1.2142857142857142,0.0,3.0,0.0
+Marechal Cândido Rondon,27-03-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 Marechal Cândido Rondon,28-03-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 Marechal Cândido Rondon,29-03-2020,1,1,0,0,0.5,0.0,1.0,0.0
 Marechal Cândido Rondon,30-03-2020,1,0,0,0,0.5,0.0,1.0,0.0
 Marechal Cândido Rondon,31-03-2020,1,0,0,0,0.5,0.0,1.0,0.0
-Marechal Cândido Rondon,01-04-2020,1,0,0,0,0.5,0.0,1.0,0.0
+Marechal Cândido Rondon,01-04-2020,1,0,0,0,0.2857142857142857,0.0,1.0,0.0
 Marechal Cândido Rondon,02-04-2020,1,0,0,0,0.2857142857142857,0.0,1.0,0.0
-Marechal Cândido Rondon,03-04-2020,2,1,0,0,0.35714285714285715,0.0,2.0,0.0
+Marechal Cândido Rondon,03-04-2020,2,1,0,0,0.14285714285714285,0.0,2.0,0.0
 Marechal Cândido Rondon,04-04-2020,2,0,0,0,0.14285714285714285,0.0,2.0,0.0
 Marechal Cândido Rondon,05-04-2020,2,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Marechal Cândido Rondon,06-04-2020,2,0,0,0,0.14285714285714285,0.0,1.0,0.0
@@ -363,3 +363,4 @@ Marechal Cândido Rondon,22-03-2021,3830,4,51,0,23.142857142857142,0.42857142857
 Marechal Cândido Rondon,23-03-2021,3861,31,52,1,23.428571428571427,0.5,155.0,4.0
 Marechal Cândido Rondon,24-03-2021,3878,17,52,0,22.142857142857142,0.5,155.0,4.0
 Marechal Cândido Rondon,25-03-2021,3944,66,53,1,25.785714285714285,0.5714285714285714,205.0,5.0
+Marechal Cândido Rondon,26-03-2021,3963,19,53,0,24.857142857142858,0.5714285714285714,178.0,4.0
