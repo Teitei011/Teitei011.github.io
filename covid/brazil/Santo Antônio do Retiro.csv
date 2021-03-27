@@ -1,13 +1,13 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santo Antônio do Retiro,27-03-2020,0,0,0,0,0.21428571428571427,0.0,1.0,0.0
-Santo Antônio do Retiro,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santo Antônio do Retiro,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santo Antônio do Retiro,28-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Santo Antônio do Retiro,29-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Santo Antônio do Retiro,30-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Santo Antônio do Retiro,31-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Santo Antônio do Retiro,01-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Santo Antônio do Retiro,01-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Santo Antônio do Retiro,02-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Santo Antônio do Retiro,03-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Santo Antônio do Retiro,04-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Santo Antônio do Retiro,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Retiro,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Retiro,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Retiro,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -364,3 +364,4 @@ Santo Antônio do Retiro,23-03-2021,149,0,1,0,0.7142857142857143,0.0,9.0,0.0
 Santo Antônio do Retiro,24-03-2021,151,2,1,0,0.8571428571428571,0.0,7.0,0.0
 Santo Antônio do Retiro,25-03-2021,156,5,1,0,1.2142857142857142,0.0,12.0,0.0
 Santo Antônio do Retiro,26-03-2021,156,0,1,0,1.2142857142857142,0.0,12.0,0.0
+Santo Antônio do Retiro,27-03-2021,156,0,1,0,1.1428571428571428,0.0,7.0,0.0

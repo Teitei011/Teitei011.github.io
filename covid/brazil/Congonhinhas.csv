@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Congonhinhas,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Congonhinhas,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Congonhinhas,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Congonhinhas,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Congonhinhas,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -364,3 +364,4 @@ Congonhinhas,23-03-2021,357,12,9,0,3.9285714285714284,0.0,37.0,0.0
 Congonhinhas,24-03-2021,363,6,9,0,4.142857142857143,0.0,40.0,0.0
 Congonhinhas,25-03-2021,367,4,9,0,4.357142857142857,0.0,41.0,0.0
 Congonhinhas,26-03-2021,382,15,9,0,5.357142857142857,0.0,41.0,0.0
+Congonhinhas,27-03-2021,383,1,9,0,4.785714285714286,0.0,40.0,0.0

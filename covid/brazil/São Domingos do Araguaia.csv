@@ -1,16 +1,16 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Domingos do Araguaia,27-03-2020,0,0,0,0,9.0,0.0,58.0,0.0
+São Domingos do Araguaia,27-03-2020,0,0,0,0,8.428571428571429,0.0,58.0,0.0
 São Domingos do Araguaia,28-03-2020,0,0,0,0,8.428571428571429,0.0,58.0,0.0
 São Domingos do Araguaia,29-03-2020,0,0,0,0,8.428571428571429,0.0,58.0,0.0
 São Domingos do Araguaia,30-03-2020,0,0,0,0,8.428571428571429,0.0,58.0,0.0
-São Domingos do Araguaia,31-03-2020,0,0,0,0,8.428571428571429,0.0,58.0,0.0
-São Domingos do Araguaia,01-04-2020,0,0,0,0,8.428571428571429,0.0,0.0,0.0
-São Domingos do Araguaia,02-04-2020,0,0,0,0,6.571428571428571,0.0,0.0,0.0
+São Domingos do Araguaia,31-03-2020,0,0,0,0,8.428571428571429,0.0,0.0,0.0
+São Domingos do Araguaia,01-04-2020,0,0,0,0,6.571428571428571,0.0,0.0,0.0
+São Domingos do Araguaia,02-04-2020,0,0,0,0,4.142857142857143,0.0,0.0,0.0
 São Domingos do Araguaia,03-04-2020,0,0,0,0,4.142857142857143,0.0,0.0,0.0
 São Domingos do Araguaia,04-04-2020,0,0,0,0,4.142857142857143,0.0,0.0,0.0
 São Domingos do Araguaia,05-04-2020,0,0,0,0,4.142857142857143,0.0,0.0,0.0
 São Domingos do Araguaia,06-04-2020,0,0,0,0,4.142857142857143,0.0,0.0,0.0
-São Domingos do Araguaia,07-04-2020,0,0,0,0,4.142857142857143,0.0,0.0,0.0
+São Domingos do Araguaia,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Domingos do Araguaia,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Domingos do Araguaia,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Domingos do Araguaia,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -364,3 +364,4 @@ São Domingos do Araguaia,23-03-2021,1585,10,23,2,4.928571428571429,0.2142857142
 São Domingos do Araguaia,24-03-2021,1593,8,23,0,4.785714285714286,0.21428571428571427,47.0,2.0
 São Domingos do Araguaia,25-03-2021,1606,13,23,0,5.571428571428571,0.14285714285714285,55.0,2.0
 São Domingos do Araguaia,26-03-2021,1614,8,24,1,6.0,0.21428571428571427,39.0,3.0
+São Domingos do Araguaia,27-03-2021,1620,6,24,0,6.428571428571429,0.21428571428571427,45.0,3.0

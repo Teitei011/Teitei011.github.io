@@ -1,16 +1,16 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santa Cruz de Minas,27-03-2020,0,0,0,0,1.4285714285714286,0.0,21.0,0.0
 Santa Cruz de Minas,28-03-2020,0,0,0,0,1.4285714285714286,0.0,21.0,0.0
-Santa Cruz de Minas,29-03-2020,0,0,0,0,1.4285714285714286,0.0,21.0,0.0
-Santa Cruz de Minas,30-03-2020,0,0,0,0,1.4285714285714286,0.0,20.0,0.0
-Santa Cruz de Minas,31-03-2020,0,0,0,0,1.5,0.0,11.0,0.0
+Santa Cruz de Minas,29-03-2020,0,0,0,0,1.4285714285714286,0.0,20.0,0.0
+Santa Cruz de Minas,30-03-2020,0,0,0,0,1.5,0.0,11.0,0.0
+Santa Cruz de Minas,31-03-2020,0,0,0,0,1.5,0.0,0.0,0.0
 Santa Cruz de Minas,01-04-2020,0,0,0,0,1.5,0.0,0.0,0.0
 Santa Cruz de Minas,02-04-2020,0,0,0,0,1.5,0.0,0.0,0.0
 Santa Cruz de Minas,03-04-2020,0,0,0,0,1.5,0.0,0.0,0.0
 Santa Cruz de Minas,04-04-2020,0,0,0,0,1.5,0.0,0.0,0.0
-Santa Cruz de Minas,05-04-2020,0,0,0,0,1.5,0.0,0.0,0.0
-Santa Cruz de Minas,06-04-2020,0,0,0,0,1.4285714285714286,0.0,0.0,0.0
-Santa Cruz de Minas,07-04-2020,0,0,0,0,0.7857142857142857,0.0,0.0,0.0
+Santa Cruz de Minas,05-04-2020,0,0,0,0,1.4285714285714286,0.0,0.0,0.0
+Santa Cruz de Minas,06-04-2020,0,0,0,0,0.7857142857142857,0.0,0.0,0.0
+Santa Cruz de Minas,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Cruz de Minas,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Cruz de Minas,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Cruz de Minas,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -364,3 +364,4 @@ Santa Cruz de Minas,23-03-2021,294,4,6,0,0.7857142857142857,0.0,9.0,0.0
 Santa Cruz de Minas,24-03-2021,294,0,7,1,0.7857142857142857,0.07142857142857142,9.0,1.0
 Santa Cruz de Minas,25-03-2021,300,6,7,0,1.2142857142857142,0.07142857142857142,13.0,1.0
 Santa Cruz de Minas,26-03-2021,301,1,7,0,1.2857142857142858,0.07142857142857142,13.0,1.0
+Santa Cruz de Minas,27-03-2021,305,4,7,0,1.5714285714285714,0.07142857142857142,17.0,1.0
