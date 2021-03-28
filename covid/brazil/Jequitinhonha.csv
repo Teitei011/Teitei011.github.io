@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Jequitinhonha,27-03-2020,0,0,0,0,0.35714285714285715,0.07142857142857142,0.0,0.0
+Jequitinhonha,27-03-2020,0,0,0,0,0.0,0.07142857142857142,0.0,0.0
 Jequitinhonha,28-03-2020,0,0,0,0,0.0,0.07142857142857142,0.0,0.0
 Jequitinhonha,29-03-2020,0,0,0,0,0.0,0.07142857142857142,0.0,0.0
-Jequitinhonha,30-03-2020,0,0,0,0,0.0,0.07142857142857142,0.0,0.0
+Jequitinhonha,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Jequitinhonha,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Jequitinhonha,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Jequitinhonha,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -365,3 +365,4 @@ Jequitinhonha,24-03-2021,955,0,9,0,2.357142857142857,0.0,14.0,0.0
 Jequitinhonha,25-03-2021,955,0,9,0,2.357142857142857,0.0,14.0,0.0
 Jequitinhonha,26-03-2021,955,0,9,0,2.357142857142857,0.0,14.0,0.0
 Jequitinhonha,27-03-2021,955,0,10,1,1.0,0.07142857142857142,0.0,1.0
+Jequitinhonha,28-03-2021,955,0,10,0,1.0,0.07142857142857142,0.0,1.0

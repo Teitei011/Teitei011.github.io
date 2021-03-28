@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Belém do São Francisco,27-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Belém do São Francisco,28-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Belém do São Francisco,29-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Belém do São Francisco,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Belém do São Francisco,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Belém do São Francisco,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Belém do São Francisco,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -365,3 +365,4 @@ Belém do São Francisco,24-03-2021,362,0,7,0,2.5,0.14285714285714285,23.0,2.0
 Belém do São Francisco,25-03-2021,384,22,7,0,3.7857142857142856,0.14285714285714285,44.0,2.0
 Belém do São Francisco,26-03-2021,390,6,7,0,3.7857142857142856,0.14285714285714285,38.0,2.0
 Belém do São Francisco,27-03-2021,402,12,7,0,4.5,0.14285714285714285,49.0,2.0
+Belém do São Francisco,28-03-2021,406,4,7,0,4.785714285714286,0.14285714285714285,53.0,2.0

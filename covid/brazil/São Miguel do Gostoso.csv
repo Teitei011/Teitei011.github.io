@@ -1,15 +1,15 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São Miguel do Gostoso,27-03-2020,0,0,0,0,0.21428571428571427,0.0,2.0,0.0
-São Miguel do Gostoso,28-03-2020,0,0,0,0,0.21428571428571427,0.0,2.0,0.0
+São Miguel do Gostoso,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 São Miguel do Gostoso,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-São Miguel do Gostoso,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+São Miguel do Gostoso,30-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 São Miguel do Gostoso,31-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 São Miguel do Gostoso,01-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 São Miguel do Gostoso,02-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 São Miguel do Gostoso,03-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-São Miguel do Gostoso,04-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+São Miguel do Gostoso,04-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 São Miguel do Gostoso,05-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-São Miguel do Gostoso,06-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+São Miguel do Gostoso,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel do Gostoso,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel do Gostoso,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel do Gostoso,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -365,3 +365,4 @@ São Miguel do Gostoso,24-03-2021,334,3,12,0,1.6428571428571428,0.0,23.0,0.0
 São Miguel do Gostoso,25-03-2021,334,0,12,0,1.6428571428571428,0.0,23.0,0.0
 São Miguel do Gostoso,26-03-2021,339,5,12,0,2.0,0.0,11.0,0.0
 São Miguel do Gostoso,27-03-2021,339,0,12,0,2.0,0.0,10.0,0.0
+São Miguel do Gostoso,28-03-2021,339,0,12,0,2.0,0.0,11.0,0.0
