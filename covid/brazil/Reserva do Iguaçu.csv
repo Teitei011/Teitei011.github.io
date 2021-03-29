@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Reserva do Iguaçu,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Reserva do Iguaçu,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Reserva do Iguaçu,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Reserva do Iguaçu,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Reserva do Iguaçu,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Reserva do Iguaçu,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -366,3 +366,4 @@ Reserva do Iguaçu,25-03-2021,362,9,3,0,5.071428571428571,0.0,32.0,0.0
 Reserva do Iguaçu,26-03-2021,376,14,3,0,5.928571428571429,0.0,44.0,0.0
 Reserva do Iguaçu,27-03-2021,380,4,3,0,5.928571428571429,0.0,47.0,0.0
 Reserva do Iguaçu,28-03-2021,380,0,3,0,5.857142857142857,0.0,47.0,0.0
+Reserva do Iguaçu,29-03-2021,380,0,3,0,5.714285714285714,0.0,47.0,0.0

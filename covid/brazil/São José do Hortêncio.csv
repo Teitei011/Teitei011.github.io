@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São José do Hortêncio,27-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
+São José do Hortêncio,27-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 São José do Hortêncio,28-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-São José do Hortêncio,29-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-São José do Hortêncio,30-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+São José do Hortêncio,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+São José do Hortêncio,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José do Hortêncio,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José do Hortêncio,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José do Hortêncio,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -366,3 +366,4 @@ São José do Hortêncio,25-03-2021,440,4,8,0,5.214285714285714,0.14285714285714
 São José do Hortêncio,26-03-2021,440,0,8,0,4.285714285714286,0.14285714285714285,22.0,2.0
 São José do Hortêncio,27-03-2021,448,8,8,0,4.357142857142857,0.14285714285714285,26.0,2.0
 São José do Hortêncio,28-03-2021,448,0,8,0,4.357142857142857,0.14285714285714285,26.0,2.0
+São José do Hortêncio,29-03-2021,448,0,8,0,4.5,0.14285714285714285,25.0,0.0

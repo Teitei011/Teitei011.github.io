@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Monsenhor Gil,27-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Monsenhor Gil,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Monsenhor Gil,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Monsenhor Gil,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Monsenhor Gil,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -366,3 +366,4 @@ Monsenhor Gil,25-03-2021,870,9,21,0,3.857142857142857,0.21428571428571427,38.0,2
 Monsenhor Gil,26-03-2021,873,3,21,0,3.642857142857143,0.21428571428571427,35.0,2.0
 Monsenhor Gil,27-03-2021,881,8,21,0,4.142857142857143,0.21428571428571427,38.0,1.0
 Monsenhor Gil,28-03-2021,890,9,21,0,4.785714285714286,0.21428571428571427,45.0,1.0
+Monsenhor Gil,29-03-2021,900,10,21,0,5.5,0.21428571428571427,49.0,1.0

@@ -1,16 +1,16 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Divinópolis do Tocantins,27-03-2020,0,0,0,0,2.142857142857143,0.21428571428571427,14.0,0.0
-Divinópolis do Tocantins,28-03-2020,0,0,0,0,1.5714285714285714,0.14285714285714285,12.0,0.0
-Divinópolis do Tocantins,29-03-2020,0,0,0,0,1.2857142857142858,0.0,2.0,0.0
-Divinópolis do Tocantins,30-03-2020,0,0,0,0,1.2142857142857142,0.0,2.0,0.0
-Divinópolis do Tocantins,31-03-2020,0,0,0,0,1.1428571428571428,0.0,1.0,0.0
+Divinópolis do Tocantins,27-03-2020,0,0,0,0,1.5714285714285714,0.14285714285714285,12.0,0.0
+Divinópolis do Tocantins,28-03-2020,0,0,0,0,1.2857142857142858,0.0,2.0,0.0
+Divinópolis do Tocantins,29-03-2020,0,0,0,0,1.2142857142857142,0.0,2.0,0.0
+Divinópolis do Tocantins,30-03-2020,0,0,0,0,1.1428571428571428,0.0,1.0,0.0
+Divinópolis do Tocantins,31-03-2020,0,0,0,0,1.0,0.0,0.0,0.0
 Divinópolis do Tocantins,01-04-2020,0,0,0,0,1.0,0.0,0.0,0.0
 Divinópolis do Tocantins,02-04-2020,0,0,0,0,1.0,0.0,0.0,0.0
-Divinópolis do Tocantins,03-04-2020,0,0,0,0,1.0,0.0,0.0,0.0
-Divinópolis do Tocantins,04-04-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
+Divinópolis do Tocantins,03-04-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
+Divinópolis do Tocantins,04-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Divinópolis do Tocantins,05-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Divinópolis do Tocantins,06-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Divinópolis do Tocantins,07-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Divinópolis do Tocantins,06-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Divinópolis do Tocantins,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Divinópolis do Tocantins,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Divinópolis do Tocantins,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Divinópolis do Tocantins,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -366,3 +366,4 @@ Divinópolis do Tocantins,25-03-2021,602,0,4,0,2.642857142857143,0.1428571428571
 Divinópolis do Tocantins,26-03-2021,606,4,4,0,2.857142857142857,0.14285714285714285,18.0,1.0
 Divinópolis do Tocantins,27-03-2021,623,17,4,0,4.071428571428571,0.14285714285714285,34.0,1.0
 Divinópolis do Tocantins,28-03-2021,623,0,4,0,4.0,0.07142857142857142,33.0,0.0
+Divinópolis do Tocantins,29-03-2021,624,1,5,1,4.0,0.14285714285714285,34.0,1.0

@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Itamarati de Minas,27-03-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
-Itamarati de Minas,28-03-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
+Itamarati de Minas,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Itamarati de Minas,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Itamarati de Minas,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Itamarati de Minas,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -366,3 +366,4 @@ Itamarati de Minas,25-03-2021,170,0,1,0,1.3571428571428572,0.0,16.0,0.0
 Itamarati de Minas,26-03-2021,170,0,1,0,1.1428571428571428,0.0,16.0,0.0
 Itamarati de Minas,27-03-2021,170,0,1,0,1.1428571428571428,0.0,16.0,0.0
 Itamarati de Minas,28-03-2021,184,14,1,0,2.142857142857143,0.0,30.0,0.0
+Itamarati de Minas,29-03-2021,184,0,1,0,2.142857142857143,0.0,14.0,0.0

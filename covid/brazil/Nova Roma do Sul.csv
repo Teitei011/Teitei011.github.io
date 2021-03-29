@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Nova Roma do Sul,27-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
-Nova Roma do Sul,28-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Nova Roma do Sul,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Nova Roma do Sul,27-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Nova Roma do Sul,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Nova Roma do Sul,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Roma do Sul,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Roma do Sul,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Roma do Sul,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -366,3 +366,4 @@ Nova Roma do Sul,25-03-2021,156,1,2,0,2.2857142857142856,0.0,22.0,0.0
 Nova Roma do Sul,26-03-2021,156,0,2,0,2.0714285714285716,0.0,16.0,0.0
 Nova Roma do Sul,27-03-2021,158,2,2,0,2.0714285714285716,0.0,13.0,0.0
 Nova Roma do Sul,28-03-2021,159,1,2,0,2.142857142857143,0.0,14.0,0.0
+Nova Roma do Sul,29-03-2021,165,6,2,0,2.5714285714285716,0.0,17.0,0.0

@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Bragança Paulista,27-03-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
-Bragança Paulista,28-03-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
-Bragança Paulista,29-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
+Bragança Paulista,28-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
+Bragança Paulista,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bragança Paulista,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bragança Paulista,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bragança Paulista,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -366,3 +366,4 @@ Bragança Paulista,25-03-2021,9544,54,225,0,44.714285714285715,5.714285714285714
 Bragança Paulista,26-03-2021,9668,124,226,1,44.785714285714285,5.714285714285714,281.0,17.0
 Bragança Paulista,27-03-2021,9713,45,239,13,46.214285714285715,5.5,295.0,25.0
 Bragança Paulista,28-03-2021,9718,5,240,1,44.285714285714285,4.142857142857143,293.0,25.0
+Bragança Paulista,29-03-2021,9724,6,240,0,43.214285714285715,4.142857142857143,293.0,25.0
