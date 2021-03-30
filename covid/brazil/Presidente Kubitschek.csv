@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Presidente Kubitschek,27-03-2020,0,0,0,0,5.642857142857143,0.14285714285714285,32.0,0.0
-Presidente Kubitschek,28-03-2020,0,0,0,0,4.5,0.0,31.0,0.0
-Presidente Kubitschek,29-03-2020,0,0,0,0,4.214285714285714,0.0,28.0,0.0
-Presidente Kubitschek,30-03-2020,0,0,0,0,4.142857142857143,0.0,12.0,0.0
-Presidente Kubitschek,31-03-2020,0,0,0,0,3.4285714285714284,0.0,4.0,0.0
-Presidente Kubitschek,01-04-2020,0,0,0,0,3.4285714285714284,0.0,1.0,0.0
-Presidente Kubitschek,02-04-2020,0,0,0,0,3.2857142857142856,0.0,0.0,0.0
-Presidente Kubitschek,03-04-2020,0,0,0,0,2.2857142857142856,0.0,0.0,0.0
-Presidente Kubitschek,04-04-2020,0,0,0,0,2.2142857142857144,0.0,0.0,0.0
-Presidente Kubitschek,05-04-2020,0,0,0,0,2.0,0.0,0.0,0.0
-Presidente Kubitschek,06-04-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
-Presidente Kubitschek,07-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
-Presidente Kubitschek,08-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Presidente Kubitschek,27-03-2020,0,0,0,0,4.785714285714286,0.0,35.0,0.0
+Presidente Kubitschek,28-03-2020,0,0,0,0,4.5,0.0,32.0,0.0
+Presidente Kubitschek,29-03-2020,0,0,0,0,4.428571428571429,0.0,16.0,0.0
+Presidente Kubitschek,30-03-2020,0,0,0,0,3.7142857142857144,0.0,8.0,0.0
+Presidente Kubitschek,31-03-2020,0,0,0,0,3.7142857142857144,0.0,5.0,0.0
+Presidente Kubitschek,01-04-2020,0,0,0,0,3.5714285714285716,0.0,4.0,0.0
+Presidente Kubitschek,02-04-2020,0,0,0,0,2.5714285714285716,0.0,0.0,0.0
+Presidente Kubitschek,03-04-2020,0,0,0,0,2.5,0.0,0.0,0.0
+Presidente Kubitschek,04-04-2020,0,0,0,0,2.2857142857142856,0.0,0.0,0.0
+Presidente Kubitschek,05-04-2020,0,0,0,0,1.1428571428571428,0.0,0.0,0.0
+Presidente Kubitschek,06-04-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
+Presidente Kubitschek,07-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
+Presidente Kubitschek,08-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
 Presidente Kubitschek,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Kubitschek,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Kubitschek,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -367,3 +367,4 @@ Presidente Kubitschek,26-03-2021,72,3,2,0,1.0,0.07142857142857142,13.0,1.0
 Presidente Kubitschek,27-03-2021,74,2,2,0,1.0714285714285714,0.07142857142857142,15.0,1.0
 Presidente Kubitschek,28-03-2021,74,0,2,0,1.0714285714285714,0.07142857142857142,14.0,0.0
 Presidente Kubitschek,29-03-2021,74,0,2,0,1.0714285714285714,0.07142857142857142,14.0,0.0
+Presidente Kubitschek,30-03-2021,75,1,2,0,1.1428571428571428,0.07142857142857142,15.0,0.0

@@ -1,16 +1,16 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Alvorada do Gurguéia,27-03-2020,0,0,0,0,2.5,0.0,13.0,0.0
-Alvorada do Gurguéia,28-03-2020,0,0,0,0,2.5,0.0,11.0,0.0
-Alvorada do Gurguéia,29-03-2020,0,0,0,0,2.4285714285714284,0.0,9.0,0.0
-Alvorada do Gurguéia,30-03-2020,0,0,0,0,1.8571428571428572,0.0,4.0,0.0
-Alvorada do Gurguéia,31-03-2020,0,0,0,0,1.5,0.0,1.0,0.0
-Alvorada do Gurguéia,01-04-2020,0,0,0,0,1.0,0.0,0.0,0.0
+Alvorada do Gurguéia,27-03-2020,0,0,0,0,2.5,0.0,11.0,0.0
+Alvorada do Gurguéia,28-03-2020,0,0,0,0,2.4285714285714284,0.0,9.0,0.0
+Alvorada do Gurguéia,29-03-2020,0,0,0,0,1.8571428571428572,0.0,4.0,0.0
+Alvorada do Gurguéia,30-03-2020,0,0,0,0,1.5,0.0,1.0,0.0
+Alvorada do Gurguéia,31-03-2020,0,0,0,0,1.0,0.0,0.0,0.0
+Alvorada do Gurguéia,01-04-2020,0,0,0,0,0.9285714285714286,0.0,0.0,0.0
 Alvorada do Gurguéia,02-04-2020,0,0,0,0,0.9285714285714286,0.0,0.0,0.0
-Alvorada do Gurguéia,03-04-2020,0,0,0,0,0.9285714285714286,0.0,0.0,0.0
-Alvorada do Gurguéia,04-04-2020,0,0,0,0,0.7857142857142857,0.0,0.0,0.0
-Alvorada do Gurguéia,05-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
-Alvorada do Gurguéia,06-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
-Alvorada do Gurguéia,07-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Alvorada do Gurguéia,03-04-2020,0,0,0,0,0.7857142857142857,0.0,0.0,0.0
+Alvorada do Gurguéia,04-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
+Alvorada do Gurguéia,05-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+Alvorada do Gurguéia,06-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Alvorada do Gurguéia,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Alvorada do Gurguéia,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Alvorada do Gurguéia,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Alvorada do Gurguéia,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -367,3 +367,4 @@ Alvorada do Gurguéia,26-03-2021,221,7,6,0,1.6428571428571428,0.0714285714285714
 Alvorada do Gurguéia,27-03-2021,222,1,6,0,1.6428571428571428,0.07142857142857142,13.0,0.0
 Alvorada do Gurguéia,28-03-2021,222,0,6,0,1.5,0.07142857142857142,13.0,0.0
 Alvorada do Gurguéia,29-03-2021,222,0,6,0,1.5,0.07142857142857142,13.0,0.0
+Alvorada do Gurguéia,30-03-2021,223,1,6,0,1.5,0.07142857142857142,14.0,0.0
