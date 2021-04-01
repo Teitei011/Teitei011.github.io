@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Piedade dos Gerais,27-03-2020,0,0,0,0,1.2142857142857142,0.0,7.0,0.0
-Piedade dos Gerais,28-03-2020,0,0,0,0,1.0714285714285714,0.0,7.0,0.0
-Piedade dos Gerais,29-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Piedade dos Gerais,30-03-2020,0,0,0,0,1.0714285714285714,0.0,5.0,0.0
-Piedade dos Gerais,31-03-2020,0,0,0,0,1.0714285714285714,0.0,5.0,0.0
-Piedade dos Gerais,01-04-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
+Piedade dos Gerais,27-03-2020,0,0,0,0,1.2142857142857142,0.0,9.0,0.0
+Piedade dos Gerais,28-03-2020,0,0,0,0,0.8571428571428571,0.0,7.0,0.0
+Piedade dos Gerais,29-03-2020,0,0,0,0,1.2142857142857142,0.0,7.0,0.0
+Piedade dos Gerais,30-03-2020,0,0,0,0,1.2142857142857142,0.0,7.0,0.0
+Piedade dos Gerais,31-03-2020,0,0,0,0,0.8571428571428571,0.0,2.0,0.0
+Piedade dos Gerais,01-04-2020,0,0,0,0,0.7857142857142857,0.0,2.0,0.0
 Piedade dos Gerais,02-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
-Piedade dos Gerais,03-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
+Piedade dos Gerais,03-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
 Piedade dos Gerais,04-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
-Piedade dos Gerais,05-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
-Piedade dos Gerais,06-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
-Piedade dos Gerais,07-04-2020,0,0,0,0,0.35714285714285715,0.0,0.0,0.0
-Piedade dos Gerais,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Piedade dos Gerais,05-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
+Piedade dos Gerais,06-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
+Piedade dos Gerais,07-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Piedade dos Gerais,08-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Piedade dos Gerais,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Piedade dos Gerais,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Piedade dos Gerais,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -369,3 +369,4 @@ Piedade dos Gerais,28-03-2021,83,0,4,0,0.0,0.0,0.0,0.0
 Piedade dos Gerais,29-03-2021,83,0,4,0,0.0,0.0,0.0,0.0
 Piedade dos Gerais,30-03-2021,83,0,4,0,0.0,0.0,0.0,0.0
 Piedade dos Gerais,31-03-2021,83,0,4,0,0.0,0.0,0.0,0.0
+Piedade dos Gerais,01-04-2021,83,0,4,0,0.0,0.0,0.0,0.0

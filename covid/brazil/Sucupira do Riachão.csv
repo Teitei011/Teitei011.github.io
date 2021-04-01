@@ -1,14 +1,14 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Sucupira do Riachão,27-03-2020,0,0,0,0,1.1428571428571428,0.0,16.0,0.0
-Sucupira do Riachão,28-03-2020,0,0,0,0,1.1428571428571428,0.0,16.0,0.0
-Sucupira do Riachão,29-03-2020,0,0,0,0,1.1428571428571428,0.0,10.0,0.0
+Sucupira do Riachão,28-03-2020,0,0,0,0,1.1428571428571428,0.0,10.0,0.0
+Sucupira do Riachão,29-03-2020,0,0,0,0,1.1428571428571428,0.0,0.0,0.0
 Sucupira do Riachão,30-03-2020,0,0,0,0,1.1428571428571428,0.0,0.0,0.0
 Sucupira do Riachão,31-03-2020,0,0,0,0,1.1428571428571428,0.0,0.0,0.0
 Sucupira do Riachão,01-04-2020,0,0,0,0,1.1428571428571428,0.0,0.0,0.0
 Sucupira do Riachão,02-04-2020,0,0,0,0,1.1428571428571428,0.0,0.0,0.0
 Sucupira do Riachão,03-04-2020,0,0,0,0,1.1428571428571428,0.0,0.0,0.0
-Sucupira do Riachão,04-04-2020,0,0,0,0,1.1428571428571428,0.0,0.0,0.0
-Sucupira do Riachão,05-04-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
+Sucupira do Riachão,04-04-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
+Sucupira do Riachão,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Sucupira do Riachão,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Sucupira do Riachão,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Sucupira do Riachão,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -369,3 +369,4 @@ Sucupira do Riachão,28-03-2021,196,0,2,0,0.07142857142857142,0.0,0.0,0.0
 Sucupira do Riachão,29-03-2021,196,0,2,0,0.07142857142857142,0.0,0.0,0.0
 Sucupira do Riachão,30-03-2021,196,0,2,0,0.07142857142857142,0.0,0.0,0.0
 Sucupira do Riachão,31-03-2021,196,0,2,0,0.07142857142857142,0.0,0.0,0.0
+Sucupira do Riachão,01-04-2021,198,2,2,0,0.21428571428571427,0.0,2.0,0.0

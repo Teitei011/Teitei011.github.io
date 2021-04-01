@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Pedro Velho,27-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Pedro Velho,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Pedro Velho,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Pedro Velho,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pedro Velho,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pedro Velho,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pedro Velho,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -369,3 +369,4 @@ Pedro Velho,28-03-2021,293,0,4,0,2.357142857142857,0.0,22.0,0.0
 Pedro Velho,29-03-2021,303,10,4,0,3.0714285714285716,0.0,31.0,0.0
 Pedro Velho,30-03-2021,304,1,4,0,3.0714285714285716,0.0,25.0,0.0
 Pedro Velho,31-03-2021,304,0,4,0,3.0,0.0,20.0,0.0
+Pedro Velho,01-04-2021,310,6,4,0,3.4285714285714284,0.0,22.0,0.0
