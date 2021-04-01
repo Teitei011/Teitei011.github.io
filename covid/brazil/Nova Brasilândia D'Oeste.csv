@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Nova Brasilândia D'Oeste,27-03-2020,0,0,0,0,3.142857142857143,0.0,17.0,0.0
+Nova Brasilândia D'Oeste,27-03-2020,0,0,0,0,1.7857142857142858,0.0,14.0,0.0
 Nova Brasilândia D'Oeste,28-03-2020,0,0,0,0,1.7857142857142858,0.0,14.0,0.0
-Nova Brasilândia D'Oeste,29-03-2020,0,0,0,0,1.7857142857142858,0.0,14.0,0.0
+Nova Brasilândia D'Oeste,29-03-2020,0,0,0,0,1.5714285714285714,0.0,14.0,0.0
 Nova Brasilândia D'Oeste,30-03-2020,0,0,0,0,1.5714285714285714,0.0,14.0,0.0
-Nova Brasilândia D'Oeste,31-03-2020,0,0,0,0,1.5714285714285714,0.0,14.0,0.0
-Nova Brasilândia D'Oeste,01-04-2020,0,0,0,0,1.5714285714285714,0.0,6.0,0.0
+Nova Brasilândia D'Oeste,31-03-2020,0,0,0,0,1.5714285714285714,0.0,6.0,0.0
+Nova Brasilândia D'Oeste,01-04-2020,0,0,0,0,1.2142857142857142,0.0,0.0,0.0
 Nova Brasilândia D'Oeste,02-04-2020,0,0,0,0,1.2142857142857142,0.0,0.0,0.0
-Nova Brasilândia D'Oeste,03-04-2020,0,0,0,0,1.2142857142857142,0.0,0.0,0.0
+Nova Brasilândia D'Oeste,03-04-2020,0,0,0,0,1.0,0.0,0.0,0.0
 Nova Brasilândia D'Oeste,04-04-2020,0,0,0,0,1.0,0.0,0.0,0.0
 Nova Brasilândia D'Oeste,05-04-2020,0,0,0,0,1.0,0.0,0.0,0.0
 Nova Brasilândia D'Oeste,06-04-2020,0,0,0,0,1.0,0.0,0.0,0.0
-Nova Brasilândia D'Oeste,07-04-2020,0,0,0,0,1.0,0.0,0.0,0.0
-Nova Brasilândia D'Oeste,08-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
+Nova Brasilândia D'Oeste,07-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
+Nova Brasilândia D'Oeste,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Brasilândia D'Oeste,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Brasilândia D'Oeste,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Brasilândia D'Oeste,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -368,3 +368,4 @@ Nova Brasilândia D'Oeste,27-03-2021,1333,19,15,0,10.0,0.2857142857142857,68.0,0
 Nova Brasilândia D'Oeste,28-03-2021,1341,8,15,0,10.5,0.2857142857142857,75.0,0.0
 Nova Brasilândia D'Oeste,29-03-2021,1346,5,15,0,10.857142857142858,0.2857142857142857,81.0,0.0
 Nova Brasilândia D'Oeste,30-03-2021,1352,6,15,0,10.357142857142858,0.2857142857142857,68.0,0.0
+Nova Brasilândia D'Oeste,31-03-2021,1356,4,16,1,8.642857142857142,0.14285714285714285,58.0,1.0

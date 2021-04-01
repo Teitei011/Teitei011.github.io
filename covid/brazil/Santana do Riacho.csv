@@ -1,13 +1,13 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santana do Riacho,27-03-2020,0,0,0,0,0.07142857142857142,0.0,1.0,0.0
-Santana do Riacho,28-03-2020,0,0,0,0,0.07142857142857142,0.0,1.0,0.0
+Santana do Riacho,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Santana do Riacho,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Santana do Riacho,30-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Santana do Riacho,31-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Santana do Riacho,01-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Santana do Riacho,02-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Santana do Riacho,03-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Santana do Riacho,04-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Santana do Riacho,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana do Riacho,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana do Riacho,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana do Riacho,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -368,3 +368,4 @@ Santana do Riacho,27-03-2021,151,4,2,0,2.357142857142857,0.0,30.0,0.0
 Santana do Riacho,28-03-2021,152,1,2,0,2.4285714285714284,0.0,21.0,0.0
 Santana do Riacho,29-03-2021,152,0,2,0,2.4285714285714284,0.0,21.0,0.0
 Santana do Riacho,30-03-2021,152,0,2,0,2.4285714285714284,0.0,21.0,0.0
+Santana do Riacho,31-03-2021,161,9,2,0,2.857142857142857,0.0,28.0,0.0

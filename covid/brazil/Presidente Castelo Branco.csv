@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Presidente Castelo Branco,27-03-2020,0,0,0,0,0.5,0.0,1.0,0.0
+Presidente Castelo Branco,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Presidente Castelo Branco,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Presidente Castelo Branco,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Presidente Castelo Branco,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Presidente Castelo Branco,30-03-2020,0,0,0,0,0.07142857142857142,0.0,1.0,0.0
 Presidente Castelo Branco,31-03-2020,0,0,0,0,0.07142857142857142,0.0,1.0,0.0
-Presidente Castelo Branco,01-04-2020,0,0,0,0,0.07142857142857142,0.0,1.0,0.0
+Presidente Castelo Branco,01-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Presidente Castelo Branco,02-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Presidente Castelo Branco,03-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Presidente Castelo Branco,04-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Presidente Castelo Branco,05-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Presidente Castelo Branco,06-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Presidente Castelo Branco,07-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Presidente Castelo Branco,08-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Presidente Castelo Branco,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Castelo Branco,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Castelo Branco,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Castelo Branco,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -368,3 +368,4 @@ Presidente Castelo Branco,27-03-2021,318,0,5,0,2.357142857142857,0.0714285714285
 Presidente Castelo Branco,28-03-2021,321,3,5,0,2.5,0.07142857142857142,9.0,0.0
 Presidente Castelo Branco,29-03-2021,330,9,5,0,2.5714285714285716,0.07142857142857142,17.0,0.0
 Presidente Castelo Branco,30-03-2021,331,1,5,0,2.0,0.07142857142857142,16.0,0.0
+Presidente Castelo Branco,31-03-2021,332,1,5,0,1.8571428571428572,0.0,16.0,0.0

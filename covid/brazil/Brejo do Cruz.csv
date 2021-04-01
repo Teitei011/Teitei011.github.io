@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Brejo do Cruz,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Brejo do Cruz,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Brejo do Cruz,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Brejo do Cruz,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Brejo do Cruz,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -368,3 +368,4 @@ Brejo do Cruz,27-03-2021,1218,0,17,0,2.2857142857142856,0.21428571428571427,5.0,
 Brejo do Cruz,28-03-2021,1217,-1,17,0,2.0,0.21428571428571427,4.0,1.0
 Brejo do Cruz,29-03-2021,1218,1,18,1,2.0,0.2857142857142857,3.0,1.0
 Brejo do Cruz,30-03-2021,1221,3,19,1,2.2857142857142856,0.2857142857142857,6.0,2.0
+Brejo do Cruz,31-03-2021,1222,1,19,0,2.2857142857142856,0.2857142857142857,7.0,2.0
