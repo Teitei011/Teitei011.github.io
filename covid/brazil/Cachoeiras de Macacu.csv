@@ -1,14 +1,14 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Cachoeiras de Macacu,27-03-2020,0,0,0,0,2.2142857142857144,0.0,8.0,0.0
-Cachoeiras de Macacu,28-03-2020,0,0,0,0,2.0,0.0,8.0,0.0
-Cachoeiras de Macacu,29-03-2020,0,0,0,0,1.6428571428571428,0.0,4.0,0.0
-Cachoeiras de Macacu,30-03-2020,0,0,0,0,1.4285714285714286,0.0,0.0,0.0
-Cachoeiras de Macacu,31-03-2020,0,0,0,0,1.0714285714285714,0.0,0.0,0.0
-Cachoeiras de Macacu,01-04-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
-Cachoeiras de Macacu,02-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
+Cachoeiras de Macacu,27-03-2020,0,0,0,0,2.0,0.0,8.0,0.0
+Cachoeiras de Macacu,28-03-2020,0,0,0,0,1.6428571428571428,0.0,4.0,0.0
+Cachoeiras de Macacu,29-03-2020,0,0,0,0,1.4285714285714286,0.0,0.0,0.0
+Cachoeiras de Macacu,30-03-2020,0,0,0,0,1.0714285714285714,0.0,0.0,0.0
+Cachoeiras de Macacu,31-03-2020,0,0,0,0,0.7142857142857143,0.0,0.0,0.0
+Cachoeiras de Macacu,01-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
+Cachoeiras de Macacu,02-04-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
 Cachoeiras de Macacu,03-04-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
-Cachoeiras de Macacu,04-04-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
-Cachoeiras de Macacu,05-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+Cachoeiras de Macacu,04-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+Cachoeiras de Macacu,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cachoeiras de Macacu,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cachoeiras de Macacu,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cachoeiras de Macacu,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -371,3 +371,4 @@ Cachoeiras de Macacu,30-03-2021,2090,3,65,0,4.357142857142857,0.1428571428571428
 Cachoeiras de Macacu,31-03-2021,2095,5,65,0,4.5,0.14285714285714285,48.0,2.0
 Cachoeiras de Macacu,01-04-2021,2108,13,65,0,5.214285714285714,0.14285714285714285,51.0,1.0
 Cachoeiras de Macacu,02-04-2021,2108,0,65,0,4.928571428571429,0.14285714285714285,32.0,1.0
+Cachoeiras de Macacu,03-04-2021,2140,32,66,1,7.214285714285714,0.21428571428571427,53.0,0.0

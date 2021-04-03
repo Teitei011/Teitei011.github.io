@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Boa Esperança do Sul,27-03-2020,0,0,0,0,0.5,0.0,0.0,0.0
 Boa Esperança do Sul,28-03-2020,0,0,0,0,0.5,0.0,0.0,0.0
-Boa Esperança do Sul,29-03-2020,0,0,0,0,0.5,0.0,0.0,0.0
-Boa Esperança do Sul,30-03-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
-Boa Esperança do Sul,31-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Boa Esperança do Sul,29-03-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+Boa Esperança do Sul,30-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Boa Esperança do Sul,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Boa Esperança do Sul,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Boa Esperança do Sul,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Boa Esperança do Sul,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -371,3 +371,4 @@ Boa Esperança do Sul,30-03-2021,640,13,10,0,3.9285714285714284,0.0,41.0,0.0
 Boa Esperança do Sul,31-03-2021,647,7,10,0,4.285714285714286,0.0,41.0,0.0
 Boa Esperança do Sul,01-04-2021,648,1,11,1,4.285714285714286,0.07142857142857142,43.0,1.0
 Boa Esperança do Sul,02-04-2021,648,0,11,0,4.142857142857143,0.07142857142857142,23.0,1.0
+Boa Esperança do Sul,03-04-2021,649,1,11,0,4.142857142857143,0.07142857142857142,22.0,1.0
