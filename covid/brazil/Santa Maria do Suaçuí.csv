@@ -1,15 +1,15 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santa Maria do Suaçuí,27-03-2020,0,0,0,0,1.5,0.0,12.0,0.0
-Santa Maria do Suaçuí,28-03-2020,0,0,0,0,1.5,0.0,12.0,0.0
-Santa Maria do Suaçuí,29-03-2020,0,0,0,0,1.2857142857142858,0.0,12.0,0.0
-Santa Maria do Suaçuí,30-03-2020,0,0,0,0,1.2142857142857142,0.0,7.0,0.0
+Santa Maria do Suaçuí,28-03-2020,0,0,0,0,1.2857142857142858,0.0,12.0,0.0
+Santa Maria do Suaçuí,29-03-2020,0,0,0,0,1.2142857142857142,0.0,7.0,0.0
+Santa Maria do Suaçuí,30-03-2020,0,0,0,0,1.0714285714285714,0.0,0.0,0.0
 Santa Maria do Suaçuí,31-03-2020,0,0,0,0,1.0714285714285714,0.0,0.0,0.0
-Santa Maria do Suaçuí,01-04-2020,0,0,0,0,1.0714285714285714,0.0,0.0,0.0
+Santa Maria do Suaçuí,01-04-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
 Santa Maria do Suaçuí,02-04-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
 Santa Maria do Suaçuí,03-04-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
 Santa Maria do Suaçuí,04-04-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
-Santa Maria do Suaçuí,05-04-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
-Santa Maria do Suaçuí,06-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
+Santa Maria do Suaçuí,05-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
+Santa Maria do Suaçuí,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Maria do Suaçuí,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Maria do Suaçuí,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Maria do Suaçuí,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -372,3 +372,4 @@ Santa Maria do Suaçuí,31-03-2021,737,25,12,0,5.571428571428571,0.0,53.0,0.0
 Santa Maria do Suaçuí,01-04-2021,738,1,12,0,3.857142857142857,0.0,54.0,0.0
 Santa Maria do Suaçuí,02-04-2021,738,0,12,0,3.857142857142857,0.0,26.0,0.0
 Santa Maria do Suaçuí,03-04-2021,738,0,12,0,3.857142857142857,0.0,26.0,0.0
+Santa Maria do Suaçuí,04-04-2021,738,0,12,0,3.857142857142857,0.0,26.0,0.0

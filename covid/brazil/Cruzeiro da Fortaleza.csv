@@ -1,16 +1,16 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Cruzeiro da Fortaleza,27-03-2020,0,0,0,0,19.714285714285715,0.0,120.0,0.0
-Cruzeiro da Fortaleza,28-03-2020,0,0,0,0,19.642857142857142,0.0,120.0,0.0
-Cruzeiro da Fortaleza,29-03-2020,0,0,0,0,18.0,0.0,87.0,0.0
-Cruzeiro da Fortaleza,30-03-2020,0,0,0,0,16.214285714285715,0.0,73.0,0.0
-Cruzeiro da Fortaleza,31-03-2020,0,0,0,0,14.857142857142858,0.0,61.0,0.0
-Cruzeiro da Fortaleza,01-04-2020,0,0,0,0,10.571428571428571,0.0,0.0,0.0
+Cruzeiro da Fortaleza,27-03-2020,0,0,0,0,19.642857142857142,0.0,120.0,0.0
+Cruzeiro da Fortaleza,28-03-2020,0,0,0,0,18.0,0.0,87.0,0.0
+Cruzeiro da Fortaleza,29-03-2020,0,0,0,0,16.214285714285715,0.0,73.0,0.0
+Cruzeiro da Fortaleza,30-03-2020,0,0,0,0,14.857142857142858,0.0,61.0,0.0
+Cruzeiro da Fortaleza,31-03-2020,0,0,0,0,10.571428571428571,0.0,0.0,0.0
+Cruzeiro da Fortaleza,01-04-2020,0,0,0,0,8.571428571428571,0.0,0.0,0.0
 Cruzeiro da Fortaleza,02-04-2020,0,0,0,0,8.571428571428571,0.0,0.0,0.0
 Cruzeiro da Fortaleza,03-04-2020,0,0,0,0,8.571428571428571,0.0,0.0,0.0
-Cruzeiro da Fortaleza,04-04-2020,0,0,0,0,8.571428571428571,0.0,0.0,0.0
-Cruzeiro da Fortaleza,05-04-2020,0,0,0,0,6.214285714285714,0.0,0.0,0.0
-Cruzeiro da Fortaleza,06-04-2020,0,0,0,0,5.214285714285714,0.0,0.0,0.0
-Cruzeiro da Fortaleza,07-04-2020,0,0,0,0,4.357142857142857,0.0,0.0,0.0
+Cruzeiro da Fortaleza,04-04-2020,0,0,0,0,6.214285714285714,0.0,0.0,0.0
+Cruzeiro da Fortaleza,05-04-2020,0,0,0,0,5.214285714285714,0.0,0.0,0.0
+Cruzeiro da Fortaleza,06-04-2020,0,0,0,0,4.357142857142857,0.0,0.0,0.0
+Cruzeiro da Fortaleza,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cruzeiro da Fortaleza,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cruzeiro da Fortaleza,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cruzeiro da Fortaleza,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -372,3 +372,4 @@ Cruzeiro da Fortaleza,31-03-2021,187,0,6,0,0.9285714285714286,0.1428571428571428
 Cruzeiro da Fortaleza,01-04-2021,187,0,6,0,0.7857142857142857,0.14285714285714285,3.0,1.0
 Cruzeiro da Fortaleza,02-04-2021,187,0,6,0,0.6428571428571429,0.14285714285714285,2.0,0.0
 Cruzeiro da Fortaleza,03-04-2021,187,0,6,0,0.5,0.14285714285714285,0.0,0.0
+Cruzeiro da Fortaleza,04-04-2021,187,0,6,0,0.5,0.07142857142857142,0.0,0.0

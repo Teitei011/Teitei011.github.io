@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Sítio do Mato,27-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Sítio do Mato,28-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Sítio do Mato,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Sítio do Mato,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Sítio do Mato,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Sítio do Mato,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -372,3 +372,4 @@ Sítio do Mato,31-03-2021,93,1,2,0,0.9285714285714286,0.0,13.0,0.0
 Sítio do Mato,01-04-2021,93,0,2,0,0.9285714285714286,0.0,8.0,0.0
 Sítio do Mato,02-04-2021,94,1,2,0,1.0,0.0,9.0,0.0
 Sítio do Mato,03-04-2021,94,0,2,0,1.0,0.0,7.0,0.0
+Sítio do Mato,04-04-2021,94,0,2,0,1.0,0.0,7.0,0.0

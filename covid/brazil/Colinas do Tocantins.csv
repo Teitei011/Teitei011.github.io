@@ -1,16 +1,16 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Colinas do Tocantins,27-03-2020,0,0,0,0,1.2142857142857142,0.0,15.0,0.0
-Colinas do Tocantins,28-03-2020,0,0,0,0,1.0714285714285714,0.0,12.0,0.0
+Colinas do Tocantins,27-03-2020,0,0,0,0,1.0714285714285714,0.0,12.0,0.0
+Colinas do Tocantins,28-03-2020,0,0,0,0,1.0714285714285714,0.0,6.0,0.0
 Colinas do Tocantins,29-03-2020,0,0,0,0,1.0714285714285714,0.0,6.0,0.0
-Colinas do Tocantins,30-03-2020,0,0,0,0,1.0714285714285714,0.0,6.0,0.0
-Colinas do Tocantins,31-03-2020,0,0,0,0,1.0714285714285714,0.0,3.0,0.0
+Colinas do Tocantins,30-03-2020,0,0,0,0,1.0714285714285714,0.0,3.0,0.0
+Colinas do Tocantins,31-03-2020,0,0,0,0,1.0714285714285714,0.0,0.0,0.0
 Colinas do Tocantins,01-04-2020,0,0,0,0,1.0714285714285714,0.0,0.0,0.0
 Colinas do Tocantins,02-04-2020,0,0,0,0,1.0714285714285714,0.0,0.0,0.0
-Colinas do Tocantins,03-04-2020,0,0,0,0,1.0714285714285714,0.0,0.0,0.0
-Colinas do Tocantins,04-04-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
+Colinas do Tocantins,03-04-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
+Colinas do Tocantins,04-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 Colinas do Tocantins,05-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
-Colinas do Tocantins,06-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
-Colinas do Tocantins,07-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
+Colinas do Tocantins,06-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
+Colinas do Tocantins,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Colinas do Tocantins,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Colinas do Tocantins,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Colinas do Tocantins,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -372,3 +372,4 @@ Colinas do Tocantins,31-03-2021,5617,22,75,5,13.142857142857142,1.5,84.0,11.0
 Colinas do Tocantins,01-04-2021,5625,8,75,0,13.785714285714286,1.5,89.0,11.0
 Colinas do Tocantins,02-04-2021,5641,16,75,0,14.357142857142858,1.4285714285714286,47.0,10.0
 Colinas do Tocantins,03-04-2021,5655,14,77,2,12.5,1.3571428571428572,55.0,10.0
+Colinas do Tocantins,04-04-2021,5655,0,77,0,10.642857142857142,1.0714285714285714,49.0,9.0
