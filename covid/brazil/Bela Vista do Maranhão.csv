@@ -1,15 +1,15 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Bela Vista do Maranhão,27-03-2020,0,0,0,0,4.0,0.0,27.0,0.0
-Bela Vista do Maranhão,28-03-2020,0,0,0,0,3.9285714285714284,0.0,27.0,0.0
+Bela Vista do Maranhão,27-03-2020,0,0,0,0,3.9285714285714284,0.0,27.0,0.0
+Bela Vista do Maranhão,28-03-2020,0,0,0,0,3.9285714285714284,0.0,21.0,0.0
 Bela Vista do Maranhão,29-03-2020,0,0,0,0,3.9285714285714284,0.0,21.0,0.0
-Bela Vista do Maranhão,30-03-2020,0,0,0,0,3.9285714285714284,0.0,21.0,0.0
+Bela Vista do Maranhão,30-03-2020,0,0,0,0,3.142857142857143,0.0,0.0,0.0
 Bela Vista do Maranhão,31-03-2020,0,0,0,0,3.142857142857143,0.0,0.0,0.0
-Bela Vista do Maranhão,01-04-2020,0,0,0,0,3.142857142857143,0.0,0.0,0.0
+Bela Vista do Maranhão,01-04-2020,0,0,0,0,1.9285714285714286,0.0,0.0,0.0
 Bela Vista do Maranhão,02-04-2020,0,0,0,0,1.9285714285714286,0.0,0.0,0.0
 Bela Vista do Maranhão,03-04-2020,0,0,0,0,1.9285714285714286,0.0,0.0,0.0
-Bela Vista do Maranhão,04-04-2020,0,0,0,0,1.9285714285714286,0.0,0.0,0.0
+Bela Vista do Maranhão,04-04-2020,0,0,0,0,1.5,0.0,0.0,0.0
 Bela Vista do Maranhão,05-04-2020,0,0,0,0,1.5,0.0,0.0,0.0
-Bela Vista do Maranhão,06-04-2020,0,0,0,0,1.5,0.0,0.0,0.0
+Bela Vista do Maranhão,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bela Vista do Maranhão,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bela Vista do Maranhão,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bela Vista do Maranhão,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -373,3 +373,4 @@ Bela Vista do Maranhão,01-04-2021,180,1,10,0,0.5,0.07142857142857142,6.0,0.0
 Bela Vista do Maranhão,02-04-2021,180,0,11,1,0.5,0.14285714285714285,6.0,1.0
 Bela Vista do Maranhão,03-04-2021,180,0,11,0,0.5,0.14285714285714285,6.0,1.0
 Bela Vista do Maranhão,04-04-2021,180,0,11,0,0.5,0.14285714285714285,6.0,1.0
+Bela Vista do Maranhão,05-04-2021,180,0,11,0,0.5,0.14285714285714285,6.0,1.0

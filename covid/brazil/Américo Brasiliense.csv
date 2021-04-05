@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Américo Brasiliense,27-03-2020,0,0,0,0,1.1428571428571428,0.0,11.0,0.0
-Américo Brasiliense,28-03-2020,0,0,0,0,1.0714285714285714,0.0,11.0,0.0
+Américo Brasiliense,27-03-2020,0,0,0,0,1.0714285714285714,0.0,11.0,0.0
+Américo Brasiliense,28-03-2020,0,0,0,0,1.0714285714285714,0.0,9.0,0.0
 Américo Brasiliense,29-03-2020,0,0,0,0,1.0714285714285714,0.0,9.0,0.0
 Américo Brasiliense,30-03-2020,0,0,0,0,1.0714285714285714,0.0,9.0,0.0
-Américo Brasiliense,31-03-2020,0,0,0,0,1.0714285714285714,0.0,9.0,0.0
-Américo Brasiliense,01-04-2020,0,0,0,0,1.0,0.0,4.0,0.0
-Américo Brasiliense,02-04-2020,0,0,0,0,1.0,0.0,0.0,0.0
+Américo Brasiliense,31-03-2020,0,0,0,0,1.0,0.0,4.0,0.0
+Américo Brasiliense,01-04-2020,0,0,0,0,1.0,0.0,0.0,0.0
+Américo Brasiliense,02-04-2020,0,0,0,0,0.7857142857142857,0.0,0.0,0.0
 Américo Brasiliense,03-04-2020,0,0,0,0,0.7857142857142857,0.0,0.0,0.0
-Américo Brasiliense,04-04-2020,0,0,0,0,0.7857142857142857,0.0,0.0,0.0
+Américo Brasiliense,04-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
 Américo Brasiliense,05-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
 Américo Brasiliense,06-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
-Américo Brasiliense,07-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
-Américo Brasiliense,08-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+Américo Brasiliense,07-04-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+Américo Brasiliense,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Américo Brasiliense,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Américo Brasiliense,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Américo Brasiliense,11-04-2020,1,1,0,0,0.07142857142857142,0.0,1.0,0.0
@@ -373,3 +373,4 @@ Américo Brasiliense,01-04-2021,2790,23,61,0,12.928571428571429,0.5,90.0,3.0
 Américo Brasiliense,02-04-2021,2803,13,61,0,12.071428571428571,0.42857142857142855,91.0,3.0
 Américo Brasiliense,03-04-2021,2804,1,62,1,11.357142857142858,0.5,61.0,4.0
 Américo Brasiliense,04-04-2021,2805,1,62,0,10.642857142857142,0.5,56.0,4.0
+Américo Brasiliense,05-04-2021,2806,1,62,0,10.357142857142858,0.5,57.0,4.0

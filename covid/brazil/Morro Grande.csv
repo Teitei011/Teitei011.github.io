@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Morro Grande,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Morro Grande,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Morro Grande,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Morro Grande,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Morro Grande,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Morro Grande,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -373,3 +373,4 @@ Morro Grande,01-04-2021,351,12,2,0,1.9285714285714286,0.07142857142857142,15.0,1
 Morro Grande,02-04-2021,357,6,2,0,2.2857142857142856,0.07142857142857142,19.0,1.0
 Morro Grande,03-04-2021,357,0,2,0,2.0714285714285716,0.07142857142857142,19.0,1.0
 Morro Grande,04-04-2021,357,0,2,0,2.0714285714285716,0.07142857142857142,19.0,1.0
+Morro Grande,05-04-2021,357,0,2,0,2.0,0.07142857142857142,19.0,1.0

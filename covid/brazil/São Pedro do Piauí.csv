@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Pedro do Piauí,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+São Pedro do Piauí,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Pedro do Piauí,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Pedro do Piauí,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Pedro do Piauí,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -373,3 +373,4 @@ São Pedro do Piauí,01-04-2021,852,22,12,0,5.857142857142857,0.1428571428571428
 São Pedro do Piauí,02-04-2021,855,3,12,0,6.0,0.14285714285714285,51.0,0.0
 São Pedro do Piauí,03-04-2021,859,4,12,0,6.071428571428571,0.14285714285714285,44.0,0.0
 São Pedro do Piauí,04-04-2021,859,0,12,0,6.0,0.14285714285714285,43.0,0.0
+São Pedro do Piauí,05-04-2021,860,1,12,0,6.071428571428571,0.14285714285714285,43.0,0.0

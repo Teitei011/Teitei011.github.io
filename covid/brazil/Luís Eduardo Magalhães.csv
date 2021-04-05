@@ -1,16 +1,16 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Luís Eduardo Magalhães,27-03-2020,0,0,0,0,1.3571428571428572,0.0,7.0,0.0
+Luís Eduardo Magalhães,27-03-2020,0,0,0,0,1.2857142857142858,0.0,7.0,0.0
 Luís Eduardo Magalhães,28-03-2020,0,0,0,0,1.2857142857142858,0.0,7.0,0.0
-Luís Eduardo Magalhães,29-03-2020,0,0,0,0,1.2857142857142858,0.0,7.0,0.0
-Luís Eduardo Magalhães,30-03-2020,0,0,0,0,1.2142857142857142,0.0,7.0,0.0
-Luís Eduardo Magalhães,31-03-2020,0,0,0,0,0.5,0.0,1.0,0.0
+Luís Eduardo Magalhães,29-03-2020,0,0,0,0,1.2142857142857142,0.0,7.0,0.0
+Luís Eduardo Magalhães,30-03-2020,0,0,0,0,0.5,0.0,1.0,0.0
+Luís Eduardo Magalhães,31-03-2020,0,0,0,0,0.5,0.0,0.0,0.0
 Luís Eduardo Magalhães,01-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
 Luís Eduardo Magalhães,02-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
 Luís Eduardo Magalhães,03-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
 Luís Eduardo Magalhães,04-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
 Luís Eduardo Magalhães,05-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
-Luís Eduardo Magalhães,06-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
-Luís Eduardo Magalhães,07-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Luís Eduardo Magalhães,06-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Luís Eduardo Magalhães,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Luís Eduardo Magalhães,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Luís Eduardo Magalhães,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Luís Eduardo Magalhães,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -373,3 +373,4 @@ Luís Eduardo Magalhães,01-04-2021,5927,31,55,0,19.214285714285715,0.0714285714
 Luís Eduardo Magalhães,02-04-2021,5966,39,56,1,21.571428571428573,0.14285714285714285,132.0,2.0
 Luís Eduardo Magalhães,03-04-2021,5972,6,57,1,20.571428571428573,0.21428571428571427,123.0,3.0
 Luís Eduardo Magalhães,04-04-2021,5976,4,58,1,20.785714285714285,0.2857142857142857,90.0,4.0
+Luís Eduardo Magalhães,05-04-2021,6022,46,58,0,23.928571428571427,0.2857142857142857,134.0,4.0

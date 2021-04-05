@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santo Antônio do Leverger,27-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
-Santo Antônio do Leverger,28-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
+Santo Antônio do Leverger,28-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Santo Antônio do Leverger,29-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Santo Antônio do Leverger,30-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Santo Antônio do Leverger,31-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Santo Antônio do Leverger,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Leverger,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Leverger,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Leverger,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -373,3 +373,4 @@ Santo Antônio do Leverger,01-04-2021,700,20,30,0,8.0,0.2857142857142857,44.0,2.
 Santo Antônio do Leverger,02-04-2021,726,26,30,0,9.857142857142858,0.21428571428571427,70.0,2.0
 Santo Antônio do Leverger,03-04-2021,729,3,30,0,10.071428571428571,0.21428571428571427,73.0,2.0
 Santo Antônio do Leverger,04-04-2021,729,0,30,0,10.071428571428571,0.21428571428571427,62.0,0.0
+Santo Antônio do Leverger,05-04-2021,732,3,30,0,10.214285714285714,0.21428571428571427,63.0,0.0

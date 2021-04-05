@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Capitão Leônidas Marques,27-03-2020,0,0,0,0,0.5,0.07142857142857142,6.0,0.0
 Capitão Leônidas Marques,28-03-2020,0,0,0,0,0.5,0.07142857142857142,6.0,0.0
-Capitão Leônidas Marques,29-03-2020,0,0,0,0,0.5,0.07142857142857142,6.0,0.0
+Capitão Leônidas Marques,29-03-2020,0,0,0,0,0.5,0.0,6.0,0.0
 Capitão Leônidas Marques,30-03-2020,0,0,0,0,0.5,0.0,6.0,0.0
 Capitão Leônidas Marques,31-03-2020,0,0,0,0,0.5,0.0,6.0,0.0
-Capitão Leônidas Marques,01-04-2020,0,0,0,0,0.5,0.0,6.0,0.0
+Capitão Leônidas Marques,01-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 Capitão Leônidas Marques,02-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 Capitão Leônidas Marques,03-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 Capitão Leônidas Marques,04-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 Capitão Leônidas Marques,05-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 Capitão Leônidas Marques,06-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
 Capitão Leônidas Marques,07-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
-Capitão Leônidas Marques,08-04-2020,0,0,0,0,0.42857142857142855,0.0,0.0,0.0
+Capitão Leônidas Marques,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Capitão Leônidas Marques,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Capitão Leônidas Marques,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Capitão Leônidas Marques,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -373,3 +373,4 @@ Capitão Leônidas Marques,01-04-2021,947,10,16,0,6.642857142857143,0.5,37.0,1.0
 Capitão Leônidas Marques,02-04-2021,955,8,16,0,6.5,0.42857142857142855,35.0,1.0
 Capitão Leônidas Marques,03-04-2021,958,3,16,0,6.285714285714286,0.42857142857142855,32.0,1.0
 Capitão Leônidas Marques,04-04-2021,959,1,16,0,6.142857142857143,0.42857142857142855,32.0,1.0
+Capitão Leônidas Marques,05-04-2021,966,7,16,0,6.285714285714286,0.42857142857142855,36.0,1.0

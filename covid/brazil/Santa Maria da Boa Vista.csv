@@ -1,12 +1,12 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santa Maria da Boa Vista,27-03-2020,0,0,0,0,0.21428571428571427,0.0,2.0,0.0
+Santa Maria da Boa Vista,27-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Santa Maria da Boa Vista,28-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Santa Maria da Boa Vista,29-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Santa Maria da Boa Vista,30-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Santa Maria da Boa Vista,31-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
-Santa Maria da Boa Vista,01-04-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
+Santa Maria da Boa Vista,01-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Santa Maria da Boa Vista,02-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Santa Maria da Boa Vista,03-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Santa Maria da Boa Vista,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Maria da Boa Vista,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Maria da Boa Vista,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Maria da Boa Vista,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -373,3 +373,4 @@ Santa Maria da Boa Vista,01-04-2021,641,6,7,0,2.142857142857143,0.0,21.0,0.0
 Santa Maria da Boa Vista,02-04-2021,642,1,7,0,2.142857142857143,0.0,21.0,0.0
 Santa Maria da Boa Vista,03-04-2021,642,0,7,0,1.9285714285714286,0.0,20.0,0.0
 Santa Maria da Boa Vista,04-04-2021,642,0,7,0,1.9285714285714286,0.0,19.0,0.0
+Santa Maria da Boa Vista,05-04-2021,658,16,7,0,3.0714285714285716,0.0,35.0,0.0

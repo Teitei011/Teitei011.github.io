@@ -1,14 +1,14 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Bom Jesus do Araguaia,27-03-2020,0,0,0,0,2.0714285714285716,0.07142857142857142,14.0,0.0
-Bom Jesus do Araguaia,28-03-2020,0,0,0,0,2.0714285714285716,0.07142857142857142,14.0,0.0
-Bom Jesus do Araguaia,29-03-2020,0,0,0,0,1.0,0.07142857142857142,14.0,0.0
-Bom Jesus do Araguaia,30-03-2020,0,0,0,0,1.0,0.07142857142857142,0.0,0.0
+Bom Jesus do Araguaia,28-03-2020,0,0,0,0,1.0,0.07142857142857142,14.0,0.0
+Bom Jesus do Araguaia,29-03-2020,0,0,0,0,1.0,0.07142857142857142,0.0,0.0
+Bom Jesus do Araguaia,30-03-2020,0,0,0,0,1.0,0.0,0.0,0.0
 Bom Jesus do Araguaia,31-03-2020,0,0,0,0,1.0,0.0,0.0,0.0
 Bom Jesus do Araguaia,01-04-2020,0,0,0,0,1.0,0.0,0.0,0.0
 Bom Jesus do Araguaia,02-04-2020,0,0,0,0,1.0,0.0,0.0,0.0
 Bom Jesus do Araguaia,03-04-2020,0,0,0,0,1.0,0.0,0.0,0.0
 Bom Jesus do Araguaia,04-04-2020,0,0,0,0,1.0,0.0,0.0,0.0
-Bom Jesus do Araguaia,05-04-2020,0,0,0,0,1.0,0.0,0.0,0.0
+Bom Jesus do Araguaia,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bom Jesus do Araguaia,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bom Jesus do Araguaia,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bom Jesus do Araguaia,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -373,3 +373,4 @@ Bom Jesus do Araguaia,01-04-2021,545,5,6,0,9.5,0.2857142857142857,54.0,2.0
 Bom Jesus do Araguaia,02-04-2021,556,11,8,2,8.642857142857142,0.42857142857142855,48.0,4.0
 Bom Jesus do Araguaia,03-04-2021,559,3,11,3,7.785714285714286,0.5714285714285714,46.0,7.0
 Bom Jesus do Araguaia,04-04-2021,559,0,11,0,7.785714285714286,0.5714285714285714,46.0,6.0
+Bom Jesus do Araguaia,05-04-2021,560,1,11,0,7.857142857142857,0.5714285714285714,45.0,6.0

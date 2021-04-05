@@ -1,14 +1,14 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Presidente Prudente,27-03-2020,0,0,0,0,3.4285714285714284,0.0,15.0,0.0
-Presidente Prudente,28-03-2020,0,0,0,0,3.0,0.0,12.0,0.0
-Presidente Prudente,29-03-2020,0,0,0,0,2.142857142857143,0.0,7.0,0.0
-Presidente Prudente,30-03-2020,0,0,0,0,1.3571428571428572,0.0,0.0,0.0
-Presidente Prudente,31-03-2020,0,0,0,0,1.1428571428571428,0.0,0.0,0.0
+Presidente Prudente,27-03-2020,0,0,0,0,3.0,0.0,12.0,0.0
+Presidente Prudente,28-03-2020,0,0,0,0,2.142857142857143,0.0,7.0,0.0
+Presidente Prudente,29-03-2020,0,0,0,0,1.3571428571428572,0.0,0.0,0.0
+Presidente Prudente,30-03-2020,0,0,0,0,1.1428571428571428,0.0,0.0,0.0
+Presidente Prudente,31-03-2020,0,0,0,0,1.0714285714285714,0.0,0.0,0.0
 Presidente Prudente,01-04-2020,0,0,0,0,1.0714285714285714,0.0,0.0,0.0
 Presidente Prudente,02-04-2020,0,0,0,0,1.0714285714285714,0.0,0.0,0.0
-Presidente Prudente,03-04-2020,0,0,0,0,1.0714285714285714,0.0,0.0,0.0
-Presidente Prudente,04-04-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
-Presidente Prudente,05-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
+Presidente Prudente,03-04-2020,0,0,0,0,0.8571428571428571,0.0,0.0,0.0
+Presidente Prudente,04-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
+Presidente Prudente,05-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Prudente,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Prudente,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Prudente,08-04-2020,1,1,0,0,0.07142857142857142,0.0,1.0,0.0
@@ -373,3 +373,4 @@ Presidente Prudente,01-04-2021,15102,453,394,6,158.71428571428572,5.5,1430.0,56.
 Presidente Prudente,02-04-2021,15169,67,400,6,159.14285714285714,5.928571428571429,1112.0,53.0
 Presidente Prudente,03-04-2021,15179,10,401,1,145.14285714285714,5.5,969.0,46.0
 Presidente Prudente,04-04-2021,15210,31,410,9,144.0,6.142857142857143,984.0,55.0
+Presidente Prudente,05-04-2021,15224,14,411,1,143.64285714285714,6.214285714285714,987.0,55.0

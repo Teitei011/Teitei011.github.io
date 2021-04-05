@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Rio Preto da Eva,27-03-2020,0,0,0,0,0.2857142857142857,0.0,0.0,0.0
+Rio Preto da Eva,27-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
 Rio Preto da Eva,28-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
-Rio Preto da Eva,29-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
+Rio Preto da Eva,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Rio Preto da Eva,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Rio Preto da Eva,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Rio Preto da Eva,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -373,3 +373,4 @@ Rio Preto da Eva,01-04-2021,4295,1,63,0,5.857142857142857,0.2857142857142857,23.
 Rio Preto da Eva,02-04-2021,4297,2,63,0,5.642857142857143,0.2857142857142857,17.0,0.0
 Rio Preto da Eva,03-04-2021,4299,2,63,0,5.285714285714286,0.2857142857142857,15.0,0.0
 Rio Preto da Eva,04-04-2021,4300,1,63,0,5.0,0.2857142857142857,13.0,0.0
+Rio Preto da Eva,05-04-2021,4301,1,63,0,4.857142857142857,0.2857142857142857,12.0,0.0

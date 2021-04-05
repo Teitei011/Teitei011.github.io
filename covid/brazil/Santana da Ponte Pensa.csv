@@ -1,15 +1,15 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santana da Ponte Pensa,27-03-2020,0,0,0,0,0.7857142857142857,0.07142857142857142,9.0,1.0
-Santana da Ponte Pensa,28-03-2020,0,0,0,0,0.7857142857142857,0.07142857142857142,9.0,0.0
+Santana da Ponte Pensa,27-03-2020,0,0,0,0,0.7857142857142857,0.07142857142857142,9.0,0.0
+Santana da Ponte Pensa,28-03-2020,0,0,0,0,0.6428571428571429,0.07142857142857142,1.0,0.0
 Santana da Ponte Pensa,29-03-2020,0,0,0,0,0.6428571428571429,0.07142857142857142,1.0,0.0
-Santana da Ponte Pensa,30-03-2020,0,0,0,0,0.6428571428571429,0.07142857142857142,1.0,0.0
+Santana da Ponte Pensa,30-03-2020,0,0,0,0,0.6428571428571429,0.07142857142857142,0.0,0.0
 Santana da Ponte Pensa,31-03-2020,0,0,0,0,0.6428571428571429,0.07142857142857142,0.0,0.0
 Santana da Ponte Pensa,01-04-2020,0,0,0,0,0.6428571428571429,0.07142857142857142,0.0,0.0
 Santana da Ponte Pensa,02-04-2020,0,0,0,0,0.6428571428571429,0.07142857142857142,0.0,0.0
-Santana da Ponte Pensa,03-04-2020,0,0,0,0,0.6428571428571429,0.07142857142857142,0.0,0.0
-Santana da Ponte Pensa,04-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
+Santana da Ponte Pensa,03-04-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
+Santana da Ponte Pensa,04-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Santana da Ponte Pensa,05-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Santana da Ponte Pensa,06-04-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Santana da Ponte Pensa,06-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana da Ponte Pensa,07-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana da Ponte Pensa,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana da Ponte Pensa,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -373,3 +373,4 @@ Santana da Ponte Pensa,01-04-2021,35,0,2,0,0.5,0.0,3.0,0.0
 Santana da Ponte Pensa,02-04-2021,35,0,2,0,0.5,0.0,3.0,0.0
 Santana da Ponte Pensa,03-04-2021,35,0,2,0,0.5,0.0,3.0,0.0
 Santana da Ponte Pensa,04-04-2021,35,0,2,0,0.5,0.0,3.0,0.0
+Santana da Ponte Pensa,05-04-2021,35,0,2,0,0.5,0.0,3.0,0.0

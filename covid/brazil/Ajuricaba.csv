@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Ajuricaba,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Ajuricaba,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Ajuricaba,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Ajuricaba,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Ajuricaba,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -373,3 +373,4 @@ Ajuricaba,01-04-2021,571,10,19,0,1.4285714285714286,0.5,16.0,5.0
 Ajuricaba,02-04-2021,574,3,19,0,1.5714285714285714,0.5,16.0,4.0
 Ajuricaba,03-04-2021,575,1,20,1,1.2857142857142858,0.5,16.0,4.0
 Ajuricaba,04-04-2021,575,0,20,0,1.2857142857142858,0.5,15.0,3.0
+Ajuricaba,05-04-2021,575,0,20,0,1.2857142857142858,0.42857142857142855,15.0,3.0

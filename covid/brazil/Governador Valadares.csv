@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Governador Valadares,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Governador Valadares,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Valadares,28-03-2020,1,1,0,0,0.07142857142857142,0.0,1.0,0.0
 Governador Valadares,29-03-2020,2,1,0,0,0.14285714285714285,0.0,2.0,0.0
 Governador Valadares,30-03-2020,2,0,0,0,0.14285714285714285,0.0,2.0,0.0
@@ -373,3 +373,4 @@ Governador Valadares,01-04-2021,19563,183,687,11,155.0,5.0,1563.0,47.0
 Governador Valadares,02-04-2021,19804,241,695,8,163.71428571428572,5.357142857142857,1348.0,41.0
 Governador Valadares,03-04-2021,19964,160,704,9,162.85714285714286,5.714285714285714,1327.0,44.0
 Governador Valadares,04-04-2021,20148,184,709,5,167.5,6.0,1511.0,37.0
+Governador Valadares,05-04-2021,20148,0,713,4,161.35714285714286,6.142857142857143,1511.0,41.0

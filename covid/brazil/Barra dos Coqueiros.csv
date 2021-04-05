@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Barra dos Coqueiros,27-03-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
 Barra dos Coqueiros,28-03-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
-Barra dos Coqueiros,29-03-2020,0,0,0,0,0.6428571428571429,0.0,0.0,0.0
+Barra dos Coqueiros,29-03-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
 Barra dos Coqueiros,30-03-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
-Barra dos Coqueiros,31-03-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
+Barra dos Coqueiros,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Barra dos Coqueiros,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Barra dos Coqueiros,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Barra dos Coqueiros,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -373,3 +373,4 @@ Barra dos Coqueiros,01-04-2021,4508,31,50,1,39.642857142857146,0.5,246.0,6.0
 Barra dos Coqueiros,02-04-2021,4511,3,50,0,33.857142857142854,0.5,173.0,5.0
 Barra dos Coqueiros,03-04-2021,4631,120,50,0,38.714285714285715,0.5,290.0,4.0
 Barra dos Coqueiros,04-04-2021,4664,33,51,1,38.42857142857143,0.5714285714285714,271.0,4.0
+Barra dos Coqueiros,05-04-2021,4668,4,51,0,38.357142857142854,0.5714285714285714,244.0,4.0
