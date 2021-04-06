@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Barra de Santo Antônio,27-03-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
-Barra de Santo Antônio,28-03-2020,0,0,0,0,0.5714285714285714,0.0,0.0,0.0
-Barra de Santo Antônio,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Barra de Santo Antônio,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Barra de Santo Antônio,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Barra de Santo Antônio,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Barra de Santo Antônio,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Barra de Santo Antônio,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -374,3 +374,4 @@ Barra de Santo Antônio,02-04-2021,188,1,15,0,1.2857142857142858,0.0,8.0,0.0
 Barra de Santo Antônio,03-04-2021,193,5,15,0,1.6428571428571428,0.0,13.0,0.0
 Barra de Santo Antônio,04-04-2021,194,1,15,0,1.5,0.0,14.0,0.0
 Barra de Santo Antônio,05-04-2021,195,1,15,0,1.5,0.0,14.0,0.0
+Barra de Santo Antônio,06-04-2021,195,0,15,0,1.2857142857142858,0.0,11.0,0.0
