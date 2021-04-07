@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Jequiá da Praia,27-03-2020,0,0,0,0,0.0,0.07142857142857142,0.0,0.0
 Jequiá da Praia,28-03-2020,0,0,0,0,0.0,0.07142857142857142,0.0,0.0
-Jequiá da Praia,29-03-2020,0,0,0,0,0.0,0.07142857142857142,0.0,0.0
+Jequiá da Praia,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Jequiá da Praia,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Jequiá da Praia,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Jequiá da Praia,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -375,3 +375,4 @@ Jequiá da Praia,03-04-2021,472,5,9,0,2.2857142857142856,0.0,23.0,0.0
 Jequiá da Praia,04-04-2021,472,0,9,0,2.2857142857142856,0.0,18.0,0.0
 Jequiá da Praia,05-04-2021,472,0,9,0,2.2857142857142856,0.0,18.0,0.0
 Jequiá da Praia,06-04-2021,472,0,9,0,2.2857142857142856,0.0,16.0,0.0
+Jequiá da Praia,07-04-2021,479,7,9,0,2.7857142857142856,0.0,20.0,0.0

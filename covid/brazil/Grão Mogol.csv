@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Grão Mogol,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Grão Mogol,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Grão Mogol,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Grão Mogol,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Grão Mogol,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -375,3 +375,4 @@ Grão Mogol,03-04-2021,432,0,3,0,3.357142857142857,0.0,13.0,0.0
 Grão Mogol,04-04-2021,432,0,3,0,3.357142857142857,0.0,13.0,0.0
 Grão Mogol,05-04-2021,432,0,3,0,3.357142857142857,0.0,13.0,0.0
 Grão Mogol,06-04-2021,432,0,3,0,3.357142857142857,0.0,12.0,0.0
+Grão Mogol,07-04-2021,432,0,3,0,3.357142857142857,0.0,12.0,0.0

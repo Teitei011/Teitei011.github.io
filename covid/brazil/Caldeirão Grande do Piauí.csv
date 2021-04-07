@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Caldeirão Grande do Piauí,27-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
 Caldeirão Grande do Piauí,28-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
-Caldeirão Grande do Piauí,29-03-2020,0,0,0,0,0.07142857142857142,0.0,0.0,0.0
+Caldeirão Grande do Piauí,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Caldeirão Grande do Piauí,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Caldeirão Grande do Piauí,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Caldeirão Grande do Piauí,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -375,3 +375,4 @@ Caldeirão Grande do Piauí,03-04-2021,250,0,3,1,1.4285714285714286,0.0714285714
 Caldeirão Grande do Piauí,04-04-2021,250,0,3,0,1.4285714285714286,0.07142857142857142,9.0,1.0
 Caldeirão Grande do Piauí,05-04-2021,250,0,3,0,1.4285714285714286,0.07142857142857142,9.0,1.0
 Caldeirão Grande do Piauí,06-04-2021,250,0,2,-1,1.1428571428571428,0.0,1.0,0.0
+Caldeirão Grande do Piauí,07-04-2021,250,0,2,0,1.1428571428571428,0.0,1.0,0.0

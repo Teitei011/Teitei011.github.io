@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Palmeirópolis,27-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Palmeirópolis,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Palmeirópolis,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Palmeirópolis,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Palmeirópolis,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -375,3 +375,4 @@ Palmeirópolis,03-04-2021,544,0,15,0,0.8571428571428571,0.14285714285714285,0.0,
 Palmeirópolis,04-04-2021,544,0,15,0,0.8571428571428571,0.14285714285714285,0.0,0.0
 Palmeirópolis,05-04-2021,544,0,15,0,0.8571428571428571,0.14285714285714285,0.0,0.0
 Palmeirópolis,06-04-2021,577,33,15,0,3.2142857142857144,0.14285714285714285,33.0,0.0
+Palmeirópolis,07-04-2021,591,14,15,0,4.214285714285714,0.14285714285714285,47.0,0.0

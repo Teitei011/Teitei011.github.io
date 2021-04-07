@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Passagem Franca do Piauí,27-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,0.0
 Passagem Franca do Piauí,28-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,0.0
-Passagem Franca do Piauí,29-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,0.0
-Passagem Franca do Piauí,30-03-2020,0,0,0,0,0.0,0.07142857142857142,0.0,0.0
+Passagem Franca do Piauí,29-03-2020,0,0,0,0,0.0,0.07142857142857142,0.0,0.0
+Passagem Franca do Piauí,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Passagem Franca do Piauí,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Passagem Franca do Piauí,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Passagem Franca do Piauí,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -375,3 +375,4 @@ Passagem Franca do Piauí,03-04-2021,201,0,6,0,0.5,0.0,2.0,0.0
 Passagem Franca do Piauí,04-04-2021,201,0,6,0,0.5,0.0,2.0,0.0
 Passagem Franca do Piauí,05-04-2021,203,2,6,0,0.6428571428571429,0.0,4.0,0.0
 Passagem Franca do Piauí,06-04-2021,203,0,6,0,0.6428571428571429,0.0,4.0,0.0
+Passagem Franca do Piauí,07-04-2021,204,1,6,0,0.6428571428571429,0.0,4.0,0.0
