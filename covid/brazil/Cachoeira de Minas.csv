@@ -1,17 +1,17 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Cachoeira de Minas,27-03-2020,0,0,0,0,0.7857142857142857,0.0,7.0,0.0
+Cachoeira de Minas,27-03-2020,0,0,0,0,0.5714285714285714,0.0,2.0,0.0
 Cachoeira de Minas,28-03-2020,0,0,0,0,0.5714285714285714,0.0,2.0,0.0
 Cachoeira de Minas,29-03-2020,0,0,0,0,0.5714285714285714,0.0,2.0,0.0
 Cachoeira de Minas,30-03-2020,0,0,0,0,0.5714285714285714,0.0,2.0,0.0
-Cachoeira de Minas,31-03-2020,0,0,0,0,0.5714285714285714,0.0,2.0,0.0
-Cachoeira de Minas,01-04-2020,0,0,0,0,0.5,0.0,2.0,0.0
+Cachoeira de Minas,31-03-2020,0,0,0,0,0.5,0.0,2.0,0.0
+Cachoeira de Minas,01-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
 Cachoeira de Minas,02-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
-Cachoeira de Minas,03-04-2020,0,0,0,0,0.5,0.0,0.0,0.0
+Cachoeira de Minas,03-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Cachoeira de Minas,04-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Cachoeira de Minas,05-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Cachoeira de Minas,06-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
 Cachoeira de Minas,07-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
-Cachoeira de Minas,08-04-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Cachoeira de Minas,08-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cachoeira de Minas,09-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cachoeira de Minas,10-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cachoeira de Minas,11-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -376,3 +376,4 @@ Cachoeira de Minas,04-04-2021,461,0,6,0,3.2857142857142856,0.07142857142857142,1
 Cachoeira de Minas,05-04-2021,461,0,6,0,3.2857142857142856,0.07142857142857142,12.0,1.0
 Cachoeira de Minas,06-04-2021,463,2,6,0,3.357142857142857,0.07142857142857142,9.0,1.0
 Cachoeira de Minas,07-04-2021,471,8,6,0,3.0,0.07142857142857142,13.0,1.0
+Cachoeira de Minas,08-04-2021,473,2,6,0,2.5714285714285716,0.07142857142857142,12.0,1.0

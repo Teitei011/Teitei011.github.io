@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Coronel Murta,27-03-2020,0,0,0,0,0.21428571428571427,0.0,0.0,0.0
-Coronel Murta,28-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Coronel Murta,27-03-2020,0,0,0,0,0.14285714285714285,0.0,0.0,0.0
+Coronel Murta,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coronel Murta,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coronel Murta,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coronel Murta,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -376,3 +376,4 @@ Coronel Murta,04-04-2021,128,0,2,0,2.0714285714285716,0.0,9.0,0.0
 Coronel Murta,05-04-2021,128,0,2,0,2.0714285714285716,0.0,9.0,0.0
 Coronel Murta,06-04-2021,136,8,2,0,2.642857142857143,0.0,13.0,0.0
 Coronel Murta,07-04-2021,136,0,2,0,1.5714285714285714,0.0,11.0,0.0
+Coronel Murta,08-04-2021,136,0,2,0,1.5714285714285714,0.0,9.0,0.0
