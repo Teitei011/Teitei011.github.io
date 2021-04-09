@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Chapada dos Guimarães,27-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Chapada dos Guimarães,28-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
-Chapada dos Guimarães,29-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
-Chapada dos Guimarães,30-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
-Chapada dos Guimarães,31-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
-Chapada dos Guimarães,01-04-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Chapada dos Guimarães,27-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Chapada dos Guimarães,28-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Chapada dos Guimarães,29-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Chapada dos Guimarães,30-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Chapada dos Guimarães,31-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Chapada dos Guimarães,01-04-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
 Chapada dos Guimarães,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Chapada dos Guimarães,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Chapada dos Guimarães,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -377,3 +377,4 @@ Chapada dos Guimarães,05-04-2021,1207,31,48,0,18.142857142857142,0.285714285714
 Chapada dos Guimarães,06-04-2021,1212,5,49,1,13.714285714285714,0.2857142857142857,96.0,2.0
 Chapada dos Guimarães,07-04-2021,1244,32,49,0,11.142857142857142,0.2857142857142857,78.0,2.0
 Chapada dos Guimarães,08-04-2021,1246,2,50,1,10.142857142857142,0.42857142857142855,71.0,3.0
+Chapada dos Guimarães,09-04-2021,1248,2,51,1,10.428571428571429,0.42857142857142855,73.0,3.0

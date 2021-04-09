@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Brasilândia do Sul,27-03-2020,0,0,0,0,3.142857142857143,0.0,22.0,0.0
-Brasilândia do Sul,28-03-2020,0,0,0,0,3.142857142857143,0.0,22.0,0.0
-Brasilândia do Sul,29-03-2020,0,0,0,0,3.142857142857143,0.0,22.0,0.0
-Brasilândia do Sul,30-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
-Brasilândia do Sul,31-03-2020,0,0,0,0,3.142857142857143,0.0,22.0,0.0
-Brasilândia do Sul,01-04-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
+Brasilândia do Sul,27-03-2020,0,0,0,0,4.714285714285714,0.0,33.0,0.0
+Brasilândia do Sul,28-03-2020,0,0,0,0,4.714285714285714,0.0,33.0,0.0
+Brasilândia do Sul,29-03-2020,0,0,0,0,4.0,0.0,28.0,0.0
+Brasilândia do Sul,30-03-2020,0,0,0,0,4.714285714285714,0.0,33.0,0.0
+Brasilândia do Sul,31-03-2020,0,0,0,0,3.2857142857142856,0.0,23.0,0.0
+Brasilândia do Sul,01-04-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
 Brasilândia do Sul,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Brasilândia do Sul,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Brasilândia do Sul,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -377,3 +377,4 @@ Brasilândia do Sul,05-04-2021,272,0,7,0,2.142857142857143,0.0,15.0,0.0
 Brasilândia do Sul,06-04-2021,281,9,7,0,3.4285714285714284,0.0,24.0,0.0
 Brasilândia do Sul,07-04-2021,286,5,7,0,3.857142857142857,0.0,27.0,0.0
 Brasilândia do Sul,08-04-2021,289,3,7,0,4.0,0.0,28.0,0.0
+Brasilândia do Sul,09-04-2021,289,0,7,0,3.0,0.0,21.0,0.0

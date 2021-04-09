@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Olho d'Água das Flores,27-03-2020,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
-Olho d'Água das Flores,28-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
-Olho d'Água das Flores,29-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
+Olho d'Água das Flores,27-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Olho d'Água das Flores,28-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Olho d'Água das Flores,29-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
 Olho d'Água das Flores,30-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
-Olho d'Água das Flores,31-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
-Olho d'Água das Flores,01-04-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Olho d'Água das Flores,31-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Olho d'Água das Flores,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Olho d'Água das Flores,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Olho d'Água das Flores,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Olho d'Água das Flores,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -377,3 +377,4 @@ Olho d'Água das Flores,05-04-2021,1274,0,26,0,2.4285714285714284,0.285714285714
 Olho d'Água das Flores,06-04-2021,1275,1,26,0,2.2857142857142856,0.0,16.0,0.0
 Olho d'Água das Flores,07-04-2021,1276,1,26,0,2.4285714285714284,0.0,17.0,0.0
 Olho d'Água das Flores,08-04-2021,1278,2,26,0,2.5714285714285716,0.0,18.0,0.0
+Olho d'Água das Flores,09-04-2021,1281,3,26,0,3.0,0.0,21.0,0.0

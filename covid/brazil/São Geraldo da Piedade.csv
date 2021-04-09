@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Geraldo da Piedade,27-03-2020,0,0,0,0,2.2857142857142856,0.2857142857142857,16.0,2.0
+São Geraldo da Piedade,27-03-2020,0,0,0,0,1.0,0.2857142857142857,7.0,2.0
 São Geraldo da Piedade,28-03-2020,0,0,0,0,1.0,0.2857142857142857,7.0,2.0
 São Geraldo da Piedade,29-03-2020,0,0,0,0,1.0,0.2857142857142857,7.0,2.0
 São Geraldo da Piedade,30-03-2020,0,0,0,0,1.0,0.2857142857142857,7.0,2.0
-São Geraldo da Piedade,31-03-2020,0,0,0,0,1.0,0.2857142857142857,7.0,2.0
-São Geraldo da Piedade,01-04-2020,0,0,0,0,1.0,0.0,7.0,0.0
+São Geraldo da Piedade,31-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+São Geraldo da Piedade,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Geraldo da Piedade,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Geraldo da Piedade,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Geraldo da Piedade,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -377,3 +377,4 @@ São Geraldo da Piedade,05-04-2021,182,3,10,0,3.4285714285714284,0.0,24.0,0.0
 São Geraldo da Piedade,06-04-2021,182,0,10,0,3.4285714285714284,0.0,24.0,0.0
 São Geraldo da Piedade,07-04-2021,182,0,10,0,3.4285714285714284,0.0,24.0,0.0
 São Geraldo da Piedade,08-04-2021,182,0,10,0,3.4285714285714284,0.0,24.0,0.0
+São Geraldo da Piedade,09-04-2021,182,0,10,0,3.4285714285714284,0.0,24.0,0.0

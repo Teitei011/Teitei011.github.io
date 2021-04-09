@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santa Cruz do Capibaribe,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santa Cruz do Capibaribe,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santa Cruz do Capibaribe,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santa Cruz do Capibaribe,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santa Cruz do Capibaribe,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santa Cruz do Capibaribe,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Santa Cruz do Capibaribe,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santa Cruz do Capibaribe,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santa Cruz do Capibaribe,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santa Cruz do Capibaribe,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santa Cruz do Capibaribe,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santa Cruz do Capibaribe,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Santa Cruz do Capibaribe,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Cruz do Capibaribe,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Cruz do Capibaribe,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -377,3 +377,4 @@ Santa Cruz do Capibaribe,05-04-2021,5042,6,96,0,21.0,0.14285714285714285,147.0,1
 Santa Cruz do Capibaribe,06-04-2021,5068,26,96,0,23.714285714285715,0.14285714285714285,166.0,1.0
 Santa Cruz do Capibaribe,07-04-2021,5140,72,96,0,28.714285714285715,0.14285714285714285,201.0,1.0
 Santa Cruz do Capibaribe,08-04-2021,5189,49,96,0,24.714285714285715,0.14285714285714285,173.0,1.0
+Santa Cruz do Capibaribe,09-04-2021,5214,25,96,0,27.142857142857142,0.0,190.0,0.0

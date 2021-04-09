@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Colinas do Tocantins,27-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Colinas do Tocantins,28-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Colinas do Tocantins,29-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Colinas do Tocantins,30-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Colinas do Tocantins,29-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Colinas do Tocantins,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Colinas do Tocantins,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Colinas do Tocantins,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Colinas do Tocantins,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -377,3 +377,4 @@ Colinas do Tocantins,05-04-2021,5655,0,77,0,12.142857142857142,1.142857142857142
 Colinas do Tocantins,06-04-2021,5707,52,78,1,16.0,1.1428571428571428,112.0,8.0
 Colinas do Tocantins,07-04-2021,5714,7,78,0,13.857142857142858,0.42857142857142855,97.0,3.0
 Colinas do Tocantins,08-04-2021,5747,33,80,2,17.428571428571427,0.7142857142857143,122.0,5.0
+Colinas do Tocantins,09-04-2021,5791,44,80,0,21.428571428571427,0.7142857142857143,150.0,5.0

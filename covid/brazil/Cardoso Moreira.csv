@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Cardoso Moreira,27-03-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
+Cardoso Moreira,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cardoso Moreira,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cardoso Moreira,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cardoso Moreira,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -377,3 +377,4 @@ Cardoso Moreira,05-04-2021,961,0,8,0,5.0,0.14285714285714285,35.0,1.0
 Cardoso Moreira,06-04-2021,961,0,8,0,4.285714285714286,0.14285714285714285,30.0,1.0
 Cardoso Moreira,07-04-2021,974,13,8,0,6.142857142857143,0.14285714285714285,43.0,1.0
 Cardoso Moreira,08-04-2021,975,1,8,0,6.285714285714286,0.14285714285714285,44.0,1.0
+Cardoso Moreira,09-04-2021,976,1,8,0,6.428571428571429,0.14285714285714285,45.0,1.0

@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santo Antônio da Platina,27-03-2020,0,0,0,0,12.142857142857142,0.7142857142857143,85.0,5.0
-Santo Antônio da Platina,28-03-2020,0,0,0,0,11.142857142857142,0.42857142857142855,78.0,3.0
-Santo Antônio da Platina,29-03-2020,0,0,0,0,10.0,0.42857142857142855,70.0,3.0
-Santo Antônio da Platina,30-03-2020,0,0,0,0,8.142857142857142,0.14285714285714285,57.0,1.0
-Santo Antônio da Platina,31-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
-Santo Antônio da Platina,01-04-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Santo Antônio da Platina,27-03-2020,0,0,0,0,13.571428571428571,0.42857142857142855,95.0,3.0
+Santo Antônio da Platina,28-03-2020,0,0,0,0,12.428571428571429,0.42857142857142855,87.0,3.0
+Santo Antônio da Platina,29-03-2020,0,0,0,0,10.571428571428571,0.14285714285714285,74.0,1.0
+Santo Antônio da Platina,30-03-2020,0,0,0,0,4.0,0.0,28.0,0.0
+Santo Antônio da Platina,31-03-2020,0,0,0,0,3.142857142857143,0.0,22.0,0.0
+Santo Antônio da Platina,01-04-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
 Santo Antônio da Platina,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio da Platina,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio da Platina,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -377,3 +377,4 @@ Santo Antônio da Platina,05-04-2021,2393,2,40,2,16.571428571428573,0.7142857142
 Santo Antônio da Platina,06-04-2021,2422,29,49,9,18.857142857142858,2.0,132.0,14.0
 Santo Antônio da Platina,07-04-2021,2445,23,49,0,17.285714285714285,2.0,121.0,14.0
 Santo Antônio da Platina,08-04-2021,2476,31,64,15,19.0,4.142857142857143,133.0,29.0
+Santo Antônio da Platina,09-04-2021,2501,25,66,2,18.285714285714285,4.0,128.0,28.0

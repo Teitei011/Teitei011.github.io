@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Afogados da Ingazeira,27-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Afogados da Ingazeira,28-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Afogados da Ingazeira,28-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Afogados da Ingazeira,29-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Afogados da Ingazeira,30-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Afogados da Ingazeira,30-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Afogados da Ingazeira,31-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Afogados da Ingazeira,01-04-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Afogados da Ingazeira,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Afogados da Ingazeira,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Afogados da Ingazeira,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Afogados da Ingazeira,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -377,3 +377,4 @@ Afogados da Ingazeira,05-04-2021,3031,0,44,1,37.142857142857146,0.14285714285714
 Afogados da Ingazeira,06-04-2021,3057,26,45,1,22.285714285714285,0.2857142857142857,156.0,2.0
 Afogados da Ingazeira,07-04-2021,3088,31,46,1,18.571428571428573,0.42857142857142855,130.0,3.0
 Afogados da Ingazeira,08-04-2021,3110,22,46,0,14.0,0.42857142857142855,98.0,3.0
+Afogados da Ingazeira,09-04-2021,3134,24,46,0,15.428571428571429,0.42857142857142855,108.0,3.0

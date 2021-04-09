@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Olho d'Água das Cunhãs,27-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
+Olho d'Água das Cunhãs,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Olho d'Água das Cunhãs,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Olho d'Água das Cunhãs,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Olho d'Água das Cunhãs,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -377,3 +377,4 @@ Olho d'Água das Cunhãs,05-04-2021,631,0,13,0,4.0,0.0,28.0,0.0
 Olho d'Água das Cunhãs,06-04-2021,632,1,13,0,3.7142857142857144,0.0,26.0,0.0
 Olho d'Água das Cunhãs,07-04-2021,639,7,13,0,4.571428571428571,0.0,32.0,0.0
 Olho d'Água das Cunhãs,08-04-2021,641,2,13,0,3.7142857142857144,0.0,26.0,0.0
+Olho d'Água das Cunhãs,09-04-2021,642,1,13,0,2.7142857142857144,0.0,19.0,0.0

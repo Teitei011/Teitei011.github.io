@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Conselheiro Lafaiete,27-03-2020,0,0,0,0,2.2857142857142856,0.14285714285714285,16.0,1.0
-Conselheiro Lafaiete,28-03-2020,0,0,0,0,2.2857142857142856,0.14285714285714285,16.0,1.0
-Conselheiro Lafaiete,29-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
-Conselheiro Lafaiete,30-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
-Conselheiro Lafaiete,31-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-Conselheiro Lafaiete,01-04-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Conselheiro Lafaiete,28-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
+Conselheiro Lafaiete,29-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
+Conselheiro Lafaiete,30-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Conselheiro Lafaiete,31-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Conselheiro Lafaiete,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Conselheiro Lafaiete,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Conselheiro Lafaiete,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Conselheiro Lafaiete,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -377,3 +377,4 @@ Conselheiro Lafaiete,05-04-2021,8584,42,115,0,108.0,1.4285714285714286,756.0,10.
 Conselheiro Lafaiete,06-04-2021,8614,30,115,0,93.57142857142857,1.4285714285714286,655.0,10.0
 Conselheiro Lafaiete,07-04-2021,8739,125,125,10,92.85714285714286,2.142857142857143,650.0,15.0
 Conselheiro Lafaiete,08-04-2021,8828,89,128,3,87.0,2.4285714285714284,609.0,17.0
+Conselheiro Lafaiete,09-04-2021,8921,93,132,4,83.57142857142857,2.4285714285714284,585.0,17.0

@@ -2,7 +2,7 @@ municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases
 Santa Maria de Itabira,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Santa Maria de Itabira,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Santa Maria de Itabira,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Santa Maria de Itabira,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santa Maria de Itabira,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Maria de Itabira,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Maria de Itabira,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Maria de Itabira,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -377,3 +377,4 @@ Santa Maria de Itabira,05-04-2021,607,0,15,0,10.142857142857142,0.57142857142857
 Santa Maria de Itabira,06-04-2021,607,0,15,0,8.285714285714286,0.5714285714285714,58.0,4.0
 Santa Maria de Itabira,07-04-2021,628,21,16,1,8.0,0.2857142857142857,56.0,2.0
 Santa Maria de Itabira,08-04-2021,628,0,17,1,6.142857142857143,0.2857142857142857,43.0,2.0
+Santa Maria de Itabira,09-04-2021,661,33,17,0,7.714285714285714,0.2857142857142857,54.0,2.0

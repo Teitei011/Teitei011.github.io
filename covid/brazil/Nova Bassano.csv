@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Nova Bassano,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Nova Bassano,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Bassano,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Bassano,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Bassano,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -377,3 +377,4 @@ Nova Bassano,05-04-2021,1449,0,10,0,1.1428571428571428,0.0,8.0,0.0
 Nova Bassano,06-04-2021,1464,15,10,0,3.2857142857142856,0.0,23.0,0.0
 Nova Bassano,07-04-2021,1464,0,10,0,3.142857142857143,0.0,22.0,0.0
 Nova Bassano,08-04-2021,1465,1,10,0,3.2857142857142856,0.0,23.0,0.0
+Nova Bassano,09-04-2021,1465,0,10,0,2.2857142857142856,0.0,16.0,0.0

@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Muniz Freire,27-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Muniz Freire,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Muniz Freire,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Muniz Freire,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Muniz Freire,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -377,3 +377,4 @@ Muniz Freire,05-04-2021,2067,44,27,2,25.285714285714285,0.42857142857142855,177.
 Muniz Freire,06-04-2021,2145,78,27,0,33.714285714285715,0.42857142857142855,236.0,3.0
 Muniz Freire,07-04-2021,2166,21,29,2,32.285714285714285,0.7142857142857143,226.0,5.0
 Muniz Freire,08-04-2021,2190,24,28,-1,32.0,0.5714285714285714,224.0,4.0
+Muniz Freire,09-04-2021,2224,34,28,0,32.42857142857143,0.5714285714285714,227.0,4.0

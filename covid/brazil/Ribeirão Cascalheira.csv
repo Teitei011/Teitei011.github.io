@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Ribeirão Cascalheira,27-03-2020,0,0,0,0,6.428571428571429,0.0,45.0,0.0
-Ribeirão Cascalheira,28-03-2020,0,0,0,0,6.428571428571429,0.0,45.0,0.0
-Ribeirão Cascalheira,29-03-2020,0,0,0,0,6.428571428571429,0.0,45.0,0.0
-Ribeirão Cascalheira,30-03-2020,0,0,0,0,6.428571428571429,0.0,45.0,0.0
-Ribeirão Cascalheira,31-03-2020,0,0,0,0,3.7142857142857144,0.0,26.0,0.0
-Ribeirão Cascalheira,01-04-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Ribeirão Cascalheira,27-03-2020,0,0,0,0,8.285714285714286,0.0,58.0,0.0
+Ribeirão Cascalheira,28-03-2020,0,0,0,0,8.285714285714286,0.0,58.0,0.0
+Ribeirão Cascalheira,29-03-2020,0,0,0,0,8.285714285714286,0.0,58.0,0.0
+Ribeirão Cascalheira,30-03-2020,0,0,0,0,5.571428571428571,0.0,39.0,0.0
+Ribeirão Cascalheira,31-03-2020,0,0,0,0,3.0,0.0,21.0,0.0
+Ribeirão Cascalheira,01-04-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
 Ribeirão Cascalheira,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Ribeirão Cascalheira,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Ribeirão Cascalheira,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -377,3 +377,4 @@ Ribeirão Cascalheira,05-04-2021,659,10,23,0,6.428571428571429,0.428571428571428
 Ribeirão Cascalheira,06-04-2021,676,17,24,1,6.714285714285714,0.5714285714285714,47.0,4.0
 Ribeirão Cascalheira,07-04-2021,692,16,24,0,6.857142857142857,0.5714285714285714,48.0,4.0
 Ribeirão Cascalheira,08-04-2021,718,26,25,1,10.428571428571429,0.7142857142857143,73.0,5.0
+Ribeirão Cascalheira,09-04-2021,748,30,25,0,14.571428571428571,0.5714285714285714,102.0,4.0

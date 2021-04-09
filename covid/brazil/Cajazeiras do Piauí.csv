@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Cajazeiras do Piauí,27-03-2020,0,0,0,0,17.714285714285715,0.0,124.0,0.0
-Cajazeiras do Piauí,28-03-2020,0,0,0,0,17.142857142857142,0.0,120.0,0.0
-Cajazeiras do Piauí,29-03-2020,0,0,0,0,12.857142857142858,0.0,90.0,0.0
-Cajazeiras do Piauí,30-03-2020,0,0,0,0,11.857142857142858,0.0,83.0,0.0
-Cajazeiras do Piauí,31-03-2020,0,0,0,0,6.714285714285714,0.0,47.0,0.0
-Cajazeiras do Piauí,01-04-2020,0,0,0,0,3.0,0.0,21.0,0.0
+Cajazeiras do Piauí,27-03-2020,0,0,0,0,21.142857142857142,0.0,148.0,0.0
+Cajazeiras do Piauí,28-03-2020,0,0,0,0,16.857142857142858,0.0,118.0,0.0
+Cajazeiras do Piauí,29-03-2020,0,0,0,0,15.857142857142858,0.0,111.0,0.0
+Cajazeiras do Piauí,30-03-2020,0,0,0,0,10.714285714285714,0.0,75.0,0.0
+Cajazeiras do Piauí,31-03-2020,0,0,0,0,7.0,0.0,49.0,0.0
+Cajazeiras do Piauí,01-04-2020,0,0,0,0,4.0,0.0,28.0,0.0
 Cajazeiras do Piauí,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cajazeiras do Piauí,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cajazeiras do Piauí,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -377,3 +377,4 @@ Cajazeiras do Piauí,05-04-2021,30,0,1,0,0.14285714285714285,0.0,1.0,0.0
 Cajazeiras do Piauí,06-04-2021,31,1,1,0,0.2857142857142857,0.0,2.0,0.0
 Cajazeiras do Piauí,07-04-2021,31,0,1,0,0.2857142857142857,0.0,2.0,0.0
 Cajazeiras do Piauí,08-04-2021,31,0,1,0,0.14285714285714285,0.0,1.0,0.0
+Cajazeiras do Piauí,09-04-2021,33,2,1,0,0.42857142857142855,0.0,3.0,0.0
