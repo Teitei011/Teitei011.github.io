@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Monte Alegre do Piauí,27-03-2020,0,0,0,0,4.0,0.0,28.0,0.0
-Monte Alegre do Piauí,28-03-2020,0,0,0,0,4.0,0.0,28.0,0.0
+Monte Alegre do Piauí,28-03-2020,0,0,0,0,3.7142857142857144,0.0,26.0,0.0
 Monte Alegre do Piauí,29-03-2020,0,0,0,0,3.7142857142857144,0.0,26.0,0.0
 Monte Alegre do Piauí,30-03-2020,0,0,0,0,3.7142857142857144,0.0,26.0,0.0
-Monte Alegre do Piauí,31-03-2020,0,0,0,0,3.7142857142857144,0.0,26.0,0.0
-Monte Alegre do Piauí,01-04-2020,0,0,0,0,3.4285714285714284,0.0,24.0,0.0
+Monte Alegre do Piauí,31-03-2020,0,0,0,0,3.4285714285714284,0.0,24.0,0.0
+Monte Alegre do Piauí,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Monte Alegre do Piauí,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Monte Alegre do Piauí,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Monte Alegre do Piauí,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -378,3 +378,4 @@ Monte Alegre do Piauí,06-04-2021,622,1,10,0,1.2857142857142858,0.0,9.0,0.0
 Monte Alegre do Piauí,07-04-2021,627,5,10,0,2.0,0.0,14.0,0.0
 Monte Alegre do Piauí,08-04-2021,629,2,10,0,2.0,0.0,14.0,0.0
 Monte Alegre do Piauí,09-04-2021,636,7,10,0,2.857142857142857,0.0,20.0,0.0
+Monte Alegre do Piauí,10-04-2021,640,4,10,0,3.2857142857142856,0.0,23.0,0.0

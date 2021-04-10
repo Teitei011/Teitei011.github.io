@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São Valentim do Sul,27-03-2020,0,0,0,0,0.8571428571428571,0.14285714285714285,6.0,1.0
 São Valentim do Sul,28-03-2020,0,0,0,0,0.8571428571428571,0.14285714285714285,6.0,1.0
-São Valentim do Sul,29-03-2020,0,0,0,0,0.8571428571428571,0.14285714285714285,6.0,1.0
+São Valentim do Sul,29-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 São Valentim do Sul,30-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-São Valentim do Sul,31-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+São Valentim do Sul,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Valentim do Sul,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Valentim do Sul,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Valentim do Sul,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -378,3 +378,4 @@ São Valentim do Sul,06-04-2021,233,1,3,0,0.2857142857142857,0.0,2.0,0.0
 São Valentim do Sul,07-04-2021,235,2,3,0,0.7142857142857143,0.0,5.0,0.0
 São Valentim do Sul,08-04-2021,235,0,3,0,0.5714285714285714,0.0,4.0,0.0
 São Valentim do Sul,09-04-2021,236,1,3,0,0.5714285714285714,0.0,4.0,0.0
+São Valentim do Sul,10-04-2021,236,0,3,0,0.5714285714285714,0.0,4.0,0.0

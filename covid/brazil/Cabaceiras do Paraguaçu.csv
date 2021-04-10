@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Cabaceiras do Paraguaçu,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Cabaceiras do Paraguaçu,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cabaceiras do Paraguaçu,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cabaceiras do Paraguaçu,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cabaceiras do Paraguaçu,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -378,3 +378,4 @@ Cabaceiras do Paraguaçu,06-04-2021,386,5,4,1,1.5714285714285714,0.1428571428571
 Cabaceiras do Paraguaçu,07-04-2021,387,1,4,0,1.7142857142857142,0.14285714285714285,12.0,1.0
 Cabaceiras do Paraguaçu,08-04-2021,388,1,4,0,1.0,0.14285714285714285,7.0,1.0
 Cabaceiras do Paraguaçu,09-04-2021,388,0,4,0,1.0,0.14285714285714285,7.0,1.0
+Cabaceiras do Paraguaçu,10-04-2021,389,1,4,0,1.1428571428571428,0.14285714285714285,8.0,1.0

@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Nova Itarana,27-03-2020,0,0,0,0,3.0,0.0,21.0,0.0
 Nova Itarana,28-03-2020,0,0,0,0,3.0,0.0,21.0,0.0
-Nova Itarana,29-03-2020,0,0,0,0,3.0,0.0,21.0,0.0
-Nova Itarana,30-03-2020,0,0,0,0,2.2857142857142856,0.0,16.0,0.0
+Nova Itarana,29-03-2020,0,0,0,0,2.2857142857142856,0.0,16.0,0.0
+Nova Itarana,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Itarana,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Itarana,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Itarana,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -378,3 +378,4 @@ Nova Itarana,06-04-2021,614,15,6,0,6.857142857142857,0.0,48.0,0.0
 Nova Itarana,07-04-2021,620,6,6,0,7.142857142857143,0.0,50.0,0.0
 Nova Itarana,08-04-2021,621,1,6,0,5.857142857142857,0.0,41.0,0.0
 Nova Itarana,09-04-2021,622,1,6,0,5.857142857142857,0.0,41.0,0.0
+Nova Itarana,10-04-2021,629,7,6,0,6.714285714285714,0.0,47.0,0.0

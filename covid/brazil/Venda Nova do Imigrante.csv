@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Venda Nova do Imigrante,27-03-2020,0,0,0,0,3.142857142857143,0.14285714285714285,22.0,1.0
-Venda Nova do Imigrante,28-03-2020,0,0,0,0,3.142857142857143,0.0,22.0,0.0
-Venda Nova do Imigrante,29-03-2020,0,0,0,0,3.142857142857143,0.14285714285714285,22.0,1.0
-Venda Nova do Imigrante,30-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Venda Nova do Imigrante,31-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
-Venda Nova do Imigrante,01-04-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Venda Nova do Imigrante,27-03-2020,0,0,0,0,3.5714285714285716,0.0,25.0,0.0
+Venda Nova do Imigrante,28-03-2020,0,0,0,0,3.5714285714285716,0.14285714285714285,25.0,1.0
+Venda Nova do Imigrante,29-03-2020,0,0,0,0,2.2857142857142856,0.0,16.0,0.0
+Venda Nova do Imigrante,30-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Venda Nova do Imigrante,31-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Venda Nova do Imigrante,01-04-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Venda Nova do Imigrante,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Venda Nova do Imigrante,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Venda Nova do Imigrante,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -378,3 +378,4 @@ Venda Nova do Imigrante,06-04-2021,3526,17,36,0,20.428571428571427,0.14285714285
 Venda Nova do Imigrante,07-04-2021,3551,25,36,0,19.714285714285715,0.14285714285714285,138.0,1.0
 Venda Nova do Imigrante,08-04-2021,3566,15,36,0,17.428571428571427,0.14285714285714285,122.0,1.0
 Venda Nova do Imigrante,09-04-2021,3582,16,36,0,17.142857142857142,0.14285714285714285,120.0,1.0
+Venda Nova do Imigrante,10-04-2021,3590,8,36,0,15.571428571428571,0.0,109.0,0.0

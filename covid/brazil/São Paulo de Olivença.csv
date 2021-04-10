@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São Paulo de Olivença,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-São Paulo de Olivença,28-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-São Paulo de Olivença,29-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-São Paulo de Olivença,30-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+São Paulo de Olivença,28-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+São Paulo de Olivença,29-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+São Paulo de Olivença,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 São Paulo de Olivença,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-São Paulo de Olivença,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+São Paulo de Olivença,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Paulo de Olivença,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Paulo de Olivença,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Paulo de Olivença,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -378,3 +378,4 @@ São Paulo de Olivença,06-04-2021,4655,42,58,0,24.428571428571427,0.0,171.0,0.0
 São Paulo de Olivença,07-04-2021,4667,12,58,0,23.285714285714285,0.0,163.0,0.0
 São Paulo de Olivença,08-04-2021,4690,23,58,0,19.857142857142858,0.0,139.0,0.0
 São Paulo de Olivença,09-04-2021,4690,0,58,0,17.857142857142858,0.0,125.0,0.0
+São Paulo de Olivença,10-04-2021,4720,30,60,2,20.714285714285715,0.2857142857142857,145.0,2.0

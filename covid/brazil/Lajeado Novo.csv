@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Lajeado Novo,27-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
 Lajeado Novo,28-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Lajeado Novo,29-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Lajeado Novo,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lajeado Novo,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lajeado Novo,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lajeado Novo,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -378,3 +378,4 @@ Lajeado Novo,06-04-2021,354,0,10,0,0.42857142857142855,0.0,3.0,0.0
 Lajeado Novo,07-04-2021,354,0,10,0,0.42857142857142855,0.0,3.0,0.0
 Lajeado Novo,08-04-2021,354,0,10,0,0.0,0.0,0.0,0.0
 Lajeado Novo,09-04-2021,355,1,10,0,0.14285714285714285,0.0,1.0,0.0
+Lajeado Novo,10-04-2021,355,0,10,0,0.14285714285714285,0.0,1.0,0.0

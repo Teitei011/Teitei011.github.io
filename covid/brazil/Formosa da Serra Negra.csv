@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Formosa da Serra Negra,27-03-2020,0,0,0,0,54.714285714285715,2.0,383.0,14.0
-Formosa da Serra Negra,28-03-2020,0,0,0,0,54.857142857142854,2.0,384.0,14.0
-Formosa da Serra Negra,29-03-2020,0,0,0,0,55.285714285714285,2.0,387.0,14.0
-Formosa da Serra Negra,30-03-2020,0,0,0,0,52.42857142857143,2.0,367.0,14.0
-Formosa da Serra Negra,31-03-2020,0,0,0,0,49.57142857142857,1.0,347.0,7.0
-Formosa da Serra Negra,01-04-2020,0,0,0,0,9.428571428571429,1.0,66.0,7.0
+Formosa da Serra Negra,27-03-2020,0,0,0,0,61.285714285714285,2.142857142857143,429.0,15.0
+Formosa da Serra Negra,28-03-2020,0,0,0,0,61.714285714285715,2.142857142857143,432.0,15.0
+Formosa da Serra Negra,29-03-2020,0,0,0,0,58.857142857142854,2.142857142857143,412.0,15.0
+Formosa da Serra Negra,30-03-2020,0,0,0,0,56.0,1.1428571428571428,392.0,8.0
+Formosa da Serra Negra,31-03-2020,0,0,0,0,15.857142857142858,1.1428571428571428,111.0,8.0
+Formosa da Serra Negra,01-04-2020,0,0,0,0,6.428571428571429,0.14285714285714285,45.0,1.0
 Formosa da Serra Negra,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Formosa da Serra Negra,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Formosa da Serra Negra,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -378,3 +378,4 @@ Formosa da Serra Negra,06-04-2021,1069,1,2,0,0.14285714285714285,0.0,1.0,0.0
 Formosa da Serra Negra,07-04-2021,1080,11,2,0,1.7142857142857142,0.0,12.0,0.0
 Formosa da Serra Negra,08-04-2021,1080,0,2,0,1.7142857142857142,0.0,12.0,0.0
 Formosa da Serra Negra,09-04-2021,1080,0,2,0,1.7142857142857142,0.0,12.0,0.0
+Formosa da Serra Negra,10-04-2021,1080,0,2,0,1.7142857142857142,0.0,12.0,0.0

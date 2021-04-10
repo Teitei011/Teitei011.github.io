@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São Pedro da Água Branca,27-03-2020,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
 São Pedro da Água Branca,28-03-2020,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
-São Pedro da Água Branca,29-03-2020,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
+São Pedro da Água Branca,29-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
 São Pedro da Água Branca,30-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
-São Pedro da Água Branca,31-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
+São Pedro da Água Branca,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Pedro da Água Branca,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Pedro da Água Branca,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Pedro da Água Branca,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -378,3 +378,4 @@ São Pedro da Água Branca,06-04-2021,518,0,1,0,0.0,0.0,0.0,0.0
 São Pedro da Água Branca,07-04-2021,518,0,1,0,0.0,0.0,0.0,0.0
 São Pedro da Água Branca,08-04-2021,518,0,1,0,0.0,0.0,0.0,0.0
 São Pedro da Água Branca,09-04-2021,518,0,1,0,0.0,0.0,0.0,0.0
+São Pedro da Água Branca,10-04-2021,519,1,2,1,0.14285714285714285,0.14285714285714285,1.0,1.0

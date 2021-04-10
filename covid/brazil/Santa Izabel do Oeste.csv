@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santa Izabel do Oeste,27-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Santa Izabel do Oeste,28-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Santa Izabel do Oeste,29-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Santa Izabel do Oeste,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Santa Izabel do Oeste,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Santa Izabel do Oeste,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Santa Izabel do Oeste,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Santa Izabel do Oeste,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santa Izabel do Oeste,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Izabel do Oeste,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Izabel do Oeste,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Izabel do Oeste,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -378,3 +378,4 @@ Santa Izabel do Oeste,06-04-2021,700,11,21,0,4.571428571428571,0.285714285714285
 Santa Izabel do Oeste,07-04-2021,704,4,21,0,4.714285714285714,0.2857142857142857,33.0,2.0
 Santa Izabel do Oeste,08-04-2021,707,3,21,0,4.142857142857143,0.2857142857142857,29.0,2.0
 Santa Izabel do Oeste,09-04-2021,709,2,21,0,3.5714285714285716,0.2857142857142857,25.0,2.0
+Santa Izabel do Oeste,10-04-2021,715,6,21,0,3.857142857142857,0.2857142857142857,27.0,2.0

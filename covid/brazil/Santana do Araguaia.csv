@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santana do Araguaia,27-03-2020,0,0,0,0,12.142857142857142,0.14285714285714285,85.0,1.0
+Santana do Araguaia,27-03-2020,0,0,0,0,8.0,0.14285714285714285,56.0,1.0
 Santana do Araguaia,28-03-2020,0,0,0,0,8.0,0.14285714285714285,56.0,1.0
-Santana do Araguaia,29-03-2020,0,0,0,0,8.0,0.14285714285714285,56.0,1.0
-Santana do Araguaia,30-03-2020,0,0,0,0,4.857142857142857,0.0,34.0,0.0
+Santana do Araguaia,29-03-2020,0,0,0,0,4.857142857142857,0.0,34.0,0.0
+Santana do Araguaia,30-03-2020,0,0,0,0,2.7142857142857144,0.0,19.0,0.0
 Santana do Araguaia,31-03-2020,0,0,0,0,2.7142857142857144,0.0,19.0,0.0
-Santana do Araguaia,01-04-2020,0,0,0,0,2.7142857142857144,0.0,19.0,0.0
+Santana do Araguaia,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana do Araguaia,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana do Araguaia,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana do Araguaia,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -378,3 +378,4 @@ Santana do Araguaia,06-04-2021,2344,8,17,0,7.285714285714286,0.0,51.0,0.0
 Santana do Araguaia,07-04-2021,2366,22,17,0,9.0,0.0,63.0,0.0
 Santana do Araguaia,08-04-2021,2373,7,17,0,8.571428571428571,0.0,60.0,0.0
 Santana do Araguaia,09-04-2021,2374,1,17,0,5.428571428571429,0.0,38.0,0.0
+Santana do Araguaia,10-04-2021,2381,7,17,0,6.428571428571429,0.0,45.0,0.0

@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Novo Cabrais,27-03-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
 Novo Cabrais,28-03-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
-Novo Cabrais,29-03-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
+Novo Cabrais,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Novo Cabrais,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Novo Cabrais,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Novo Cabrais,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -378,3 +378,4 @@ Novo Cabrais,06-04-2021,205,6,1,0,2.0,0.0,14.0,0.0
 Novo Cabrais,07-04-2021,208,3,1,0,2.2857142857142856,0.0,16.0,0.0
 Novo Cabrais,08-04-2021,211,3,1,0,2.2857142857142856,0.0,16.0,0.0
 Novo Cabrais,09-04-2021,213,2,1,0,2.4285714285714284,0.0,17.0,0.0
+Novo Cabrais,10-04-2021,216,3,1,0,2.857142857142857,0.0,20.0,0.0

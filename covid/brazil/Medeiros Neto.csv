@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Medeiros Neto,27-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
 Medeiros Neto,28-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Medeiros Neto,29-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Medeiros Neto,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Medeiros Neto,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Medeiros Neto,31-03-2020,1,1,0,0,0.14285714285714285,0.0,1.0,0.0
 Medeiros Neto,01-04-2020,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
@@ -378,3 +378,4 @@ Medeiros Neto,06-04-2021,1682,12,39,0,8.714285714285714,0.0,61.0,0.0
 Medeiros Neto,07-04-2021,1686,4,39,0,7.0,0.0,49.0,0.0
 Medeiros Neto,08-04-2021,1693,7,39,0,6.142857142857143,0.0,43.0,0.0
 Medeiros Neto,09-04-2021,1696,3,39,0,5.857142857142857,0.0,41.0,0.0
+Medeiros Neto,10-04-2021,1699,3,39,0,6.285714285714286,0.0,44.0,0.0

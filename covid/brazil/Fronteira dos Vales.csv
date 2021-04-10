@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Fronteira dos Vales,27-03-2020,0,0,0,0,0.0,0.2857142857142857,0.0,2.0
+Fronteira dos Vales,27-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
 Fronteira dos Vales,28-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
 Fronteira dos Vales,29-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
 Fronteira dos Vales,30-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
-Fronteira dos Vales,31-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
+Fronteira dos Vales,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Fronteira dos Vales,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Fronteira dos Vales,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Fronteira dos Vales,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -378,3 +378,4 @@ Fronteira dos Vales,06-04-2021,204,0,6,0,2.4285714285714284,0.14285714285714285,
 Fronteira dos Vales,07-04-2021,207,3,6,0,1.2857142857142858,0.14285714285714285,9.0,1.0
 Fronteira dos Vales,08-04-2021,204,-3,6,0,0.8571428571428571,0.14285714285714285,6.0,1.0
 Fronteira dos Vales,09-04-2021,204,0,6,0,0.8571428571428571,0.14285714285714285,6.0,1.0
+Fronteira dos Vales,10-04-2021,214,10,6,0,1.4285714285714286,0.14285714285714285,10.0,1.0
