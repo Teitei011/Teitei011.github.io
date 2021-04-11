@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Campo Alegre de Lourdes,27-03-2020,0,0,0,0,2.4285714285714284,0.14285714285714285,17.0,1.0
-Campo Alegre de Lourdes,28-03-2020,0,0,0,0,2.4285714285714284,0.14285714285714285,17.0,1.0
-Campo Alegre de Lourdes,29-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Campo Alegre de Lourdes,28-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Campo Alegre de Lourdes,29-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
 Campo Alegre de Lourdes,30-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
-Campo Alegre de Lourdes,31-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Campo Alegre de Lourdes,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campo Alegre de Lourdes,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campo Alegre de Lourdes,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campo Alegre de Lourdes,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -379,3 +379,4 @@ Campo Alegre de Lourdes,07-04-2021,454,1,13,0,7.571428571428571,0.14285714285714
 Campo Alegre de Lourdes,08-04-2021,455,1,13,0,5.285714285714286,0.14285714285714285,37.0,1.0
 Campo Alegre de Lourdes,09-04-2021,464,9,13,0,6.571428571428571,0.14285714285714285,46.0,1.0
 Campo Alegre de Lourdes,10-04-2021,465,1,13,0,6.142857142857143,0.14285714285714285,43.0,1.0
+Campo Alegre de Lourdes,11-04-2021,467,2,14,1,5.571428571428571,0.14285714285714285,39.0,1.0

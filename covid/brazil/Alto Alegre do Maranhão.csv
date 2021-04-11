@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Alto Alegre do Maranhão,27-03-2020,0,0,0,0,5.285714285714286,0.42857142857142855,37.0,3.0
-Alto Alegre do Maranhão,28-03-2020,0,0,0,0,5.285714285714286,0.42857142857142855,37.0,3.0
-Alto Alegre do Maranhão,29-03-2020,0,0,0,0,4.857142857142857,0.14285714285714285,34.0,1.0
-Alto Alegre do Maranhão,30-03-2020,0,0,0,0,3.5714285714285716,0.14285714285714285,25.0,1.0
-Alto Alegre do Maranhão,31-03-2020,0,0,0,0,2.4285714285714284,0.14285714285714285,17.0,1.0
-Alto Alegre do Maranhão,01-04-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Alto Alegre do Maranhão,27-03-2020,0,0,0,0,6.142857142857143,0.42857142857142855,43.0,3.0
+Alto Alegre do Maranhão,28-03-2020,0,0,0,0,5.714285714285714,0.14285714285714285,40.0,1.0
+Alto Alegre do Maranhão,29-03-2020,0,0,0,0,4.428571428571429,0.14285714285714285,31.0,1.0
+Alto Alegre do Maranhão,30-03-2020,0,0,0,0,3.2857142857142856,0.14285714285714285,23.0,1.0
+Alto Alegre do Maranhão,31-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
+Alto Alegre do Maranhão,01-04-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
 Alto Alegre do Maranhão,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Alto Alegre do Maranhão,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Alto Alegre do Maranhão,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -379,3 +379,4 @@ Alto Alegre do Maranhão,07-04-2021,719,3,21,0,8.285714285714286,0.0,58.0,0.0
 Alto Alegre do Maranhão,08-04-2021,721,2,21,0,3.0,0.0,21.0,0.0
 Alto Alegre do Maranhão,09-04-2021,726,5,21,0,2.4285714285714284,0.0,17.0,0.0
 Alto Alegre do Maranhão,10-04-2021,730,4,21,0,3.0,0.0,21.0,0.0
+Alto Alegre do Maranhão,11-04-2021,743,13,21,0,4.857142857142857,0.0,34.0,0.0

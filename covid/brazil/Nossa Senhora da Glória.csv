@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Nossa Senhora da Glória,27-03-2020,0,0,0,0,6.142857142857143,0.0,43.0,0.0
-Nossa Senhora da Glória,28-03-2020,1,1,0,0,2.0,0.0,14.0,0.0
-Nossa Senhora da Glória,29-03-2020,1,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Nossa Senhora da Glória,30-03-2020,1,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Nossa Senhora da Glória,31-03-2020,1,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Nossa Senhora da Glória,01-04-2020,1,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Nossa Senhora da Glória,27-03-2020,0,0,0,0,3.142857142857143,0.0,22.0,0.0
+Nossa Senhora da Glória,28-03-2020,1,1,0,0,3.142857142857143,0.0,22.0,0.0
+Nossa Senhora da Glória,29-03-2020,1,0,0,0,3.142857142857143,0.0,22.0,0.0
+Nossa Senhora da Glória,30-03-2020,1,0,0,0,3.142857142857143,0.0,22.0,0.0
+Nossa Senhora da Glória,31-03-2020,1,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Nossa Senhora da Glória,01-04-2020,1,0,0,0,1.4285714285714286,0.0,10.0,0.0
 Nossa Senhora da Glória,02-04-2020,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Nossa Senhora da Glória,03-04-2020,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Nossa Senhora da Glória,04-04-2020,1,0,0,0,0.0,0.0,0.0,0.0
@@ -379,3 +379,4 @@ Nossa Senhora da Glória,07-04-2021,1925,1,46,0,4.285714285714286,0.571428571428
 Nossa Senhora da Glória,08-04-2021,1934,9,47,1,5.285714285714286,0.7142857142857143,37.0,5.0
 Nossa Senhora da Glória,09-04-2021,1936,2,47,0,4.142857142857143,0.5714285714285714,29.0,4.0
 Nossa Senhora da Glória,10-04-2021,1958,22,47,0,7.142857142857143,0.2857142857142857,50.0,2.0
+Nossa Senhora da Glória,11-04-2021,1982,24,47,0,8.857142857142858,0.2857142857142857,62.0,2.0

@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Campinas do Sul,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Campinas do Sul,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Campinas do Sul,29-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Campinas do Sul,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campinas do Sul,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campinas do Sul,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campinas do Sul,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -379,3 +379,4 @@ Campinas do Sul,07-04-2021,365,0,5,0,0.8571428571428571,0.0,6.0,0.0
 Campinas do Sul,08-04-2021,367,2,5,0,0.7142857142857143,0.0,5.0,0.0
 Campinas do Sul,09-04-2021,366,-1,5,0,0.42857142857142855,0.0,3.0,0.0
 Campinas do Sul,10-04-2021,367,1,5,0,0.5714285714285714,0.0,4.0,0.0
+Campinas do Sul,11-04-2021,367,0,5,0,0.5714285714285714,0.0,4.0,0.0

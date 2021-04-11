@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Formosa do Rio Preto,27-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Formosa do Rio Preto,28-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Formosa do Rio Preto,29-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Formosa do Rio Preto,27-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Formosa do Rio Preto,28-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Formosa do Rio Preto,29-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
 Formosa do Rio Preto,30-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
 Formosa do Rio Preto,31-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Formosa do Rio Preto,01-04-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
@@ -379,3 +379,4 @@ Formosa do Rio Preto,07-04-2021,666,16,13,0,4.857142857142857,0.0,34.0,0.0
 Formosa do Rio Preto,08-04-2021,680,14,13,0,6.428571428571429,0.0,45.0,0.0
 Formosa do Rio Preto,09-04-2021,684,4,13,0,6.714285714285714,0.0,47.0,0.0
 Formosa do Rio Preto,10-04-2021,690,6,13,0,7.285714285714286,0.0,51.0,0.0
+Formosa do Rio Preto,11-04-2021,693,3,13,0,7.428571428571429,0.0,52.0,0.0

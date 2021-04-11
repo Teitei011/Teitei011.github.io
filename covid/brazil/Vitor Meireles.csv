@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Vitor Meireles,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Vitor Meireles,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Vitor Meireles,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Vitor Meireles,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Vitor Meireles,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Vitor Meireles,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -379,3 +379,4 @@ Vitor Meireles,07-04-2021,319,9,2,0,1.1428571428571428,0.0,8.0,0.0
 Vitor Meireles,08-04-2021,321,2,2,0,1.4285714285714286,0.0,10.0,0.0
 Vitor Meireles,09-04-2021,324,3,2,0,2.0,0.0,14.0,0.0
 Vitor Meireles,10-04-2021,324,0,2,0,2.0,0.0,14.0,0.0
+Vitor Meireles,11-04-2021,324,0,2,0,2.0,0.0,14.0,0.0

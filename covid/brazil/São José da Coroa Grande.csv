@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São José da Coroa Grande,27-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-São José da Coroa Grande,28-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-São José da Coroa Grande,29-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+São José da Coroa Grande,28-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+São José da Coroa Grande,29-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 São José da Coroa Grande,30-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-São José da Coroa Grande,31-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-São José da Coroa Grande,01-04-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+São José da Coroa Grande,31-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+São José da Coroa Grande,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José da Coroa Grande,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José da Coroa Grande,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José da Coroa Grande,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -379,3 +379,4 @@ São José da Coroa Grande,07-04-2021,1100,20,32,0,8.428571428571429,0.285714285
 São José da Coroa Grande,08-04-2021,1105,5,33,1,7.714285714285714,0.42857142857142855,54.0,3.0
 São José da Coroa Grande,09-04-2021,1112,7,33,0,8.0,0.2857142857142857,56.0,2.0
 São José da Coroa Grande,10-04-2021,1120,8,33,0,9.142857142857142,0.2857142857142857,64.0,2.0
+São José da Coroa Grande,11-04-2021,1120,0,33,0,9.142857142857142,0.2857142857142857,64.0,2.0

@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Lagoa de São Francisco,27-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Lagoa de São Francisco,28-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Lagoa de São Francisco,29-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Lagoa de São Francisco,28-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Lagoa de São Francisco,29-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
 Lagoa de São Francisco,30-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
-Lagoa de São Francisco,31-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
-Lagoa de São Francisco,01-04-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Lagoa de São Francisco,31-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Lagoa de São Francisco,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lagoa de São Francisco,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lagoa de São Francisco,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lagoa de São Francisco,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -379,3 +379,4 @@ Lagoa de São Francisco,07-04-2021,280,1,4,0,2.857142857142857,0.0,20.0,0.0
 Lagoa de São Francisco,08-04-2021,282,2,4,0,2.4285714285714284,0.0,17.0,0.0
 Lagoa de São Francisco,09-04-2021,296,14,4,0,3.857142857142857,0.0,27.0,0.0
 Lagoa de São Francisco,10-04-2021,303,7,4,0,4.571428571428571,0.0,32.0,0.0
+Lagoa de São Francisco,11-04-2021,305,2,4,0,4.857142857142857,0.0,34.0,0.0

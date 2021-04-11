@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São Miguel do Guaporé,27-03-2020,0,0,0,0,9.285714285714286,0.0,65.0,0.0
-São Miguel do Guaporé,28-03-2020,0,0,0,0,9.285714285714286,0.0,65.0,0.0
-São Miguel do Guaporé,29-03-2020,0,0,0,0,8.714285714285714,0.0,61.0,0.0
-São Miguel do Guaporé,30-03-2020,0,0,0,0,8.571428571428571,0.0,60.0,0.0
-São Miguel do Guaporé,31-03-2020,0,0,0,0,4.714285714285714,0.0,33.0,0.0
-São Miguel do Guaporé,01-04-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+São Miguel do Guaporé,28-03-2020,0,0,0,0,8.714285714285714,0.0,61.0,0.0
+São Miguel do Guaporé,29-03-2020,0,0,0,0,8.571428571428571,0.0,60.0,0.0
+São Miguel do Guaporé,30-03-2020,0,0,0,0,4.714285714285714,0.0,33.0,0.0
+São Miguel do Guaporé,31-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+São Miguel do Guaporé,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel do Guaporé,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel do Guaporé,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel do Guaporé,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -379,3 +379,4 @@ São Miguel do Guaporé,07-04-2021,1764,1,30,1,9.142857142857142,0.1428571428571
 São Miguel do Guaporé,08-04-2021,1767,3,31,1,8.428571428571429,0.2857142857142857,59.0,2.0
 São Miguel do Guaporé,09-04-2021,1777,10,32,1,9.0,0.42857142857142855,63.0,3.0
 São Miguel do Guaporé,10-04-2021,1777,0,32,0,9.0,0.42857142857142855,63.0,3.0
+São Miguel do Guaporé,11-04-2021,1777,0,32,0,5.571428571428571,0.42857142857142855,39.0,3.0

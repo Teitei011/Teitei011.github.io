@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Guarani das Missões,27-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Guarani das Missões,28-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Guarani das Missões,29-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Guarani das Missões,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Guarani das Missões,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Guarani das Missões,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Guarani das Missões,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Guarani das Missões,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Guarani das Missões,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Guarani das Missões,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -379,3 +379,4 @@ Guarani das Missões,07-04-2021,246,7,7,0,1.0,0.0,7.0,0.0
 Guarani das Missões,08-04-2021,246,0,8,1,1.0,0.14285714285714285,7.0,1.0
 Guarani das Missões,09-04-2021,250,4,9,1,1.5714285714285714,0.2857142857142857,11.0,2.0
 Guarani das Missões,10-04-2021,273,23,9,0,4.857142857142857,0.2857142857142857,34.0,2.0
+Guarani das Missões,11-04-2021,273,0,9,0,4.857142857142857,0.2857142857142857,34.0,2.0

@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Pedras de Maria da Cruz,27-03-2020,0,0,0,0,9.142857142857142,0.2857142857142857,64.0,2.0
-Pedras de Maria da Cruz,28-03-2020,0,0,0,0,6.714285714285714,0.2857142857142857,47.0,2.0
-Pedras de Maria da Cruz,29-03-2020,0,0,0,0,5.857142857142857,0.2857142857142857,41.0,2.0
-Pedras de Maria da Cruz,30-03-2020,0,0,0,0,3.142857142857143,0.2857142857142857,22.0,2.0
-Pedras de Maria da Cruz,31-03-2020,0,0,0,0,1.8571428571428572,0.2857142857142857,13.0,2.0
-Pedras de Maria da Cruz,01-04-2020,0,0,0,0,1.0,0.14285714285714285,7.0,1.0
+Pedras de Maria da Cruz,27-03-2020,0,0,0,0,6.714285714285714,0.2857142857142857,47.0,2.0
+Pedras de Maria da Cruz,28-03-2020,0,0,0,0,5.857142857142857,0.2857142857142857,41.0,2.0
+Pedras de Maria da Cruz,29-03-2020,0,0,0,0,3.142857142857143,0.2857142857142857,22.0,2.0
+Pedras de Maria da Cruz,30-03-2020,0,0,0,0,1.8571428571428572,0.2857142857142857,13.0,2.0
+Pedras de Maria da Cruz,31-03-2020,0,0,0,0,1.0,0.14285714285714285,7.0,1.0
+Pedras de Maria da Cruz,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pedras de Maria da Cruz,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pedras de Maria da Cruz,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pedras de Maria da Cruz,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -379,3 +379,4 @@ Pedras de Maria da Cruz,07-04-2021,194,0,3,0,0.0,0.0,0.0,0.0
 Pedras de Maria da Cruz,08-04-2021,194,0,3,0,0.0,0.0,0.0,0.0
 Pedras de Maria da Cruz,09-04-2021,194,0,3,0,0.0,0.0,0.0,0.0
 Pedras de Maria da Cruz,10-04-2021,194,0,3,0,0.0,0.0,0.0,0.0
+Pedras de Maria da Cruz,11-04-2021,194,0,3,0,0.0,0.0,0.0,0.0

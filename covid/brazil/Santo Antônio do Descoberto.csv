@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santo Antônio do Descoberto,27-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
-Santo Antônio do Descoberto,28-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Santo Antônio do Descoberto,28-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
 Santo Antônio do Descoberto,29-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-Santo Antônio do Descoberto,30-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-Santo Antônio do Descoberto,31-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Santo Antônio do Descoberto,01-04-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Santo Antônio do Descoberto,30-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Santo Antônio do Descoberto,31-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Santo Antônio do Descoberto,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Descoberto,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Descoberto,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Descoberto,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -379,3 +379,4 @@ Santo Antônio do Descoberto,07-04-2021,1989,30,55,-1,11.428571428571429,0.42857
 Santo Antônio do Descoberto,08-04-2021,2056,67,62,7,15.714285714285714,1.1428571428571428,110.0,8.0
 Santo Antônio do Descoberto,09-04-2021,2105,49,62,0,22.571428571428573,1.1428571428571428,158.0,8.0
 Santo Antônio do Descoberto,10-04-2021,2109,4,62,0,23.142857142857142,1.1428571428571428,162.0,8.0
+Santo Antônio do Descoberto,11-04-2021,2110,1,62,0,23.142857142857142,1.1428571428571428,162.0,8.0

@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Espírito Santo do Dourado,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Espírito Santo do Dourado,28-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Espírito Santo do Dourado,29-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Espírito Santo do Dourado,30-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Espírito Santo do Dourado,31-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Espírito Santo do Dourado,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Espírito Santo do Dourado,27-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Espírito Santo do Dourado,28-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Espírito Santo do Dourado,29-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Espírito Santo do Dourado,30-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Espírito Santo do Dourado,31-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Espírito Santo do Dourado,01-04-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Espírito Santo do Dourado,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Espírito Santo do Dourado,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Espírito Santo do Dourado,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -379,3 +379,4 @@ Espírito Santo do Dourado,07-04-2021,253,0,9,0,5.857142857142857,0.0,41.0,0.0
 Espírito Santo do Dourado,08-04-2021,257,4,10,1,3.857142857142857,0.14285714285714285,27.0,1.0
 Espírito Santo do Dourado,09-04-2021,257,0,10,0,3.0,0.14285714285714285,21.0,1.0
 Espírito Santo do Dourado,10-04-2021,265,8,10,0,4.142857142857143,0.14285714285714285,29.0,1.0
+Espírito Santo do Dourado,11-04-2021,265,0,10,0,4.142857142857143,0.14285714285714285,29.0,1.0

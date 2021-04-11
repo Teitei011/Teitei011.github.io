@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Governador Dix-Sept Rosado,27-03-2020,0,0,0,0,3.0,0.2857142857142857,21.0,2.0
-Governador Dix-Sept Rosado,28-03-2020,0,0,0,0,2.857142857142857,0.2857142857142857,20.0,2.0
-Governador Dix-Sept Rosado,29-03-2020,0,0,0,0,2.7142857142857144,0.2857142857142857,19.0,2.0
-Governador Dix-Sept Rosado,30-03-2020,0,0,0,0,1.5714285714285714,0.2857142857142857,11.0,2.0
-Governador Dix-Sept Rosado,31-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Governador Dix-Sept Rosado,01-04-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Governador Dix-Sept Rosado,27-03-2020,0,0,0,0,3.7142857142857144,0.2857142857142857,26.0,2.0
+Governador Dix-Sept Rosado,28-03-2020,0,0,0,0,3.5714285714285716,0.2857142857142857,25.0,2.0
+Governador Dix-Sept Rosado,29-03-2020,0,0,0,0,2.4285714285714284,0.2857142857142857,17.0,2.0
+Governador Dix-Sept Rosado,30-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Governador Dix-Sept Rosado,31-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Governador Dix-Sept Rosado,01-04-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
 Governador Dix-Sept Rosado,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Dix-Sept Rosado,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Dix-Sept Rosado,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -379,3 +379,4 @@ Governador Dix-Sept Rosado,07-04-2021,784,5,13,0,3.4285714285714284,0.1428571428
 Governador Dix-Sept Rosado,08-04-2021,793,9,13,0,3.7142857142857144,0.14285714285714285,26.0,1.0
 Governador Dix-Sept Rosado,09-04-2021,799,6,13,0,3.5714285714285716,0.14285714285714285,25.0,1.0
 Governador Dix-Sept Rosado,10-04-2021,805,6,13,0,4.428571428571429,0.14285714285714285,31.0,1.0
+Governador Dix-Sept Rosado,11-04-2021,810,5,13,0,5.142857142857143,0.14285714285714285,36.0,1.0

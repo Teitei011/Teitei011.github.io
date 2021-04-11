@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São João Batista do Glória,27-03-2020,0,0,0,0,24.285714285714285,0.5714285714285714,170.0,4.0
-São João Batista do Glória,28-03-2020,0,0,0,0,10.142857142857142,0.42857142857142855,71.0,3.0
-São João Batista do Glória,29-03-2020,0,0,0,0,7.428571428571429,0.14285714285714285,52.0,1.0
-São João Batista do Glória,30-03-2020,0,0,0,0,6.571428571428571,0.0,46.0,0.0
-São João Batista do Glória,31-03-2020,0,0,0,0,5.0,0.0,35.0,0.0
-São João Batista do Glória,01-04-2020,0,0,0,0,5.571428571428571,0.0,39.0,0.0
+São João Batista do Glória,27-03-2020,0,0,0,0,10.285714285714286,0.42857142857142855,72.0,3.0
+São João Batista do Glória,28-03-2020,0,0,0,0,7.571428571428571,0.14285714285714285,53.0,1.0
+São João Batista do Glória,29-03-2020,0,0,0,0,6.714285714285714,0.0,47.0,0.0
+São João Batista do Glória,30-03-2020,0,0,0,0,5.142857142857143,0.0,36.0,0.0
+São João Batista do Glória,31-03-2020,0,0,0,0,5.714285714285714,0.0,40.0,0.0
+São João Batista do Glória,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 São João Batista do Glória,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São João Batista do Glória,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São João Batista do Glória,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -379,3 +379,4 @@ São João Batista do Glória,07-04-2021,669,15,12,0,4.857142857142857,0.0,34.0,
 São João Batista do Glória,08-04-2021,673,4,12,0,4.571428571428571,0.0,32.0,0.0
 São João Batista do Glória,09-04-2021,680,7,12,0,5.571428571428571,0.0,39.0,0.0
 São João Batista do Glória,10-04-2021,683,3,13,1,6.0,0.14285714285714285,42.0,1.0
+São João Batista do Glória,11-04-2021,683,0,15,2,6.0,0.42857142857142855,42.0,3.0
