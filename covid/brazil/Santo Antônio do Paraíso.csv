@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santo Antônio do Paraíso,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Santo Antônio do Paraíso,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Paraíso,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Paraíso,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Paraíso,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -380,3 +380,4 @@ Santo Antônio do Paraíso,08-04-2021,122,0,0,0,1.5714285714285714,0.0,11.0,0.0
 Santo Antônio do Paraíso,09-04-2021,124,2,0,0,1.2857142857142858,0.0,9.0,0.0
 Santo Antônio do Paraíso,10-04-2021,124,0,0,0,0.8571428571428571,0.0,6.0,0.0
 Santo Antônio do Paraíso,11-04-2021,124,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Santo Antônio do Paraíso,12-04-2021,124,0,0,0,0.8571428571428571,0.0,6.0,0.0

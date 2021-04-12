@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Carnaúba dos Dantas,27-03-2020,0,0,0,0,4.0,0.2857142857142857,28.0,2.0
-Carnaúba dos Dantas,28-03-2020,0,0,0,0,2.857142857142857,0.2857142857142857,20.0,2.0
-Carnaúba dos Dantas,29-03-2020,0,0,0,0,2.2857142857142856,0.2857142857142857,16.0,2.0
-Carnaúba dos Dantas,30-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
-Carnaúba dos Dantas,31-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Carnaúba dos Dantas,27-03-2020,0,0,0,0,2.857142857142857,0.2857142857142857,20.0,2.0
+Carnaúba dos Dantas,28-03-2020,0,0,0,0,2.2857142857142856,0.2857142857142857,16.0,2.0
+Carnaúba dos Dantas,29-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Carnaúba dos Dantas,30-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Carnaúba dos Dantas,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Carnaúba dos Dantas,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Carnaúba dos Dantas,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Carnaúba dos Dantas,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -380,3 +380,4 @@ Carnaúba dos Dantas,08-04-2021,478,4,6,0,0.8571428571428571,0.0,6.0,0.0
 Carnaúba dos Dantas,09-04-2021,478,0,6,0,0.8571428571428571,0.0,6.0,0.0
 Carnaúba dos Dantas,10-04-2021,482,4,6,0,1.4285714285714286,0.0,10.0,0.0
 Carnaúba dos Dantas,11-04-2021,482,0,6,0,1.4285714285714286,0.0,10.0,0.0
+Carnaúba dos Dantas,12-04-2021,482,0,6,0,1.4285714285714286,0.0,10.0,0.0

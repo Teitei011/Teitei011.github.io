@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Pontes e Lacerda,27-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-Pontes e Lacerda,28-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Pontes e Lacerda,28-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
 Pontes e Lacerda,29-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
 Pontes e Lacerda,30-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Pontes e Lacerda,31-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Pontes e Lacerda,01-04-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Pontes e Lacerda,31-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Pontes e Lacerda,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pontes e Lacerda,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pontes e Lacerda,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pontes e Lacerda,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -380,3 +380,4 @@ Pontes e Lacerda,08-04-2021,4436,9,174,1,24.857142857142858,2.4285714285714284,1
 Pontes e Lacerda,09-04-2021,4437,1,175,1,24.0,2.2857142857142856,168.0,16.0
 Pontes e Lacerda,10-04-2021,4440,3,175,0,23.857142857142858,2.0,167.0,14.0
 Pontes e Lacerda,11-04-2021,4440,0,175,0,23.714285714285715,2.0,166.0,14.0
+Pontes e Lacerda,12-04-2021,4494,54,178,3,20.142857142857142,1.4285714285714286,141.0,10.0

@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Primavera do Leste,27-03-2020,0,0,0,0,3.857142857142857,0.0,27.0,0.0
-Primavera do Leste,28-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
-Primavera do Leste,29-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
-Primavera do Leste,30-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Primavera do Leste,31-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Primavera do Leste,27-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
+Primavera do Leste,28-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
+Primavera do Leste,29-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
+Primavera do Leste,30-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Primavera do Leste,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Primavera do Leste,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Primavera do Leste,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Primavera do Leste,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -380,3 +380,4 @@ Primavera do Leste,08-04-2021,9479,67,214,3,48.0,1.7142857142857142,336.0,12.0
 Primavera do Leste,09-04-2021,9533,54,216,2,55.57142857142857,1.8571428571428572,389.0,13.0
 Primavera do Leste,10-04-2021,9550,17,218,2,57.42857142857143,2.142857142857143,402.0,15.0
 Primavera do Leste,11-04-2021,9590,40,221,3,55.714285714285715,2.142857142857143,390.0,15.0
+Primavera do Leste,12-04-2021,9634,44,222,1,51.714285714285715,2.142857142857143,362.0,15.0

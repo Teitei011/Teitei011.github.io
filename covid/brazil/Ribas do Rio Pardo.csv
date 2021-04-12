@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Ribas do Rio Pardo,27-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Ribas do Rio Pardo,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Ribas do Rio Pardo,28-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Ribas do Rio Pardo,29-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Ribas do Rio Pardo,30-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Ribas do Rio Pardo,31-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Ribas do Rio Pardo,29-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Ribas do Rio Pardo,30-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Ribas do Rio Pardo,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Ribas do Rio Pardo,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Ribas do Rio Pardo,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Ribas do Rio Pardo,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -380,3 +380,4 @@ Ribas do Rio Pardo,08-04-2021,1007,6,17,0,14.0,0.5714285714285714,98.0,4.0
 Ribas do Rio Pardo,09-04-2021,1023,16,19,2,14.285714285714286,0.8571428571428571,100.0,6.0
 Ribas do Rio Pardo,10-04-2021,1037,14,19,0,12.857142857142858,0.7142857142857143,90.0,5.0
 Ribas do Rio Pardo,11-04-2021,1089,52,21,2,17.571428571428573,1.0,123.0,7.0
+Ribas do Rio Pardo,12-04-2021,1090,1,21,0,16.571428571428573,1.0,116.0,7.0

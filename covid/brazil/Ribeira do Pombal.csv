@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Ribeira do Pombal,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Ribeira do Pombal,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Ribeira do Pombal,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Ribeira do Pombal,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Ribeira do Pombal,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Ribeira do Pombal,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -380,3 +380,4 @@ Ribeira do Pombal,08-04-2021,2312,19,36,0,9.571428571428571,0.0,67.0,0.0
 Ribeira do Pombal,09-04-2021,2330,18,36,0,8.285714285714286,0.0,58.0,0.0
 Ribeira do Pombal,10-04-2021,2333,3,36,0,8.428571428571429,0.0,59.0,0.0
 Ribeira do Pombal,11-04-2021,2347,14,36,0,10.142857142857142,0.0,71.0,0.0
+Ribeira do Pombal,12-04-2021,2356,9,36,0,11.428571428571429,0.0,80.0,0.0

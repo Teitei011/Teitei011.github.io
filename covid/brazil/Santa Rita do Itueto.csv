@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santa Rita do Itueto,27-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Santa Rita do Itueto,28-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Santa Rita do Itueto,29-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Santa Rita do Itueto,27-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Santa Rita do Itueto,28-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Santa Rita do Itueto,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Santa Rita do Itueto,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Santa Rita do Itueto,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santa Rita do Itueto,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Rita do Itueto,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Rita do Itueto,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Rita do Itueto,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -380,3 +380,4 @@ Santa Rita do Itueto,08-04-2021,759,5,4,0,3.857142857142857,0.0,27.0,0.0
 Santa Rita do Itueto,09-04-2021,764,5,4,0,3.2857142857142856,0.0,23.0,0.0
 Santa Rita do Itueto,10-04-2021,768,4,4,0,3.857142857142857,0.0,27.0,0.0
 Santa Rita do Itueto,11-04-2021,768,0,4,0,3.857142857142857,0.0,27.0,0.0
+Santa Rita do Itueto,12-04-2021,774,6,4,0,4.714285714285714,0.0,33.0,0.0

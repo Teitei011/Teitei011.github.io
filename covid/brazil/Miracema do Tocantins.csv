@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Miracema do Tocantins,27-03-2020,0,0,0,0,7.0,0.14285714285714285,49.0,1.0
-Miracema do Tocantins,28-03-2020,0,0,0,0,7.0,0.14285714285714285,49.0,1.0
-Miracema do Tocantins,29-03-2020,0,0,0,0,4.714285714285714,0.14285714285714285,33.0,1.0
+Miracema do Tocantins,28-03-2020,0,0,0,0,4.714285714285714,0.14285714285714285,33.0,1.0
+Miracema do Tocantins,29-03-2020,0,0,0,0,3.0,0.0,21.0,0.0
 Miracema do Tocantins,30-03-2020,0,0,0,0,3.0,0.0,21.0,0.0
-Miracema do Tocantins,31-03-2020,0,0,0,0,3.0,0.0,21.0,0.0
+Miracema do Tocantins,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Miracema do Tocantins,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Miracema do Tocantins,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Miracema do Tocantins,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -380,3 +380,4 @@ Miracema do Tocantins,08-04-2021,1506,13,24,0,7.142857142857143,0.57142857142857
 Miracema do Tocantins,09-04-2021,1519,13,27,3,7.285714285714286,0.8571428571428571,51.0,6.0
 Miracema do Tocantins,10-04-2021,1530,11,29,2,8.428571428571429,1.1428571428571428,59.0,8.0
 Miracema do Tocantins,11-04-2021,1530,0,29,0,8.428571428571429,1.1428571428571428,59.0,8.0
+Miracema do Tocantins,12-04-2021,1531,1,31,2,8.571428571428571,1.4285714285714286,60.0,10.0

@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santa Rita de Cássia,27-03-2020,0,0,0,0,11.142857142857142,1.0,78.0,7.0
-Santa Rita de Cássia,28-03-2020,0,0,0,0,11.142857142857142,1.0,78.0,7.0
-Santa Rita de Cássia,29-03-2020,0,0,0,0,6.714285714285714,1.0,47.0,7.0
-Santa Rita de Cássia,30-03-2020,0,0,0,0,5.285714285714286,0.42857142857142855,37.0,3.0
-Santa Rita de Cássia,31-03-2020,0,0,0,0,4.857142857142857,0.2857142857142857,34.0,2.0
-Santa Rita de Cássia,01-04-2020,0,0,0,0,4.0,0.0,28.0,0.0
+Santa Rita de Cássia,28-03-2020,0,0,0,0,6.714285714285714,1.0,47.0,7.0
+Santa Rita de Cássia,29-03-2020,0,0,0,0,5.285714285714286,0.42857142857142855,37.0,3.0
+Santa Rita de Cássia,30-03-2020,0,0,0,0,4.857142857142857,0.2857142857142857,34.0,2.0
+Santa Rita de Cássia,31-03-2020,0,0,0,0,4.0,0.0,28.0,0.0
+Santa Rita de Cássia,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Rita de Cássia,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Rita de Cássia,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Rita de Cássia,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -380,3 +380,4 @@ Santa Rita de Cássia,08-04-2021,1554,0,16,0,0.42857142857142855,0.0,3.0,0.0
 Santa Rita de Cássia,09-04-2021,1554,0,16,0,0.42857142857142855,0.0,3.0,0.0
 Santa Rita de Cássia,10-04-2021,1560,6,16,0,1.2857142857142858,0.0,9.0,0.0
 Santa Rita de Cássia,11-04-2021,1565,5,16,0,2.0,0.0,14.0,0.0
+Santa Rita de Cássia,12-04-2021,1578,13,16,0,3.857142857142857,0.0,27.0,0.0

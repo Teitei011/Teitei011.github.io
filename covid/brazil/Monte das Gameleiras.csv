@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Monte das Gameleiras,27-03-2020,0,0,0,0,-75.0,0.0,-525.0,0.0
 Monte das Gameleiras,28-03-2020,0,0,0,0,-75.0,0.0,-525.0,0.0
-Monte das Gameleiras,29-03-2020,0,0,0,0,-75.0,0.0,-525.0,0.0
+Monte das Gameleiras,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Monte das Gameleiras,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Monte das Gameleiras,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Monte das Gameleiras,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -380,3 +380,4 @@ Monte das Gameleiras,08-04-2021,118,5,1,0,1.7142857142857142,0.0,12.0,0.0
 Monte das Gameleiras,09-04-2021,120,2,1,0,1.1428571428571428,0.0,8.0,0.0
 Monte das Gameleiras,10-04-2021,120,0,1,0,1.1428571428571428,0.0,8.0,0.0
 Monte das Gameleiras,11-04-2021,120,0,1,0,1.1428571428571428,0.0,8.0,0.0
+Monte das Gameleiras,12-04-2021,120,0,1,0,1.1428571428571428,0.0,8.0,0.0

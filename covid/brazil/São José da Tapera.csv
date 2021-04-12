@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São José da Tapera,27-03-2020,0,0,0,0,6.0,0.0,42.0,0.0
-São José da Tapera,28-03-2020,0,0,0,0,6.0,0.0,42.0,0.0
-São José da Tapera,29-03-2020,0,0,0,0,3.857142857142857,0.0,27.0,0.0
-São José da Tapera,30-03-2020,0,0,0,0,6.0,0.0,42.0,0.0
+São José da Tapera,28-03-2020,0,0,0,0,3.857142857142857,0.0,27.0,0.0
+São José da Tapera,29-03-2020,0,0,0,0,6.0,0.0,42.0,0.0
+São José da Tapera,30-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
 São José da Tapera,31-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-São José da Tapera,01-04-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
+São José da Tapera,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José da Tapera,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José da Tapera,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José da Tapera,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -380,3 +380,4 @@ São José da Tapera,08-04-2021,1131,8,24,0,4.571428571428571,0.0,32.0,0.0
 São José da Tapera,09-04-2021,1132,1,24,0,4.714285714285714,0.0,33.0,0.0
 São José da Tapera,10-04-2021,1133,1,24,0,4.0,0.0,28.0,0.0
 São José da Tapera,11-04-2021,1133,0,24,0,3.7142857142857144,0.0,26.0,0.0
+São José da Tapera,12-04-2021,1133,0,24,0,3.7142857142857144,0.0,26.0,0.0

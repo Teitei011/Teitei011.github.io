@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Campinorte,27-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Campinorte,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campinorte,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campinorte,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campinorte,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -380,3 +380,4 @@ Campinorte,08-04-2021,1010,7,18,0,7.714285714285714,0.0,54.0,0.0
 Campinorte,09-04-2021,1016,6,18,0,5.142857142857143,0.0,36.0,0.0
 Campinorte,10-04-2021,1018,2,19,1,5.428571428571429,0.14285714285714285,38.0,1.0
 Campinorte,11-04-2021,1018,0,19,0,5.428571428571429,0.14285714285714285,38.0,1.0
+Campinorte,12-04-2021,1019,1,19,0,5.571428571428571,0.14285714285714285,39.0,1.0

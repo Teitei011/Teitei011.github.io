@@ -2,7 +2,7 @@ municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases
 Campina da Lagoa,27-03-2020,0,0,0,0,8.0,0.0,56.0,0.0
 Campina da Lagoa,28-03-2020,0,0,0,0,8.0,0.0,56.0,0.0
 Campina da Lagoa,29-03-2020,0,0,0,0,8.0,0.0,56.0,0.0
-Campina da Lagoa,30-03-2020,0,0,0,0,8.0,0.0,56.0,0.0
+Campina da Lagoa,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campina da Lagoa,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campina da Lagoa,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campina da Lagoa,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -380,3 +380,4 @@ Campina da Lagoa,08-04-2021,663,6,13,0,3.0,0.0,21.0,0.0
 Campina da Lagoa,09-04-2021,663,0,13,0,1.7142857142857142,0.0,12.0,0.0
 Campina da Lagoa,10-04-2021,670,7,13,0,2.4285714285714284,0.0,17.0,0.0
 Campina da Lagoa,11-04-2021,671,1,13,0,2.5714285714285716,0.0,18.0,0.0
+Campina da Lagoa,12-04-2021,673,2,13,0,2.857142857142857,0.0,20.0,0.0

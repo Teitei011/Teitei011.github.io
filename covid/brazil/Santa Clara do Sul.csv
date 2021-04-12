@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santa Clara do Sul,27-03-2020,0,0,0,0,0.14285714285714285,0.2857142857142857,1.0,2.0
-Santa Clara do Sul,28-03-2020,0,0,0,0,0.14285714285714285,0.2857142857142857,1.0,2.0
-Santa Clara do Sul,29-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Santa Clara do Sul,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Santa Clara do Sul,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Clara do Sul,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Clara do Sul,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Clara do Sul,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -380,3 +380,4 @@ Santa Clara do Sul,08-04-2021,376,5,5,0,1.7142857142857142,0.0,12.0,0.0
 Santa Clara do Sul,09-04-2021,376,0,5,0,1.5714285714285714,0.0,11.0,0.0
 Santa Clara do Sul,10-04-2021,376,0,5,0,1.5714285714285714,0.0,11.0,0.0
 Santa Clara do Sul,11-04-2021,376,0,5,0,1.5714285714285714,0.0,11.0,0.0
+Santa Clara do Sul,12-04-2021,376,0,5,0,1.5714285714285714,0.0,11.0,0.0

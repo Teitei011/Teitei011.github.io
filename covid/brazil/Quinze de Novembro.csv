@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Quinze de Novembro,27-03-2020,0,0,0,0,4.142857142857143,0.14285714285714285,29.0,1.0
-Quinze de Novembro,28-03-2020,0,0,0,0,4.0,0.0,28.0,0.0
-Quinze de Novembro,29-03-2020,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
-Quinze de Novembro,30-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-Quinze de Novembro,31-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Quinze de Novembro,01-04-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Quinze de Novembro,27-03-2020,0,0,0,0,4.0,0.0,28.0,0.0
+Quinze de Novembro,28-03-2020,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
+Quinze de Novembro,29-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Quinze de Novembro,30-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Quinze de Novembro,31-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Quinze de Novembro,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Quinze de Novembro,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Quinze de Novembro,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Quinze de Novembro,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -380,3 +380,4 @@ Quinze de Novembro,08-04-2021,352,3,5,0,2.0,0.2857142857142857,14.0,2.0
 Quinze de Novembro,09-04-2021,363,11,5,0,3.2857142857142856,0.2857142857142857,23.0,2.0
 Quinze de Novembro,10-04-2021,376,13,5,0,5.0,0.2857142857142857,35.0,2.0
 Quinze de Novembro,11-04-2021,376,0,5,0,5.0,0.14285714285714285,35.0,1.0
+Quinze de Novembro,12-04-2021,376,0,5,0,5.0,0.14285714285714285,35.0,1.0

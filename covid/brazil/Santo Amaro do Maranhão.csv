@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santo Amaro do Maranhão,27-03-2020,0,0,0,0,1.7142857142857142,0.14285714285714285,12.0,1.0
+Santo Amaro do Maranhão,27-03-2020,0,0,0,0,1.8571428571428572,0.14285714285714285,13.0,1.0
 Santo Amaro do Maranhão,28-03-2020,0,0,0,0,1.8571428571428572,0.14285714285714285,13.0,1.0
-Santo Amaro do Maranhão,29-03-2020,0,0,0,0,1.8571428571428572,0.14285714285714285,13.0,1.0
-Santo Amaro do Maranhão,30-03-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
-Santo Amaro do Maranhão,31-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Santo Amaro do Maranhão,01-04-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Santo Amaro do Maranhão,29-03-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
+Santo Amaro do Maranhão,30-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Santo Amaro do Maranhão,31-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Santo Amaro do Maranhão,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Amaro do Maranhão,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Amaro do Maranhão,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Amaro do Maranhão,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -380,3 +380,4 @@ Santo Amaro do Maranhão,08-04-2021,165,0,4,0,0.0,0.0,0.0,0.0
 Santo Amaro do Maranhão,09-04-2021,165,0,4,0,0.0,0.0,0.0,0.0
 Santo Amaro do Maranhão,10-04-2021,165,0,4,0,0.0,0.0,0.0,0.0
 Santo Amaro do Maranhão,11-04-2021,165,0,4,0,0.0,0.0,0.0,0.0
+Santo Amaro do Maranhão,12-04-2021,167,2,4,0,0.2857142857142857,0.0,2.0,0.0

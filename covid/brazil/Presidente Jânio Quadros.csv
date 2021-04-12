@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Presidente Jânio Quadros,27-03-2020,0,0,0,0,0.2857142857142857,0.14285714285714285,2.0,1.0
+Presidente Jânio Quadros,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Presidente Jânio Quadros,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Presidente Jânio Quadros,29-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Presidente Jânio Quadros,30-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Presidente Jânio Quadros,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Presidente Jânio Quadros,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Presidente Jânio Quadros,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Jânio Quadros,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Jânio Quadros,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Jânio Quadros,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -380,3 +380,4 @@ Presidente Jânio Quadros,08-04-2021,593,3,8,0,1.7142857142857142,0.0,12.0,0.0
 Presidente Jânio Quadros,09-04-2021,593,0,9,1,1.7142857142857142,0.14285714285714285,12.0,1.0
 Presidente Jânio Quadros,10-04-2021,593,0,9,0,1.5714285714285714,0.14285714285714285,11.0,1.0
 Presidente Jânio Quadros,11-04-2021,596,3,9,0,1.1428571428571428,0.14285714285714285,8.0,1.0
+Presidente Jânio Quadros,12-04-2021,599,3,9,0,1.5714285714285714,0.14285714285714285,11.0,1.0

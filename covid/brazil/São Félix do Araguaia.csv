@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São Félix do Araguaia,27-03-2020,0,0,0,0,2.857142857142857,0.0,20.0,0.0
-São Félix do Araguaia,28-03-2020,0,0,0,0,2.857142857142857,0.0,20.0,0.0
-São Félix do Araguaia,29-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
+São Félix do Araguaia,28-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
+São Félix do Araguaia,29-03-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
 São Félix do Araguaia,30-03-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
-São Félix do Araguaia,31-03-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
-São Félix do Araguaia,01-04-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+São Félix do Araguaia,31-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+São Félix do Araguaia,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Félix do Araguaia,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Félix do Araguaia,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Félix do Araguaia,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -380,3 +380,4 @@ São Félix do Araguaia,08-04-2021,1036,13,21,0,5.571428571428571,0.0,39.0,0.0
 São Félix do Araguaia,09-04-2021,1053,17,21,0,7.714285714285714,0.0,54.0,0.0
 São Félix do Araguaia,10-04-2021,1061,8,21,0,8.285714285714286,0.0,58.0,0.0
 São Félix do Araguaia,11-04-2021,1062,1,21,0,8.0,0.0,56.0,0.0
+São Félix do Araguaia,12-04-2021,1062,0,22,1,7.857142857142857,0.14285714285714285,55.0,1.0

@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santo Antônio dos Lopes,27-03-2020,0,0,0,0,24.571428571428573,0.2857142857142857,172.0,2.0
-Santo Antônio dos Lopes,28-03-2020,0,0,0,0,21.857142857142858,0.2857142857142857,153.0,2.0
-Santo Antônio dos Lopes,29-03-2020,0,0,0,0,5.714285714285714,0.2857142857142857,40.0,2.0
-Santo Antônio dos Lopes,30-03-2020,0,0,0,0,4.285714285714286,0.0,30.0,0.0
-Santo Antônio dos Lopes,31-03-2020,0,0,0,0,3.0,0.0,21.0,0.0
+Santo Antônio dos Lopes,27-03-2020,0,0,0,0,21.857142857142858,0.2857142857142857,153.0,2.0
+Santo Antônio dos Lopes,28-03-2020,0,0,0,0,5.714285714285714,0.2857142857142857,40.0,2.0
+Santo Antônio dos Lopes,29-03-2020,0,0,0,0,4.285714285714286,0.0,30.0,0.0
+Santo Antônio dos Lopes,30-03-2020,0,0,0,0,3.0,0.0,21.0,0.0
+Santo Antônio dos Lopes,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio dos Lopes,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio dos Lopes,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio dos Lopes,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -380,3 +380,4 @@ Santo Antônio dos Lopes,08-04-2021,1077,9,10,0,1.2857142857142858,0.0,9.0,0.0
 Santo Antônio dos Lopes,09-04-2021,1082,5,10,0,2.0,0.0,14.0,0.0
 Santo Antônio dos Lopes,10-04-2021,1095,13,10,0,3.857142857142857,0.0,27.0,0.0
 Santo Antônio dos Lopes,11-04-2021,1102,7,10,0,4.857142857142857,0.0,34.0,0.0
+Santo Antônio dos Lopes,12-04-2021,1108,6,10,0,5.714285714285714,0.0,40.0,0.0

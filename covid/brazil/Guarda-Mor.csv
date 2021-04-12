@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Guarda-Mor,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Guarda-Mor,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Guarda-Mor,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Guarda-Mor,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Guarda-Mor,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -380,3 +380,4 @@ Guarda-Mor,08-04-2021,311,1,8,0,0.7142857142857143,0.14285714285714285,5.0,1.0
 Guarda-Mor,09-04-2021,312,1,8,0,0.8571428571428571,0.14285714285714285,6.0,1.0
 Guarda-Mor,10-04-2021,314,2,8,0,1.0,0.0,7.0,0.0
 Guarda-Mor,11-04-2021,315,1,8,0,1.1428571428571428,0.0,8.0,0.0
+Guarda-Mor,12-04-2021,315,0,8,0,1.1428571428571428,0.0,8.0,0.0

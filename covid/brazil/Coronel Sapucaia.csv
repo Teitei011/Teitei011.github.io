@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Coronel Sapucaia,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Coronel Sapucaia,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Coronel Sapucaia,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Coronel Sapucaia,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Coronel Sapucaia,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coronel Sapucaia,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coronel Sapucaia,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coronel Sapucaia,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -380,3 +380,4 @@ Coronel Sapucaia,08-04-2021,652,3,14,0,1.4285714285714286,0.2857142857142857,10.
 Coronel Sapucaia,09-04-2021,652,0,14,0,1.0,0.2857142857142857,7.0,2.0
 Coronel Sapucaia,10-04-2021,654,2,14,0,1.1428571428571428,0.2857142857142857,8.0,2.0
 Coronel Sapucaia,11-04-2021,656,2,14,0,1.0,0.2857142857142857,7.0,2.0
+Coronel Sapucaia,12-04-2021,658,2,14,0,1.2857142857142858,0.2857142857142857,9.0,2.0

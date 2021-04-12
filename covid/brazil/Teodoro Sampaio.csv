@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Teodoro Sampaio,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Teodoro Sampaio,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Teodoro Sampaio,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Teodoro Sampaio,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Teodoro Sampaio,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Teodoro Sampaio,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -380,3 +380,4 @@ Teodoro Sampaio,08-04-2021,1405,8,23,0,5.571428571428571,0.2857142857142857,39.0
 Teodoro Sampaio,09-04-2021,1421,16,24,1,6.714285714285714,0.2857142857142857,47.0,2.0
 Teodoro Sampaio,10-04-2021,1422,1,24,0,6.714285714285714,0.2857142857142857,47.0,2.0
 Teodoro Sampaio,11-04-2021,1423,1,25,1,6.714285714285714,0.42857142857142855,47.0,3.0
+Teodoro Sampaio,12-04-2021,1425,2,26,1,6.857142857142857,0.5714285714285714,48.0,4.0
