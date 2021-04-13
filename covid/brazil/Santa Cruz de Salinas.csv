@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santa Cruz de Salinas,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santa Cruz de Salinas,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santa Cruz de Salinas,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santa Cruz de Salinas,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santa Cruz de Salinas,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santa Cruz de Salinas,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Santa Cruz de Salinas,27-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Santa Cruz de Salinas,28-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Santa Cruz de Salinas,29-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Santa Cruz de Salinas,30-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Santa Cruz de Salinas,31-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Santa Cruz de Salinas,01-04-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Santa Cruz de Salinas,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Cruz de Salinas,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Cruz de Salinas,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -381,3 +381,4 @@ Santa Cruz de Salinas,09-04-2021,45,0,2,0,0.0,0.0,0.0,0.0
 Santa Cruz de Salinas,10-04-2021,45,0,2,0,0.0,0.0,0.0,0.0
 Santa Cruz de Salinas,11-04-2021,45,0,2,0,0.0,0.0,0.0,0.0
 Santa Cruz de Salinas,12-04-2021,45,0,2,0,0.0,0.0,0.0,0.0
+Santa Cruz de Salinas,13-04-2021,45,0,2,0,0.0,0.0,0.0,0.0

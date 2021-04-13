@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Benjamin Constant do Sul,27-03-2020,0,0,0,0,4.142857142857143,0.7142857142857143,29.0,5.0
-Benjamin Constant do Sul,28-03-2020,0,0,0,0,3.857142857142857,0.42857142857142855,27.0,3.0
-Benjamin Constant do Sul,29-03-2020,0,0,0,0,2.4285714285714284,0.42857142857142855,17.0,3.0
-Benjamin Constant do Sul,30-03-2020,0,0,0,0,1.5714285714285714,0.2857142857142857,11.0,2.0
-Benjamin Constant do Sul,31-03-2020,0,0,0,0,0.2857142857142857,0.2857142857142857,2.0,2.0
-Benjamin Constant do Sul,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Benjamin Constant do Sul,27-03-2020,0,0,0,0,4.857142857142857,0.42857142857142855,34.0,3.0
+Benjamin Constant do Sul,28-03-2020,0,0,0,0,3.4285714285714284,0.42857142857142855,24.0,3.0
+Benjamin Constant do Sul,29-03-2020,0,0,0,0,2.5714285714285716,0.2857142857142857,18.0,2.0
+Benjamin Constant do Sul,30-03-2020,0,0,0,0,1.2857142857142858,0.2857142857142857,9.0,2.0
+Benjamin Constant do Sul,31-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Benjamin Constant do Sul,01-04-2020,0,0,0,0,1.0,0.0,7.0,0.0
 Benjamin Constant do Sul,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Benjamin Constant do Sul,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Benjamin Constant do Sul,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -381,3 +381,4 @@ Benjamin Constant do Sul,09-04-2021,149,0,0,0,0.0,0.0,0.0,0.0
 Benjamin Constant do Sul,10-04-2021,151,2,0,0,0.2857142857142857,0.0,2.0,0.0
 Benjamin Constant do Sul,11-04-2021,151,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Benjamin Constant do Sul,12-04-2021,151,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Benjamin Constant do Sul,13-04-2021,152,1,0,0,0.42857142857142855,0.0,3.0,0.0

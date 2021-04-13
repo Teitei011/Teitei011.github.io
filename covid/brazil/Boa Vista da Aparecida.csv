@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Boa Vista da Aparecida,27-03-2020,0,0,0,0,147.28571428571428,3.5714285714285716,1031.0,25.0
-Boa Vista da Aparecida,28-03-2020,0,0,0,0,129.57142857142858,3.2857142857142856,907.0,23.0
-Boa Vista da Aparecida,29-03-2020,0,0,0,0,98.71428571428571,1.0,691.0,7.0
-Boa Vista da Aparecida,30-03-2020,0,0,0,0,66.57142857142857,0.7142857142857143,466.0,5.0
-Boa Vista da Aparecida,31-03-2020,0,0,0,0,26.285714285714285,0.0,184.0,0.0
-Boa Vista da Aparecida,01-04-2020,0,0,0,0,6.571428571428571,0.0,46.0,0.0
+Boa Vista da Aparecida,27-03-2020,0,0,0,0,162.85714285714286,4.571428571428571,1140.0,32.0
+Boa Vista da Aparecida,28-03-2020,0,0,0,0,132.0,2.2857142857142856,924.0,16.0
+Boa Vista da Aparecida,29-03-2020,0,0,0,0,99.85714285714286,2.0,699.0,14.0
+Boa Vista da Aparecida,30-03-2020,0,0,0,0,59.57142857142857,1.2857142857142858,417.0,9.0
+Boa Vista da Aparecida,31-03-2020,0,0,0,0,39.857142857142854,1.2857142857142858,279.0,9.0
+Boa Vista da Aparecida,01-04-2020,0,0,0,0,33.285714285714285,1.2857142857142858,233.0,9.0
 Boa Vista da Aparecida,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Boa Vista da Aparecida,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Boa Vista da Aparecida,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -381,3 +381,4 @@ Boa Vista da Aparecida,09-04-2021,535,1,17,0,1.7142857142857142,0.0,12.0,0.0
 Boa Vista da Aparecida,10-04-2021,537,2,17,0,2.0,0.0,14.0,0.0
 Boa Vista da Aparecida,11-04-2021,546,9,17,0,3.142857142857143,0.0,22.0,0.0
 Boa Vista da Aparecida,12-04-2021,546,0,17,0,3.0,0.0,21.0,0.0
+Boa Vista da Aparecida,13-04-2021,552,6,17,0,3.142857142857143,0.0,22.0,0.0

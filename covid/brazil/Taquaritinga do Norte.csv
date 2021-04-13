@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Taquaritinga do Norte,27-03-2020,0,0,0,0,12.857142857142858,0.2857142857142857,90.0,2.0
-Taquaritinga do Norte,28-03-2020,0,0,0,0,11.142857142857142,0.14285714285714285,78.0,1.0
-Taquaritinga do Norte,29-03-2020,0,0,0,0,9.714285714285714,0.0,68.0,0.0
-Taquaritinga do Norte,30-03-2020,0,0,0,0,7.142857142857143,0.0,50.0,0.0
-Taquaritinga do Norte,31-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
-Taquaritinga do Norte,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Taquaritinga do Norte,27-03-2020,0,0,0,0,14.0,0.42857142857142855,98.0,3.0
+Taquaritinga do Norte,28-03-2020,0,0,0,0,12.571428571428571,0.2857142857142857,88.0,2.0
+Taquaritinga do Norte,29-03-2020,0,0,0,0,10.0,0.2857142857142857,70.0,2.0
+Taquaritinga do Norte,30-03-2020,0,0,0,0,4.0,0.2857142857142857,28.0,2.0
+Taquaritinga do Norte,31-03-2020,0,0,0,0,3.0,0.2857142857142857,21.0,2.0
+Taquaritinga do Norte,01-04-2020,0,0,0,0,2.857142857142857,0.2857142857142857,20.0,2.0
 Taquaritinga do Norte,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Taquaritinga do Norte,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Taquaritinga do Norte,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -381,3 +381,4 @@ Taquaritinga do Norte,09-04-2021,399,0,15,0,1.5714285714285714,0.0,11.0,0.0
 Taquaritinga do Norte,10-04-2021,403,4,15,0,2.142857142857143,0.0,15.0,0.0
 Taquaritinga do Norte,11-04-2021,404,1,15,0,2.2857142857142856,0.0,16.0,0.0
 Taquaritinga do Norte,12-04-2021,404,0,15,0,2.2857142857142856,0.0,16.0,0.0
+Taquaritinga do Norte,13-04-2021,408,4,15,0,2.7142857142857144,0.0,19.0,0.0

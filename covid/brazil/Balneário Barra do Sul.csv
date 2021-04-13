@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Balneário Barra do Sul,27-03-2020,0,0,0,0,4.857142857142857,0.0,34.0,0.0
-Balneário Barra do Sul,28-03-2020,0,0,0,0,4.571428571428571,0.0,32.0,0.0
-Balneário Barra do Sul,29-03-2020,0,0,0,0,4.0,0.0,28.0,0.0
-Balneário Barra do Sul,30-03-2020,0,0,0,0,3.2857142857142856,0.0,23.0,0.0
-Balneário Barra do Sul,31-03-2020,0,0,0,0,2.7142857142857144,0.0,19.0,0.0
-Balneário Barra do Sul,01-04-2020,0,0,0,0,2.7142857142857144,0.0,19.0,0.0
+Balneário Barra do Sul,27-03-2020,0,0,0,0,6.0,0.0,42.0,0.0
+Balneário Barra do Sul,28-03-2020,0,0,0,0,5.428571428571429,0.0,38.0,0.0
+Balneário Barra do Sul,29-03-2020,0,0,0,0,4.714285714285714,0.0,33.0,0.0
+Balneário Barra do Sul,30-03-2020,0,0,0,0,4.142857142857143,0.0,29.0,0.0
+Balneário Barra do Sul,31-03-2020,0,0,0,0,4.142857142857143,0.0,29.0,0.0
+Balneário Barra do Sul,01-04-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
 Balneário Barra do Sul,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Balneário Barra do Sul,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Balneário Barra do Sul,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -381,3 +381,4 @@ Balneário Barra do Sul,09-04-2021,1193,2,24,0,2.142857142857143,0.2857142857142
 Balneário Barra do Sul,10-04-2021,1193,0,24,0,2.142857142857143,0.2857142857142857,15.0,2.0
 Balneário Barra do Sul,11-04-2021,1185,-8,24,0,1.0,0.2857142857142857,7.0,2.0
 Balneário Barra do Sul,12-04-2021,1187,2,24,0,0.14285714285714285,0.14285714285714285,1.0,1.0
+Balneário Barra do Sul,13-04-2021,1194,7,24,0,1.0,0.14285714285714285,7.0,1.0

@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São Sebastião do Rio Verde,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-São Sebastião do Rio Verde,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+São Sebastião do Rio Verde,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Sebastião do Rio Verde,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Sebastião do Rio Verde,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Sebastião do Rio Verde,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -381,3 +381,4 @@ São Sebastião do Rio Verde,09-04-2021,237,0,3,2,2.142857142857143,0.2857142857
 São Sebastião do Rio Verde,10-04-2021,239,2,3,0,0.7142857142857143,0.2857142857142857,5.0,2.0
 São Sebastião do Rio Verde,11-04-2021,239,0,3,0,0.7142857142857143,0.2857142857142857,5.0,2.0
 São Sebastião do Rio Verde,12-04-2021,239,0,3,0,0.7142857142857143,0.2857142857142857,5.0,2.0
+São Sebastião do Rio Verde,13-04-2021,239,0,3,0,0.7142857142857143,0.2857142857142857,5.0,2.0

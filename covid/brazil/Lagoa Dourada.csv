@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Lagoa Dourada,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Lagoa Dourada,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lagoa Dourada,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lagoa Dourada,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lagoa Dourada,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -381,3 +381,4 @@ Lagoa Dourada,09-04-2021,512,0,8,0,1.8571428571428572,0.0,13.0,0.0
 Lagoa Dourada,10-04-2021,518,6,8,0,2.5714285714285716,0.0,18.0,0.0
 Lagoa Dourada,11-04-2021,518,0,8,0,2.5714285714285716,0.0,18.0,0.0
 Lagoa Dourada,12-04-2021,518,0,8,0,2.5714285714285716,0.0,18.0,0.0
+Lagoa Dourada,13-04-2021,522,4,8,0,2.5714285714285716,0.0,18.0,0.0

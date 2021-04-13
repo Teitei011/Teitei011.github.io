@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Cruzeiro do Oeste,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Cruzeiro do Oeste,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cruzeiro do Oeste,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cruzeiro do Oeste,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cruzeiro do Oeste,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -381,3 +381,4 @@ Cruzeiro do Oeste,09-04-2021,1668,2,41,0,2.142857142857143,0.5714285714285714,15
 Cruzeiro do Oeste,10-04-2021,1669,1,41,0,2.2857142857142856,0.5714285714285714,16.0,4.0
 Cruzeiro do Oeste,11-04-2021,1669,0,41,0,2.2857142857142856,0.5714285714285714,16.0,4.0
 Cruzeiro do Oeste,12-04-2021,1673,4,41,0,2.5714285714285716,0.5714285714285714,18.0,4.0
+Cruzeiro do Oeste,13-04-2021,1678,5,41,0,2.5714285714285716,0.42857142857142855,18.0,3.0

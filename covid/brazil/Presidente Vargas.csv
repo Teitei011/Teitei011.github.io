@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Presidente Vargas,27-03-2020,0,0,0,0,1.5714285714285714,0.14285714285714285,11.0,1.0
-Presidente Vargas,28-03-2020,0,0,0,0,1.0,0.14285714285714285,7.0,1.0
-Presidente Vargas,29-03-2020,0,0,0,0,1.0,0.14285714285714285,7.0,1.0
-Presidente Vargas,30-03-2020,0,0,0,0,0.7142857142857143,0.14285714285714285,5.0,1.0
-Presidente Vargas,31-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
+Presidente Vargas,27-03-2020,0,0,0,0,1.0,0.2857142857142857,7.0,2.0
+Presidente Vargas,28-03-2020,0,0,0,0,1.0,0.2857142857142857,7.0,2.0
+Presidente Vargas,29-03-2020,0,0,0,0,0.7142857142857143,0.2857142857142857,5.0,2.0
+Presidente Vargas,30-03-2020,0,0,0,0,0.0,0.2857142857142857,0.0,2.0
+Presidente Vargas,31-03-2020,0,0,0,0,0.0,0.2857142857142857,0.0,2.0
 Presidente Vargas,01-04-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
 Presidente Vargas,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Vargas,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -381,3 +381,4 @@ Presidente Vargas,09-04-2021,161,0,3,0,0.0,0.0,0.0,0.0
 Presidente Vargas,10-04-2021,161,0,3,0,0.0,0.0,0.0,0.0
 Presidente Vargas,11-04-2021,161,0,3,0,0.0,0.0,0.0,0.0
 Presidente Vargas,12-04-2021,161,0,3,0,0.0,0.0,0.0,0.0
+Presidente Vargas,13-04-2021,161,0,3,0,0.0,0.0,0.0,0.0

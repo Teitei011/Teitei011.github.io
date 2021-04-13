@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Cachoeiras de Macacu,27-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
-Cachoeiras de Macacu,28-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
-Cachoeiras de Macacu,29-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
-Cachoeiras de Macacu,30-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Cachoeiras de Macacu,31-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Cachoeiras de Macacu,01-04-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Cachoeiras de Macacu,27-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
+Cachoeiras de Macacu,28-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Cachoeiras de Macacu,29-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Cachoeiras de Macacu,30-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Cachoeiras de Macacu,31-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Cachoeiras de Macacu,01-04-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Cachoeiras de Macacu,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cachoeiras de Macacu,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cachoeiras de Macacu,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -381,3 +381,4 @@ Cachoeiras de Macacu,09-04-2021,2197,6,70,0,12.714285714285714,0.714285714285714
 Cachoeiras de Macacu,10-04-2021,2209,12,70,0,9.857142857142858,0.5714285714285714,69.0,4.0
 Cachoeiras de Macacu,11-04-2021,2209,0,70,0,9.857142857142858,0.5714285714285714,69.0,4.0
 Cachoeiras de Macacu,12-04-2021,2209,0,70,0,9.571428571428571,0.5714285714285714,67.0,4.0
+Cachoeiras de Macacu,13-04-2021,2219,10,70,0,10.714285714285714,0.2857142857142857,75.0,2.0

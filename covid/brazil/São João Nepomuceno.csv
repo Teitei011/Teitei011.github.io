@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São João Nepomuceno,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-São João Nepomuceno,28-03-2020,0,0,0,0,-1.8571428571428572,0.0,-13.0,0.0
+São João Nepomuceno,27-03-2020,0,0,0,0,-1.8571428571428572,0.0,-13.0,0.0
+São João Nepomuceno,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São João Nepomuceno,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São João Nepomuceno,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São João Nepomuceno,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -381,3 +381,4 @@ São João Nepomuceno,09-04-2021,1435,4,22,1,4.142857142857143,0.285714285714285
 São João Nepomuceno,10-04-2021,1439,4,22,0,4.714285714285714,0.2857142857142857,33.0,2.0
 São João Nepomuceno,11-04-2021,1439,0,22,0,4.714285714285714,0.2857142857142857,33.0,2.0
 São João Nepomuceno,12-04-2021,1439,0,22,0,4.714285714285714,0.2857142857142857,33.0,2.0
+São João Nepomuceno,13-04-2021,1442,3,22,0,3.4285714285714284,0.2857142857142857,24.0,2.0

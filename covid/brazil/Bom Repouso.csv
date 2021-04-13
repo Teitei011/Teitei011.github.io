@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Bom Repouso,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Bom Repouso,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Bom Repouso,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bom Repouso,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bom Repouso,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bom Repouso,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -381,3 +381,4 @@ Bom Repouso,09-04-2021,405,17,12,0,4.714285714285714,0.0,33.0,0.0
 Bom Repouso,10-04-2021,413,8,12,0,4.142857142857143,0.0,29.0,0.0
 Bom Repouso,11-04-2021,413,0,12,0,4.142857142857143,0.0,29.0,0.0
 Bom Repouso,12-04-2021,413,0,12,0,4.142857142857143,0.0,29.0,0.0
+Bom Repouso,13-04-2021,432,19,12,0,6.285714285714286,0.0,44.0,0.0

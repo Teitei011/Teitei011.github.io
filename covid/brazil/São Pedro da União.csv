@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São Pedro da União,27-03-2020,0,0,0,0,3.5714285714285716,0.0,25.0,0.0
 São Pedro da União,28-03-2020,0,0,0,0,3.5714285714285716,0.0,25.0,0.0
-São Pedro da União,29-03-2020,0,0,0,0,3.5714285714285716,0.0,25.0,0.0
+São Pedro da União,29-03-2020,0,0,0,0,3.4285714285714284,0.0,24.0,0.0
 São Pedro da União,30-03-2020,0,0,0,0,3.4285714285714284,0.0,24.0,0.0
-São Pedro da União,31-03-2020,0,0,0,0,3.4285714285714284,0.0,24.0,0.0
+São Pedro da União,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Pedro da União,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Pedro da União,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Pedro da União,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -381,3 +381,4 @@ São Pedro da União,09-04-2021,216,0,3,0,2.5714285714285716,0.0,18.0,0.0
 São Pedro da União,10-04-2021,216,0,3,0,2.5714285714285716,0.0,18.0,0.0
 São Pedro da União,11-04-2021,216,0,3,0,2.5714285714285716,0.0,18.0,0.0
 São Pedro da União,12-04-2021,216,0,3,0,2.5714285714285716,0.0,18.0,0.0
+São Pedro da União,13-04-2021,226,10,3,0,2.857142857142857,0.0,20.0,0.0

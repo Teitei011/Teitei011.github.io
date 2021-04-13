@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santa Maria do Herval,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Santa Maria do Herval,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Maria do Herval,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Maria do Herval,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Maria do Herval,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -381,3 +381,4 @@ Santa Maria do Herval,09-04-2021,514,5,10,0,2.5714285714285716,0.142857142857142
 Santa Maria do Herval,10-04-2021,517,3,10,0,3.0,0.14285714285714285,21.0,1.0
 Santa Maria do Herval,11-04-2021,517,0,10,0,2.4285714285714284,0.0,17.0,0.0
 Santa Maria do Herval,12-04-2021,517,0,10,0,2.4285714285714284,0.0,17.0,0.0
+Santa Maria do Herval,13-04-2021,521,4,10,0,2.4285714285714284,0.0,17.0,0.0

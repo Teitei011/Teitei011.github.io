@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Fazenda Rio Grande,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Fazenda Rio Grande,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Fazenda Rio Grande,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Fazenda Rio Grande,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Fazenda Rio Grande,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Fazenda Rio Grande,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Fazenda Rio Grande,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -381,3 +381,4 @@ Fazenda Rio Grande,09-04-2021,9207,79,202,0,46.857142857142854,2.285714285714285
 Fazenda Rio Grande,10-04-2021,9263,56,205,3,53.857142857142854,2.5714285714285716,377.0,18.0
 Fazenda Rio Grande,11-04-2021,9287,24,210,5,55.0,3.2857142857142856,385.0,23.0
 Fazenda Rio Grande,12-04-2021,9300,13,211,1,55.857142857142854,3.4285714285714284,391.0,24.0
+Fazenda Rio Grande,13-04-2021,9411,111,217,6,53.285714285714285,3.857142857142857,373.0,27.0

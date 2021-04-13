@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Novo São Joaquim,27-03-2020,0,0,0,0,2.2857142857142856,0.0,16.0,0.0
+Novo São Joaquim,27-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
 Novo São Joaquim,28-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
 Novo São Joaquim,29-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
-Novo São Joaquim,30-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
-Novo São Joaquim,31-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Novo São Joaquim,30-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Novo São Joaquim,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Novo São Joaquim,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Novo São Joaquim,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Novo São Joaquim,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -381,3 +381,4 @@ Novo São Joaquim,09-04-2021,300,2,9,0,3.5714285714285716,0.0,25.0,0.0
 Novo São Joaquim,10-04-2021,300,0,9,0,3.5714285714285716,0.0,25.0,0.0
 Novo São Joaquim,11-04-2021,300,0,9,0,3.5714285714285716,0.0,25.0,0.0
 Novo São Joaquim,12-04-2021,308,8,9,0,3.5714285714285716,0.0,25.0,0.0
+Novo São Joaquim,13-04-2021,309,1,9,0,3.4285714285714284,0.0,24.0,0.0

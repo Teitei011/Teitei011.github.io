@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santo Antônio das Missões,27-03-2020,0,0,0,0,16.571428571428573,2.4285714285714284,116.0,17.0
-Santo Antônio das Missões,28-03-2020,0,0,0,0,13.285714285714286,2.4285714285714284,93.0,17.0
-Santo Antônio das Missões,29-03-2020,0,0,0,0,8.857142857142858,0.2857142857142857,62.0,2.0
-Santo Antônio das Missões,30-03-2020,0,0,0,0,5.285714285714286,0.0,37.0,0.0
-Santo Antônio das Missões,31-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Santo Antônio das Missões,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Santo Antônio das Missões,27-03-2020,0,0,0,0,21.857142857142858,2.4285714285714284,153.0,17.0
+Santo Antônio das Missões,28-03-2020,0,0,0,0,17.428571428571427,0.2857142857142857,122.0,2.0
+Santo Antônio das Missões,29-03-2020,0,0,0,0,13.857142857142858,0.0,97.0,0.0
+Santo Antônio das Missões,30-03-2020,0,0,0,0,9.428571428571429,0.0,66.0,0.0
+Santo Antônio das Missões,31-03-2020,0,0,0,0,8.571428571428571,0.0,60.0,0.0
+Santo Antônio das Missões,01-04-2020,0,0,0,0,8.571428571428571,0.0,60.0,0.0
 Santo Antônio das Missões,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio das Missões,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio das Missões,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -381,3 +381,4 @@ Santo Antônio das Missões,09-04-2021,191,1,20,0,0.42857142857142855,0.0,3.0,0.
 Santo Antônio das Missões,10-04-2021,191,0,20,0,0.42857142857142855,0.0,3.0,0.0
 Santo Antônio das Missões,11-04-2021,191,0,20,0,0.42857142857142855,0.0,3.0,0.0
 Santo Antônio das Missões,12-04-2021,191,0,20,0,0.42857142857142855,0.0,3.0,0.0
+Santo Antônio das Missões,13-04-2021,191,0,20,0,0.14285714285714285,0.0,1.0,0.0

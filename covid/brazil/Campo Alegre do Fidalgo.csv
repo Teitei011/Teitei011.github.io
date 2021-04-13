@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Campo Alegre do Fidalgo,27-03-2020,0,0,0,0,2.0,0.14285714285714285,14.0,1.0
-Campo Alegre do Fidalgo,28-03-2020,0,0,0,0,1.8571428571428572,0.14285714285714285,13.0,1.0
-Campo Alegre do Fidalgo,29-03-2020,0,0,0,0,1.7142857142857142,0.14285714285714285,12.0,1.0
-Campo Alegre do Fidalgo,30-03-2020,0,0,0,0,0.42857142857142855,0.14285714285714285,3.0,1.0
-Campo Alegre do Fidalgo,31-03-2020,0,0,0,0,0.2857142857142857,0.14285714285714285,2.0,1.0
-Campo Alegre do Fidalgo,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Campo Alegre do Fidalgo,27-03-2020,0,0,0,0,3.0,0.2857142857142857,21.0,2.0
+Campo Alegre do Fidalgo,28-03-2020,0,0,0,0,2.857142857142857,0.2857142857142857,20.0,2.0
+Campo Alegre do Fidalgo,29-03-2020,0,0,0,0,1.5714285714285714,0.2857142857142857,11.0,2.0
+Campo Alegre do Fidalgo,30-03-2020,0,0,0,0,1.4285714285714286,0.2857142857142857,10.0,2.0
+Campo Alegre do Fidalgo,31-03-2020,0,0,0,0,1.1428571428571428,0.14285714285714285,8.0,1.0
+Campo Alegre do Fidalgo,01-04-2020,0,0,0,0,1.1428571428571428,0.14285714285714285,8.0,1.0
 Campo Alegre do Fidalgo,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campo Alegre do Fidalgo,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campo Alegre do Fidalgo,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -381,3 +381,4 @@ Campo Alegre do Fidalgo,09-04-2021,69,0,1,0,0.42857142857142855,0.0,3.0,0.0
 Campo Alegre do Fidalgo,10-04-2021,70,1,1,0,0.5714285714285714,0.0,4.0,0.0
 Campo Alegre do Fidalgo,11-04-2021,70,0,1,0,0.5714285714285714,0.0,4.0,0.0
 Campo Alegre do Fidalgo,12-04-2021,70,0,1,0,0.5714285714285714,0.0,4.0,0.0
+Campo Alegre do Fidalgo,13-04-2021,70,0,1,0,0.5714285714285714,0.0,4.0,0.0

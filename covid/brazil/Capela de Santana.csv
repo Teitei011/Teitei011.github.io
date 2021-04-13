@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Capela de Santana,27-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Capela de Santana,27-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
 Capela de Santana,28-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
 Capela de Santana,29-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Capela de Santana,30-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Capela de Santana,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Capela de Santana,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Capela de Santana,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Capela de Santana,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -381,3 +381,4 @@ Capela de Santana,09-04-2021,467,86,12,0,36.42857142857143,0.14285714285714285,2
 Capela de Santana,10-04-2021,485,18,12,0,38.857142857142854,0.14285714285714285,272.0,1.0
 Capela de Santana,11-04-2021,485,0,12,0,38.857142857142854,0.14285714285714285,272.0,1.0
 Capela de Santana,12-04-2021,485,0,12,0,38.857142857142854,0.0,272.0,0.0
+Capela de Santana,13-04-2021,537,52,12,0,41.0,0.0,287.0,0.0

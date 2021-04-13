@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Constantina,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Constantina,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Constantina,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Constantina,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Constantina,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -381,3 +381,4 @@ Constantina,09-04-2021,850,5,8,0,1.7142857142857142,0.0,12.0,0.0
 Constantina,10-04-2021,851,1,8,0,1.8571428571428572,0.0,13.0,0.0
 Constantina,11-04-2021,851,0,8,0,1.8571428571428572,0.0,13.0,0.0
 Constantina,12-04-2021,851,0,8,0,1.8571428571428572,0.0,13.0,0.0
+Constantina,13-04-2021,856,5,8,0,1.8571428571428572,0.0,13.0,0.0

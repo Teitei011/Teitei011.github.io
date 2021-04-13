@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Sebastião do Maranhão,27-03-2020,0,0,0,0,10.571428571428571,0.42857142857142855,74.0,3.0
-São Sebastião do Maranhão,28-03-2020,0,0,0,0,6.285714285714286,0.2857142857142857,44.0,2.0
-São Sebastião do Maranhão,29-03-2020,0,0,0,0,4.0,0.14285714285714285,28.0,1.0
-São Sebastião do Maranhão,30-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-São Sebastião do Maranhão,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-São Sebastião do Maranhão,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+São Sebastião do Maranhão,27-03-2020,0,0,0,0,12.0,0.42857142857142855,84.0,3.0
+São Sebastião do Maranhão,28-03-2020,0,0,0,0,9.714285714285714,0.2857142857142857,68.0,2.0
+São Sebastião do Maranhão,29-03-2020,0,0,0,0,6.571428571428571,0.14285714285714285,46.0,1.0
+São Sebastião do Maranhão,30-03-2020,0,0,0,0,5.857142857142857,0.14285714285714285,41.0,1.0
+São Sebastião do Maranhão,31-03-2020,0,0,0,0,5.714285714285714,0.14285714285714285,40.0,1.0
+São Sebastião do Maranhão,01-04-2020,0,0,0,0,5.714285714285714,0.14285714285714285,40.0,1.0
 São Sebastião do Maranhão,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Sebastião do Maranhão,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Sebastião do Maranhão,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -381,3 +381,4 @@ São Sebastião do Maranhão,09-04-2021,262,1,0,0,2.2857142857142856,0.0,16.0,0.
 São Sebastião do Maranhão,10-04-2021,264,2,0,0,2.5714285714285716,0.0,18.0,0.0
 São Sebastião do Maranhão,11-04-2021,264,0,0,0,2.5714285714285716,0.0,18.0,0.0
 São Sebastião do Maranhão,12-04-2021,264,0,0,0,2.5714285714285716,0.0,18.0,0.0
+São Sebastião do Maranhão,13-04-2021,264,0,0,0,1.8571428571428572,0.0,13.0,0.0
