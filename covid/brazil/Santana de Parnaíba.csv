@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santana de Parnaíba,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Santana de Parnaíba,28-03-2020,7,7,0,0,1.5714285714285714,0.0,11.0,0.0
-Santana de Parnaíba,29-03-2020,7,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Santana de Parnaíba,28-03-2020,7,7,0,0,1.1428571428571428,0.0,8.0,0.0
+Santana de Parnaíba,29-03-2020,7,0,0,0,1.0,0.0,7.0,0.0
 Santana de Parnaíba,30-03-2020,7,0,0,0,1.0,0.0,7.0,0.0
 Santana de Parnaíba,31-03-2020,17,10,0,0,2.4285714285714284,0.0,17.0,0.0
 Santana de Parnaíba,01-04-2020,18,1,0,0,2.5714285714285716,0.0,18.0,0.0
@@ -382,3 +382,4 @@ Santana de Parnaíba,10-04-2021,9430,73,216,2,52.285714285714285,2.1428571428571
 Santana de Parnaíba,11-04-2021,9497,67,229,13,58.42857142857143,3.857142857142857,409.0,27.0
 Santana de Parnaíba,12-04-2021,9497,0,229,0,57.57142857142857,3.4285714285714284,403.0,24.0
 Santana de Parnaíba,13-04-2021,9549,52,232,3,51.857142857142854,3.0,363.0,21.0
+Santana de Parnaíba,14-04-2021,9591,42,241,9,50.57142857142857,4.285714285714286,354.0,30.0

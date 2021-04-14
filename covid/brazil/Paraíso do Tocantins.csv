@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Paraíso do Tocantins,27-03-2020,0,0,0,0,4.0,0.0,28.0,0.0
-Paraíso do Tocantins,28-03-2020,0,0,0,0,4.0,0.0,28.0,0.0
-Paraíso do Tocantins,29-03-2020,0,0,0,0,4.0,0.0,28.0,0.0
-Paraíso do Tocantins,30-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
-Paraíso do Tocantins,31-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
-Paraíso do Tocantins,01-04-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Paraíso do Tocantins,27-03-2020,0,0,0,0,4.0,0.14285714285714285,28.0,1.0
+Paraíso do Tocantins,28-03-2020,0,0,0,0,4.0,0.14285714285714285,28.0,1.0
+Paraíso do Tocantins,29-03-2020,0,0,0,0,2.0,0.14285714285714285,14.0,1.0
+Paraíso do Tocantins,30-03-2020,0,0,0,0,2.0,0.14285714285714285,14.0,1.0
+Paraíso do Tocantins,31-03-2020,0,0,0,0,1.5714285714285714,0.14285714285714285,11.0,1.0
+Paraíso do Tocantins,01-04-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
 Paraíso do Tocantins,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Paraíso do Tocantins,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Paraíso do Tocantins,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -382,3 +382,4 @@ Paraíso do Tocantins,10-04-2021,6299,2,111,3,52.857142857142854,2.4285714285714
 Paraíso do Tocantins,11-04-2021,6302,3,114,3,53.42857142857143,2.857142857142857,374.0,20.0
 Paraíso do Tocantins,12-04-2021,6303,1,116,2,52.0,3.0,364.0,21.0
 Paraíso do Tocantins,13-04-2021,6375,72,122,6,55.42857142857143,3.2857142857142856,388.0,23.0
+Paraíso do Tocantins,14-04-2021,6416,41,122,0,51.714285714285715,3.0,362.0,21.0

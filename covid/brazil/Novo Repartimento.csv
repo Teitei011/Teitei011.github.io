@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Novo Repartimento,27-03-2020,0,0,0,0,8.142857142857142,0.0,57.0,0.0
-Novo Repartimento,28-03-2020,0,0,0,0,6.714285714285714,0.0,47.0,0.0
-Novo Repartimento,29-03-2020,0,0,0,0,6.714285714285714,0.0,47.0,0.0
-Novo Repartimento,30-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
-Novo Repartimento,31-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
-Novo Repartimento,01-04-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
+Novo Repartimento,27-03-2020,0,0,0,0,7.285714285714286,0.0,51.0,0.0
+Novo Repartimento,28-03-2020,0,0,0,0,7.285714285714286,0.0,51.0,0.0
+Novo Repartimento,29-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
+Novo Repartimento,30-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
+Novo Repartimento,31-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
+Novo Repartimento,01-04-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Novo Repartimento,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Novo Repartimento,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Novo Repartimento,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -382,3 +382,4 @@ Novo Repartimento,10-04-2021,841,20,51,0,5.142857142857143,0.14285714285714285,3
 Novo Repartimento,11-04-2021,841,0,51,0,5.0,0.14285714285714285,35.0,1.0
 Novo Repartimento,12-04-2021,841,0,51,0,5.0,0.14285714285714285,35.0,1.0
 Novo Repartimento,13-04-2021,867,26,51,0,8.714285714285714,0.14285714285714285,61.0,1.0
+Novo Repartimento,14-04-2021,872,5,51,0,8.571428571428571,0.14285714285714285,60.0,1.0

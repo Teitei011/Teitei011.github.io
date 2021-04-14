@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Campestre do Maranhão,27-03-2020,0,0,0,0,2.2857142857142856,0.14285714285714285,16.0,1.0
-Campestre do Maranhão,28-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
-Campestre do Maranhão,29-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Campestre do Maranhão,30-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Campestre do Maranhão,31-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Campestre do Maranhão,01-04-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Campestre do Maranhão,27-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
+Campestre do Maranhão,28-03-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
+Campestre do Maranhão,29-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Campestre do Maranhão,30-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Campestre do Maranhão,31-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Campestre do Maranhão,01-04-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
 Campestre do Maranhão,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campestre do Maranhão,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campestre do Maranhão,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -382,3 +382,4 @@ Campestre do Maranhão,10-04-2021,818,0,34,0,0.0,0.0,0.0,0.0
 Campestre do Maranhão,11-04-2021,819,1,34,0,0.14285714285714285,0.0,1.0,0.0
 Campestre do Maranhão,12-04-2021,820,1,34,0,0.2857142857142857,0.0,2.0,0.0
 Campestre do Maranhão,13-04-2021,832,12,34,0,2.0,0.0,14.0,0.0
+Campestre do Maranhão,14-04-2021,832,0,35,1,2.0,0.14285714285714285,14.0,1.0

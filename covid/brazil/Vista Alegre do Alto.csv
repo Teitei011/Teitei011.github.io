@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Vista Alegre do Alto,27-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
-Vista Alegre do Alto,28-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
-Vista Alegre do Alto,29-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Vista Alegre do Alto,27-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
+Vista Alegre do Alto,28-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Vista Alegre do Alto,29-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
 Vista Alegre do Alto,30-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
 Vista Alegre do Alto,31-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
-Vista Alegre do Alto,01-04-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Vista Alegre do Alto,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Vista Alegre do Alto,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Vista Alegre do Alto,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Vista Alegre do Alto,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -382,3 +382,4 @@ Vista Alegre do Alto,10-04-2021,592,11,6,0,4.142857142857143,0.0,29.0,0.0
 Vista Alegre do Alto,11-04-2021,592,0,6,0,4.142857142857143,0.0,29.0,0.0
 Vista Alegre do Alto,12-04-2021,593,1,6,0,4.285714285714286,0.0,30.0,0.0
 Vista Alegre do Alto,13-04-2021,596,3,6,0,4.857142857142857,0.0,34.0,0.0
+Vista Alegre do Alto,14-04-2021,597,1,6,0,2.142857142857143,0.0,15.0,0.0

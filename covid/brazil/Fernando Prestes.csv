@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Fernando Prestes,27-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
 Fernando Prestes,28-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
-Fernando Prestes,29-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
-Fernando Prestes,30-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Fernando Prestes,29-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Fernando Prestes,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Fernando Prestes,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Fernando Prestes,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Fernando Prestes,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -382,3 +382,4 @@ Fernando Prestes,10-04-2021,456,4,4,0,6.714285714285714,0.0,47.0,0.0
 Fernando Prestes,11-04-2021,456,0,4,0,6.428571428571429,0.0,45.0,0.0
 Fernando Prestes,12-04-2021,457,1,4,0,6.571428571428571,0.0,46.0,0.0
 Fernando Prestes,13-04-2021,459,2,4,0,5.714285714285714,0.0,40.0,0.0
+Fernando Prestes,14-04-2021,461,2,5,1,3.5714285714285716,0.14285714285714285,25.0,1.0

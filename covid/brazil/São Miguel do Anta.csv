@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São Miguel do Anta,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-São Miguel do Anta,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+São Miguel do Anta,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel do Anta,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel do Anta,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel do Anta,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -382,3 +382,4 @@ São Miguel do Anta,10-04-2021,253,0,8,0,2.0,0.0,14.0,0.0
 São Miguel do Anta,11-04-2021,253,0,8,0,1.0,0.0,7.0,0.0
 São Miguel do Anta,12-04-2021,268,15,8,0,3.142857142857143,0.0,22.0,0.0
 São Miguel do Anta,13-04-2021,269,1,8,0,3.0,0.0,21.0,0.0
+São Miguel do Anta,14-04-2021,270,1,8,0,2.5714285714285716,0.0,18.0,0.0

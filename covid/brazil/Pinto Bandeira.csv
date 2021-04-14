@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Pinto Bandeira,27-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Pinto Bandeira,28-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Pinto Bandeira,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pinto Bandeira,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pinto Bandeira,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pinto Bandeira,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -382,3 +382,4 @@ Pinto Bandeira,10-04-2021,179,0,4,0,1.2857142857142858,0.0,9.0,0.0
 Pinto Bandeira,11-04-2021,179,0,4,0,1.2857142857142858,0.0,9.0,0.0
 Pinto Bandeira,12-04-2021,179,0,4,0,1.2857142857142858,0.0,9.0,0.0
 Pinto Bandeira,13-04-2021,182,3,4,0,0.5714285714285714,0.0,4.0,0.0
+Pinto Bandeira,14-04-2021,182,0,4,0,0.5714285714285714,0.0,4.0,0.0

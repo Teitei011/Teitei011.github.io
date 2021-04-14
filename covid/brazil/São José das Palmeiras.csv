@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São José das Palmeiras,27-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
 São José das Palmeiras,28-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
-São José das Palmeiras,29-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+São José das Palmeiras,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José das Palmeiras,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José das Palmeiras,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José das Palmeiras,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -382,3 +382,4 @@ São José das Palmeiras,10-04-2021,244,1,9,0,0.7142857142857143,0.2857142857142
 São José das Palmeiras,11-04-2021,244,0,9,0,0.42857142857142855,0.14285714285714285,3.0,1.0
 São José das Palmeiras,12-04-2021,244,0,9,0,0.42857142857142855,0.14285714285714285,3.0,1.0
 São José das Palmeiras,13-04-2021,250,6,9,0,1.2857142857142858,0.14285714285714285,9.0,1.0
+São José das Palmeiras,14-04-2021,250,0,9,0,1.1428571428571428,0.0,8.0,0.0

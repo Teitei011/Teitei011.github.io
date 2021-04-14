@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Frei Inocêncio,27-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
-Frei Inocêncio,28-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
-Frei Inocêncio,29-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Frei Inocêncio,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Frei Inocêncio,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Frei Inocêncio,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Frei Inocêncio,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Frei Inocêncio,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -382,3 +382,4 @@ Frei Inocêncio,10-04-2021,541,0,16,0,6.285714285714286,0.0,44.0,0.0
 Frei Inocêncio,11-04-2021,531,-10,16,0,3.4285714285714284,0.0,24.0,0.0
 Frei Inocêncio,12-04-2021,531,0,16,0,3.4285714285714284,0.0,24.0,0.0
 Frei Inocêncio,13-04-2021,531,0,16,0,3.4285714285714284,0.0,24.0,0.0
+Frei Inocêncio,14-04-2021,531,0,16,0,3.4285714285714284,0.0,24.0,0.0

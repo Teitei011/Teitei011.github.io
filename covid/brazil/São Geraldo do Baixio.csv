@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Geraldo do Baixio,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-São Geraldo do Baixio,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-São Geraldo do Baixio,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-São Geraldo do Baixio,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-São Geraldo do Baixio,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-São Geraldo do Baixio,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+São Geraldo do Baixio,27-03-2020,0,0,0,0,0.2857142857142857,0.14285714285714285,2.0,1.0
+São Geraldo do Baixio,28-03-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
+São Geraldo do Baixio,29-03-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
+São Geraldo do Baixio,30-03-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
+São Geraldo do Baixio,31-03-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
+São Geraldo do Baixio,01-04-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
 São Geraldo do Baixio,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Geraldo do Baixio,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Geraldo do Baixio,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -382,3 +382,4 @@ São Geraldo do Baixio,10-04-2021,118,5,5,0,0.7142857142857143,0.0,5.0,0.0
 São Geraldo do Baixio,11-04-2021,118,0,5,0,0.7142857142857143,0.0,5.0,0.0
 São Geraldo do Baixio,12-04-2021,118,0,5,0,0.7142857142857143,0.0,5.0,0.0
 São Geraldo do Baixio,13-04-2021,123,5,5,0,1.4285714285714286,0.0,10.0,0.0
+São Geraldo do Baixio,14-04-2021,123,0,5,0,1.4285714285714286,0.0,10.0,0.0

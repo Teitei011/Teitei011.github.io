@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São Gonçalo dos Campos,27-03-2020,0,0,0,0,6.0,0.0,42.0,0.0
-São Gonçalo dos Campos,28-03-2020,0,0,0,0,6.0,0.0,42.0,0.0
-São Gonçalo dos Campos,29-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+São Gonçalo dos Campos,28-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+São Gonçalo dos Campos,29-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 São Gonçalo dos Campos,30-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 São Gonçalo dos Campos,31-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-São Gonçalo dos Campos,01-04-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+São Gonçalo dos Campos,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Gonçalo dos Campos,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Gonçalo dos Campos,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Gonçalo dos Campos,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -382,3 +382,4 @@ São Gonçalo dos Campos,10-04-2021,1645,2,21,0,6.714285714285714,0.0,47.0,0.0
 São Gonçalo dos Campos,11-04-2021,1656,11,21,0,7.285714285714286,0.0,51.0,0.0
 São Gonçalo dos Campos,12-04-2021,1656,0,21,0,7.285714285714286,0.0,51.0,0.0
 São Gonçalo dos Campos,13-04-2021,1681,25,21,0,9.714285714285714,0.0,68.0,0.0
+São Gonçalo dos Campos,14-04-2021,1699,18,21,0,10.714285714285714,0.0,75.0,0.0

@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Lagoa Grande do Maranhão,27-03-2020,0,0,0,0,8.857142857142858,1.5714285714285714,62.0,11.0
-Lagoa Grande do Maranhão,28-03-2020,0,0,0,0,6.857142857142857,1.5714285714285714,48.0,11.0
-Lagoa Grande do Maranhão,29-03-2020,0,0,0,0,4.857142857142857,0.5714285714285714,34.0,4.0
-Lagoa Grande do Maranhão,30-03-2020,0,0,0,0,2.142857142857143,0.5714285714285714,15.0,4.0
-Lagoa Grande do Maranhão,31-03-2020,0,0,0,0,1.1428571428571428,0.5714285714285714,8.0,4.0
-Lagoa Grande do Maranhão,01-04-2020,0,0,0,0,0.7142857142857143,0.14285714285714285,5.0,1.0
+Lagoa Grande do Maranhão,27-03-2020,0,0,0,0,9.0,1.5714285714285714,63.0,11.0
+Lagoa Grande do Maranhão,28-03-2020,0,0,0,0,7.0,0.5714285714285714,49.0,4.0
+Lagoa Grande do Maranhão,29-03-2020,0,0,0,0,4.285714285714286,0.5714285714285714,30.0,4.0
+Lagoa Grande do Maranhão,30-03-2020,0,0,0,0,3.2857142857142856,0.5714285714285714,23.0,4.0
+Lagoa Grande do Maranhão,31-03-2020,0,0,0,0,2.857142857142857,0.14285714285714285,20.0,1.0
+Lagoa Grande do Maranhão,01-04-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
 Lagoa Grande do Maranhão,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lagoa Grande do Maranhão,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lagoa Grande do Maranhão,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -382,3 +382,4 @@ Lagoa Grande do Maranhão,10-04-2021,227,0,9,0,0.2857142857142857,0.0,2.0,0.0
 Lagoa Grande do Maranhão,11-04-2021,228,1,9,0,0.42857142857142855,0.0,3.0,0.0
 Lagoa Grande do Maranhão,12-04-2021,229,1,9,0,0.5714285714285714,0.0,4.0,0.0
 Lagoa Grande do Maranhão,13-04-2021,230,1,9,0,0.42857142857142855,0.0,3.0,0.0
+Lagoa Grande do Maranhão,14-04-2021,231,1,9,0,0.5714285714285714,0.0,4.0,0.0

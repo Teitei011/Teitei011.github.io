@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Palmeirândia,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Palmeirândia,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Palmeirândia,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Palmeirândia,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Palmeirândia,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -382,3 +382,4 @@ Palmeirândia,10-04-2021,44,0,7,0,0.0,0.0,0.0,0.0
 Palmeirândia,11-04-2021,45,1,8,1,0.14285714285714285,0.14285714285714285,1.0,1.0
 Palmeirândia,12-04-2021,45,0,8,0,0.14285714285714285,0.14285714285714285,1.0,1.0
 Palmeirândia,13-04-2021,45,0,8,0,0.14285714285714285,0.14285714285714285,1.0,1.0
+Palmeirândia,14-04-2021,45,0,8,0,0.14285714285714285,0.14285714285714285,1.0,1.0

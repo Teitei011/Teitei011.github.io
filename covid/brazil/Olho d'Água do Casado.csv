@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Olho d'Água do Casado,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Olho d'Água do Casado,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Olho d'Água do Casado,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Olho d'Água do Casado,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Olho d'Água do Casado,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Olho d'Água do Casado,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Olho d'Água do Casado,27-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Olho d'Água do Casado,28-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Olho d'Água do Casado,29-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Olho d'Água do Casado,30-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Olho d'Água do Casado,31-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Olho d'Água do Casado,01-04-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
 Olho d'Água do Casado,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Olho d'Água do Casado,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Olho d'Água do Casado,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -382,3 +382,4 @@ Olho d'Água do Casado,10-04-2021,82,0,2,0,0.0,0.0,0.0,0.0
 Olho d'Água do Casado,11-04-2021,83,1,2,0,0.14285714285714285,0.0,1.0,0.0
 Olho d'Água do Casado,12-04-2021,83,0,2,0,0.14285714285714285,0.0,1.0,0.0
 Olho d'Água do Casado,13-04-2021,83,0,2,0,0.14285714285714285,0.0,1.0,0.0
+Olho d'Água do Casado,14-04-2021,83,0,2,0,0.14285714285714285,0.0,1.0,0.0

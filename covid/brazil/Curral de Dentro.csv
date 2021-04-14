@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Curral de Dentro,27-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Curral de Dentro,28-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Curral de Dentro,28-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Curral de Dentro,29-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Curral de Dentro,30-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Curral de Dentro,31-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Curral de Dentro,30-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Curral de Dentro,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Curral de Dentro,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Curral de Dentro,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Curral de Dentro,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -382,3 +382,4 @@ Curral de Dentro,10-04-2021,344,0,5,0,0.42857142857142855,0.14285714285714285,3.
 Curral de Dentro,11-04-2021,355,11,5,0,2.0,0.14285714285714285,14.0,1.0
 Curral de Dentro,12-04-2021,355,0,5,0,2.0,0.14285714285714285,14.0,1.0
 Curral de Dentro,13-04-2021,355,0,5,0,2.0,0.14285714285714285,14.0,1.0
+Curral de Dentro,14-04-2021,355,0,5,0,2.0,0.14285714285714285,14.0,1.0

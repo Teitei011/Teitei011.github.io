@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Trajano de Moraes,27-03-2020,0,0,0,0,11.714285714285714,0.7142857142857143,82.0,5.0
-Trajano de Moraes,28-03-2020,0,0,0,0,8.571428571428571,0.7142857142857143,60.0,5.0
-Trajano de Moraes,29-03-2020,0,0,0,0,3.5714285714285716,0.0,25.0,0.0
+Trajano de Moraes,27-03-2020,0,0,0,0,8.571428571428571,0.7142857142857143,60.0,5.0
+Trajano de Moraes,28-03-2020,0,0,0,0,3.5714285714285716,0.0,25.0,0.0
+Trajano de Moraes,29-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
 Trajano de Moraes,30-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
 Trajano de Moraes,31-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Trajano de Moraes,01-04-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Trajano de Moraes,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Trajano de Moraes,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Trajano de Moraes,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Trajano de Moraes,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -382,3 +382,4 @@ Trajano de Moraes,10-04-2021,330,0,2,0,4.285714285714286,0.0,30.0,0.0
 Trajano de Moraes,11-04-2021,330,0,2,0,4.142857142857143,0.0,29.0,0.0
 Trajano de Moraes,12-04-2021,330,0,2,0,4.142857142857143,0.0,29.0,0.0
 Trajano de Moraes,13-04-2021,337,7,2,0,5.142857142857143,0.0,36.0,0.0
+Trajano de Moraes,14-04-2021,337,0,2,0,4.571428571428571,0.0,32.0,0.0

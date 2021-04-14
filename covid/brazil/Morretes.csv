@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Morretes,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Morretes,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Morretes,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Morretes,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Morretes,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -382,3 +382,4 @@ Morretes,10-04-2021,1541,17,31,0,4.142857142857143,0.0,29.0,0.0
 Morretes,11-04-2021,1545,4,31,0,4.571428571428571,0.0,32.0,0.0
 Morretes,12-04-2021,1547,2,31,0,4.857142857142857,0.0,34.0,0.0
 Morretes,13-04-2021,1547,0,31,0,4.571428571428571,0.0,32.0,0.0
+Morretes,14-04-2021,1548,1,31,0,4.428571428571429,0.0,31.0,0.0

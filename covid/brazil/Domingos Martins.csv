@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Domingos Martins,27-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Domingos Martins,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Domingos Martins,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Domingos Martins,29-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Domingos Martins,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Domingos Martins,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Domingos Martins,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Domingos Martins,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -382,3 +382,4 @@ Domingos Martins,10-04-2021,2942,41,47,0,18.285714285714285,0.42857142857142855,
 Domingos Martins,11-04-2021,2947,5,49,2,19.0,0.7142857142857143,133.0,5.0
 Domingos Martins,12-04-2021,2942,-5,49,0,16.857142857142858,0.5714285714285714,118.0,4.0
 Domingos Martins,13-04-2021,2947,5,49,0,15.285714285714286,0.7142857142857143,107.0,5.0
+Domingos Martins,14-04-2021,2970,23,49,0,17.285714285714285,0.7142857142857143,121.0,5.0

@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Belém do Piauí,27-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Belém do Piauí,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Belém do Piauí,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Belém do Piauí,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Belém do Piauí,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -382,3 +382,4 @@ Belém do Piauí,10-04-2021,404,3,7,0,2.2857142857142856,0.0,16.0,0.0
 Belém do Piauí,11-04-2021,406,2,7,0,2.5714285714285716,0.0,18.0,0.0
 Belém do Piauí,12-04-2021,406,0,7,0,2.5714285714285716,0.0,18.0,0.0
 Belém do Piauí,13-04-2021,406,0,7,0,1.7142857142857142,0.0,12.0,0.0
+Belém do Piauí,14-04-2021,406,0,7,0,1.5714285714285714,0.0,11.0,0.0

@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Vertente do Lério,27-03-2020,0,0,0,0,1.7142857142857142,0.14285714285714285,12.0,1.0
+Vertente do Lério,27-03-2020,0,0,0,0,0.2857142857142857,0.14285714285714285,2.0,1.0
 Vertente do Lério,28-03-2020,0,0,0,0,0.2857142857142857,0.14285714285714285,2.0,1.0
 Vertente do Lério,29-03-2020,0,0,0,0,0.2857142857142857,0.14285714285714285,2.0,1.0
-Vertente do Lério,30-03-2020,0,0,0,0,0.2857142857142857,0.14285714285714285,2.0,1.0
+Vertente do Lério,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Vertente do Lério,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Vertente do Lério,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Vertente do Lério,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -382,3 +382,4 @@ Vertente do Lério,10-04-2021,181,0,2,0,1.4285714285714286,0.0,10.0,0.0
 Vertente do Lério,11-04-2021,182,1,2,0,1.1428571428571428,0.0,8.0,0.0
 Vertente do Lério,12-04-2021,188,6,2,0,2.0,0.0,14.0,0.0
 Vertente do Lério,13-04-2021,191,3,2,0,2.4285714285714284,0.0,17.0,0.0
+Vertente do Lério,14-04-2021,191,0,2,0,2.2857142857142856,0.0,16.0,0.0

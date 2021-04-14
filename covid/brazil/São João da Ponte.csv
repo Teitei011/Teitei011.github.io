@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São João da Ponte,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 São João da Ponte,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-São João da Ponte,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+São João da Ponte,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São João da Ponte,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São João da Ponte,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São João da Ponte,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -382,3 +382,4 @@ São João da Ponte,10-04-2021,452,2,14,0,4.428571428571429,0.0,31.0,0.0
 São João da Ponte,11-04-2021,452,0,14,0,4.428571428571429,0.0,31.0,0.0
 São João da Ponte,12-04-2021,452,0,14,0,4.428571428571429,0.0,31.0,0.0
 São João da Ponte,13-04-2021,452,0,14,0,3.5714285714285716,0.0,25.0,0.0
+São João da Ponte,14-04-2021,452,0,14,0,2.857142857142857,0.0,20.0,0.0

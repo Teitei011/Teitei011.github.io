@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Cajueiro da Praia,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Cajueiro da Praia,28-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Cajueiro da Praia,27-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Cajueiro da Praia,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Cajueiro da Praia,29-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Cajueiro da Praia,30-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Cajueiro da Praia,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Cajueiro da Praia,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Cajueiro da Praia,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Cajueiro da Praia,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cajueiro da Praia,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cajueiro da Praia,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cajueiro da Praia,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -382,3 +382,4 @@ Cajueiro da Praia,10-04-2021,464,1,12,0,0.14285714285714285,0.0,1.0,0.0
 Cajueiro da Praia,11-04-2021,464,0,12,0,0.14285714285714285,0.0,1.0,0.0
 Cajueiro da Praia,12-04-2021,464,0,13,1,0.14285714285714285,0.14285714285714285,1.0,1.0
 Cajueiro da Praia,13-04-2021,464,0,13,0,0.14285714285714285,0.14285714285714285,1.0,1.0
+Cajueiro da Praia,14-04-2021,464,0,13,0,0.14285714285714285,0.14285714285714285,1.0,1.0

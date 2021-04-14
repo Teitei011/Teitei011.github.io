@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São Domingos do Araguaia,27-03-2020,0,0,0,0,11.0,0.2857142857142857,77.0,2.0
-São Domingos do Araguaia,28-03-2020,0,0,0,0,11.0,0.14285714285714285,77.0,1.0
-São Domingos do Araguaia,29-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
+São Domingos do Araguaia,28-03-2020,0,0,0,0,0.0,0.2857142857142857,0.0,2.0
+São Domingos do Araguaia,29-03-2020,0,0,0,0,0.0,0.2857142857142857,0.0,2.0
 São Domingos do Araguaia,30-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
-São Domingos do Araguaia,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-São Domingos do Araguaia,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+São Domingos do Araguaia,31-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
+São Domingos do Araguaia,01-04-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
 São Domingos do Araguaia,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Domingos do Araguaia,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Domingos do Araguaia,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -382,3 +382,4 @@ São Domingos do Araguaia,10-04-2021,1743,10,27,0,9.857142857142858,0.1428571428
 São Domingos do Araguaia,11-04-2021,1758,15,27,0,10.285714285714286,0.14285714285714285,72.0,1.0
 São Domingos do Araguaia,12-04-2021,1758,0,27,0,10.285714285714286,0.14285714285714285,72.0,1.0
 São Domingos do Araguaia,13-04-2021,1763,5,28,1,8.428571428571429,0.2857142857142857,59.0,2.0
+São Domingos do Araguaia,14-04-2021,1769,6,28,0,8.285714285714286,0.2857142857142857,58.0,2.0

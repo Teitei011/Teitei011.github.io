@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Tucunduva,27-03-2020,0,0,0,0,5.285714285714286,0.0,37.0,0.0
-Tucunduva,28-03-2020,0,0,0,0,5.285714285714286,0.0,37.0,0.0
+Tucunduva,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Tucunduva,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Tucunduva,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Tucunduva,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -382,3 +382,4 @@ Tucunduva,10-04-2021,482,5,9,0,5.428571428571429,0.0,38.0,0.0
 Tucunduva,11-04-2021,482,0,9,0,5.428571428571429,0.0,38.0,0.0
 Tucunduva,12-04-2021,483,1,9,0,5.571428571428571,0.0,39.0,0.0
 Tucunduva,13-04-2021,491,8,9,0,5.142857142857143,0.0,36.0,0.0
+Tucunduva,14-04-2021,495,4,9,0,5.0,0.0,35.0,0.0

@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santa Mariana,27-03-2020,0,0,0,0,2.857142857142857,0.0,20.0,0.0
-Santa Mariana,28-03-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
+Santa Mariana,27-03-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
+Santa Mariana,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Mariana,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Mariana,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Mariana,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -382,3 +382,4 @@ Santa Mariana,10-04-2021,703,3,27,0,3.4285714285714284,0.0,24.0,0.0
 Santa Mariana,11-04-2021,707,4,27,0,4.0,0.0,28.0,0.0
 Santa Mariana,12-04-2021,708,1,27,0,3.5714285714285716,0.0,25.0,0.0
 Santa Mariana,13-04-2021,717,9,27,0,3.857142857142857,0.0,27.0,0.0
+Santa Mariana,14-04-2021,717,0,27,0,3.4285714285714284,0.0,24.0,0.0

@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Visconde do Rio Branco,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Visconde do Rio Branco,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Visconde do Rio Branco,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Visconde do Rio Branco,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Visconde do Rio Branco,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Visconde do Rio Branco,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Visconde do Rio Branco,28-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Visconde do Rio Branco,29-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Visconde do Rio Branco,30-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Visconde do Rio Branco,31-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Visconde do Rio Branco,01-04-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Visconde do Rio Branco,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Visconde do Rio Branco,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Visconde do Rio Branco,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -382,3 +382,4 @@ Visconde do Rio Branco,10-04-2021,2630,10,59,0,12.714285714285714,0.714285714285
 Visconde do Rio Branco,11-04-2021,2640,10,61,2,14.142857142857142,1.0,99.0,7.0
 Visconde do Rio Branco,12-04-2021,2640,0,61,0,14.142857142857142,1.0,99.0,7.0
 Visconde do Rio Branco,13-04-2021,2675,35,61,0,17.714285714285715,1.0,124.0,7.0
+Visconde do Rio Branco,14-04-2021,2702,27,65,4,19.142857142857142,1.4285714285714286,134.0,10.0
