@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Cruz do Espírito Santo,27-03-2020,0,0,0,0,9.285714285714286,0.0,65.0,0.0
-Cruz do Espírito Santo,28-03-2020,0,0,0,0,6.142857142857143,0.0,43.0,0.0
-Cruz do Espírito Santo,29-03-2020,0,0,0,0,3.857142857142857,0.0,27.0,0.0
-Cruz do Espírito Santo,30-03-2020,0,0,0,0,3.4285714285714284,0.0,24.0,0.0
-Cruz do Espírito Santo,31-03-2020,0,0,0,0,3.2857142857142856,0.0,23.0,0.0
-Cruz do Espírito Santo,01-04-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
+Cruz do Espírito Santo,27-03-2020,0,0,0,0,8.0,0.0,56.0,0.0
+Cruz do Espírito Santo,28-03-2020,0,0,0,0,5.714285714285714,0.0,40.0,0.0
+Cruz do Espírito Santo,29-03-2020,0,0,0,0,5.285714285714286,0.0,37.0,0.0
+Cruz do Espírito Santo,30-03-2020,0,0,0,0,5.142857142857143,0.0,36.0,0.0
+Cruz do Espírito Santo,31-03-2020,0,0,0,0,3.5714285714285716,0.0,25.0,0.0
+Cruz do Espírito Santo,01-04-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
 Cruz do Espírito Santo,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cruz do Espírito Santo,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cruz do Espírito Santo,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -383,3 +383,4 @@ Cruz do Espírito Santo,11-04-2021,855,1,23,0,2.7142857142857144,0.0,19.0,0.0
 Cruz do Espírito Santo,12-04-2021,858,3,24,1,2.142857142857143,0.14285714285714285,15.0,1.0
 Cruz do Espírito Santo,13-04-2021,863,5,24,0,2.7142857142857144,0.14285714285714285,19.0,1.0
 Cruz do Espírito Santo,14-04-2021,865,2,24,0,2.142857142857143,0.14285714285714285,15.0,1.0
+Cruz do Espírito Santo,15-04-2021,874,9,24,0,3.4285714285714284,0.14285714285714285,24.0,1.0

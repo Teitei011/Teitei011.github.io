@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Governador Lindenberg,27-03-2020,0,0,0,0,5.571428571428571,0.14285714285714285,39.0,1.0
+Governador Lindenberg,27-03-2020,0,0,0,0,5.285714285714286,0.0,37.0,0.0
 Governador Lindenberg,28-03-2020,0,0,0,0,4.714285714285714,0.0,33.0,0.0
-Governador Lindenberg,29-03-2020,0,0,0,0,4.142857142857143,0.0,29.0,0.0
-Governador Lindenberg,30-03-2020,0,0,0,0,4.142857142857143,0.0,29.0,0.0
-Governador Lindenberg,31-03-2020,0,0,0,0,3.4285714285714284,0.0,24.0,0.0
-Governador Lindenberg,01-04-2020,0,0,0,0,2.2857142857142856,0.0,16.0,0.0
+Governador Lindenberg,29-03-2020,0,0,0,0,4.714285714285714,0.0,33.0,0.0
+Governador Lindenberg,30-03-2020,0,0,0,0,4.0,0.0,28.0,0.0
+Governador Lindenberg,31-03-2020,0,0,0,0,2.857142857142857,0.0,20.0,0.0
+Governador Lindenberg,01-04-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Governador Lindenberg,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Lindenberg,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Lindenberg,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -383,3 +383,4 @@ Governador Lindenberg,11-04-2021,1410,0,16,0,6.0,0.0,42.0,0.0
 Governador Lindenberg,12-04-2021,1410,0,17,1,4.285714285714286,0.14285714285714285,30.0,1.0
 Governador Lindenberg,13-04-2021,1412,2,17,0,3.4285714285714284,0.14285714285714285,24.0,1.0
 Governador Lindenberg,14-04-2021,1416,4,18,1,2.7142857142857144,0.2857142857142857,19.0,2.0
+Governador Lindenberg,15-04-2021,1424,8,18,0,3.0,0.2857142857142857,21.0,2.0

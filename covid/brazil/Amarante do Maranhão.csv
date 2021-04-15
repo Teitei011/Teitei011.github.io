@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Amarante do Maranhão,27-03-2020,0,0,0,0,7.857142857142857,0.14285714285714285,55.0,1.0
-Amarante do Maranhão,28-03-2020,0,0,0,0,6.285714285714286,0.0,44.0,0.0
-Amarante do Maranhão,29-03-2020,0,0,0,0,4.142857142857143,0.0,29.0,0.0
-Amarante do Maranhão,30-03-2020,0,0,0,0,4.0,0.0,28.0,0.0
-Amarante do Maranhão,31-03-2020,0,0,0,0,3.857142857142857,0.0,27.0,0.0
+Amarante do Maranhão,27-03-2020,0,0,0,0,7.714285714285714,0.0,54.0,0.0
+Amarante do Maranhão,28-03-2020,0,0,0,0,5.571428571428571,0.0,39.0,0.0
+Amarante do Maranhão,29-03-2020,0,0,0,0,5.428571428571429,0.0,38.0,0.0
+Amarante do Maranhão,30-03-2020,0,0,0,0,5.285714285714286,0.0,37.0,0.0
+Amarante do Maranhão,31-03-2020,0,0,0,0,2.857142857142857,0.0,20.0,0.0
 Amarante do Maranhão,01-04-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
 Amarante do Maranhão,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Amarante do Maranhão,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -383,3 +383,4 @@ Amarante do Maranhão,11-04-2021,1325,5,46,0,5.285714285714286,0.428571428571428
 Amarante do Maranhão,12-04-2021,1342,17,47,1,7.428571428571429,0.5714285714285714,52.0,4.0
 Amarante do Maranhão,13-04-2021,1346,4,47,0,6.857142857142857,0.5714285714285714,48.0,4.0
 Amarante do Maranhão,14-04-2021,1357,11,48,1,7.428571428571429,0.7142857142857143,52.0,5.0
+Amarante do Maranhão,15-04-2021,1363,6,49,1,7.0,0.42857142857142855,49.0,3.0

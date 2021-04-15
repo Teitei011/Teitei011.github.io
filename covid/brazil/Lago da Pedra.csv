@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Lago da Pedra,27-03-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
 Lago da Pedra,28-03-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
-Lago da Pedra,29-03-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
+Lago da Pedra,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lago da Pedra,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lago da Pedra,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lago da Pedra,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -383,3 +383,4 @@ Lago da Pedra,11-04-2021,2094,10,58,0,7.857142857142857,0.0,55.0,0.0
 Lago da Pedra,12-04-2021,2094,0,58,0,7.857142857142857,0.0,55.0,0.0
 Lago da Pedra,13-04-2021,2098,4,58,0,7.0,0.0,49.0,0.0
 Lago da Pedra,14-04-2021,2106,8,58,0,7.285714285714286,0.0,51.0,0.0
+Lago da Pedra,15-04-2021,2112,6,58,0,8.142857142857142,0.0,57.0,0.0

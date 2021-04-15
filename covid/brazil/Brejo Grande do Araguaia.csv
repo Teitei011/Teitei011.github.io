@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Brejo Grande do Araguaia,27-03-2020,0,0,0,0,2.0,0.14285714285714285,14.0,1.0
+Brejo Grande do Araguaia,27-03-2020,0,0,0,0,0.8571428571428571,0.14285714285714285,6.0,1.0
 Brejo Grande do Araguaia,28-03-2020,0,0,0,0,0.8571428571428571,0.14285714285714285,6.0,1.0
 Brejo Grande do Araguaia,29-03-2020,0,0,0,0,0.8571428571428571,0.14285714285714285,6.0,1.0
-Brejo Grande do Araguaia,30-03-2020,0,0,0,0,0.8571428571428571,0.14285714285714285,6.0,1.0
+Brejo Grande do Araguaia,30-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
 Brejo Grande do Araguaia,31-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
-Brejo Grande do Araguaia,01-04-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
+Brejo Grande do Araguaia,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Brejo Grande do Araguaia,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Brejo Grande do Araguaia,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Brejo Grande do Araguaia,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -383,3 +383,4 @@ Brejo Grande do Araguaia,11-04-2021,726,0,4,0,0.5714285714285714,0.0,4.0,0.0
 Brejo Grande do Araguaia,12-04-2021,726,0,4,0,0.5714285714285714,0.0,4.0,0.0
 Brejo Grande do Araguaia,13-04-2021,726,0,4,0,0.5714285714285714,0.0,4.0,0.0
 Brejo Grande do Araguaia,14-04-2021,726,0,4,0,0.5714285714285714,0.0,4.0,0.0
+Brejo Grande do Araguaia,15-04-2021,726,0,4,0,0.5714285714285714,0.0,4.0,0.0

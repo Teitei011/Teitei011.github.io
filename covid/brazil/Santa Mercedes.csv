@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santa Mercedes,27-03-2020,0,0,0,0,3.2857142857142856,0.0,23.0,0.0
-Santa Mercedes,28-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
-Santa Mercedes,29-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
-Santa Mercedes,30-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
-Santa Mercedes,31-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Santa Mercedes,27-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
+Santa Mercedes,28-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
+Santa Mercedes,29-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
+Santa Mercedes,30-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Santa Mercedes,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Mercedes,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Mercedes,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Mercedes,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -383,3 +383,4 @@ Santa Mercedes,11-04-2021,100,1,3,0,1.0,0.0,7.0,0.0
 Santa Mercedes,12-04-2021,100,0,3,0,1.0,0.0,7.0,0.0
 Santa Mercedes,13-04-2021,104,4,3,0,1.7142857142857142,0.0,12.0,0.0
 Santa Mercedes,14-04-2021,105,1,3,0,1.0,0.0,7.0,0.0
+Santa Mercedes,15-04-2021,107,2,3,0,1.0,0.0,7.0,0.0

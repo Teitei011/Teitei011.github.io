@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santa Terezinha de Itaipu,27-03-2020,0,0,0,0,2.2857142857142856,0.14285714285714285,16.0,1.0
-Santa Terezinha de Itaipu,28-03-2020,0,0,0,0,0.2857142857142857,0.14285714285714285,2.0,1.0
-Santa Terezinha de Itaipu,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santa Terezinha de Itaipu,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santa Terezinha de Itaipu,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santa Terezinha de Itaipu,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Santa Terezinha de Itaipu,28-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
+Santa Terezinha de Itaipu,29-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
+Santa Terezinha de Itaipu,30-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
+Santa Terezinha de Itaipu,31-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
+Santa Terezinha de Itaipu,01-04-2020,0,0,0,0,2.0,0.0,14.0,0.0
 Santa Terezinha de Itaipu,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Terezinha de Itaipu,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Terezinha de Itaipu,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -383,3 +383,4 @@ Santa Terezinha de Itaipu,11-04-2021,2157,0,56,0,26.857142857142858,0.8571428571
 Santa Terezinha de Itaipu,12-04-2021,2157,0,56,0,26.714285714285715,0.8571428571428571,187.0,6.0
 Santa Terezinha de Itaipu,13-04-2021,2167,10,58,2,27.428571428571427,1.0,192.0,7.0
 Santa Terezinha de Itaipu,14-04-2021,2169,2,58,0,27.142857142857142,0.8571428571428571,190.0,6.0
+Santa Terezinha de Itaipu,15-04-2021,2184,15,59,1,19.428571428571427,0.5714285714285714,136.0,4.0

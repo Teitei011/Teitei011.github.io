@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Miguel Arcanjo,27-03-2020,0,0,0,0,12.571428571428571,0.0,88.0,0.0
+São Miguel Arcanjo,27-03-2020,0,0,0,0,9.428571428571429,0.0,66.0,0.0
 São Miguel Arcanjo,28-03-2020,0,0,0,0,9.428571428571429,0.0,66.0,0.0
-São Miguel Arcanjo,29-03-2020,0,0,0,0,9.428571428571429,0.0,66.0,0.0
+São Miguel Arcanjo,29-03-2020,0,0,0,0,6.285714285714286,0.0,44.0,0.0
 São Miguel Arcanjo,30-03-2020,0,0,0,0,6.285714285714286,0.0,44.0,0.0
-São Miguel Arcanjo,31-03-2020,0,0,0,0,6.285714285714286,0.0,44.0,0.0
-São Miguel Arcanjo,01-04-2020,0,0,0,0,4.571428571428571,0.0,32.0,0.0
+São Miguel Arcanjo,31-03-2020,0,0,0,0,4.571428571428571,0.0,32.0,0.0
+São Miguel Arcanjo,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel Arcanjo,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel Arcanjo,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel Arcanjo,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -383,3 +383,4 @@ São Miguel Arcanjo,11-04-2021,911,1,23,4,10.0,0.7142857142857143,70.0,5.0
 São Miguel Arcanjo,12-04-2021,912,1,23,0,10.142857142857142,0.7142857142857143,71.0,5.0
 São Miguel Arcanjo,13-04-2021,920,8,26,3,7.857142857142857,1.1428571428571428,55.0,8.0
 São Miguel Arcanjo,14-04-2021,933,13,26,0,9.0,1.1428571428571428,63.0,8.0
+São Miguel Arcanjo,15-04-2021,953,20,26,0,9.142857142857142,1.0,64.0,7.0

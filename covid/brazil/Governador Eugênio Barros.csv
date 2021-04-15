@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Governador Eugênio Barros,27-03-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
-Governador Eugênio Barros,28-03-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
+Governador Eugênio Barros,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Eugênio Barros,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Eugênio Barros,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Eugênio Barros,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -383,3 +383,4 @@ Governador Eugênio Barros,11-04-2021,533,0,8,0,6.571428571428571,0.142857142857
 Governador Eugênio Barros,12-04-2021,533,0,8,0,6.571428571428571,0.14285714285714285,46.0,1.0
 Governador Eugênio Barros,13-04-2021,533,0,8,0,5.142857142857143,0.0,36.0,0.0
 Governador Eugênio Barros,14-04-2021,533,0,8,0,0.14285714285714285,0.0,1.0,0.0
+Governador Eugênio Barros,15-04-2021,533,0,8,0,0.14285714285714285,0.0,1.0,0.0

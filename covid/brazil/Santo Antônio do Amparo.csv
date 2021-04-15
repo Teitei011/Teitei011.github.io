@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santo Antônio do Amparo,27-03-2020,0,0,0,0,16.428571428571427,2.0,115.0,14.0
-Santo Antônio do Amparo,28-03-2020,0,0,0,0,16.428571428571427,2.0,115.0,14.0
-Santo Antônio do Amparo,29-03-2020,0,0,0,0,10.285714285714286,1.2857142857142858,72.0,9.0
-Santo Antônio do Amparo,30-03-2020,0,0,0,0,8.142857142857142,0.5714285714285714,57.0,4.0
-Santo Antônio do Amparo,31-03-2020,0,0,0,0,3.4285714285714284,0.5714285714285714,24.0,4.0
-Santo Antônio do Amparo,01-04-2020,0,0,0,0,2.857142857142857,0.5714285714285714,20.0,4.0
+Santo Antônio do Amparo,27-03-2020,0,0,0,0,17.285714285714285,2.857142857142857,121.0,20.0
+Santo Antônio do Amparo,28-03-2020,0,0,0,0,11.142857142857142,2.142857142857143,78.0,15.0
+Santo Antônio do Amparo,29-03-2020,0,0,0,0,9.0,1.4285714285714286,63.0,10.0
+Santo Antônio do Amparo,30-03-2020,0,0,0,0,4.285714285714286,1.4285714285714286,30.0,10.0
+Santo Antônio do Amparo,31-03-2020,0,0,0,0,3.7142857142857144,1.4285714285714286,26.0,10.0
+Santo Antônio do Amparo,01-04-2020,0,0,0,0,0.8571428571428571,0.8571428571428571,6.0,6.0
 Santo Antônio do Amparo,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Amparo,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Amparo,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -383,3 +383,4 @@ Santo Antônio do Amparo,11-04-2021,619,0,13,0,11.0,0.0,77.0,0.0
 Santo Antônio do Amparo,12-04-2021,619,0,13,0,11.0,0.0,77.0,0.0
 Santo Antônio do Amparo,13-04-2021,628,9,13,0,10.285714285714286,0.0,72.0,0.0
 Santo Antônio do Amparo,14-04-2021,636,8,13,0,6.857142857142857,0.0,48.0,0.0
+Santo Antônio do Amparo,15-04-2021,643,7,13,0,6.714285714285714,0.0,47.0,0.0

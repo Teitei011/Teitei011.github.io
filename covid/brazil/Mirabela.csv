@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Mirabela,27-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Mirabela,28-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Mirabela,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Mirabela,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Mirabela,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Mirabela,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -383,3 +383,4 @@ Mirabela,11-04-2021,368,0,9,0,4.857142857142857,0.0,34.0,0.0
 Mirabela,12-04-2021,368,0,9,0,4.857142857142857,0.0,34.0,0.0
 Mirabela,13-04-2021,368,0,9,0,4.571428571428571,0.0,32.0,0.0
 Mirabela,14-04-2021,379,11,9,0,5.142857142857143,0.0,36.0,0.0
+Mirabela,15-04-2021,379,0,9,0,6.142857142857143,0.0,43.0,0.0

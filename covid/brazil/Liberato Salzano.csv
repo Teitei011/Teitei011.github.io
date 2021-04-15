@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Liberato Salzano,27-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
-Liberato Salzano,28-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
-Liberato Salzano,29-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Liberato Salzano,30-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Liberato Salzano,31-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Liberato Salzano,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Liberato Salzano,28-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Liberato Salzano,29-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Liberato Salzano,30-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Liberato Salzano,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Liberato Salzano,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Liberato Salzano,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Liberato Salzano,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Liberato Salzano,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -383,3 +383,4 @@ Liberato Salzano,11-04-2021,300,0,10,0,0.14285714285714285,0.0,1.0,0.0
 Liberato Salzano,12-04-2021,300,0,10,0,0.14285714285714285,0.0,1.0,0.0
 Liberato Salzano,13-04-2021,300,0,10,0,0.0,0.0,0.0,0.0
 Liberato Salzano,14-04-2021,300,0,10,0,0.0,0.0,0.0,0.0
+Liberato Salzano,15-04-2021,300,0,10,0,0.0,0.0,0.0,0.0

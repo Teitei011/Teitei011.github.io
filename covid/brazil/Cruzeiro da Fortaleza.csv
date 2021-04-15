@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Cruzeiro da Fortaleza,27-03-2020,0,0,0,0,23.0,0.0,161.0,0.0
-Cruzeiro da Fortaleza,28-03-2020,0,0,0,0,13.0,0.0,91.0,0.0
-Cruzeiro da Fortaleza,29-03-2020,0,0,0,0,7.428571428571429,0.0,52.0,0.0
-Cruzeiro da Fortaleza,30-03-2020,0,0,0,0,6.857142857142857,0.0,48.0,0.0
-Cruzeiro da Fortaleza,31-03-2020,0,0,0,0,6.714285714285714,0.0,47.0,0.0
-Cruzeiro da Fortaleza,01-04-2020,0,0,0,0,3.7142857142857144,0.0,26.0,0.0
+Cruzeiro da Fortaleza,27-03-2020,0,0,0,0,17.571428571428573,0.0,123.0,0.0
+Cruzeiro da Fortaleza,28-03-2020,0,0,0,0,12.0,0.0,84.0,0.0
+Cruzeiro da Fortaleza,29-03-2020,0,0,0,0,11.428571428571429,0.0,80.0,0.0
+Cruzeiro da Fortaleza,30-03-2020,0,0,0,0,11.285714285714286,0.0,79.0,0.0
+Cruzeiro da Fortaleza,31-03-2020,0,0,0,0,8.285714285714286,0.0,58.0,0.0
+Cruzeiro da Fortaleza,01-04-2020,0,0,0,0,4.571428571428571,0.0,32.0,0.0
 Cruzeiro da Fortaleza,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cruzeiro da Fortaleza,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cruzeiro da Fortaleza,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -383,3 +383,4 @@ Cruzeiro da Fortaleza,11-04-2021,187,0,6,0,0.0,0.0,0.0,0.0
 Cruzeiro da Fortaleza,12-04-2021,187,0,6,0,0.0,0.0,0.0,0.0
 Cruzeiro da Fortaleza,13-04-2021,188,1,6,0,0.14285714285714285,0.0,1.0,0.0
 Cruzeiro da Fortaleza,14-04-2021,188,0,6,0,0.14285714285714285,0.0,1.0,0.0
+Cruzeiro da Fortaleza,15-04-2021,188,0,6,0,0.14285714285714285,0.0,1.0,0.0

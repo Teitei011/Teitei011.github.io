@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Brasilândia de Minas,27-03-2020,0,0,0,0,6.714285714285714,0.0,47.0,0.0
-Brasilândia de Minas,28-03-2020,0,0,0,0,5.571428571428571,0.0,39.0,0.0
-Brasilândia de Minas,29-03-2020,0,0,0,0,5.285714285714286,0.0,37.0,0.0
-Brasilândia de Minas,30-03-2020,0,0,0,0,5.285714285714286,0.0,37.0,0.0
-Brasilândia de Minas,31-03-2020,0,0,0,0,5.285714285714286,0.0,37.0,0.0
-Brasilândia de Minas,01-04-2020,0,0,0,0,4.428571428571429,0.0,31.0,0.0
+Brasilândia de Minas,27-03-2020,0,0,0,0,10.285714285714286,0.0,72.0,0.0
+Brasilândia de Minas,28-03-2020,0,0,0,0,10.0,0.0,70.0,0.0
+Brasilândia de Minas,29-03-2020,0,0,0,0,10.0,0.0,70.0,0.0
+Brasilândia de Minas,30-03-2020,0,0,0,0,10.0,0.0,70.0,0.0
+Brasilândia de Minas,31-03-2020,0,0,0,0,9.142857142857142,0.0,64.0,0.0
+Brasilândia de Minas,01-04-2020,0,0,0,0,4.714285714285714,0.0,33.0,0.0
 Brasilândia de Minas,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Brasilândia de Minas,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Brasilândia de Minas,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -383,3 +383,4 @@ Brasilândia de Minas,11-04-2021,801,16,9,0,8.428571428571429,0.0,59.0,0.0
 Brasilândia de Minas,12-04-2021,801,0,9,0,7.714285714285714,0.0,54.0,0.0
 Brasilândia de Minas,13-04-2021,801,0,9,0,8.428571428571429,0.0,59.0,0.0
 Brasilândia de Minas,14-04-2021,813,12,9,0,8.714285714285714,0.0,61.0,0.0
+Brasilândia de Minas,15-04-2021,824,11,9,0,8.571428571428571,0.0,60.0,0.0

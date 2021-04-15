@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Curralinho,27-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
 Curralinho,28-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
-Curralinho,29-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Curralinho,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Curralinho,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Curralinho,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Curralinho,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -383,3 +383,4 @@ Curralinho,11-04-2021,551,0,27,0,0.0,0.0,0.0,0.0
 Curralinho,12-04-2021,551,0,27,0,0.0,0.0,0.0,0.0
 Curralinho,13-04-2021,551,0,27,0,0.0,0.0,0.0,0.0
 Curralinho,14-04-2021,551,0,27,0,0.0,0.0,0.0,0.0
+Curralinho,15-04-2021,551,0,27,0,0.0,0.0,0.0,0.0

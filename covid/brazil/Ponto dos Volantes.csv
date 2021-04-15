@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Ponto dos Volantes,27-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Ponto dos Volantes,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Ponto dos Volantes,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Ponto dos Volantes,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Ponto dos Volantes,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -383,3 +383,4 @@ Ponto dos Volantes,11-04-2021,266,1,11,0,1.7142857142857142,0.14285714285714285,
 Ponto dos Volantes,12-04-2021,266,0,11,0,1.7142857142857142,0.14285714285714285,12.0,1.0
 Ponto dos Volantes,13-04-2021,268,2,11,0,1.8571428571428572,0.14285714285714285,13.0,1.0
 Ponto dos Volantes,14-04-2021,269,1,11,0,2.0,0.14285714285714285,14.0,1.0
+Ponto dos Volantes,15-04-2021,269,0,11,0,2.0,0.0,14.0,0.0

@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Campos Novos,27-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Campos Novos,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campos Novos,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campos Novos,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campos Novos,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -383,3 +383,4 @@ Campos Novos,11-04-2021,3858,0,61,0,24.571428571428573,1.2857142857142858,172.0,
 Campos Novos,12-04-2021,3875,17,61,0,25.571428571428573,1.0,179.0,7.0
 Campos Novos,13-04-2021,3896,21,62,1,19.857142857142858,0.5714285714285714,139.0,4.0
 Campos Novos,14-04-2021,3929,33,62,0,21.142857142857142,0.5714285714285714,148.0,4.0
+Campos Novos,15-04-2021,3945,16,62,0,19.857142857142858,0.42857142857142855,139.0,3.0

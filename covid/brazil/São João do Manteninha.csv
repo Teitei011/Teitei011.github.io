@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São João do Manteninha,27-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
-São João do Manteninha,28-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+São João do Manteninha,27-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+São João do Manteninha,28-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 São João do Manteninha,29-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 São João do Manteninha,30-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 São João do Manteninha,31-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-São João do Manteninha,01-04-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+São João do Manteninha,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São João do Manteninha,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São João do Manteninha,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São João do Manteninha,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -383,3 +383,4 @@ São João do Manteninha,11-04-2021,566,10,5,0,8.142857142857142,0.0,57.0,0.0
 São João do Manteninha,12-04-2021,566,0,5,0,8.142857142857142,0.0,57.0,0.0
 São João do Manteninha,13-04-2021,566,0,6,1,8.142857142857142,0.14285714285714285,57.0,1.0
 São João do Manteninha,14-04-2021,574,8,6,0,4.428571428571429,0.14285714285714285,31.0,1.0
+São João do Manteninha,15-04-2021,574,0,6,0,4.0,0.14285714285714285,28.0,1.0

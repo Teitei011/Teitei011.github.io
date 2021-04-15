@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São João do Jaguaribe,27-03-2020,0,0,0,0,2.4285714285714284,0.14285714285714285,17.0,1.0
-São João do Jaguaribe,28-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
-São João do Jaguaribe,29-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-São João do Jaguaribe,30-03-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
-São João do Jaguaribe,31-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
-São João do Jaguaribe,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+São João do Jaguaribe,27-03-2020,0,0,0,0,2.857142857142857,0.0,20.0,0.0
+São João do Jaguaribe,28-03-2020,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
+São João do Jaguaribe,29-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
+São João do Jaguaribe,30-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+São João do Jaguaribe,31-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+São João do Jaguaribe,01-04-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
 São João do Jaguaribe,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São João do Jaguaribe,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São João do Jaguaribe,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -383,3 +383,4 @@ São João do Jaguaribe,11-04-2021,430,0,5,0,4.571428571428571,0.0,32.0,0.0
 São João do Jaguaribe,12-04-2021,438,8,5,0,5.714285714285714,0.0,40.0,0.0
 São João do Jaguaribe,13-04-2021,439,1,5,0,3.7142857142857144,0.0,26.0,0.0
 São João do Jaguaribe,14-04-2021,439,0,5,0,3.4285714285714284,0.0,24.0,0.0
+São João do Jaguaribe,15-04-2021,439,0,5,0,3.4285714285714284,0.0,24.0,0.0

@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Lindolfo Collor,27-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Lindolfo Collor,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lindolfo Collor,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lindolfo Collor,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lindolfo Collor,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -383,3 +383,4 @@ Lindolfo Collor,11-04-2021,685,0,11,0,8.714285714285714,0.42857142857142855,61.0
 Lindolfo Collor,12-04-2021,685,0,11,0,8.571428571428571,0.42857142857142855,60.0,3.0
 Lindolfo Collor,13-04-2021,691,6,11,0,3.0,0.2857142857142857,21.0,2.0
 Lindolfo Collor,14-04-2021,697,6,11,0,2.5714285714285716,0.2857142857142857,18.0,2.0
+Lindolfo Collor,15-04-2021,698,1,11,0,2.7142857142857144,0.0,19.0,0.0

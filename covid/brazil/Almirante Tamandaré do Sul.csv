@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Almirante Tamandaré do Sul,27-03-2020,0,0,0,0,21.0,1.5714285714285714,147.0,11.0
-Almirante Tamandaré do Sul,28-03-2020,0,0,0,0,19.714285714285715,1.1428571428571428,138.0,8.0
-Almirante Tamandaré do Sul,29-03-2020,0,0,0,0,15.571428571428571,0.7142857142857143,109.0,5.0
-Almirante Tamandaré do Sul,30-03-2020,0,0,0,0,14.857142857142858,0.7142857142857143,104.0,5.0
-Almirante Tamandaré do Sul,31-03-2020,0,0,0,0,13.571428571428571,0.2857142857142857,95.0,2.0
-Almirante Tamandaré do Sul,01-04-2020,0,0,0,0,4.0,0.14285714285714285,28.0,1.0
+Almirante Tamandaré do Sul,27-03-2020,0,0,0,0,23.142857142857142,1.4285714285714286,162.0,10.0
+Almirante Tamandaré do Sul,28-03-2020,0,0,0,0,19.0,1.0,133.0,7.0
+Almirante Tamandaré do Sul,29-03-2020,0,0,0,0,18.285714285714285,1.0,128.0,7.0
+Almirante Tamandaré do Sul,30-03-2020,0,0,0,0,17.0,0.5714285714285714,119.0,4.0
+Almirante Tamandaré do Sul,31-03-2020,0,0,0,0,7.428571428571429,0.42857142857142855,52.0,3.0
+Almirante Tamandaré do Sul,01-04-2020,0,0,0,0,3.4285714285714284,0.2857142857142857,24.0,2.0
 Almirante Tamandaré do Sul,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Almirante Tamandaré do Sul,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Almirante Tamandaré do Sul,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -383,3 +383,4 @@ Almirante Tamandaré do Sul,11-04-2021,163,0,1,0,2.7142857142857144,0.0,19.0,0.0
 Almirante Tamandaré do Sul,12-04-2021,162,-1,1,0,2.5714285714285716,0.0,18.0,0.0
 Almirante Tamandaré do Sul,13-04-2021,162,0,1,0,1.2857142857142858,0.0,9.0,0.0
 Almirante Tamandaré do Sul,14-04-2021,162,0,1,0,1.1428571428571428,0.0,8.0,0.0
+Almirante Tamandaré do Sul,15-04-2021,162,0,1,0,0.2857142857142857,0.0,2.0,0.0

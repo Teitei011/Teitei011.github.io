@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santana do Matos,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santana do Matos,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santana do Matos,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santana do Matos,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santana do Matos,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santana do Matos,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Santana do Matos,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santana do Matos,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santana do Matos,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santana do Matos,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santana do Matos,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santana do Matos,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Santana do Matos,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana do Matos,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana do Matos,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -383,3 +383,4 @@ Santana do Matos,11-04-2021,340,1,5,0,1.4285714285714286,0.0,10.0,0.0
 Santana do Matos,12-04-2021,340,0,5,0,1.4285714285714286,0.0,10.0,0.0
 Santana do Matos,13-04-2021,340,0,6,1,1.4285714285714286,0.14285714285714285,10.0,1.0
 Santana do Matos,14-04-2021,346,6,6,0,2.142857142857143,0.14285714285714285,15.0,1.0
+Santana do Matos,15-04-2021,346,0,6,0,2.142857142857143,0.14285714285714285,15.0,1.0
