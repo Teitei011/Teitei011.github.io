@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Espigão Alto do Iguaçu,27-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Espigão Alto do Iguaçu,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Espigão Alto do Iguaçu,28-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Espigão Alto do Iguaçu,29-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Espigão Alto do Iguaçu,30-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Espigão Alto do Iguaçu,31-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Espigão Alto do Iguaçu,01-04-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Espigão Alto do Iguaçu,31-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Espigão Alto do Iguaçu,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Espigão Alto do Iguaçu,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Espigão Alto do Iguaçu,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Espigão Alto do Iguaçu,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -384,3 +384,4 @@ Espigão Alto do Iguaçu,12-04-2021,239,0,4,0,2.2857142857142856,0.0,16.0,0.0
 Espigão Alto do Iguaçu,13-04-2021,240,1,4,0,2.4285714285714284,0.0,17.0,0.0
 Espigão Alto do Iguaçu,14-04-2021,243,3,4,0,0.7142857142857143,0.0,5.0,0.0
 Espigão Alto do Iguaçu,15-04-2021,244,1,4,0,0.7142857142857143,0.0,5.0,0.0
+Espigão Alto do Iguaçu,16-04-2021,247,3,4,0,1.1428571428571428,0.0,8.0,0.0

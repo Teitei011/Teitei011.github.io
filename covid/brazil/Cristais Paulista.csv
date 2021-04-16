@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Cristais Paulista,27-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
-Cristais Paulista,28-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
-Cristais Paulista,29-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
-Cristais Paulista,30-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
+Cristais Paulista,27-03-2020,0,0,0,0,0.0,0.2857142857142857,0.0,2.0
+Cristais Paulista,28-03-2020,0,0,0,0,0.0,0.2857142857142857,0.0,2.0
+Cristais Paulista,29-03-2020,0,0,0,0,0.0,0.2857142857142857,0.0,2.0
+Cristais Paulista,30-03-2020,0,0,0,0,0.0,0.2857142857142857,0.0,2.0
 Cristais Paulista,31-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
-Cristais Paulista,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Cristais Paulista,01-04-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
 Cristais Paulista,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cristais Paulista,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cristais Paulista,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -384,3 +384,4 @@ Cristais Paulista,12-04-2021,526,0,5,0,4.857142857142857,0.0,34.0,0.0
 Cristais Paulista,13-04-2021,534,8,5,0,3.2857142857142856,0.0,23.0,0.0
 Cristais Paulista,14-04-2021,536,2,5,0,2.5714285714285716,0.0,18.0,0.0
 Cristais Paulista,15-04-2021,543,7,5,0,2.857142857142857,0.0,20.0,0.0
+Cristais Paulista,16-04-2021,548,5,5,0,3.142857142857143,0.0,22.0,0.0

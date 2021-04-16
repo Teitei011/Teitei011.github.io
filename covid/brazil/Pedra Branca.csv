@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Pedra Branca,27-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
-Pedra Branca,28-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Pedra Branca,28-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
 Pedra Branca,29-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Pedra Branca,30-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Pedra Branca,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pedra Branca,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pedra Branca,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pedra Branca,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -384,3 +384,4 @@ Pedra Branca,12-04-2021,827,20,44,0,4.571428571428571,0.0,32.0,0.0
 Pedra Branca,13-04-2021,833,6,44,0,5.0,0.0,35.0,0.0
 Pedra Branca,14-04-2021,833,0,44,0,5.428571428571429,0.0,38.0,0.0
 Pedra Branca,15-04-2021,833,0,44,0,4.857142857142857,0.0,34.0,0.0
+Pedra Branca,16-04-2021,847,14,44,0,5.428571428571429,0.0,38.0,0.0

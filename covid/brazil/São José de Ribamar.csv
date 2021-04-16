@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São José de Ribamar,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+São José de Ribamar,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José de Ribamar,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José de Ribamar,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José de Ribamar,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -384,3 +384,4 @@ São José de Ribamar,12-04-2021,1908,1,193,1,4.285714285714286,0.42857142857142
 São José de Ribamar,13-04-2021,1911,3,200,7,4.428571428571429,1.4285714285714286,31.0,10.0
 São José de Ribamar,14-04-2021,1918,7,200,0,4.142857142857143,1.4285714285714286,29.0,10.0
 São José de Ribamar,15-04-2021,1921,3,209,9,4.428571428571429,2.5714285714285716,31.0,18.0
+São José de Ribamar,16-04-2021,1930,9,210,1,4.571428571428571,2.7142857142857144,32.0,19.0

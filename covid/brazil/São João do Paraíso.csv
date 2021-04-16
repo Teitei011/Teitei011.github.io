@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São João do Paraíso,27-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+São João do Paraíso,27-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
 São João do Paraíso,28-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
 São João do Paraíso,29-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
-São João do Paraíso,30-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+São João do Paraíso,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São João do Paraíso,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São João do Paraíso,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São João do Paraíso,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -384,3 +384,4 @@ São João do Paraíso,12-04-2021,1503,1,23,1,9.0,0.0,63.0,0.0
 São João do Paraíso,13-04-2021,1504,1,24,1,9.0,0.0,63.0,0.0
 São João do Paraíso,14-04-2021,1524,20,24,0,8.857142857142858,0.0,62.0,0.0
 São João do Paraíso,15-04-2021,1525,1,24,0,7.142857142857143,0.0,50.0,0.0
+São João do Paraíso,16-04-2021,1528,3,24,0,5.285714285714286,0.0,37.0,0.0

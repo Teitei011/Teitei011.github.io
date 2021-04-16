@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Doverlândia,27-03-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
+Doverlândia,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Doverlândia,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Doverlândia,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Doverlândia,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -384,3 +384,4 @@ Doverlândia,12-04-2021,377,0,6,0,1.7142857142857142,0.0,12.0,0.0
 Doverlândia,13-04-2021,379,2,7,1,1.5714285714285714,0.14285714285714285,11.0,1.0
 Doverlândia,14-04-2021,379,0,7,0,1.2857142857142858,0.14285714285714285,9.0,1.0
 Doverlândia,15-04-2021,381,2,7,0,1.5714285714285714,0.14285714285714285,11.0,1.0
+Doverlândia,16-04-2021,384,3,7,0,1.0,0.14285714285714285,7.0,1.0

@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Damianópolis,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Damianópolis,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Damianópolis,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Damianópolis,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Damianópolis,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -384,3 +384,4 @@ Damianópolis,12-04-2021,50,2,2,0,0.7142857142857143,0.0,5.0,0.0
 Damianópolis,13-04-2021,52,2,2,0,0.5714285714285714,0.0,4.0,0.0
 Damianópolis,14-04-2021,54,2,2,0,1.0,0.0,7.0,0.0
 Damianópolis,15-04-2021,55,1,2,0,1.1428571428571428,0.0,8.0,0.0
+Damianópolis,16-04-2021,55,0,2,0,1.0,0.0,7.0,0.0

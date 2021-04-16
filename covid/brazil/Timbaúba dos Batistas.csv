@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Timbaúba dos Batistas,27-03-2020,0,0,0,0,5.857142857142857,0.42857142857142855,41.0,3.0
-Timbaúba dos Batistas,28-03-2020,0,0,0,0,5.428571428571429,0.42857142857142855,38.0,3.0
-Timbaúba dos Batistas,29-03-2020,0,0,0,0,4.571428571428571,0.2857142857142857,32.0,2.0
-Timbaúba dos Batistas,30-03-2020,0,0,0,0,4.142857142857143,0.14285714285714285,29.0,1.0
-Timbaúba dos Batistas,31-03-2020,0,0,0,0,2.857142857142857,0.0,20.0,0.0
-Timbaúba dos Batistas,01-04-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Timbaúba dos Batistas,27-03-2020,0,0,0,0,8.857142857142858,0.42857142857142855,62.0,3.0
+Timbaúba dos Batistas,28-03-2020,0,0,0,0,8.0,0.2857142857142857,56.0,2.0
+Timbaúba dos Batistas,29-03-2020,0,0,0,0,7.571428571428571,0.14285714285714285,53.0,1.0
+Timbaúba dos Batistas,30-03-2020,0,0,0,0,6.285714285714286,0.0,44.0,0.0
+Timbaúba dos Batistas,31-03-2020,0,0,0,0,3.7142857142857144,0.0,26.0,0.0
+Timbaúba dos Batistas,01-04-2020,0,0,0,0,3.4285714285714284,0.0,24.0,0.0
 Timbaúba dos Batistas,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Timbaúba dos Batistas,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Timbaúba dos Batistas,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -384,3 +384,4 @@ Timbaúba dos Batistas,12-04-2021,187,0,0,0,5.142857142857143,0.0,36.0,0.0
 Timbaúba dos Batistas,13-04-2021,191,4,0,0,5.714285714285714,0.0,40.0,0.0
 Timbaúba dos Batistas,14-04-2021,202,11,0,0,5.857142857142857,0.0,41.0,0.0
 Timbaúba dos Batistas,15-04-2021,202,0,0,0,5.857142857142857,0.0,41.0,0.0
+Timbaúba dos Batistas,16-04-2021,212,10,0,0,5.0,0.0,35.0,0.0

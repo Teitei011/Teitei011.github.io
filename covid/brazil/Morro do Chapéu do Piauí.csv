@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Morro do Chapéu do Piauí,27-03-2020,0,0,0,0,7.857142857142857,0.14285714285714285,55.0,1.0
-Morro do Chapéu do Piauí,28-03-2020,0,0,0,0,6.571428571428571,0.0,46.0,0.0
-Morro do Chapéu do Piauí,29-03-2020,0,0,0,0,3.857142857142857,0.0,27.0,0.0
-Morro do Chapéu do Piauí,30-03-2020,0,0,0,0,3.5714285714285716,0.0,25.0,0.0
-Morro do Chapéu do Piauí,31-03-2020,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
-Morro do Chapéu do Piauí,01-04-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Morro do Chapéu do Piauí,27-03-2020,0,0,0,0,8.428571428571429,0.0,59.0,0.0
+Morro do Chapéu do Piauí,28-03-2020,0,0,0,0,5.714285714285714,0.0,40.0,0.0
+Morro do Chapéu do Piauí,29-03-2020,0,0,0,0,5.428571428571429,0.0,38.0,0.0
+Morro do Chapéu do Piauí,30-03-2020,0,0,0,0,4.428571428571429,0.0,31.0,0.0
+Morro do Chapéu do Piauí,31-03-2020,0,0,0,0,2.857142857142857,0.0,20.0,0.0
+Morro do Chapéu do Piauí,01-04-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
 Morro do Chapéu do Piauí,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Morro do Chapéu do Piauí,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Morro do Chapéu do Piauí,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -384,3 +384,4 @@ Morro do Chapéu do Piauí,12-04-2021,640,3,4,0,1.7142857142857142,0.0,12.0,0.0
 Morro do Chapéu do Piauí,13-04-2021,643,3,4,0,2.142857142857143,0.0,15.0,0.0
 Morro do Chapéu do Piauí,14-04-2021,650,7,4,0,3.0,0.0,21.0,0.0
 Morro do Chapéu do Piauí,15-04-2021,653,3,4,0,3.2857142857142856,0.0,23.0,0.0
+Morro do Chapéu do Piauí,16-04-2021,654,1,4,0,3.0,0.0,21.0,0.0

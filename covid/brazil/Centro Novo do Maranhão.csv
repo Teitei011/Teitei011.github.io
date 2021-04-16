@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Centro Novo do Maranhão,27-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
-Centro Novo do Maranhão,28-03-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
-Centro Novo do Maranhão,29-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Centro Novo do Maranhão,30-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Centro Novo do Maranhão,28-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Centro Novo do Maranhão,29-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Centro Novo do Maranhão,30-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
 Centro Novo do Maranhão,31-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
 Centro Novo do Maranhão,01-04-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Centro Novo do Maranhão,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -384,3 +384,4 @@ Centro Novo do Maranhão,12-04-2021,789,1,8,1,2.7142857142857144,0.1428571428571
 Centro Novo do Maranhão,13-04-2021,789,0,8,0,0.14285714285714285,0.14285714285714285,1.0,1.0
 Centro Novo do Maranhão,14-04-2021,789,0,8,0,0.14285714285714285,0.14285714285714285,1.0,1.0
 Centro Novo do Maranhão,15-04-2021,797,8,8,0,1.2857142857142858,0.14285714285714285,9.0,1.0
+Centro Novo do Maranhão,16-04-2021,797,0,8,0,1.2857142857142858,0.14285714285714285,9.0,1.0

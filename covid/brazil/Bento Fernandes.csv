@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Bento Fernandes,27-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Bento Fernandes,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Bento Fernandes,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Bento Fernandes,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Bento Fernandes,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Bento Fernandes,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bento Fernandes,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bento Fernandes,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bento Fernandes,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -384,3 +384,4 @@ Bento Fernandes,12-04-2021,81,0,2,0,1.2857142857142858,0.0,9.0,0.0
 Bento Fernandes,13-04-2021,81,0,2,0,1.2857142857142858,0.0,9.0,0.0
 Bento Fernandes,14-04-2021,81,0,2,0,1.2857142857142858,0.0,9.0,0.0
 Bento Fernandes,15-04-2021,81,0,2,0,1.2857142857142858,0.0,9.0,0.0
+Bento Fernandes,16-04-2021,81,0,2,0,1.2857142857142858,0.0,9.0,0.0

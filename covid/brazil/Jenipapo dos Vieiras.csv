@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Jenipapo dos Vieiras,27-03-2020,0,0,0,0,3.0,0.0,21.0,0.0
-Jenipapo dos Vieiras,28-03-2020,0,0,0,0,2.857142857142857,0.0,20.0,0.0
-Jenipapo dos Vieiras,29-03-2020,0,0,0,0,2.857142857142857,0.0,20.0,0.0
-Jenipapo dos Vieiras,30-03-2020,0,0,0,0,2.857142857142857,0.0,20.0,0.0
-Jenipapo dos Vieiras,31-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Jenipapo dos Vieiras,01-04-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Jenipapo dos Vieiras,27-03-2020,0,0,0,0,3.7142857142857144,0.0,26.0,0.0
+Jenipapo dos Vieiras,28-03-2020,0,0,0,0,3.7142857142857144,0.0,26.0,0.0
+Jenipapo dos Vieiras,29-03-2020,0,0,0,0,3.7142857142857144,0.0,26.0,0.0
+Jenipapo dos Vieiras,30-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
+Jenipapo dos Vieiras,31-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
+Jenipapo dos Vieiras,01-04-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
 Jenipapo dos Vieiras,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Jenipapo dos Vieiras,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Jenipapo dos Vieiras,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -384,3 +384,4 @@ Jenipapo dos Vieiras,12-04-2021,1003,1,16,1,0.42857142857142855,0.28571428571428
 Jenipapo dos Vieiras,13-04-2021,1011,8,16,0,1.4285714285714286,0.2857142857142857,10.0,2.0
 Jenipapo dos Vieiras,14-04-2021,1020,9,16,0,2.7142857142857144,0.2857142857142857,19.0,2.0
 Jenipapo dos Vieiras,15-04-2021,1020,0,16,0,2.7142857142857144,0.2857142857142857,19.0,2.0
+Jenipapo dos Vieiras,16-04-2021,1031,11,16,0,4.285714285714286,0.2857142857142857,30.0,2.0

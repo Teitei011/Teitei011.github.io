@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Logradouro,27-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Logradouro,28-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Logradouro,27-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Logradouro,28-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
 Logradouro,29-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-Logradouro,30-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Logradouro,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Logradouro,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Logradouro,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Logradouro,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -384,3 +384,4 @@ Logradouro,12-04-2021,291,0,9,0,0.7142857142857143,0.0,5.0,0.0
 Logradouro,13-04-2021,291,0,9,0,0.5714285714285714,0.0,4.0,0.0
 Logradouro,14-04-2021,295,4,9,0,1.0,0.0,7.0,0.0
 Logradouro,15-04-2021,295,0,9,0,1.0,0.0,7.0,0.0
+Logradouro,16-04-2021,295,0,9,0,0.5714285714285714,0.0,4.0,0.0

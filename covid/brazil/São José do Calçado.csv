@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São José do Calçado,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 São José do Calçado,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-São José do Calçado,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+São José do Calçado,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José do Calçado,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José do Calçado,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José do Calçado,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -384,3 +384,4 @@ São José do Calçado,12-04-2021,723,0,37,0,5.571428571428571,0.142857142857142
 São José do Calçado,13-04-2021,732,9,38,1,5.428571428571429,0.2857142857142857,38.0,2.0
 São José do Calçado,14-04-2021,736,4,39,1,5.857142857142857,0.42857142857142855,41.0,3.0
 São José do Calçado,15-04-2021,743,7,41,2,6.714285714285714,0.7142857142857143,47.0,5.0
+São José do Calçado,16-04-2021,748,5,41,0,6.714285714285714,0.7142857142857143,47.0,5.0

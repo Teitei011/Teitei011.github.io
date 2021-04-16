@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santo Antônio do Palma,27-03-2020,0,0,0,0,12.571428571428571,1.1428571428571428,88.0,8.0
-Santo Antônio do Palma,28-03-2020,0,0,0,0,12.571428571428571,1.1428571428571428,88.0,8.0
-Santo Antônio do Palma,29-03-2020,0,0,0,0,12.571428571428571,1.1428571428571428,88.0,8.0
-Santo Antônio do Palma,30-03-2020,0,0,0,0,12.571428571428571,1.1428571428571428,88.0,8.0
-Santo Antônio do Palma,31-03-2020,0,0,0,0,0.0,1.1428571428571428,0.0,8.0
-Santo Antônio do Palma,01-04-2020,0,0,0,0,0.0,1.1428571428571428,0.0,8.0
+Santo Antônio do Palma,27-03-2020,0,0,0,0,24.0,1.1428571428571428,168.0,8.0
+Santo Antônio do Palma,28-03-2020,0,0,0,0,24.0,1.1428571428571428,168.0,8.0
+Santo Antônio do Palma,29-03-2020,0,0,0,0,24.0,1.1428571428571428,168.0,8.0
+Santo Antônio do Palma,30-03-2020,0,0,0,0,11.428571428571429,1.1428571428571428,80.0,8.0
+Santo Antônio do Palma,31-03-2020,0,0,0,0,11.428571428571429,1.1428571428571428,80.0,8.0
+Santo Antônio do Palma,01-04-2020,0,0,0,0,11.428571428571429,0.0,80.0,0.0
 Santo Antônio do Palma,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Palma,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Palma,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -384,3 +384,4 @@ Santo Antônio do Palma,12-04-2021,117,0,2,0,0.2857142857142857,0.0,2.0,0.0
 Santo Antônio do Palma,13-04-2021,116,-1,2,0,-0.14285714285714285,0.0,-1.0,0.0
 Santo Antônio do Palma,14-04-2021,116,0,2,0,-0.14285714285714285,0.0,-1.0,0.0
 Santo Antônio do Palma,15-04-2021,116,0,2,0,-0.14285714285714285,0.0,-1.0,0.0
+Santo Antônio do Palma,16-04-2021,116,0,2,0,-0.14285714285714285,0.0,-1.0,0.0

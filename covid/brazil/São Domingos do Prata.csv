@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Domingos do Prata,27-03-2020,0,0,0,0,9.285714285714286,0.0,65.0,0.0
+São Domingos do Prata,27-03-2020,0,0,0,0,7.428571428571429,0.0,52.0,0.0
 São Domingos do Prata,28-03-2020,0,0,0,0,5.857142857142857,0.0,41.0,0.0
-São Domingos do Prata,29-03-2020,0,0,0,0,4.285714285714286,0.0,30.0,0.0
+São Domingos do Prata,29-03-2020,0,0,0,0,5.571428571428571,0.0,39.0,0.0
 São Domingos do Prata,30-03-2020,0,0,0,0,4.0,0.0,28.0,0.0
-São Domingos do Prata,31-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
-São Domingos do Prata,01-04-2020,0,0,0,0,2.2857142857142856,0.0,16.0,0.0
+São Domingos do Prata,31-03-2020,0,0,0,0,3.857142857142857,0.0,27.0,0.0
+São Domingos do Prata,01-04-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
 São Domingos do Prata,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Domingos do Prata,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Domingos do Prata,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -384,3 +384,4 @@ São Domingos do Prata,12-04-2021,540,6,9,0,7.142857142857143,0.1428571428571428
 São Domingos do Prata,13-04-2021,540,0,9,0,6.285714285714286,0.14285714285714285,44.0,1.0
 São Domingos do Prata,14-04-2021,548,8,11,2,7.428571428571429,0.2857142857142857,52.0,2.0
 São Domingos do Prata,15-04-2021,555,7,11,0,4.714285714285714,0.2857142857142857,33.0,2.0
+São Domingos do Prata,16-04-2021,562,7,11,0,4.571428571428571,0.2857142857142857,32.0,2.0

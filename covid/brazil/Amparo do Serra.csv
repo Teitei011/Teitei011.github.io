@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Amparo do Serra,27-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Amparo do Serra,28-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Amparo do Serra,28-03-2020,0,0,0,0,-0.14285714285714285,0.0,-1.0,0.0
 Amparo do Serra,29-03-2020,0,0,0,0,-0.14285714285714285,0.0,-1.0,0.0
 Amparo do Serra,30-03-2020,0,0,0,0,-0.14285714285714285,0.0,-1.0,0.0
-Amparo do Serra,31-03-2020,0,0,0,0,-0.14285714285714285,0.0,-1.0,0.0
+Amparo do Serra,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Amparo do Serra,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Amparo do Serra,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Amparo do Serra,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -384,3 +384,4 @@ Amparo do Serra,12-04-2021,98,0,3,0,0.0,0.0,0.0,0.0
 Amparo do Serra,13-04-2021,99,1,3,0,0.14285714285714285,0.0,1.0,0.0
 Amparo do Serra,14-04-2021,99,0,3,0,0.14285714285714285,0.0,1.0,0.0
 Amparo do Serra,15-04-2021,99,0,3,0,0.14285714285714285,0.0,1.0,0.0
+Amparo do Serra,16-04-2021,99,0,3,0,0.14285714285714285,0.0,1.0,0.0

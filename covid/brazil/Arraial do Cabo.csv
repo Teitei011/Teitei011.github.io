@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Arraial do Cabo,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Arraial do Cabo,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Arraial do Cabo,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Arraial do Cabo,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Arraial do Cabo,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Arraial do Cabo,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -384,3 +384,4 @@ Arraial do Cabo,12-04-2021,552,3,14,0,1.8571428571428572,0.14285714285714285,13.
 Arraial do Cabo,13-04-2021,552,0,14,0,1.8571428571428572,0.14285714285714285,13.0,1.0
 Arraial do Cabo,14-04-2021,553,1,14,0,1.5714285714285714,0.14285714285714285,11.0,1.0
 Arraial do Cabo,15-04-2021,555,2,15,1,1.8571428571428572,0.2857142857142857,13.0,2.0
+Arraial do Cabo,16-04-2021,561,6,15,0,2.2857142857142856,0.14285714285714285,16.0,1.0

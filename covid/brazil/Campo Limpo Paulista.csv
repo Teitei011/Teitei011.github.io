@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Campo Limpo Paulista,27-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Campo Limpo Paulista,28-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Campo Limpo Paulista,29-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
-Campo Limpo Paulista,30-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
+Campo Limpo Paulista,27-03-2020,0,0,0,0,2.857142857142857,0.0,20.0,0.0
+Campo Limpo Paulista,28-03-2020,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
+Campo Limpo Paulista,29-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
+Campo Limpo Paulista,30-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
 Campo Limpo Paulista,31-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
-Campo Limpo Paulista,01-04-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Campo Limpo Paulista,01-04-2020,0,0,0,0,1.0,0.0,7.0,0.0
 Campo Limpo Paulista,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campo Limpo Paulista,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campo Limpo Paulista,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -384,3 +384,4 @@ Campo Limpo Paulista,12-04-2021,3518,6,124,1,42.714285714285715,1.14285714285714
 Campo Limpo Paulista,13-04-2021,3573,55,126,2,39.42857142857143,1.1428571428571428,276.0,8.0
 Campo Limpo Paulista,14-04-2021,3595,22,127,1,37.42857142857143,0.7142857142857143,262.0,5.0
 Campo Limpo Paulista,15-04-2021,3601,6,127,0,34.42857142857143,0.5714285714285714,241.0,4.0
+Campo Limpo Paulista,16-04-2021,3624,23,127,0,26.571428571428573,0.5714285714285714,186.0,4.0

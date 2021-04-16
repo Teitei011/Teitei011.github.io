@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Comendador Levy Gasparian,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Comendador Levy Gasparian,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Comendador Levy Gasparian,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Comendador Levy Gasparian,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Comendador Levy Gasparian,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Comendador Levy Gasparian,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Comendador Levy Gasparian,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Comendador Levy Gasparian,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Comendador Levy Gasparian,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Comendador Levy Gasparian,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Comendador Levy Gasparian,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Comendador Levy Gasparian,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Comendador Levy Gasparian,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Comendador Levy Gasparian,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Comendador Levy Gasparian,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -384,3 +384,4 @@ Comendador Levy Gasparian,12-04-2021,514,0,5,0,15.285714285714286,0.0,107.0,0.0
 Comendador Levy Gasparian,13-04-2021,525,11,5,0,16.857142857142858,0.0,118.0,0.0
 Comendador Levy Gasparian,14-04-2021,527,2,5,0,11.714285714285714,0.0,82.0,0.0
 Comendador Levy Gasparian,15-04-2021,528,1,5,0,11.714285714285714,0.0,82.0,0.0
+Comendador Levy Gasparian,16-04-2021,529,1,5,0,7.714285714285714,0.0,54.0,0.0

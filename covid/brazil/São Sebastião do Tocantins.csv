@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Sebastião do Tocantins,27-03-2020,0,0,0,0,0.2857142857142857,0.14285714285714285,2.0,1.0
-São Sebastião do Tocantins,28-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
-São Sebastião do Tocantins,29-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
-São Sebastião do Tocantins,30-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
-São Sebastião do Tocantins,31-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
-São Sebastião do Tocantins,01-04-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
+São Sebastião do Tocantins,27-03-2020,0,0,0,0,0.5714285714285714,0.14285714285714285,4.0,1.0
+São Sebastião do Tocantins,28-03-2020,0,0,0,0,0.5714285714285714,0.14285714285714285,4.0,1.0
+São Sebastião do Tocantins,29-03-2020,0,0,0,0,0.5714285714285714,0.14285714285714285,4.0,1.0
+São Sebastião do Tocantins,30-03-2020,0,0,0,0,0.5714285714285714,0.14285714285714285,4.0,1.0
+São Sebastião do Tocantins,31-03-2020,0,0,0,0,0.5714285714285714,0.14285714285714285,4.0,1.0
+São Sebastião do Tocantins,01-04-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 São Sebastião do Tocantins,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Sebastião do Tocantins,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Sebastião do Tocantins,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -384,3 +384,4 @@ São Sebastião do Tocantins,12-04-2021,402,0,1,0,7.142857142857143,0.0,50.0,0.0
 São Sebastião do Tocantins,13-04-2021,403,1,1,0,7.142857142857143,0.0,50.0,0.0
 São Sebastião do Tocantins,14-04-2021,418,15,1,0,5.571428571428571,0.0,39.0,0.0
 São Sebastião do Tocantins,15-04-2021,443,25,1,0,5.857142857142857,0.0,41.0,0.0
+São Sebastião do Tocantins,16-04-2021,452,9,1,0,7.142857142857143,0.0,50.0,0.0
