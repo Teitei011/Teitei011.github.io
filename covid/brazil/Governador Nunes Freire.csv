@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Governador Nunes Freire,27-03-2020,0,0,0,0,-0.14285714285714285,0.0,-1.0,0.0
 Governador Nunes Freire,28-03-2020,0,0,0,0,-0.14285714285714285,0.0,-1.0,0.0
-Governador Nunes Freire,29-03-2020,0,0,0,0,-0.14285714285714285,0.0,-1.0,0.0
+Governador Nunes Freire,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Nunes Freire,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Nunes Freire,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Nunes Freire,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -385,3 +385,4 @@ Governador Nunes Freire,13-04-2021,741,0,8,0,0.0,0.0,0.0,0.0
 Governador Nunes Freire,14-04-2021,741,0,8,0,0.0,0.0,0.0,0.0
 Governador Nunes Freire,15-04-2021,741,0,8,0,0.0,0.0,0.0,0.0
 Governador Nunes Freire,16-04-2021,741,0,8,0,0.0,0.0,0.0,0.0
+Governador Nunes Freire,17-04-2021,741,0,8,0,0.0,0.0,0.0,0.0

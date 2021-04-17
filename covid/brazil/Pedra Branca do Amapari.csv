@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Pedra Branca do Amapari,27-03-2020,0,0,0,0,6.0,0.0,42.0,0.0
-Pedra Branca do Amapari,28-03-2020,0,0,0,0,5.714285714285714,0.0,40.0,0.0
-Pedra Branca do Amapari,29-03-2020,0,0,0,0,2.857142857142857,0.0,20.0,0.0
-Pedra Branca do Amapari,30-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
-Pedra Branca do Amapari,31-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
-Pedra Branca do Amapari,01-04-2020,0,0,0,0,2.0,0.0,14.0,0.0
+Pedra Branca do Amapari,27-03-2020,0,0,0,0,6.0,0.14285714285714285,42.0,1.0
+Pedra Branca do Amapari,28-03-2020,0,0,0,0,3.142857142857143,0.14285714285714285,22.0,1.0
+Pedra Branca do Amapari,29-03-2020,0,0,0,0,2.2857142857142856,0.14285714285714285,16.0,1.0
+Pedra Branca do Amapari,30-03-2020,0,0,0,0,2.2857142857142856,0.14285714285714285,16.0,1.0
+Pedra Branca do Amapari,31-03-2020,0,0,0,0,2.2857142857142856,0.14285714285714285,16.0,1.0
+Pedra Branca do Amapari,01-04-2020,0,0,0,0,0.2857142857142857,0.14285714285714285,2.0,1.0
 Pedra Branca do Amapari,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pedra Branca do Amapari,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pedra Branca do Amapari,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -385,3 +385,4 @@ Pedra Branca do Amapari,13-04-2021,3188,0,8,0,2.0,0.0,14.0,0.0
 Pedra Branca do Amapari,14-04-2021,3191,3,8,0,2.142857142857143,0.0,15.0,0.0
 Pedra Branca do Amapari,15-04-2021,3199,8,8,0,2.857142857142857,0.0,20.0,0.0
 Pedra Branca do Amapari,16-04-2021,3200,1,8,0,2.5714285714285716,0.0,18.0,0.0
+Pedra Branca do Amapari,17-04-2021,3200,0,8,0,2.2857142857142856,0.0,16.0,0.0

@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Alfredo Vasconcelos,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Alfredo Vasconcelos,27-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Alfredo Vasconcelos,28-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Alfredo Vasconcelos,29-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Alfredo Vasconcelos,30-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Alfredo Vasconcelos,30-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Alfredo Vasconcelos,31-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Alfredo Vasconcelos,01-04-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Alfredo Vasconcelos,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Alfredo Vasconcelos,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Alfredo Vasconcelos,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Alfredo Vasconcelos,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -385,3 +385,4 @@ Alfredo Vasconcelos,13-04-2021,231,8,6,0,3.7142857142857144,0.14285714285714285,
 Alfredo Vasconcelos,14-04-2021,233,2,6,0,3.7142857142857144,0.0,26.0,0.0
 Alfredo Vasconcelos,15-04-2021,235,2,6,0,2.857142857142857,0.0,20.0,0.0
 Alfredo Vasconcelos,16-04-2021,238,3,6,0,3.2857142857142856,0.0,23.0,0.0
+Alfredo Vasconcelos,17-04-2021,238,0,6,0,2.142857142857143,0.0,15.0,0.0

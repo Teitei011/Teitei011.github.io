@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Bela Vista de Goiás,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Bela Vista de Goiás,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Bela Vista de Goiás,29-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Bela Vista de Goiás,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Bela Vista de Goiás,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Bela Vista de Goiás,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Bela Vista de Goiás,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Bela Vista de Goiás,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bela Vista de Goiás,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bela Vista de Goiás,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bela Vista de Goiás,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -385,3 +385,4 @@ Bela Vista de Goiás,13-04-2021,1956,13,45,1,10.0,0.42857142857142855,70.0,3.0
 Bela Vista de Goiás,14-04-2021,1963,7,45,0,8.714285714285714,0.2857142857142857,61.0,2.0
 Bela Vista de Goiás,15-04-2021,1970,7,45,0,8.857142857142858,0.2857142857142857,62.0,2.0
 Bela Vista de Goiás,16-04-2021,1975,5,45,0,7.285714285714286,0.2857142857142857,51.0,2.0
+Bela Vista de Goiás,17-04-2021,1980,5,46,1,6.285714285714286,0.42857142857142855,44.0,3.0

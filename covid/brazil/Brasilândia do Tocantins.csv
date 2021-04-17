@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Brasilândia do Tocantins,27-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
 Brasilândia do Tocantins,28-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
-Brasilândia do Tocantins,29-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
-Brasilândia do Tocantins,30-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-Brasilândia do Tocantins,31-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Brasilândia do Tocantins,01-04-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Brasilândia do Tocantins,29-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Brasilândia do Tocantins,30-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Brasilândia do Tocantins,31-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Brasilândia do Tocantins,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Brasilândia do Tocantins,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Brasilândia do Tocantins,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Brasilândia do Tocantins,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -385,3 +385,4 @@ Brasilândia do Tocantins,13-04-2021,114,6,1,0,0.8571428571428571,0.0,6.0,0.0
 Brasilândia do Tocantins,14-04-2021,118,4,1,0,1.4285714285714286,0.0,10.0,0.0
 Brasilândia do Tocantins,15-04-2021,120,2,2,1,1.7142857142857142,0.14285714285714285,12.0,1.0
 Brasilândia do Tocantins,16-04-2021,121,1,2,0,1.8571428571428572,0.14285714285714285,13.0,1.0
+Brasilândia do Tocantins,17-04-2021,121,0,2,0,1.8571428571428572,0.14285714285714285,13.0,1.0

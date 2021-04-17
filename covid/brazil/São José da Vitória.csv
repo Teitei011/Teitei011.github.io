@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São José da Vitória,27-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
 São José da Vitória,28-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-São José da Vitória,29-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+São José da Vitória,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José da Vitória,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José da Vitória,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José da Vitória,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -385,3 +385,4 @@ São José da Vitória,13-04-2021,633,2,7,0,2.2857142857142856,0.0,16.0,0.0
 São José da Vitória,14-04-2021,634,1,7,0,2.4285714285714284,0.0,17.0,0.0
 São José da Vitória,15-04-2021,634,0,7,0,2.4285714285714284,0.0,17.0,0.0
 São José da Vitória,16-04-2021,635,1,7,0,2.5714285714285716,0.0,18.0,0.0
+São José da Vitória,17-04-2021,652,17,7,0,3.0,0.0,21.0,0.0

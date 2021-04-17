@@ -2,9 +2,9 @@ municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases
 Monte Alegre de Sergipe,27-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
 Monte Alegre de Sergipe,28-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
 Monte Alegre de Sergipe,29-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-Monte Alegre de Sergipe,30-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-Monte Alegre de Sergipe,31-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Monte Alegre de Sergipe,01-04-2020,0,0,0,0,0.2857142857142857,-0.14285714285714285,2.0,-1.0
+Monte Alegre de Sergipe,30-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Monte Alegre de Sergipe,31-03-2020,0,0,0,0,0.2857142857142857,-0.14285714285714285,2.0,-1.0
+Monte Alegre de Sergipe,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Monte Alegre de Sergipe,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Monte Alegre de Sergipe,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Monte Alegre de Sergipe,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -385,3 +385,4 @@ Monte Alegre de Sergipe,13-04-2021,513,0,9,0,4.428571428571429,0.0,31.0,0.0
 Monte Alegre de Sergipe,14-04-2021,521,8,9,0,5.571428571428571,0.0,39.0,0.0
 Monte Alegre de Sergipe,15-04-2021,521,0,9,0,5.285714285714286,0.0,37.0,0.0
 Monte Alegre de Sergipe,16-04-2021,525,4,9,0,2.4285714285714284,0.0,17.0,0.0
+Monte Alegre de Sergipe,17-04-2021,527,2,9,0,2.7142857142857144,0.0,19.0,0.0

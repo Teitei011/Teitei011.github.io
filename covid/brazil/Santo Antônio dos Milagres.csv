@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santo Antônio dos Milagres,27-03-2020,0,0,0,0,3.4285714285714284,0.0,24.0,0.0
-Santo Antônio dos Milagres,28-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
-Santo Antônio dos Milagres,29-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
-Santo Antônio dos Milagres,30-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-Santo Antônio dos Milagres,31-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Santo Antônio dos Milagres,01-04-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Santo Antônio dos Milagres,27-03-2020,0,0,0,0,3.142857142857143,0.0,22.0,0.0
+Santo Antônio dos Milagres,28-03-2020,0,0,0,0,2.2857142857142856,0.0,16.0,0.0
+Santo Antônio dos Milagres,29-03-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
+Santo Antônio dos Milagres,30-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
+Santo Antônio dos Milagres,31-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Santo Antônio dos Milagres,01-04-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
 Santo Antônio dos Milagres,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio dos Milagres,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio dos Milagres,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -385,3 +385,4 @@ Santo Antônio dos Milagres,13-04-2021,121,1,2,0,2.142857142857143,0.14285714285
 Santo Antônio dos Milagres,14-04-2021,121,0,2,0,2.0,0.14285714285714285,14.0,1.0
 Santo Antônio dos Milagres,15-04-2021,121,0,2,0,1.2857142857142858,0.14285714285714285,9.0,1.0
 Santo Antônio dos Milagres,16-04-2021,121,0,2,0,0.7142857142857143,0.0,5.0,0.0
+Santo Antônio dos Milagres,17-04-2021,121,0,2,0,0.7142857142857143,0.0,5.0,0.0

@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Cascalho Rico,27-03-2020,0,0,0,0,2.857142857142857,0.0,20.0,0.0
 Cascalho Rico,28-03-2020,0,0,0,0,2.857142857142857,0.0,20.0,0.0
-Cascalho Rico,29-03-2020,0,0,0,0,2.857142857142857,0.0,20.0,0.0
-Cascalho Rico,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Cascalho Rico,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Cascalho Rico,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cascalho Rico,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cascalho Rico,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cascalho Rico,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -385,3 +385,4 @@ Cascalho Rico,13-04-2021,58,0,3,0,0.14285714285714285,0.0,1.0,0.0
 Cascalho Rico,14-04-2021,60,2,3,0,0.42857142857142855,0.0,3.0,0.0
 Cascalho Rico,15-04-2021,62,2,3,0,0.5714285714285714,0.0,4.0,0.0
 Cascalho Rico,16-04-2021,62,0,3,0,0.5714285714285714,0.0,4.0,0.0
+Cascalho Rico,17-04-2021,62,0,3,0,0.5714285714285714,0.0,4.0,0.0

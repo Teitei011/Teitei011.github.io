@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Salvador do Tocantins,27-03-2020,0,0,0,0,8.142857142857142,0.0,57.0,0.0
-São Salvador do Tocantins,28-03-2020,0,0,0,0,7.857142857142857,0.0,55.0,0.0
-São Salvador do Tocantins,29-03-2020,0,0,0,0,7.0,0.0,49.0,0.0
-São Salvador do Tocantins,30-03-2020,0,0,0,0,4.285714285714286,0.0,30.0,0.0
-São Salvador do Tocantins,31-03-2020,0,0,0,0,3.7142857142857144,0.0,26.0,0.0
-São Salvador do Tocantins,01-04-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
+São Salvador do Tocantins,27-03-2020,0,0,0,0,7.857142857142857,0.0,55.0,0.0
+São Salvador do Tocantins,28-03-2020,0,0,0,0,7.0,0.0,49.0,0.0
+São Salvador do Tocantins,29-03-2020,0,0,0,0,4.285714285714286,0.0,30.0,0.0
+São Salvador do Tocantins,30-03-2020,0,0,0,0,3.7142857142857144,0.0,26.0,0.0
+São Salvador do Tocantins,31-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
+São Salvador do Tocantins,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Salvador do Tocantins,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Salvador do Tocantins,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Salvador do Tocantins,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -385,3 +385,4 @@ São Salvador do Tocantins,13-04-2021,136,1,1,0,0.14285714285714285,0.0,1.0,0.0
 São Salvador do Tocantins,14-04-2021,136,0,1,0,0.14285714285714285,0.0,1.0,0.0
 São Salvador do Tocantins,15-04-2021,136,0,1,0,0.14285714285714285,0.0,1.0,0.0
 São Salvador do Tocantins,16-04-2021,136,0,1,0,0.14285714285714285,0.0,1.0,0.0
+São Salvador do Tocantins,17-04-2021,137,1,1,0,0.2857142857142857,0.0,2.0,0.0

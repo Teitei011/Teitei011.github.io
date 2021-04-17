@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Francisco de Itabapoana,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+São Francisco de Itabapoana,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Francisco de Itabapoana,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Francisco de Itabapoana,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Francisco de Itabapoana,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -385,3 +385,4 @@ São Francisco de Itabapoana,13-04-2021,1257,17,58,0,10.142857142857142,0.428571
 São Francisco de Itabapoana,14-04-2021,1260,3,58,0,8.571428571428571,0.42857142857142855,60.0,3.0
 São Francisco de Itabapoana,15-04-2021,1260,0,58,0,5.714285714285714,0.42857142857142855,40.0,3.0
 São Francisco de Itabapoana,16-04-2021,1266,6,58,0,6.571428571428571,0.42857142857142855,46.0,3.0
+São Francisco de Itabapoana,17-04-2021,1266,0,58,0,4.428571428571429,0.14285714285714285,31.0,1.0

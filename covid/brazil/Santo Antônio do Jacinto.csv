@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santo Antônio do Jacinto,27-03-2020,0,0,0,0,1.5714285714285714,0.14285714285714285,11.0,1.0
 Santo Antônio do Jacinto,28-03-2020,0,0,0,0,1.5714285714285714,0.14285714285714285,11.0,1.0
-Santo Antônio do Jacinto,29-03-2020,0,0,0,0,1.5714285714285714,0.14285714285714285,11.0,1.0
+Santo Antônio do Jacinto,29-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
 Santo Antônio do Jacinto,30-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
-Santo Antônio do Jacinto,31-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
-Santo Antônio do Jacinto,01-04-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Santo Antônio do Jacinto,31-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Santo Antônio do Jacinto,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Jacinto,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Jacinto,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Jacinto,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -385,3 +385,4 @@ Santo Antônio do Jacinto,13-04-2021,659,0,15,0,0.0,0.0,0.0,0.0
 Santo Antônio do Jacinto,14-04-2021,659,0,15,0,0.0,0.0,0.0,0.0
 Santo Antônio do Jacinto,15-04-2021,659,0,15,0,0.0,0.0,0.0,0.0
 Santo Antônio do Jacinto,16-04-2021,659,0,15,0,0.0,0.0,0.0,0.0
+Santo Antônio do Jacinto,17-04-2021,659,0,15,0,0.0,0.0,0.0,0.0

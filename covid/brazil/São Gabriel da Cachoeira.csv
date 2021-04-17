@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Gabriel da Cachoeira,27-03-2020,0,0,0,0,50.285714285714285,2.0,352.0,14.0
-São Gabriel da Cachoeira,28-03-2020,0,0,0,0,36.285714285714285,1.8571428571428572,254.0,13.0
-São Gabriel da Cachoeira,29-03-2020,0,0,0,0,35.142857142857146,1.0,246.0,7.0
-São Gabriel da Cachoeira,30-03-2020,0,0,0,0,31.857142857142858,0.7142857142857143,223.0,5.0
-São Gabriel da Cachoeira,31-03-2020,0,0,0,0,20.0,0.5714285714285714,140.0,4.0
-São Gabriel da Cachoeira,01-04-2020,0,0,0,0,12.857142857142858,0.5714285714285714,90.0,4.0
+São Gabriel da Cachoeira,27-03-2020,0,0,0,0,40.285714285714285,1.8571428571428572,282.0,13.0
+São Gabriel da Cachoeira,28-03-2020,0,0,0,0,39.142857142857146,1.0,274.0,7.0
+São Gabriel da Cachoeira,29-03-2020,0,0,0,0,35.857142857142854,0.7142857142857143,251.0,5.0
+São Gabriel da Cachoeira,30-03-2020,0,0,0,0,24.0,0.5714285714285714,168.0,4.0
+São Gabriel da Cachoeira,31-03-2020,0,0,0,0,16.857142857142858,0.5714285714285714,118.0,4.0
+São Gabriel da Cachoeira,01-04-2020,0,0,0,0,4.0,0.0,28.0,0.0
 São Gabriel da Cachoeira,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Gabriel da Cachoeira,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Gabriel da Cachoeira,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -385,3 +385,4 @@ São Gabriel da Cachoeira,13-04-2021,8010,0,107,0,3.5714285714285716,0.285714285
 São Gabriel da Cachoeira,14-04-2021,8011,1,107,0,2.142857142857143,0.2857142857142857,15.0,2.0
 São Gabriel da Cachoeira,15-04-2021,8011,0,107,0,1.8571428571428572,0.2857142857142857,13.0,2.0
 São Gabriel da Cachoeira,16-04-2021,8012,1,107,0,1.0,0.0,7.0,0.0
+São Gabriel da Cachoeira,17-04-2021,8014,2,107,0,1.0,0.0,7.0,0.0

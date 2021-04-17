@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Raimundo Nonato,27-03-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
-São Raimundo Nonato,28-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
-São Raimundo Nonato,29-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
-São Raimundo Nonato,30-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-São Raimundo Nonato,31-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-São Raimundo Nonato,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+São Raimundo Nonato,27-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
+São Raimundo Nonato,28-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
+São Raimundo Nonato,29-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+São Raimundo Nonato,30-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+São Raimundo Nonato,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+São Raimundo Nonato,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 São Raimundo Nonato,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Raimundo Nonato,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Raimundo Nonato,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -385,3 +385,4 @@ São Raimundo Nonato,13-04-2021,2950,0,38,0,3.2857142857142856,0.142857142857142
 São Raimundo Nonato,14-04-2021,2964,14,38,0,3.4285714285714284,0.14285714285714285,24.0,1.0
 São Raimundo Nonato,15-04-2021,2974,10,38,0,4.142857142857143,0.14285714285714285,29.0,1.0
 São Raimundo Nonato,16-04-2021,2975,1,38,0,4.0,0.14285714285714285,28.0,1.0
+São Raimundo Nonato,17-04-2021,2981,6,38,0,4.714285714285714,0.14285714285714285,33.0,1.0

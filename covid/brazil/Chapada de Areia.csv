@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Chapada de Areia,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Chapada de Areia,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Chapada de Areia,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Chapada de Areia,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Chapada de Areia,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Chapada de Areia,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Chapada de Areia,27-03-2020,0,0,0,0,-0.14285714285714285,0.0,-1.0,0.0
+Chapada de Areia,28-03-2020,0,0,0,0,-0.14285714285714285,0.0,-1.0,0.0
+Chapada de Areia,29-03-2020,0,0,0,0,-0.14285714285714285,0.0,-1.0,0.0
+Chapada de Areia,30-03-2020,0,0,0,0,-0.14285714285714285,0.0,-1.0,0.0
+Chapada de Areia,31-03-2020,0,0,0,0,-0.14285714285714285,0.0,-1.0,0.0
+Chapada de Areia,01-04-2020,0,0,0,0,-0.14285714285714285,0.0,-1.0,0.0
 Chapada de Areia,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Chapada de Areia,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Chapada de Areia,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -385,3 +385,4 @@ Chapada de Areia,13-04-2021,106,0,3,0,0.14285714285714285,0.14285714285714285,1.
 Chapada de Areia,14-04-2021,106,0,3,0,0.14285714285714285,0.14285714285714285,1.0,1.0
 Chapada de Areia,15-04-2021,106,0,3,0,0.0,0.14285714285714285,0.0,1.0
 Chapada de Areia,16-04-2021,106,0,3,0,0.0,0.14285714285714285,0.0,1.0
+Chapada de Areia,17-04-2021,106,0,3,0,0.0,0.14285714285714285,0.0,1.0

@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Serrinha dos Pintos,27-03-2020,0,0,0,0,26.0,1.0,182.0,7.0
-Serrinha dos Pintos,28-03-2020,0,0,0,0,23.571428571428573,1.0,165.0,7.0
-Serrinha dos Pintos,29-03-2020,0,0,0,0,21.571428571428573,1.0,151.0,7.0
-Serrinha dos Pintos,30-03-2020,0,0,0,0,15.714285714285714,1.0,110.0,7.0
-Serrinha dos Pintos,31-03-2020,0,0,0,0,7.285714285714286,0.5714285714285714,51.0,4.0
-Serrinha dos Pintos,01-04-2020,0,0,0,0,3.2857142857142856,0.5714285714285714,23.0,4.0
+Serrinha dos Pintos,27-03-2020,0,0,0,0,27.857142857142858,1.0,195.0,7.0
+Serrinha dos Pintos,28-03-2020,0,0,0,0,25.857142857142858,1.0,181.0,7.0
+Serrinha dos Pintos,29-03-2020,0,0,0,0,20.0,1.0,140.0,7.0
+Serrinha dos Pintos,30-03-2020,0,0,0,0,11.571428571428571,0.5714285714285714,81.0,4.0
+Serrinha dos Pintos,31-03-2020,0,0,0,0,7.571428571428571,0.5714285714285714,53.0,4.0
+Serrinha dos Pintos,01-04-2020,0,0,0,0,4.285714285714286,0.0,30.0,0.0
 Serrinha dos Pintos,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Serrinha dos Pintos,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Serrinha dos Pintos,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -385,3 +385,4 @@ Serrinha dos Pintos,13-04-2021,403,1,2,0,5.857142857142857,0.0,41.0,0.0
 Serrinha dos Pintos,14-04-2021,404,1,2,0,2.5714285714285716,0.0,18.0,0.0
 Serrinha dos Pintos,15-04-2021,406,2,2,0,1.1428571428571428,0.0,8.0,0.0
 Serrinha dos Pintos,16-04-2021,407,1,2,0,1.2857142857142858,0.0,9.0,0.0
+Serrinha dos Pintos,17-04-2021,407,0,2,0,0.7142857142857143,0.0,5.0,0.0
