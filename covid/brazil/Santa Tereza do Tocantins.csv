@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santa Tereza do Tocantins,27-03-2020,0,0,0,0,0.7142857142857143,0.14285714285714285,5.0,1.0
-Santa Tereza do Tocantins,28-03-2020,0,0,0,0,0.7142857142857143,0.14285714285714285,5.0,1.0
+Santa Tereza do Tocantins,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Tereza do Tocantins,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Tereza do Tocantins,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Tereza do Tocantins,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -386,3 +386,4 @@ Santa Tereza do Tocantins,14-04-2021,212,4,4,0,0.8571428571428571,0.0,6.0,0.0
 Santa Tereza do Tocantins,15-04-2021,212,0,4,0,0.8571428571428571,0.0,6.0,0.0
 Santa Tereza do Tocantins,16-04-2021,212,0,4,0,0.8571428571428571,0.0,6.0,0.0
 Santa Tereza do Tocantins,17-04-2021,212,0,4,0,0.5714285714285714,0.0,4.0,0.0
+Santa Tereza do Tocantins,18-04-2021,212,0,4,0,0.5714285714285714,0.0,4.0,0.0

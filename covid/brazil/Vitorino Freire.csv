@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Vitorino Freire,27-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Vitorino Freire,28-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Vitorino Freire,29-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Vitorino Freire,28-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Vitorino Freire,29-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
 Vitorino Freire,30-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-Vitorino Freire,31-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-Vitorino Freire,01-04-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Vitorino Freire,31-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Vitorino Freire,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Vitorino Freire,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Vitorino Freire,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Vitorino Freire,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -386,3 +386,4 @@ Vitorino Freire,14-04-2021,1997,0,47,0,6.571428571428571,0.2857142857142857,46.0
 Vitorino Freire,15-04-2021,2002,5,49,2,7.0,0.5714285714285714,49.0,4.0
 Vitorino Freire,16-04-2021,2003,1,50,1,6.0,0.42857142857142855,42.0,3.0
 Vitorino Freire,17-04-2021,2022,19,50,0,8.714285714285714,0.42857142857142855,61.0,3.0
+Vitorino Freire,18-04-2021,2022,0,50,0,4.571428571428571,0.42857142857142855,32.0,3.0

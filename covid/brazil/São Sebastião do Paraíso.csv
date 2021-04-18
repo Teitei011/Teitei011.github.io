@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São Sebastião do Paraíso,27-03-2020,0,0,0,0,3.142857142857143,0.0,22.0,0.0
-São Sebastião do Paraíso,28-03-2020,0,0,0,0,3.142857142857143,0.0,22.0,0.0
+São Sebastião do Paraíso,28-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
 São Sebastião do Paraíso,29-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
 São Sebastião do Paraíso,30-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
 São Sebastião do Paraíso,31-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
-São Sebastião do Paraíso,01-04-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
+São Sebastião do Paraíso,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Sebastião do Paraíso,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Sebastião do Paraíso,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Sebastião do Paraíso,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -386,3 +386,4 @@ São Sebastião do Paraíso,14-04-2021,3502,33,133,2,16.857142857142858,1.0,118.
 São Sebastião do Paraíso,15-04-2021,3530,28,133,0,20.285714285714285,0.8571428571428571,142.0,6.0
 São Sebastião do Paraíso,16-04-2021,3544,14,133,0,21.142857142857142,0.8571428571428571,148.0,6.0
 São Sebastião do Paraíso,17-04-2021,3555,11,138,5,17.714285714285715,1.1428571428571428,124.0,8.0
+São Sebastião do Paraíso,18-04-2021,3583,28,138,0,21.714285714285715,1.0,152.0,7.0

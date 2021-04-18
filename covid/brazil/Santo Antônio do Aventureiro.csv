@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santo Antônio do Aventureiro,27-03-2020,0,0,0,0,4.142857142857143,0.14285714285714285,29.0,1.0
-Santo Antônio do Aventureiro,28-03-2020,0,0,0,0,4.142857142857143,0.14285714285714285,29.0,1.0
-Santo Antônio do Aventureiro,29-03-2020,0,0,0,0,3.2857142857142856,0.0,23.0,0.0
-Santo Antônio do Aventureiro,30-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
-Santo Antônio do Aventureiro,31-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
-Santo Antônio do Aventureiro,01-04-2020,0,0,0,0,-0.14285714285714285,0.0,-1.0,0.0
+Santo Antônio do Aventureiro,27-03-2020,0,0,0,0,4.285714285714286,0.14285714285714285,30.0,1.0
+Santo Antônio do Aventureiro,28-03-2020,0,0,0,0,3.4285714285714284,0.0,24.0,0.0
+Santo Antônio do Aventureiro,29-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Santo Antônio do Aventureiro,30-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Santo Antônio do Aventureiro,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Santo Antônio do Aventureiro,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Santo Antônio do Aventureiro,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Aventureiro,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio do Aventureiro,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -386,3 +386,4 @@ Santo Antônio do Aventureiro,14-04-2021,223,0,14,0,0.8571428571428571,0.1428571
 Santo Antônio do Aventureiro,15-04-2021,226,3,14,0,1.2857142857142858,0.14285714285714285,9.0,1.0
 Santo Antônio do Aventureiro,16-04-2021,228,2,15,1,1.2857142857142858,0.2857142857142857,9.0,2.0
 Santo Antônio do Aventureiro,17-04-2021,228,0,15,0,1.2857142857142858,0.14285714285714285,9.0,1.0
+Santo Antônio do Aventureiro,18-04-2021,230,2,15,0,1.5714285714285714,0.14285714285714285,11.0,1.0

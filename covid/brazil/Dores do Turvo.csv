@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Dores do Turvo,27-03-2020,0,0,0,0,0.42857142857142855,0.14285714285714285,3.0,1.0
 Dores do Turvo,28-03-2020,0,0,0,0,0.42857142857142855,0.14285714285714285,3.0,1.0
-Dores do Turvo,29-03-2020,0,0,0,0,0.42857142857142855,0.14285714285714285,3.0,1.0
+Dores do Turvo,29-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
 Dores do Turvo,30-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
-Dores do Turvo,31-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
+Dores do Turvo,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Dores do Turvo,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Dores do Turvo,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Dores do Turvo,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -386,3 +386,4 @@ Dores do Turvo,14-04-2021,146,0,5,0,0.0,0.0,0.0,0.0
 Dores do Turvo,15-04-2021,146,0,5,0,0.0,0.0,0.0,0.0
 Dores do Turvo,16-04-2021,146,0,5,0,0.0,0.0,0.0,0.0
 Dores do Turvo,17-04-2021,146,0,5,0,0.0,0.0,0.0,0.0
+Dores do Turvo,18-04-2021,146,0,5,0,0.0,0.0,0.0,0.0

@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São Miguel dos Campos,27-03-2020,0,0,0,0,1.1428571428571428,0.14285714285714285,8.0,1.0
-São Miguel dos Campos,28-03-2020,0,0,0,0,1.1428571428571428,0.14285714285714285,8.0,1.0
-São Miguel dos Campos,29-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-São Miguel dos Campos,30-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+São Miguel dos Campos,28-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+São Miguel dos Campos,29-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+São Miguel dos Campos,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel dos Campos,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel dos Campos,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel dos Campos,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -386,3 +386,4 @@ São Miguel dos Campos,14-04-2021,2999,16,65,0,21.857142857142858,0.428571428571
 São Miguel dos Campos,15-04-2021,3014,15,65,0,22.428571428571427,0.42857142857142855,157.0,3.0
 São Miguel dos Campos,16-04-2021,3030,16,65,0,24.0,0.42857142857142855,168.0,3.0
 São Miguel dos Campos,17-04-2021,3044,14,65,0,25.0,0.14285714285714285,175.0,1.0
+São Miguel dos Campos,18-04-2021,3059,15,65,0,19.714285714285715,0.0,138.0,0.0

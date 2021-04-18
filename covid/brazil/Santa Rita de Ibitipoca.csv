@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santa Rita de Ibitipoca,27-03-2020,0,0,0,0,7.428571428571429,0.2857142857142857,52.0,2.0
-Santa Rita de Ibitipoca,28-03-2020,0,0,0,0,5.571428571428571,0.2857142857142857,39.0,2.0
-Santa Rita de Ibitipoca,29-03-2020,0,0,0,0,4.714285714285714,0.14285714285714285,33.0,1.0
-Santa Rita de Ibitipoca,30-03-2020,0,0,0,0,4.142857142857143,0.14285714285714285,29.0,1.0
-Santa Rita de Ibitipoca,31-03-2020,0,0,0,0,3.857142857142857,0.0,27.0,0.0
-Santa Rita de Ibitipoca,01-04-2020,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
+Santa Rita de Ibitipoca,27-03-2020,0,0,0,0,6.714285714285714,0.2857142857142857,47.0,2.0
+Santa Rita de Ibitipoca,28-03-2020,0,0,0,0,5.857142857142857,0.14285714285714285,41.0,1.0
+Santa Rita de Ibitipoca,29-03-2020,0,0,0,0,5.285714285714286,0.14285714285714285,37.0,1.0
+Santa Rita de Ibitipoca,30-03-2020,0,0,0,0,5.0,0.0,35.0,0.0
+Santa Rita de Ibitipoca,31-03-2020,0,0,0,0,3.7142857142857144,0.0,26.0,0.0
+Santa Rita de Ibitipoca,01-04-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
 Santa Rita de Ibitipoca,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Rita de Ibitipoca,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Rita de Ibitipoca,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -386,3 +386,4 @@ Santa Rita de Ibitipoca,14-04-2021,25,0,1,0,0.0,0.0,0.0,0.0
 Santa Rita de Ibitipoca,15-04-2021,25,0,1,0,0.0,0.0,0.0,0.0
 Santa Rita de Ibitipoca,16-04-2021,25,0,1,0,0.0,0.0,0.0,0.0
 Santa Rita de Ibitipoca,17-04-2021,25,0,1,0,0.0,0.0,0.0,0.0
+Santa Rita de Ibitipoca,18-04-2021,26,1,1,0,0.14285714285714285,0.0,1.0,0.0

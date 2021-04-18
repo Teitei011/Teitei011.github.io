@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Rochedo de Minas,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Rochedo de Minas,28-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Rochedo de Minas,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Rochedo de Minas,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Rochedo de Minas,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Rochedo de Minas,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -386,3 +386,4 @@ Rochedo de Minas,14-04-2021,204,0,4,0,0.2857142857142857,0.0,2.0,0.0
 Rochedo de Minas,15-04-2021,204,0,4,0,0.2857142857142857,0.0,2.0,0.0
 Rochedo de Minas,16-04-2021,204,0,4,0,0.2857142857142857,0.0,2.0,0.0
 Rochedo de Minas,17-04-2021,204,0,4,0,0.0,0.0,0.0,0.0
+Rochedo de Minas,18-04-2021,204,0,4,0,0.0,0.0,0.0,0.0

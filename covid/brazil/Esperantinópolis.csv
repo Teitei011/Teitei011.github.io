@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Esperantinópolis,27-03-2020,0,0,0,0,15.0,0.42857142857142855,105.0,3.0
-Esperantinópolis,28-03-2020,0,0,0,0,14.857142857142858,0.14285714285714285,104.0,1.0
-Esperantinópolis,29-03-2020,0,0,0,0,10.857142857142858,0.0,76.0,0.0
-Esperantinópolis,30-03-2020,0,0,0,0,8.142857142857142,0.0,57.0,0.0
-Esperantinópolis,31-03-2020,0,0,0,0,7.0,0.0,49.0,0.0
-Esperantinópolis,01-04-2020,0,0,0,0,4.142857142857143,0.0,29.0,0.0
+Esperantinópolis,27-03-2020,0,0,0,0,14.857142857142858,0.14285714285714285,104.0,1.0
+Esperantinópolis,28-03-2020,0,0,0,0,10.857142857142858,0.0,76.0,0.0
+Esperantinópolis,29-03-2020,0,0,0,0,8.142857142857142,0.0,57.0,0.0
+Esperantinópolis,30-03-2020,0,0,0,0,7.0,0.0,49.0,0.0
+Esperantinópolis,31-03-2020,0,0,0,0,4.142857142857143,0.0,29.0,0.0
+Esperantinópolis,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Esperantinópolis,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Esperantinópolis,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Esperantinópolis,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -386,3 +386,4 @@ Esperantinópolis,14-04-2021,736,2,18,0,2.5714285714285716,0.0,18.0,0.0
 Esperantinópolis,15-04-2021,739,3,18,0,3.0,0.0,21.0,0.0
 Esperantinópolis,16-04-2021,739,0,18,0,3.0,0.0,21.0,0.0
 Esperantinópolis,17-04-2021,739,0,18,0,3.0,0.0,21.0,0.0
+Esperantinópolis,18-04-2021,742,3,18,0,3.4285714285714284,0.0,24.0,0.0

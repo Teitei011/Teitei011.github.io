@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santa Rosa do Sul,27-03-2020,0,0,0,0,9.857142857142858,0.0,69.0,0.0
 Santa Rosa do Sul,28-03-2020,0,0,0,0,9.857142857142858,0.0,69.0,0.0
-Santa Rosa do Sul,29-03-2020,0,0,0,0,9.857142857142858,0.0,69.0,0.0
+Santa Rosa do Sul,29-03-2020,0,0,0,0,8.714285714285714,0.0,61.0,0.0
 Santa Rosa do Sul,30-03-2020,0,0,0,0,8.714285714285714,0.0,61.0,0.0
-Santa Rosa do Sul,31-03-2020,0,0,0,0,8.714285714285714,0.0,61.0,0.0
-Santa Rosa do Sul,01-04-2020,0,0,0,0,4.142857142857143,0.0,29.0,0.0
+Santa Rosa do Sul,31-03-2020,0,0,0,0,4.142857142857143,0.0,29.0,0.0
+Santa Rosa do Sul,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Rosa do Sul,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Rosa do Sul,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Rosa do Sul,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -386,3 +386,4 @@ Santa Rosa do Sul,14-04-2021,1022,3,18,0,3.142857142857143,0.14285714285714285,2
 Santa Rosa do Sul,15-04-2021,1022,0,18,0,2.7142857142857144,0.0,19.0,0.0
 Santa Rosa do Sul,16-04-2021,1024,2,18,0,2.2857142857142856,0.0,16.0,0.0
 Santa Rosa do Sul,17-04-2021,1020,-4,18,0,1.5714285714285714,0.0,11.0,0.0
+Santa Rosa do Sul,18-04-2021,1021,1,18,0,1.7142857142857142,0.0,12.0,0.0

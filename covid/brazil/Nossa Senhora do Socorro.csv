@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Nossa Senhora do Socorro,27-03-2020,0,0,0,0,5.0,0.2857142857142857,35.0,2.0
-Nossa Senhora do Socorro,28-03-2020,0,0,0,0,4.0,0.14285714285714285,28.0,1.0
-Nossa Senhora do Socorro,29-03-2020,0,0,0,0,3.7142857142857144,0.0,26.0,0.0
-Nossa Senhora do Socorro,30-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Nossa Senhora do Socorro,31-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Nossa Senhora do Socorro,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Nossa Senhora do Socorro,27-03-2020,0,0,0,0,4.0,0.2857142857142857,28.0,2.0
+Nossa Senhora do Socorro,28-03-2020,0,0,0,0,3.7142857142857144,0.14285714285714285,26.0,1.0
+Nossa Senhora do Socorro,29-03-2020,0,0,0,0,1.8571428571428572,0.14285714285714285,13.0,1.0
+Nossa Senhora do Socorro,30-03-2020,0,0,0,0,0.8571428571428571,0.14285714285714285,6.0,1.0
+Nossa Senhora do Socorro,31-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
+Nossa Senhora do Socorro,01-04-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
 Nossa Senhora do Socorro,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nossa Senhora do Socorro,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nossa Senhora do Socorro,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -386,3 +386,4 @@ Nossa Senhora do Socorro,14-04-2021,11558,80,363,2,103.14285714285714,1.85714285
 Nossa Senhora do Socorro,15-04-2021,11574,16,364,1,96.71428571428571,1.7142857142857142,677.0,12.0
 Nossa Senhora do Socorro,16-04-2021,11686,112,367,3,100.85714285714286,2.0,706.0,14.0
 Nossa Senhora do Socorro,17-04-2021,11801,115,371,4,96.28571428571429,2.2857142857142856,674.0,16.0
+Nossa Senhora do Socorro,18-04-2021,11822,21,372,1,79.0,2.2857142857142856,553.0,16.0

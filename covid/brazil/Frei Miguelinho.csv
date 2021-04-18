@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Frei Miguelinho,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Frei Miguelinho,28-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Frei Miguelinho,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Frei Miguelinho,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Frei Miguelinho,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Frei Miguelinho,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Frei Miguelinho,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Frei Miguelinho,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -386,3 +386,4 @@ Frei Miguelinho,14-04-2021,560,18,15,0,7.857142857142857,0.0,55.0,0.0
 Frei Miguelinho,15-04-2021,573,13,15,0,6.857142857142857,0.0,48.0,0.0
 Frei Miguelinho,16-04-2021,573,0,15,0,4.428571428571429,0.0,31.0,0.0
 Frei Miguelinho,17-04-2021,584,11,15,0,6.0,0.0,42.0,0.0
+Frei Miguelinho,18-04-2021,585,1,16,1,6.142857142857143,0.14285714285714285,43.0,1.0

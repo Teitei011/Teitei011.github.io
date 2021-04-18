@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Capitão Gervásio Oliveira,27-03-2020,0,0,0,0,5.285714285714286,0.0,37.0,0.0
-Capitão Gervásio Oliveira,28-03-2020,0,0,0,0,5.285714285714286,0.0,37.0,0.0
-Capitão Gervásio Oliveira,29-03-2020,0,0,0,0,2.857142857142857,0.0,20.0,0.0
-Capitão Gervásio Oliveira,30-03-2020,0,0,0,0,2.2857142857142856,0.0,16.0,0.0
-Capitão Gervásio Oliveira,31-03-2020,0,0,0,0,2.2857142857142856,0.0,16.0,0.0
-Capitão Gervásio Oliveira,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Capitão Gervásio Oliveira,27-03-2020,0,0,0,0,7.285714285714286,0.14285714285714285,51.0,1.0
+Capitão Gervásio Oliveira,28-03-2020,0,0,0,0,4.857142857142857,0.14285714285714285,34.0,1.0
+Capitão Gervásio Oliveira,29-03-2020,0,0,0,0,4.285714285714286,0.14285714285714285,30.0,1.0
+Capitão Gervásio Oliveira,30-03-2020,0,0,0,0,4.285714285714286,0.14285714285714285,30.0,1.0
+Capitão Gervásio Oliveira,31-03-2020,0,0,0,0,2.0,0.14285714285714285,14.0,1.0
+Capitão Gervásio Oliveira,01-04-2020,0,0,0,0,2.0,0.14285714285714285,14.0,1.0
 Capitão Gervásio Oliveira,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Capitão Gervásio Oliveira,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Capitão Gervásio Oliveira,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -386,3 +386,4 @@ Capitão Gervásio Oliveira,14-04-2021,50,0,3,0,0.0,0.0,0.0,0.0
 Capitão Gervásio Oliveira,15-04-2021,50,0,3,0,0.0,0.0,0.0,0.0
 Capitão Gervásio Oliveira,16-04-2021,52,2,3,0,0.2857142857142857,0.0,2.0,0.0
 Capitão Gervásio Oliveira,17-04-2021,52,0,3,0,0.2857142857142857,0.0,2.0,0.0
+Capitão Gervásio Oliveira,18-04-2021,53,1,3,0,0.42857142857142855,0.0,3.0,0.0

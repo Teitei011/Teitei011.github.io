@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Nova Itaberaba,27-03-2020,0,0,0,0,4.0,0.14285714285714285,28.0,1.0
-Nova Itaberaba,28-03-2020,0,0,0,0,4.0,0.14285714285714285,28.0,1.0
+Nova Itaberaba,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Itaberaba,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Itaberaba,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Itaberaba,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -386,3 +386,4 @@ Nova Itaberaba,14-04-2021,330,2,3,0,2.142857142857143,0.0,15.0,0.0
 Nova Itaberaba,15-04-2021,330,0,3,0,2.142857142857143,0.0,15.0,0.0
 Nova Itaberaba,16-04-2021,330,0,3,0,2.142857142857143,0.0,15.0,0.0
 Nova Itaberaba,17-04-2021,329,-1,3,0,2.0,0.0,14.0,0.0
+Nova Itaberaba,18-04-2021,329,0,3,0,2.0,0.0,14.0,0.0

@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Miguel dos Milagres,27-03-2020,0,0,0,0,17.571428571428573,0.0,123.0,0.0
-São Miguel dos Milagres,28-03-2020,0,0,0,0,17.571428571428573,0.0,123.0,0.0
-São Miguel dos Milagres,29-03-2020,0,0,0,0,8.714285714285714,0.0,61.0,0.0
+São Miguel dos Milagres,27-03-2020,0,0,0,0,19.714285714285715,0.0,138.0,0.0
+São Miguel dos Milagres,28-03-2020,0,0,0,0,10.857142857142858,0.0,76.0,0.0
+São Miguel dos Milagres,29-03-2020,0,0,0,0,8.571428571428571,0.0,60.0,0.0
 São Miguel dos Milagres,30-03-2020,0,0,0,0,6.428571428571429,0.0,45.0,0.0
-São Miguel dos Milagres,31-03-2020,0,0,0,0,4.285714285714286,0.0,30.0,0.0
-São Miguel dos Milagres,01-04-2020,0,0,0,0,2.0,0.0,14.0,0.0
+São Miguel dos Milagres,31-03-2020,0,0,0,0,4.142857142857143,0.0,29.0,0.0
+São Miguel dos Milagres,01-04-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
 São Miguel dos Milagres,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel dos Milagres,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel dos Milagres,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -386,3 +386,4 @@ São Miguel dos Milagres,14-04-2021,192,0,10,0,0.14285714285714285,0.14285714285
 São Miguel dos Milagres,15-04-2021,193,1,10,0,0.2857142857142857,0.14285714285714285,2.0,1.0
 São Miguel dos Milagres,16-04-2021,193,0,10,0,0.2857142857142857,0.14285714285714285,2.0,1.0
 São Miguel dos Milagres,17-04-2021,193,0,10,0,0.2857142857142857,0.14285714285714285,2.0,1.0
+São Miguel dos Milagres,18-04-2021,193,0,10,0,0.14285714285714285,0.0,1.0,0.0

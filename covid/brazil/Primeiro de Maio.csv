@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Primeiro de Maio,27-03-2020,0,0,0,0,3.0,0.0,21.0,0.0
+Primeiro de Maio,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Primeiro de Maio,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Primeiro de Maio,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Primeiro de Maio,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -386,3 +386,4 @@ Primeiro de Maio,14-04-2021,368,0,10,0,2.142857142857143,0.14285714285714285,15.
 Primeiro de Maio,15-04-2021,369,1,10,0,1.7142857142857142,0.14285714285714285,12.0,1.0
 Primeiro de Maio,16-04-2021,372,3,10,0,1.5714285714285714,0.14285714285714285,11.0,1.0
 Primeiro de Maio,17-04-2021,373,1,10,0,1.2857142857142858,0.14285714285714285,9.0,1.0
+Primeiro de Maio,18-04-2021,373,0,10,0,1.2857142857142858,0.14285714285714285,9.0,1.0

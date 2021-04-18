@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santa Bárbara do Monte Verde,27-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
-Santa Bárbara do Monte Verde,28-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
-Santa Bárbara do Monte Verde,29-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Santa Bárbara do Monte Verde,30-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Santa Bárbara do Monte Verde,31-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Santa Bárbara do Monte Verde,01-04-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Santa Bárbara do Monte Verde,27-03-2020,0,0,0,0,1.1428571428571428,0.14285714285714285,8.0,1.0
+Santa Bárbara do Monte Verde,28-03-2020,0,0,0,0,0.8571428571428571,0.14285714285714285,6.0,1.0
+Santa Bárbara do Monte Verde,29-03-2020,0,0,0,0,0.7142857142857143,0.14285714285714285,5.0,1.0
+Santa Bárbara do Monte Verde,30-03-2020,0,0,0,0,0.2857142857142857,0.14285714285714285,2.0,1.0
+Santa Bárbara do Monte Verde,31-03-2020,0,0,0,0,0.2857142857142857,0.14285714285714285,2.0,1.0
+Santa Bárbara do Monte Verde,01-04-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
 Santa Bárbara do Monte Verde,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Bárbara do Monte Verde,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Bárbara do Monte Verde,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -386,3 +386,4 @@ Santa Bárbara do Monte Verde,14-04-2021,139,0,5,0,0.42857142857142855,0.0,3.0,0
 Santa Bárbara do Monte Verde,15-04-2021,139,0,5,0,1.0,0.0,7.0,0.0
 Santa Bárbara do Monte Verde,16-04-2021,139,0,5,0,1.0,0.0,7.0,0.0
 Santa Bárbara do Monte Verde,17-04-2021,140,1,5,0,0.14285714285714285,0.0,1.0,0.0
+Santa Bárbara do Monte Verde,18-04-2021,141,1,5,0,0.2857142857142857,0.0,2.0,0.0

@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Serra Negra do Norte,27-03-2020,0,0,0,0,7.857142857142857,0.14285714285714285,55.0,1.0
-Serra Negra do Norte,28-03-2020,0,0,0,0,7.0,0.14285714285714285,49.0,1.0
-Serra Negra do Norte,29-03-2020,0,0,0,0,6.0,0.14285714285714285,42.0,1.0
-Serra Negra do Norte,30-03-2020,0,0,0,0,4.285714285714286,0.0,30.0,0.0
-Serra Negra do Norte,31-03-2020,0,0,0,0,3.2857142857142856,0.0,23.0,0.0
+Serra Negra do Norte,27-03-2020,0,0,0,0,8.571428571428571,0.14285714285714285,60.0,1.0
+Serra Negra do Norte,28-03-2020,0,0,0,0,7.571428571428571,0.14285714285714285,53.0,1.0
+Serra Negra do Norte,29-03-2020,0,0,0,0,5.857142857142857,0.0,41.0,0.0
+Serra Negra do Norte,30-03-2020,0,0,0,0,4.857142857142857,0.0,34.0,0.0
+Serra Negra do Norte,31-03-2020,0,0,0,0,3.142857142857143,0.0,22.0,0.0
 Serra Negra do Norte,01-04-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
 Serra Negra do Norte,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Serra Negra do Norte,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -386,3 +386,4 @@ Serra Negra do Norte,14-04-2021,656,0,10,0,1.7142857142857142,0.0,12.0,0.0
 Serra Negra do Norte,15-04-2021,661,5,10,0,2.4285714285714284,0.0,17.0,0.0
 Serra Negra do Norte,16-04-2021,662,1,10,0,2.4285714285714284,0.0,17.0,0.0
 Serra Negra do Norte,17-04-2021,665,3,10,0,2.2857142857142856,0.0,16.0,0.0
+Serra Negra do Norte,18-04-2021,669,4,10,0,2.0,0.0,14.0,0.0

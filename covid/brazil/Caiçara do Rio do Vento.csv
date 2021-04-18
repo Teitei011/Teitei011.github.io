@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Caiçara do Rio do Vento,27-03-2020,0,0,0,0,1.7142857142857142,0.2857142857142857,12.0,2.0
+Caiçara do Rio do Vento,27-03-2020,0,0,0,0,1.7142857142857142,0.14285714285714285,12.0,1.0
 Caiçara do Rio do Vento,28-03-2020,0,0,0,0,1.7142857142857142,0.14285714285714285,12.0,1.0
-Caiçara do Rio do Vento,29-03-2020,0,0,0,0,1.7142857142857142,0.14285714285714285,12.0,1.0
-Caiçara do Rio do Vento,30-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Caiçara do Rio do Vento,29-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Caiçara do Rio do Vento,30-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
 Caiçara do Rio do Vento,31-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Caiçara do Rio do Vento,01-04-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Caiçara do Rio do Vento,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Caiçara do Rio do Vento,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Caiçara do Rio do Vento,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Caiçara do Rio do Vento,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -386,3 +386,4 @@ Caiçara do Rio do Vento,14-04-2021,192,5,7,0,1.8571428571428572,0.1428571428571
 Caiçara do Rio do Vento,15-04-2021,192,0,7,0,1.8571428571428572,0.14285714285714285,13.0,1.0
 Caiçara do Rio do Vento,16-04-2021,192,0,7,0,0.8571428571428571,0.14285714285714285,6.0,1.0
 Caiçara do Rio do Vento,17-04-2021,192,0,7,0,0.8571428571428571,0.14285714285714285,6.0,1.0
+Caiçara do Rio do Vento,18-04-2021,195,3,7,0,1.1428571428571428,0.14285714285714285,8.0,1.0

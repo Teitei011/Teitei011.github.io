@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São Sebastião do Alto,27-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
 São Sebastião do Alto,28-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
-São Sebastião do Alto,29-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+São Sebastião do Alto,29-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
 São Sebastião do Alto,30-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-São Sebastião do Alto,31-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
+São Sebastião do Alto,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Sebastião do Alto,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Sebastião do Alto,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Sebastião do Alto,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -386,3 +386,4 @@ São Sebastião do Alto,14-04-2021,345,0,14,0,5.428571428571429,0.0,38.0,0.0
 São Sebastião do Alto,15-04-2021,345,0,14,0,3.4285714285714284,0.0,24.0,0.0
 São Sebastião do Alto,16-04-2021,345,0,14,0,3.2857142857142856,0.0,23.0,0.0
 São Sebastião do Alto,17-04-2021,346,1,15,1,1.0,0.14285714285714285,7.0,1.0
+São Sebastião do Alto,18-04-2021,348,2,15,0,1.2857142857142858,0.14285714285714285,9.0,1.0

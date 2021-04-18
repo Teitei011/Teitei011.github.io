@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santa Maria de Jetibá,27-03-2020,0,0,0,0,6.0,0.14285714285714285,42.0,1.0
-Santa Maria de Jetibá,28-03-2020,0,0,0,0,6.0,0.14285714285714285,42.0,1.0
-Santa Maria de Jetibá,29-03-2020,0,0,0,0,6.0,0.0,42.0,0.0
-Santa Maria de Jetibá,30-03-2020,0,0,0,0,3.5714285714285716,0.0,25.0,0.0
-Santa Maria de Jetibá,31-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
-Santa Maria de Jetibá,01-04-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Santa Maria de Jetibá,28-03-2020,0,0,0,0,6.0,0.0,42.0,0.0
+Santa Maria de Jetibá,29-03-2020,0,0,0,0,3.5714285714285716,0.0,25.0,0.0
+Santa Maria de Jetibá,30-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
+Santa Maria de Jetibá,31-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Santa Maria de Jetibá,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Maria de Jetibá,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Maria de Jetibá,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Maria de Jetibá,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -386,3 +386,4 @@ Santa Maria de Jetibá,14-04-2021,4153,25,40,1,19.857142857142858,0.428571428571
 Santa Maria de Jetibá,15-04-2021,4219,66,41,1,23.714285714285715,0.5714285714285714,166.0,4.0
 Santa Maria de Jetibá,16-04-2021,4245,26,42,1,23.857142857142858,0.7142857142857143,167.0,5.0
 Santa Maria de Jetibá,17-04-2021,4251,6,42,0,23.0,0.7142857142857143,161.0,5.0
+Santa Maria de Jetibá,18-04-2021,4278,27,42,0,25.0,0.7142857142857143,175.0,5.0

@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Central do Maranhão,27-03-2020,0,0,0,0,37.857142857142854,0.0,265.0,0.0
-Central do Maranhão,28-03-2020,0,0,0,0,37.857142857142854,0.0,265.0,0.0
-Central do Maranhão,29-03-2020,0,0,0,0,37.857142857142854,0.0,265.0,0.0
-Central do Maranhão,30-03-2020,0,0,0,0,37.857142857142854,0.0,265.0,0.0
-Central do Maranhão,31-03-2020,0,0,0,0,37.857142857142854,0.0,265.0,0.0
-Central do Maranhão,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Central do Maranhão,27-03-2020,0,0,0,0,37.857142857142854,-2.5714285714285716,265.0,-18.0
+Central do Maranhão,28-03-2020,0,0,0,0,37.857142857142854,-2.5714285714285716,265.0,-18.0
+Central do Maranhão,29-03-2020,0,0,0,0,37.857142857142854,-2.5714285714285716,265.0,-18.0
+Central do Maranhão,30-03-2020,0,0,0,0,37.857142857142854,-2.5714285714285716,265.0,-18.0
+Central do Maranhão,31-03-2020,0,0,0,0,0.0,-2.5714285714285716,0.0,-18.0
+Central do Maranhão,01-04-2020,0,0,0,0,0.0,-2.5714285714285716,0.0,-18.0
 Central do Maranhão,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Central do Maranhão,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Central do Maranhão,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -386,3 +386,4 @@ Central do Maranhão,14-04-2021,44,0,2,0,0.0,0.0,0.0,0.0
 Central do Maranhão,15-04-2021,44,0,2,0,0.0,0.0,0.0,0.0
 Central do Maranhão,16-04-2021,44,0,2,0,0.0,0.0,0.0,0.0
 Central do Maranhão,17-04-2021,44,0,2,0,0.0,0.0,0.0,0.0
+Central do Maranhão,18-04-2021,44,0,2,0,0.0,0.0,0.0,0.0
