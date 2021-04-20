@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Sebastião do Rio Preto,27-03-2020,0,0,0,0,9.0,0.2857142857142857,63.0,2.0
-São Sebastião do Rio Preto,28-03-2020,0,0,0,0,7.142857142857143,0.14285714285714285,50.0,1.0
-São Sebastião do Rio Preto,29-03-2020,0,0,0,0,5.714285714285714,0.14285714285714285,40.0,1.0
-São Sebastião do Rio Preto,30-03-2020,0,0,0,0,2.5714285714285716,0.14285714285714285,18.0,1.0
-São Sebastião do Rio Preto,31-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
-São Sebastião do Rio Preto,01-04-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+São Sebastião do Rio Preto,27-03-2020,0,0,0,0,7.142857142857143,0.14285714285714285,50.0,1.0
+São Sebastião do Rio Preto,28-03-2020,0,0,0,0,5.714285714285714,0.14285714285714285,40.0,1.0
+São Sebastião do Rio Preto,29-03-2020,0,0,0,0,2.5714285714285716,0.14285714285714285,18.0,1.0
+São Sebastião do Rio Preto,30-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+São Sebastião do Rio Preto,31-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+São Sebastião do Rio Preto,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Sebastião do Rio Preto,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Sebastião do Rio Preto,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Sebastião do Rio Preto,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ São Sebastião do Rio Preto,15-04-2021,92,1,2,0,0.2857142857142857,0.0,2.0,0.0
 São Sebastião do Rio Preto,16-04-2021,93,1,2,0,0.42857142857142855,0.0,3.0,0.0
 São Sebastião do Rio Preto,17-04-2021,96,3,2,0,0.8571428571428571,0.0,6.0,0.0
 São Sebastião do Rio Preto,18-04-2021,96,0,2,0,0.8571428571428571,0.0,6.0,0.0
+São Sebastião do Rio Preto,19-04-2021,96,0,2,0,0.8571428571428571,0.0,6.0,0.0

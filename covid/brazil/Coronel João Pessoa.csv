@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Coronel João Pessoa,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Coronel João Pessoa,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Coronel João Pessoa,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Coronel João Pessoa,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coronel João Pessoa,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coronel João Pessoa,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coronel João Pessoa,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ Coronel João Pessoa,15-04-2021,201,0,4,0,3.7142857142857144,0.0,26.0,0.0
 Coronel João Pessoa,16-04-2021,203,2,5,1,2.5714285714285716,0.14285714285714285,18.0,1.0
 Coronel João Pessoa,17-04-2021,212,9,5,0,3.4285714285714284,0.14285714285714285,24.0,1.0
 Coronel João Pessoa,18-04-2021,212,0,5,0,3.0,0.14285714285714285,21.0,1.0
+Coronel João Pessoa,19-04-2021,215,3,5,0,3.4285714285714284,0.14285714285714285,24.0,1.0

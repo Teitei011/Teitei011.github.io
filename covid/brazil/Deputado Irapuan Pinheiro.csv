@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Deputado Irapuan Pinheiro,27-03-2020,0,0,0,0,3.857142857142857,0.0,27.0,0.0
-Deputado Irapuan Pinheiro,28-03-2020,0,0,0,0,3.5714285714285716,0.0,25.0,0.0
-Deputado Irapuan Pinheiro,29-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
-Deputado Irapuan Pinheiro,30-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
-Deputado Irapuan Pinheiro,31-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Deputado Irapuan Pinheiro,27-03-2020,0,0,0,0,3.7142857142857144,0.0,26.0,0.0
+Deputado Irapuan Pinheiro,28-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Deputado Irapuan Pinheiro,29-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Deputado Irapuan Pinheiro,30-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Deputado Irapuan Pinheiro,31-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Deputado Irapuan Pinheiro,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Deputado Irapuan Pinheiro,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Deputado Irapuan Pinheiro,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ Deputado Irapuan Pinheiro,15-04-2021,506,0,10,0,3.4285714285714284,0.28571428571
 Deputado Irapuan Pinheiro,16-04-2021,515,9,10,0,3.0,0.2857142857142857,21.0,2.0
 Deputado Irapuan Pinheiro,17-04-2021,519,4,10,0,3.7142857142857144,0.2857142857142857,26.0,2.0
 Deputado Irapuan Pinheiro,18-04-2021,521,2,10,0,3.7142857142857144,0.2857142857142857,26.0,2.0
+Deputado Irapuan Pinheiro,19-04-2021,521,0,10,0,3.7142857142857144,0.2857142857142857,26.0,2.0

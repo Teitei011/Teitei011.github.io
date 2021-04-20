@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Novo Aripuanã,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Novo Aripuanã,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Novo Aripuanã,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Novo Aripuanã,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Novo Aripuanã,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ Novo Aripuanã,15-04-2021,1867,4,28,0,4.428571428571429,0.14285714285714285,31.0
 Novo Aripuanã,16-04-2021,1867,0,28,0,4.428571428571429,0.14285714285714285,31.0,1.0
 Novo Aripuanã,17-04-2021,1867,0,28,0,4.428571428571429,0.14285714285714285,31.0,1.0
 Novo Aripuanã,18-04-2021,1867,0,28,0,3.4285714285714284,0.14285714285714285,24.0,1.0
+Novo Aripuanã,19-04-2021,1867,0,28,0,2.7142857142857144,0.0,19.0,0.0

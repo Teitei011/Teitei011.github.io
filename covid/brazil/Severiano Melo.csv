@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Severiano Melo,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Severiano Melo,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Severiano Melo,29-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Severiano Melo,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Severiano Melo,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Severiano Melo,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Severiano Melo,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ Severiano Melo,15-04-2021,326,0,9,0,0.2857142857142857,0.0,2.0,0.0
 Severiano Melo,16-04-2021,326,0,9,0,0.2857142857142857,0.0,2.0,0.0
 Severiano Melo,17-04-2021,326,0,9,0,0.2857142857142857,0.0,2.0,0.0
 Severiano Melo,18-04-2021,326,0,9,0,0.2857142857142857,0.0,2.0,0.0
+Severiano Melo,19-04-2021,326,0,9,0,0.2857142857142857,0.0,2.0,0.0

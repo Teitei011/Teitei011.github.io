@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santa Efigênia de Minas,27-03-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
 Santa Efigênia de Minas,28-03-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
-Santa Efigênia de Minas,29-03-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
+Santa Efigênia de Minas,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Efigênia de Minas,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Efigênia de Minas,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Efigênia de Minas,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ Santa Efigênia de Minas,15-04-2021,285,1,8,0,1.2857142857142858,0.0,9.0,0.0
 Santa Efigênia de Minas,16-04-2021,290,5,8,0,2.0,0.0,14.0,0.0
 Santa Efigênia de Minas,17-04-2021,290,0,8,0,1.5714285714285714,0.0,11.0,0.0
 Santa Efigênia de Minas,18-04-2021,292,2,8,0,1.2857142857142858,0.0,9.0,0.0
+Santa Efigênia de Minas,19-04-2021,292,0,8,0,1.2857142857142858,0.0,9.0,0.0

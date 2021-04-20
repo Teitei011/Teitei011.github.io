@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Tracuateua,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Tracuateua,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Tracuateua,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Tracuateua,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Tracuateua,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Tracuateua,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ Tracuateua,15-04-2021,601,0,16,0,1.1428571428571428,0.0,8.0,0.0
 Tracuateua,16-04-2021,601,0,16,0,0.42857142857142855,0.0,3.0,0.0
 Tracuateua,17-04-2021,601,0,16,0,0.0,0.0,0.0,0.0
 Tracuateua,18-04-2021,602,1,16,0,0.14285714285714285,0.0,1.0,0.0
+Tracuateua,19-04-2021,602,0,16,0,0.14285714285714285,0.0,1.0,0.0

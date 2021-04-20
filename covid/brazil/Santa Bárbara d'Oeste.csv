@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santa Bárbara d'Oeste,27-03-2020,0,0,0,0,17.428571428571427,0.0,122.0,0.0
-Santa Bárbara d'Oeste,28-03-2020,0,0,0,0,17.285714285714285,0.0,121.0,0.0
-Santa Bárbara d'Oeste,29-03-2020,0,0,0,0,8.142857142857142,0.0,57.0,0.0
+Santa Bárbara d'Oeste,27-03-2020,0,0,0,0,17.285714285714285,0.0,121.0,0.0
+Santa Bárbara d'Oeste,28-03-2020,0,0,0,0,8.142857142857142,0.0,57.0,0.0
+Santa Bárbara d'Oeste,29-03-2020,0,0,0,0,7.714285714285714,0.0,54.0,0.0
 Santa Bárbara d'Oeste,30-03-2020,0,0,0,0,7.714285714285714,0.0,54.0,0.0
-Santa Bárbara d'Oeste,31-03-2020,0,0,0,0,7.714285714285714,0.0,54.0,0.0
-Santa Bárbara d'Oeste,01-04-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Santa Bárbara d'Oeste,31-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Santa Bárbara d'Oeste,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Bárbara d'Oeste,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Bárbara d'Oeste,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Bárbara d'Oeste,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ Santa Bárbara d'Oeste,15-04-2021,13720,81,414,10,91.42857142857143,3.8571428571
 Santa Bárbara d'Oeste,16-04-2021,13776,56,419,5,79.42857142857143,3.5714285714285716,556.0,25.0
 Santa Bárbara d'Oeste,17-04-2021,13850,74,424,5,69.0,3.2857142857142856,483.0,23.0
 Santa Bárbara d'Oeste,18-04-2021,13866,16,424,0,57.42857142857143,3.2857142857142856,402.0,23.0
+Santa Bárbara d'Oeste,19-04-2021,13875,9,424,0,56.714285714285715,3.2857142857142856,397.0,23.0

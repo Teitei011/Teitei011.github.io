@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Nossa Senhora das Dores,27-03-2020,0,0,0,0,7.142857142857143,0.14285714285714285,50.0,1.0
-Nossa Senhora das Dores,28-03-2020,0,0,0,0,6.714285714285714,0.14285714285714285,47.0,1.0
-Nossa Senhora das Dores,29-03-2020,0,0,0,0,6.142857142857143,0.0,43.0,0.0
-Nossa Senhora das Dores,30-03-2020,0,0,0,0,4.285714285714286,0.0,30.0,0.0
-Nossa Senhora das Dores,31-03-2020,0,0,0,0,3.857142857142857,0.0,27.0,0.0
-Nossa Senhora das Dores,01-04-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
+Nossa Senhora das Dores,27-03-2020,0,0,0,0,9.142857142857142,0.14285714285714285,64.0,1.0
+Nossa Senhora das Dores,28-03-2020,0,0,0,0,8.571428571428571,0.0,60.0,0.0
+Nossa Senhora das Dores,29-03-2020,0,0,0,0,6.714285714285714,0.0,47.0,0.0
+Nossa Senhora das Dores,30-03-2020,0,0,0,0,6.285714285714286,0.0,44.0,0.0
+Nossa Senhora das Dores,31-03-2020,0,0,0,0,4.142857142857143,0.0,29.0,0.0
+Nossa Senhora das Dores,01-04-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
 Nossa Senhora das Dores,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nossa Senhora das Dores,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nossa Senhora das Dores,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ Nossa Senhora das Dores,15-04-2021,1272,7,33,0,9.285714285714286,0.0,65.0,0.0
 Nossa Senhora das Dores,16-04-2021,1290,18,34,1,10.571428571428571,0.14285714285714285,74.0,1.0
 Nossa Senhora das Dores,17-04-2021,1292,2,34,0,9.285714285714286,0.14285714285714285,65.0,1.0
 Nossa Senhora das Dores,18-04-2021,1302,10,35,1,8.714285714285714,0.2857142857142857,61.0,2.0
+Nossa Senhora das Dores,19-04-2021,1321,19,35,0,10.285714285714286,0.2857142857142857,72.0,2.0

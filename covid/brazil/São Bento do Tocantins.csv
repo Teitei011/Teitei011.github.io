@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Bento do Tocantins,27-03-2020,0,0,0,0,53.714285714285715,0.2857142857142857,376.0,2.0
-São Bento do Tocantins,28-03-2020,0,0,0,0,41.142857142857146,0.14285714285714285,288.0,1.0
-São Bento do Tocantins,29-03-2020,0,0,0,0,28.428571428571427,0.14285714285714285,199.0,1.0
-São Bento do Tocantins,30-03-2020,0,0,0,0,16.428571428571427,0.0,115.0,0.0
-São Bento do Tocantins,31-03-2020,0,0,0,0,5.142857142857143,0.0,36.0,0.0
-São Bento do Tocantins,01-04-2020,0,0,0,0,4.142857142857143,0.0,29.0,0.0
+São Bento do Tocantins,27-03-2020,0,0,0,0,42.714285714285715,0.14285714285714285,299.0,1.0
+São Bento do Tocantins,28-03-2020,0,0,0,0,30.0,0.14285714285714285,210.0,1.0
+São Bento do Tocantins,29-03-2020,0,0,0,0,18.0,0.0,126.0,0.0
+São Bento do Tocantins,30-03-2020,0,0,0,0,6.714285714285714,0.0,47.0,0.0
+São Bento do Tocantins,31-03-2020,0,0,0,0,5.714285714285714,0.0,40.0,0.0
+São Bento do Tocantins,01-04-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
 São Bento do Tocantins,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Bento do Tocantins,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Bento do Tocantins,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ São Bento do Tocantins,15-04-2021,734,1,7,0,3.7142857142857144,0.0,26.0,0.0
 São Bento do Tocantins,16-04-2021,734,0,7,0,3.142857142857143,0.0,22.0,0.0
 São Bento do Tocantins,17-04-2021,735,1,7,0,2.0,0.0,14.0,0.0
 São Bento do Tocantins,18-04-2021,735,0,7,0,1.8571428571428572,0.0,13.0,0.0
+São Bento do Tocantins,19-04-2021,735,0,7,0,1.8571428571428572,0.0,13.0,0.0

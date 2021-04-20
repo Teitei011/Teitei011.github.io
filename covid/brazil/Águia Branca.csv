@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Águia Branca,27-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Águia Branca,28-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Águia Branca,29-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Águia Branca,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Águia Branca,28-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Águia Branca,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Águia Branca,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Águia Branca,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Águia Branca,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases
 Águia Branca,16-04-2021,1758,1,52,2,2.7142857142857144,0.5714285714285714,19.0,4.0
 Águia Branca,17-04-2021,1758,0,52,0,2.5714285714285716,0.42857142857142855,18.0,3.0
 Águia Branca,18-04-2021,1758,0,53,1,2.5714285714285716,0.5714285714285714,18.0,4.0
+Águia Branca,19-04-2021,1764,6,56,3,3.4285714285714284,0.8571428571428571,24.0,6.0

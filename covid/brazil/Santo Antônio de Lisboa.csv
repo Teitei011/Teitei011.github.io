@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santo Antônio de Lisboa,27-03-2020,0,0,0,0,30.285714285714285,0.8571428571428571,212.0,6.0
-Santo Antônio de Lisboa,28-03-2020,0,0,0,0,26.142857142857142,0.8571428571428571,183.0,6.0
-Santo Antônio de Lisboa,29-03-2020,0,0,0,0,22.0,0.7142857142857143,154.0,5.0
-Santo Antônio de Lisboa,30-03-2020,0,0,0,0,20.0,0.42857142857142855,140.0,3.0
-Santo Antônio de Lisboa,31-03-2020,0,0,0,0,12.714285714285714,0.2857142857142857,89.0,2.0
-Santo Antônio de Lisboa,01-04-2020,0,0,0,0,5.142857142857143,0.14285714285714285,36.0,1.0
+Santo Antônio de Lisboa,27-03-2020,0,0,0,0,28.571428571428573,1.2857142857142858,200.0,9.0
+Santo Antônio de Lisboa,28-03-2020,0,0,0,0,24.428571428571427,1.1428571428571428,171.0,8.0
+Santo Antônio de Lisboa,29-03-2020,0,0,0,0,22.428571428571427,0.8571428571428571,157.0,6.0
+Santo Antônio de Lisboa,30-03-2020,0,0,0,0,15.142857142857142,0.7142857142857143,106.0,5.0
+Santo Antônio de Lisboa,31-03-2020,0,0,0,0,7.571428571428571,0.5714285714285714,53.0,4.0
+Santo Antônio de Lisboa,01-04-2020,0,0,0,0,2.4285714285714284,0.42857142857142855,17.0,3.0
 Santo Antônio de Lisboa,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio de Lisboa,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Antônio de Lisboa,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ Santo Antônio de Lisboa,15-04-2021,31,0,4,0,0.0,0.14285714285714285,0.0,1.0
 Santo Antônio de Lisboa,16-04-2021,31,0,4,0,0.0,0.0,0.0,0.0
 Santo Antônio de Lisboa,17-04-2021,31,0,4,0,0.0,0.0,0.0,0.0
 Santo Antônio de Lisboa,18-04-2021,31,0,4,0,0.0,0.0,0.0,0.0
+Santo Antônio de Lisboa,19-04-2021,31,0,4,0,0.0,0.0,0.0,0.0

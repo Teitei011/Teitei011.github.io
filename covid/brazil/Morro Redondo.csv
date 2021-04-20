@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Morro Redondo,27-03-2020,0,0,0,0,3.2857142857142856,0.0,23.0,0.0
-Morro Redondo,28-03-2020,0,0,0,0,2.7142857142857144,0.0,19.0,0.0
-Morro Redondo,29-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Morro Redondo,30-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Morro Redondo,31-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Morro Redondo,27-03-2020,0,0,0,0,2.7142857142857144,0.0,19.0,0.0
+Morro Redondo,28-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
+Morro Redondo,29-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Morro Redondo,30-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Morro Redondo,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Morro Redondo,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Morro Redondo,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Morro Redondo,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ Morro Redondo,15-04-2021,220,23,12,0,10.0,0.0,70.0,0.0
 Morro Redondo,16-04-2021,220,0,12,0,9.0,0.0,63.0,0.0
 Morro Redondo,17-04-2021,220,0,12,0,8.0,0.0,56.0,0.0
 Morro Redondo,18-04-2021,220,0,12,0,8.0,0.0,56.0,0.0
+Morro Redondo,19-04-2021,220,0,12,0,8.0,0.0,56.0,0.0

@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santa Rosa da Serra,27-03-2020,0,0,0,0,29.428571428571427,0.42857142857142855,206.0,3.0
-Santa Rosa da Serra,28-03-2020,0,0,0,0,22.714285714285715,0.14285714285714285,159.0,1.0
-Santa Rosa da Serra,29-03-2020,0,0,0,0,12.857142857142858,0.14285714285714285,90.0,1.0
-Santa Rosa da Serra,30-03-2020,0,0,0,0,9.428571428571429,0.0,66.0,0.0
-Santa Rosa da Serra,31-03-2020,0,0,0,0,6.428571428571429,0.0,45.0,0.0
+Santa Rosa da Serra,27-03-2020,0,0,0,0,22.714285714285715,0.14285714285714285,159.0,1.0
+Santa Rosa da Serra,28-03-2020,0,0,0,0,12.857142857142858,0.14285714285714285,90.0,1.0
+Santa Rosa da Serra,29-03-2020,0,0,0,0,9.428571428571429,0.0,66.0,0.0
+Santa Rosa da Serra,30-03-2020,0,0,0,0,6.428571428571429,0.0,45.0,0.0
+Santa Rosa da Serra,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Rosa da Serra,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Rosa da Serra,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Rosa da Serra,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ Santa Rosa da Serra,15-04-2021,56,0,1,0,0.0,0.0,0.0,0.0
 Santa Rosa da Serra,16-04-2021,56,0,1,0,0.0,0.0,0.0,0.0
 Santa Rosa da Serra,17-04-2021,56,0,1,0,0.0,0.0,0.0,0.0
 Santa Rosa da Serra,18-04-2021,56,0,1,0,0.0,0.0,0.0,0.0
+Santa Rosa da Serra,19-04-2021,56,0,1,0,0.0,0.0,0.0,0.0

@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Entre Folhas,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Entre Folhas,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Entre Folhas,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Entre Folhas,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Entre Folhas,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ Entre Folhas,15-04-2021,302,2,7,0,1.1428571428571428,0.0,8.0,0.0
 Entre Folhas,16-04-2021,303,1,7,0,1.2857142857142858,0.0,9.0,0.0
 Entre Folhas,17-04-2021,303,0,7,0,1.1428571428571428,0.0,8.0,0.0
 Entre Folhas,18-04-2021,303,0,7,0,1.1428571428571428,0.0,8.0,0.0
+Entre Folhas,19-04-2021,309,6,7,0,2.0,0.0,14.0,0.0

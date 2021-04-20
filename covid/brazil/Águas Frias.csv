@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Águas Frias,27-03-2020,0,0,0,0,9.571428571428571,0.0,67.0,0.0
-Águas Frias,28-03-2020,0,0,0,0,9.571428571428571,0.0,67.0,0.0
+Águas Frias,28-03-2020,0,0,0,0,3.0,0.0,21.0,0.0
 Águas Frias,29-03-2020,0,0,0,0,3.0,0.0,21.0,0.0
 Águas Frias,30-03-2020,0,0,0,0,3.0,0.0,21.0,0.0
-Águas Frias,31-03-2020,0,0,0,0,3.0,0.0,21.0,0.0
+Águas Frias,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Águas Frias,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Águas Frias,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Águas Frias,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases
 Águas Frias,16-04-2021,454,1,1,0,0.2857142857142857,0.14285714285714285,2.0,1.0
 Águas Frias,17-04-2021,454,0,1,0,0.2857142857142857,0.14285714285714285,2.0,1.0
 Águas Frias,18-04-2021,455,1,1,0,0.42857142857142855,0.14285714285714285,3.0,1.0
+Águas Frias,19-04-2021,455,0,1,0,0.42857142857142855,0.0,3.0,0.0

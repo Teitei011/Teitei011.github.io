@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São Luiz do Paraitinga,27-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
 São Luiz do Paraitinga,28-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-São Luiz do Paraitinga,29-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+São Luiz do Paraitinga,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Luiz do Paraitinga,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Luiz do Paraitinga,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Luiz do Paraitinga,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ São Luiz do Paraitinga,15-04-2021,26,0,7,1,0.14285714285714285,0.14285714285714
 São Luiz do Paraitinga,16-04-2021,26,0,7,0,0.14285714285714285,0.14285714285714285,1.0,1.0
 São Luiz do Paraitinga,17-04-2021,26,0,7,0,0.14285714285714285,0.14285714285714285,1.0,1.0
 São Luiz do Paraitinga,18-04-2021,26,0,7,0,0.14285714285714285,0.14285714285714285,1.0,1.0
+São Luiz do Paraitinga,19-04-2021,26,0,7,0,0.0,0.14285714285714285,0.0,1.0

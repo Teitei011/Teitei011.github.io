@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Poço das Trincheiras,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Poço das Trincheiras,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Poço das Trincheiras,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Poço das Trincheiras,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Poço das Trincheiras,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ Poço das Trincheiras,15-04-2021,322,0,6,0,0.42857142857142855,0.142857142857142
 Poço das Trincheiras,16-04-2021,330,8,6,0,1.5714285714285714,0.14285714285714285,11.0,1.0
 Poço das Trincheiras,17-04-2021,331,1,6,0,1.5714285714285714,0.14285714285714285,11.0,1.0
 Poço das Trincheiras,18-04-2021,349,18,6,0,3.857142857142857,0.14285714285714285,27.0,1.0
+Poço das Trincheiras,19-04-2021,349,0,6,0,3.857142857142857,0.14285714285714285,27.0,1.0

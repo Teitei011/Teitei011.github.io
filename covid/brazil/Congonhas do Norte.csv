@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Congonhas do Norte,27-03-2020,0,0,0,0,27.285714285714285,0.2857142857142857,191.0,2.0
-Congonhas do Norte,28-03-2020,0,0,0,0,24.857142857142858,0.2857142857142857,174.0,2.0
-Congonhas do Norte,29-03-2020,0,0,0,0,24.857142857142858,0.14285714285714285,174.0,1.0
-Congonhas do Norte,30-03-2020,0,0,0,0,13.571428571428571,0.0,95.0,0.0
-Congonhas do Norte,31-03-2020,0,0,0,0,8.571428571428571,0.0,60.0,0.0
-Congonhas do Norte,01-04-2020,0,0,0,0,5.285714285714286,0.0,37.0,0.0
+Congonhas do Norte,27-03-2020,0,0,0,0,24.857142857142858,0.2857142857142857,174.0,2.0
+Congonhas do Norte,28-03-2020,0,0,0,0,24.857142857142858,0.14285714285714285,174.0,1.0
+Congonhas do Norte,29-03-2020,0,0,0,0,13.571428571428571,0.0,95.0,0.0
+Congonhas do Norte,30-03-2020,0,0,0,0,8.571428571428571,0.0,60.0,0.0
+Congonhas do Norte,31-03-2020,0,0,0,0,5.285714285714286,0.0,37.0,0.0
+Congonhas do Norte,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Congonhas do Norte,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Congonhas do Norte,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Congonhas do Norte,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ Congonhas do Norte,15-04-2021,96,0,1,0,0.0,0.0,0.0,0.0
 Congonhas do Norte,16-04-2021,96,0,1,0,0.0,0.0,0.0,0.0
 Congonhas do Norte,17-04-2021,96,0,1,0,0.0,0.0,0.0,0.0
 Congonhas do Norte,18-04-2021,96,0,1,0,0.0,0.0,0.0,0.0
+Congonhas do Norte,19-04-2021,96,0,1,0,0.0,0.0,0.0,0.0

@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Passa e Fica,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Passa e Fica,28-03-2020,1,1,0,0,0.2857142857142857,0.0,2.0,0.0
-Passa e Fica,29-03-2020,1,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Passa e Fica,29-03-2020,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Passa e Fica,30-03-2020,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Passa e Fica,31-03-2020,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Passa e Fica,01-04-2020,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
@@ -387,3 +387,4 @@ Passa e Fica,15-04-2021,763,10,1,0,11.0,0.0,77.0,0.0
 Passa e Fica,16-04-2021,763,0,1,0,11.0,0.0,77.0,0.0
 Passa e Fica,17-04-2021,775,12,1,0,8.0,0.0,56.0,0.0
 Passa e Fica,18-04-2021,780,5,1,0,6.142857142857143,0.0,43.0,0.0
+Passa e Fica,19-04-2021,780,0,1,0,6.0,0.0,42.0,0.0

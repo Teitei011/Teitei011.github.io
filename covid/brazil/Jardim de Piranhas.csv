@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Jardim de Piranhas,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Jardim de Piranhas,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Jardim de Piranhas,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Jardim de Piranhas,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Jardim de Piranhas,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Jardim de Piranhas,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Jardim de Piranhas,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Jardim de Piranhas,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Jardim de Piranhas,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Jardim de Piranhas,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Jardim de Piranhas,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Jardim de Piranhas,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Jardim de Piranhas,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Jardim de Piranhas,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ Jardim de Piranhas,15-04-2021,1311,2,28,0,5.142857142857143,0.0,36.0,0.0
 Jardim de Piranhas,16-04-2021,1314,3,29,1,5.0,0.14285714285714285,35.0,1.0
 Jardim de Piranhas,17-04-2021,1320,6,29,0,5.857142857142857,0.14285714285714285,41.0,1.0
 Jardim de Piranhas,18-04-2021,1325,5,29,0,6.142857142857143,0.14285714285714285,43.0,1.0
+Jardim de Piranhas,19-04-2021,1325,0,29,0,6.142857142857143,0.14285714285714285,43.0,1.0

@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Três Cachoeiras,27-03-2020,0,0,0,0,5.0,-0.14285714285714285,35.0,-1.0
-Três Cachoeiras,28-03-2020,0,0,0,0,0.14285714285714285,-0.14285714285714285,1.0,-1.0
-Três Cachoeiras,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Três Cachoeiras,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Três Cachoeiras,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Três Cachoeiras,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Três Cachoeiras,27-03-2020,0,0,0,0,1.1428571428571428,-0.14285714285714285,8.0,-1.0
+Três Cachoeiras,28-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Três Cachoeiras,29-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Três Cachoeiras,30-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Três Cachoeiras,31-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Três Cachoeiras,01-04-2020,0,0,0,0,1.0,0.0,7.0,0.0
 Três Cachoeiras,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Três Cachoeiras,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Três Cachoeiras,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ Três Cachoeiras,15-04-2021,401,0,23,0,0.0,0.0,0.0,0.0
 Três Cachoeiras,16-04-2021,401,0,23,0,0.0,0.0,0.0,0.0
 Três Cachoeiras,17-04-2021,401,0,23,0,0.0,0.0,0.0,0.0
 Três Cachoeiras,18-04-2021,401,0,23,0,0.0,0.0,0.0,0.0
+Três Cachoeiras,19-04-2021,401,0,23,0,0.0,0.0,0.0,0.0

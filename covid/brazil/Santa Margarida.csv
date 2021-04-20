@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santa Margarida,27-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
-Santa Margarida,28-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-Santa Margarida,29-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Santa Margarida,27-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Santa Margarida,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Santa Margarida,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Margarida,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Margarida,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Margarida,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ Santa Margarida,15-04-2021,762,6,23,0,1.7142857142857142,0.2857142857142857,12.0
 Santa Margarida,16-04-2021,762,0,23,0,2.2857142857142856,0.2857142857142857,16.0,2.0
 Santa Margarida,17-04-2021,764,2,23,0,2.0,0.2857142857142857,14.0,2.0
 Santa Margarida,18-04-2021,766,2,23,0,2.2857142857142856,0.14285714285714285,16.0,1.0
+Santa Margarida,19-04-2021,766,0,23,0,2.2857142857142856,0.14285714285714285,16.0,1.0

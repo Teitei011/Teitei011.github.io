@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Canutama,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Canutama,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Canutama,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Canutama,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Canutama,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ Canutama,15-04-2021,1256,4,8,0,7.714285714285714,0.0,54.0,0.0
 Canutama,16-04-2021,1259,3,8,0,7.285714285714286,0.0,51.0,0.0
 Canutama,17-04-2021,1259,0,8,0,5.857142857142857,0.0,41.0,0.0
 Canutama,18-04-2021,1259,0,8,0,5.857142857142857,0.0,41.0,0.0
+Canutama,19-04-2021,1263,4,8,0,4.428571428571429,0.0,31.0,0.0

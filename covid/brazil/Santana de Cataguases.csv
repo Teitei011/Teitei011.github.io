@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santana de Cataguases,27-03-2020,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
-Santana de Cataguases,28-03-2020,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
-Santana de Cataguases,29-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
-Santana de Cataguases,30-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Santana de Cataguases,31-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Santana de Cataguases,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Santana de Cataguases,27-03-2020,0,0,0,0,3.857142857142857,0.14285714285714285,27.0,1.0
+Santana de Cataguases,28-03-2020,0,0,0,0,3.2857142857142856,0.14285714285714285,23.0,1.0
+Santana de Cataguases,29-03-2020,0,0,0,0,1.8571428571428572,0.14285714285714285,13.0,1.0
+Santana de Cataguases,30-03-2020,0,0,0,0,1.8571428571428572,0.14285714285714285,13.0,1.0
+Santana de Cataguases,31-03-2020,0,0,0,0,1.2857142857142858,0.14285714285714285,9.0,1.0
+Santana de Cataguases,01-04-2020,0,0,0,0,1.2857142857142858,0.14285714285714285,9.0,1.0
 Santana de Cataguases,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana de Cataguases,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana de Cataguases,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ Santana de Cataguases,15-04-2021,344,7,0,0,2.142857142857143,0.0,15.0,0.0
 Santana de Cataguases,16-04-2021,346,2,0,0,2.142857142857143,0.0,15.0,0.0
 Santana de Cataguases,17-04-2021,348,2,0,0,2.2857142857142856,0.0,16.0,0.0
 Santana de Cataguases,18-04-2021,348,0,0,0,2.2857142857142856,0.0,16.0,0.0
+Santana de Cataguases,19-04-2021,348,0,0,0,2.2857142857142856,0.0,16.0,0.0

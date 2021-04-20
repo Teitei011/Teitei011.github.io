@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santa Bárbara de Goiás,27-03-2020,0,0,0,0,55.42857142857143,3.2857142857142856,388.0,23.0
-Santa Bárbara de Goiás,28-03-2020,0,0,0,0,43.857142857142854,3.0,307.0,21.0
-Santa Bárbara de Goiás,29-03-2020,0,0,0,0,32.42857142857143,2.857142857142857,227.0,20.0
-Santa Bárbara de Goiás,30-03-2020,0,0,0,0,20.857142857142858,1.4285714285714286,146.0,10.0
-Santa Bárbara de Goiás,31-03-2020,0,0,0,0,12.857142857142858,0.7142857142857143,90.0,5.0
-Santa Bárbara de Goiás,01-04-2020,0,0,0,0,2.2857142857142856,0.0,16.0,0.0
+Santa Bárbara de Goiás,27-03-2020,0,0,0,0,45.142857142857146,3.0,316.0,21.0
+Santa Bárbara de Goiás,28-03-2020,0,0,0,0,33.714285714285715,2.857142857142857,236.0,20.0
+Santa Bárbara de Goiás,29-03-2020,0,0,0,0,22.142857142857142,1.4285714285714286,155.0,10.0
+Santa Bárbara de Goiás,30-03-2020,0,0,0,0,14.142857142857142,0.7142857142857143,99.0,5.0
+Santa Bárbara de Goiás,31-03-2020,0,0,0,0,3.5714285714285716,0.0,25.0,0.0
+Santa Bárbara de Goiás,01-04-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
 Santa Bárbara de Goiás,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Bárbara de Goiás,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Bárbara de Goiás,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ Santa Bárbara de Goiás,15-04-2021,621,0,13,0,0.0,0.0,0.0,0.0
 Santa Bárbara de Goiás,16-04-2021,621,0,13,0,0.0,0.0,0.0,0.0
 Santa Bárbara de Goiás,17-04-2021,622,1,13,0,0.14285714285714285,0.0,1.0,0.0
 Santa Bárbara de Goiás,18-04-2021,621,-1,13,0,0.0,0.0,0.0,0.0
+Santa Bárbara de Goiás,19-04-2021,621,0,13,0,0.0,0.0,0.0,0.0

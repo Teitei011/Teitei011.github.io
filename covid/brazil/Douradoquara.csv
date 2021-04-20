@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Douradoquara,27-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Douradoquara,27-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
 Douradoquara,28-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Douradoquara,29-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Douradoquara,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Douradoquara,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Douradoquara,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Douradoquara,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Douradoquara,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Douradoquara,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Douradoquara,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Douradoquara,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Douradoquara,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Douradoquara,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ Douradoquara,15-04-2021,67,0,2,0,0.0,0.0,0.0,0.0
 Douradoquara,16-04-2021,67,0,2,0,0.0,0.0,0.0,0.0
 Douradoquara,17-04-2021,67,0,2,0,0.0,0.0,0.0,0.0
 Douradoquara,18-04-2021,67,0,2,0,0.0,0.0,0.0,0.0
+Douradoquara,19-04-2021,67,0,2,0,0.0,0.0,0.0,0.0

@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Engenheiro Caldas,27-03-2020,0,0,0,0,2.7142857142857144,0.0,19.0,0.0
-Engenheiro Caldas,28-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
-Engenheiro Caldas,29-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
-Engenheiro Caldas,30-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
-Engenheiro Caldas,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Engenheiro Caldas,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Engenheiro Caldas,27-03-2020,0,0,0,0,2.2857142857142856,0.0,16.0,0.0
+Engenheiro Caldas,28-03-2020,0,0,0,0,2.2857142857142856,0.0,16.0,0.0
+Engenheiro Caldas,29-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
+Engenheiro Caldas,30-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Engenheiro Caldas,31-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Engenheiro Caldas,01-04-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Engenheiro Caldas,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Engenheiro Caldas,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Engenheiro Caldas,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ Engenheiro Caldas,15-04-2021,541,5,23,1,6.857142857142857,0.14285714285714285,48
 Engenheiro Caldas,16-04-2021,545,4,23,0,6.0,0.14285714285714285,42.0,1.0
 Engenheiro Caldas,17-04-2021,550,5,23,0,6.714285714285714,0.14285714285714285,47.0,1.0
 Engenheiro Caldas,18-04-2021,558,8,23,0,7.857142857142857,0.14285714285714285,55.0,1.0
+Engenheiro Caldas,19-04-2021,558,0,23,0,5.0,0.14285714285714285,35.0,1.0

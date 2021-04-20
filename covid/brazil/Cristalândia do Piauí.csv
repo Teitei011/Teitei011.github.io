@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Cristalândia do Piauí,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Cristalândia do Piauí,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Cristalândia do Piauí,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Cristalândia do Piauí,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Cristalândia do Piauí,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Cristalândia do Piauí,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Cristalândia do Piauí,27-03-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
+Cristalândia do Piauí,28-03-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
+Cristalândia do Piauí,29-03-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
+Cristalândia do Piauí,30-03-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
+Cristalândia do Piauí,31-03-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
+Cristalândia do Piauí,01-04-2020,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
 Cristalândia do Piauí,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cristalândia do Piauí,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cristalândia do Piauí,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ Cristalândia do Piauí,15-04-2021,45,0,1,0,0.0,0.0,0.0,0.0
 Cristalândia do Piauí,16-04-2021,45,0,1,0,0.0,0.0,0.0,0.0
 Cristalândia do Piauí,17-04-2021,45,0,2,1,0.0,0.14285714285714285,0.0,1.0
 Cristalândia do Piauí,18-04-2021,45,0,2,0,0.0,0.14285714285714285,0.0,1.0
+Cristalândia do Piauí,19-04-2021,45,0,2,0,0.0,0.14285714285714285,0.0,1.0

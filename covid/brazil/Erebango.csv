@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Erebango,27-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Erebango,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Erebango,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Erebango,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Erebango,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ Erebango,15-04-2021,213,4,1,0,2.2857142857142856,0.0,16.0,0.0
 Erebango,16-04-2021,214,1,1,0,2.2857142857142856,0.0,16.0,0.0
 Erebango,17-04-2021,216,2,1,0,2.4285714285714284,0.0,17.0,0.0
 Erebango,18-04-2021,216,0,1,0,2.4285714285714284,0.0,17.0,0.0
+Erebango,19-04-2021,216,0,1,0,2.4285714285714284,0.0,17.0,0.0

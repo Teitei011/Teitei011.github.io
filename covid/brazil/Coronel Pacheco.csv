@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Coronel Pacheco,27-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Coronel Pacheco,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Coronel Pacheco,28-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Coronel Pacheco,29-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Coronel Pacheco,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Coronel Pacheco,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Coronel Pacheco,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Coronel Pacheco,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coronel Pacheco,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coronel Pacheco,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coronel Pacheco,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -387,3 +387,4 @@ Coronel Pacheco,15-04-2021,149,0,7,0,0.0,0.0,0.0,0.0
 Coronel Pacheco,16-04-2021,149,0,7,0,0.0,0.0,0.0,0.0
 Coronel Pacheco,17-04-2021,164,15,7,0,2.142857142857143,0.0,15.0,0.0
 Coronel Pacheco,18-04-2021,164,0,7,0,2.142857142857143,0.0,15.0,0.0
+Coronel Pacheco,19-04-2021,164,0,7,0,2.142857142857143,0.0,15.0,0.0
