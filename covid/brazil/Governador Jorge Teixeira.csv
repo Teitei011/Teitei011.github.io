@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Governador Jorge Teixeira,27-03-2020,0,0,0,0,5.428571428571429,0.0,38.0,0.0
 Governador Jorge Teixeira,28-03-2020,0,0,0,0,5.428571428571429,0.0,38.0,0.0
-Governador Jorge Teixeira,29-03-2020,0,0,0,0,5.428571428571429,0.0,38.0,0.0
+Governador Jorge Teixeira,29-03-2020,0,0,0,0,3.2857142857142856,0.0,23.0,0.0
 Governador Jorge Teixeira,30-03-2020,0,0,0,0,3.2857142857142856,0.0,23.0,0.0
-Governador Jorge Teixeira,31-03-2020,0,0,0,0,3.2857142857142856,0.0,23.0,0.0
-Governador Jorge Teixeira,01-04-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Governador Jorge Teixeira,31-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Governador Jorge Teixeira,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Jorge Teixeira,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Jorge Teixeira,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Governador Jorge Teixeira,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -388,3 +388,4 @@ Governador Jorge Teixeira,16-04-2021,521,3,6,0,5.714285714285714,0.0,40.0,0.0
 Governador Jorge Teixeira,17-04-2021,523,2,6,0,5.428571428571429,0.0,38.0,0.0
 Governador Jorge Teixeira,18-04-2021,523,0,6,0,5.428571428571429,0.0,38.0,0.0
 Governador Jorge Teixeira,19-04-2021,529,6,7,1,5.571428571428571,0.14285714285714285,39.0,1.0
+Governador Jorge Teixeira,20-04-2021,537,8,7,0,5.571428571428571,0.14285714285714285,39.0,1.0

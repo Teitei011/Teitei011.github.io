@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Piedade de Caratinga,27-03-2020,0,0,0,0,18.714285714285715,0.14285714285714285,131.0,1.0
-Piedade de Caratinga,28-03-2020,0,0,0,0,13.285714285714286,0.14285714285714285,93.0,1.0
-Piedade de Caratinga,29-03-2020,0,0,0,0,12.571428571428571,0.0,88.0,0.0
-Piedade de Caratinga,30-03-2020,0,0,0,0,11.857142857142858,0.0,83.0,0.0
-Piedade de Caratinga,31-03-2020,0,0,0,0,10.142857142857142,0.0,71.0,0.0
-Piedade de Caratinga,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Piedade de Caratinga,27-03-2020,0,0,0,0,17.428571428571427,0.14285714285714285,122.0,1.0
+Piedade de Caratinga,28-03-2020,0,0,0,0,16.714285714285715,0.0,117.0,0.0
+Piedade de Caratinga,29-03-2020,0,0,0,0,16.0,0.0,112.0,0.0
+Piedade de Caratinga,30-03-2020,0,0,0,0,14.285714285714286,0.0,100.0,0.0
+Piedade de Caratinga,31-03-2020,0,0,0,0,4.142857142857143,0.0,29.0,0.0
+Piedade de Caratinga,01-04-2020,0,0,0,0,4.142857142857143,0.0,29.0,0.0
 Piedade de Caratinga,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Piedade de Caratinga,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Piedade de Caratinga,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -388,3 +388,4 @@ Piedade de Caratinga,16-04-2021,412,5,16,0,6.571428571428571,0.14285714285714285
 Piedade de Caratinga,17-04-2021,413,1,16,0,5.0,0.14285714285714285,35.0,1.0
 Piedade de Caratinga,18-04-2021,413,0,16,0,5.0,0.14285714285714285,35.0,1.0
 Piedade de Caratinga,19-04-2021,413,0,16,0,5.0,0.14285714285714285,35.0,1.0
+Piedade de Caratinga,20-04-2021,419,6,16,0,5.857142857142857,0.14285714285714285,41.0,1.0

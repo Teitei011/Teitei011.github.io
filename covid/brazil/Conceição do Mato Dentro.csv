@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Conceição do Mato Dentro,27-03-2020,0,0,0,0,0.7142857142857143,0.2857142857142857,5.0,2.0
 Conceição do Mato Dentro,28-03-2020,0,0,0,0,0.7142857142857143,0.2857142857142857,5.0,2.0
-Conceição do Mato Dentro,29-03-2020,0,0,0,0,0.7142857142857143,0.2857142857142857,5.0,2.0
+Conceição do Mato Dentro,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Conceição do Mato Dentro,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Conceição do Mato Dentro,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Conceição do Mato Dentro,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -388,3 +388,4 @@ Conceição do Mato Dentro,16-04-2021,2256,16,20,1,10.142857142857142,0.42857142
 Conceição do Mato Dentro,17-04-2021,2256,0,21,1,8.285714285714286,0.42857142857142855,58.0,3.0
 Conceição do Mato Dentro,18-04-2021,2256,0,21,0,8.285714285714286,0.42857142857142855,58.0,3.0
 Conceição do Mato Dentro,19-04-2021,2256,0,21,0,8.285714285714286,0.42857142857142855,58.0,3.0
+Conceição do Mato Dentro,20-04-2021,2276,20,24,3,9.428571428571429,0.8571428571428571,66.0,6.0

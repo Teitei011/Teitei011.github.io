@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santo Inácio do Piauí,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Santo Inácio do Piauí,28-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Santo Inácio do Piauí,28-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Santo Inácio do Piauí,29-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Santo Inácio do Piauí,30-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Santo Inácio do Piauí,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Santo Inácio do Piauí,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Santo Inácio do Piauí,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santo Inácio do Piauí,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Inácio do Piauí,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Inácio do Piauí,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santo Inácio do Piauí,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -388,3 +388,4 @@ Santo Inácio do Piauí,16-04-2021,195,9,5,0,2.2857142857142856,0.14285714285714
 Santo Inácio do Piauí,17-04-2021,198,3,5,0,2.7142857142857144,0.14285714285714285,19.0,1.0
 Santo Inácio do Piauí,18-04-2021,200,2,5,0,3.0,0.14285714285714285,21.0,1.0
 Santo Inácio do Piauí,19-04-2021,201,1,5,0,2.857142857142857,0.14285714285714285,20.0,1.0
+Santo Inácio do Piauí,20-04-2021,201,0,5,0,2.857142857142857,0.14285714285714285,20.0,1.0

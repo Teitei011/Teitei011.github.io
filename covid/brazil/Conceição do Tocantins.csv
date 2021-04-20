@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Conceição do Tocantins,27-03-2020,0,0,0,0,2.857142857142857,0.0,20.0,0.0
-Conceição do Tocantins,28-03-2020,0,0,0,0,2.2857142857142856,0.0,16.0,0.0
-Conceição do Tocantins,29-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
-Conceição do Tocantins,30-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Conceição do Tocantins,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Conceição do Tocantins,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Conceição do Tocantins,27-03-2020,0,0,0,0,3.2857142857142856,0.0,23.0,0.0
+Conceição do Tocantins,28-03-2020,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
+Conceição do Tocantins,29-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
+Conceição do Tocantins,30-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Conceição do Tocantins,31-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Conceição do Tocantins,01-04-2020,0,0,0,0,1.0,0.0,7.0,0.0
 Conceição do Tocantins,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Conceição do Tocantins,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Conceição do Tocantins,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -388,3 +388,4 @@ Conceição do Tocantins,16-04-2021,96,0,8,0,2.857142857142857,0.142857142857142
 Conceição do Tocantins,17-04-2021,96,0,8,0,2.857142857142857,0.14285714285714285,20.0,1.0
 Conceição do Tocantins,18-04-2021,96,0,8,0,2.857142857142857,0.14285714285714285,20.0,1.0
 Conceição do Tocantins,19-04-2021,96,0,8,0,2.857142857142857,0.14285714285714285,20.0,1.0
+Conceição do Tocantins,20-04-2021,96,0,8,0,2.857142857142857,0.14285714285714285,20.0,1.0

@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Serra Branca,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Serra Branca,28-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Serra Branca,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Serra Branca,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Serra Branca,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Serra Branca,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -388,3 +388,4 @@ Serra Branca,16-04-2021,557,1,19,0,2.4285714285714284,0.0,17.0,0.0
 Serra Branca,17-04-2021,563,6,19,0,2.7142857142857144,0.0,19.0,0.0
 Serra Branca,18-04-2021,563,0,19,0,2.7142857142857144,0.0,19.0,0.0
 Serra Branca,19-04-2021,563,0,19,0,2.4285714285714284,0.0,17.0,0.0
+Serra Branca,20-04-2021,573,10,19,0,3.857142857142857,0.0,27.0,0.0

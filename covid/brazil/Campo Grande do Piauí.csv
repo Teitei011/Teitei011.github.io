@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Campo Grande do Piauí,27-03-2020,0,0,0,0,241.0,16.571428571428573,1687.0,116.0
-Campo Grande do Piauí,28-03-2020,0,0,0,0,197.28571428571428,13.285714285714286,1381.0,93.0
-Campo Grande do Piauí,29-03-2020,0,0,0,0,153.71428571428572,10.428571428571429,1076.0,73.0
-Campo Grande do Piauí,30-03-2020,0,0,0,0,131.14285714285714,7.428571428571429,918.0,52.0
-Campo Grande do Piauí,31-03-2020,0,0,0,0,87.28571428571429,3.0,611.0,21.0
-Campo Grande do Piauí,01-04-2020,0,0,0,0,39.857142857142854,1.1428571428571428,279.0,8.0
+Campo Grande do Piauí,27-03-2020,0,0,0,0,236.57142857142858,16.0,1656.0,112.0
+Campo Grande do Piauí,28-03-2020,0,0,0,0,193.0,13.142857142857142,1351.0,92.0
+Campo Grande do Piauí,29-03-2020,0,0,0,0,170.42857142857142,10.142857142857142,1193.0,71.0
+Campo Grande do Piauí,30-03-2020,0,0,0,0,126.57142857142857,5.714285714285714,886.0,40.0
+Campo Grande do Piauí,31-03-2020,0,0,0,0,79.14285714285714,3.857142857142857,554.0,27.0
+Campo Grande do Piauí,01-04-2020,0,0,0,0,39.285714285714285,2.7142857142857144,275.0,19.0
 Campo Grande do Piauí,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campo Grande do Piauí,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campo Grande do Piauí,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -388,3 +388,4 @@ Campo Grande do Piauí,16-04-2021,422,13,4,0,2.0,0.0,14.0,0.0
 Campo Grande do Piauí,17-04-2021,422,0,4,0,2.0,0.0,14.0,0.0
 Campo Grande do Piauí,18-04-2021,422,0,4,0,2.0,0.0,14.0,0.0
 Campo Grande do Piauí,19-04-2021,422,0,4,0,2.0,0.0,14.0,0.0
+Campo Grande do Piauí,20-04-2021,422,0,4,0,2.0,0.0,14.0,0.0

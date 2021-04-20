@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Américo Brasiliense,27-03-2020,0,0,0,0,8.428571428571429,0.0,59.0,0.0
-Américo Brasiliense,28-03-2020,0,0,0,0,7.428571428571429,0.0,52.0,0.0
-Américo Brasiliense,29-03-2020,0,0,0,0,7.285714285714286,0.0,51.0,0.0
-Américo Brasiliense,30-03-2020,0,0,0,0,4.571428571428571,0.0,32.0,0.0
-Américo Brasiliense,31-03-2020,0,0,0,0,4.0,0.0,28.0,0.0
-Américo Brasiliense,01-04-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Américo Brasiliense,27-03-2020,0,0,0,0,9.0,0.0,63.0,0.0
+Américo Brasiliense,28-03-2020,0,0,0,0,8.857142857142858,0.0,62.0,0.0
+Américo Brasiliense,29-03-2020,0,0,0,0,6.142857142857143,0.0,43.0,0.0
+Américo Brasiliense,30-03-2020,0,0,0,0,5.571428571428571,0.0,39.0,0.0
+Américo Brasiliense,31-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
+Américo Brasiliense,01-04-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
 Américo Brasiliense,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Américo Brasiliense,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Américo Brasiliense,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -388,3 +388,4 @@ Américo Brasiliense,16-04-2021,2939,7,65,1,11.428571428571429,0.142857142857142
 Américo Brasiliense,17-04-2021,2956,17,68,3,11.714285714285714,0.5714285714285714,82.0,4.0
 Américo Brasiliense,18-04-2021,2959,3,68,0,10.0,0.5714285714285714,70.0,4.0
 Américo Brasiliense,19-04-2021,2960,1,68,0,9.571428571428571,0.5714285714285714,67.0,4.0
+Américo Brasiliense,20-04-2021,2972,12,68,0,9.285714285714286,0.5714285714285714,65.0,4.0

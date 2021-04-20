@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Nova Russas,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Nova Russas,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Nova Russas,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Nova Russas,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Nova Russas,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Russas,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Russas,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Russas,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -388,3 +388,4 @@ Nova Russas,16-04-2021,1819,59,33,0,14.571428571428571,0.0,102.0,0.0
 Nova Russas,17-04-2021,1830,11,33,0,15.0,0.0,105.0,0.0
 Nova Russas,18-04-2021,1837,7,33,0,15.285714285714286,0.0,107.0,0.0
 Nova Russas,19-04-2021,1835,-2,33,0,14.0,0.0,98.0,0.0
+Nova Russas,20-04-2021,1846,11,33,0,12.285714285714286,0.0,86.0,0.0

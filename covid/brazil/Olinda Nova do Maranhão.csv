@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Olinda Nova do Maranhão,27-03-2020,0,0,0,0,53.857142857142854,1.4285714285714286,377.0,10.0
-Olinda Nova do Maranhão,28-03-2020,0,0,0,0,45.714285714285715,1.1428571428571428,320.0,8.0
-Olinda Nova do Maranhão,29-03-2020,0,0,0,0,38.0,1.0,266.0,7.0
-Olinda Nova do Maranhão,30-03-2020,0,0,0,0,30.714285714285715,0.5714285714285714,215.0,4.0
-Olinda Nova do Maranhão,31-03-2020,0,0,0,0,9.142857142857142,0.14285714285714285,64.0,1.0
-Olinda Nova do Maranhão,01-04-2020,0,0,0,0,2.142857142857143,0.14285714285714285,15.0,1.0
+Olinda Nova do Maranhão,27-03-2020,0,0,0,0,79.28571428571429,2.0,555.0,14.0
+Olinda Nova do Maranhão,28-03-2020,0,0,0,0,71.57142857142857,1.8571428571428572,501.0,13.0
+Olinda Nova do Maranhão,29-03-2020,0,0,0,0,64.28571428571429,1.4285714285714286,450.0,10.0
+Olinda Nova do Maranhão,30-03-2020,0,0,0,0,42.714285714285715,1.0,299.0,7.0
+Olinda Nova do Maranhão,31-03-2020,0,0,0,0,35.714285714285715,1.0,250.0,7.0
+Olinda Nova do Maranhão,01-04-2020,0,0,0,0,33.57142857142857,0.8571428571428571,235.0,6.0
 Olinda Nova do Maranhão,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Olinda Nova do Maranhão,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Olinda Nova do Maranhão,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -388,3 +388,4 @@ Olinda Nova do Maranhão,16-04-2021,443,0,9,0,2.857142857142857,0.0,20.0,0.0
 Olinda Nova do Maranhão,17-04-2021,443,0,9,0,2.857142857142857,0.0,20.0,0.0
 Olinda Nova do Maranhão,18-04-2021,443,0,9,0,2.857142857142857,0.0,20.0,0.0
 Olinda Nova do Maranhão,19-04-2021,444,1,9,0,3.0,0.0,21.0,0.0
+Olinda Nova do Maranhão,20-04-2021,455,11,9,0,4.571428571428571,0.0,32.0,0.0

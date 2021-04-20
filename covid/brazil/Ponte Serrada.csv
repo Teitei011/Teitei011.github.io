@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Ponte Serrada,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Ponte Serrada,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Ponte Serrada,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Ponte Serrada,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Ponte Serrada,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -388,3 +388,4 @@ Ponte Serrada,16-04-2021,864,6,27,0,8.428571428571429,0.0,59.0,0.0
 Ponte Serrada,17-04-2021,874,10,27,0,8.428571428571429,0.0,59.0,0.0
 Ponte Serrada,18-04-2021,874,0,27,0,8.428571428571429,0.0,59.0,0.0
 Ponte Serrada,19-04-2021,875,1,27,0,6.857142857142857,0.0,48.0,0.0
+Ponte Serrada,20-04-2021,895,20,28,1,8.285714285714286,0.14285714285714285,58.0,1.0

@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Gabriel Monteiro,27-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Gabriel Monteiro,28-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Gabriel Monteiro,29-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Gabriel Monteiro,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Gabriel Monteiro,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Gabriel Monteiro,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Gabriel Monteiro,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Gabriel Monteiro,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Gabriel Monteiro,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Gabriel Monteiro,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Gabriel Monteiro,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -388,3 +388,4 @@ Gabriel Monteiro,16-04-2021,114,0,4,0,0.2857142857142857,0.0,2.0,0.0
 Gabriel Monteiro,17-04-2021,114,0,4,0,0.2857142857142857,0.0,2.0,0.0
 Gabriel Monteiro,18-04-2021,114,0,4,0,0.2857142857142857,0.0,2.0,0.0
 Gabriel Monteiro,19-04-2021,114,0,4,0,0.2857142857142857,0.0,2.0,0.0
+Gabriel Monteiro,20-04-2021,114,0,4,0,0.0,0.0,0.0,0.0

@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Lagoa Grande,27-03-2020,0,0,0,0,0.0,0.42857142857142855,0.0,3.0
+Lagoa Grande,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lagoa Grande,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lagoa Grande,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lagoa Grande,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -388,3 +388,4 @@ Lagoa Grande,16-04-2021,1582,27,45,0,11.714285714285714,0.5714285714285714,82.0,
 Lagoa Grande,17-04-2021,1592,10,45,0,10.428571428571429,0.5714285714285714,73.0,4.0
 Lagoa Grande,18-04-2021,1605,13,45,0,11.285714285714286,0.5714285714285714,79.0,4.0
 Lagoa Grande,19-04-2021,1618,13,45,0,12.714285714285714,0.14285714285714285,89.0,1.0
+Lagoa Grande,20-04-2021,1637,19,45,0,14.714285714285714,0.0,103.0,0.0

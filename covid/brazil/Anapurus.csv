@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Anapurus,27-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Anapurus,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Anapurus,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Anapurus,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Anapurus,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -388,3 +388,4 @@ Anapurus,16-04-2021,828,0,11,0,0.0,0.0,0.0,0.0
 Anapurus,17-04-2021,828,0,11,0,0.0,0.0,0.0,0.0
 Anapurus,18-04-2021,828,0,11,0,0.0,0.0,0.0,0.0
 Anapurus,19-04-2021,828,0,11,0,0.0,0.0,0.0,0.0
+Anapurus,20-04-2021,828,0,11,0,0.0,0.0,0.0,0.0

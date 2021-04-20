@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Itacambira,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Itacambira,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Itacambira,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Itacambira,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Itacambira,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Itacambira,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Itacambira,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -388,3 +388,4 @@ Itacambira,16-04-2021,112,0,2,0,0.5714285714285714,0.0,4.0,0.0
 Itacambira,17-04-2021,112,0,2,0,0.14285714285714285,0.0,1.0,0.0
 Itacambira,18-04-2021,112,0,2,0,0.14285714285714285,0.0,1.0,0.0
 Itacambira,19-04-2021,112,0,2,0,0.14285714285714285,0.0,1.0,0.0
+Itacambira,20-04-2021,112,0,2,0,0.14285714285714285,0.0,1.0,0.0

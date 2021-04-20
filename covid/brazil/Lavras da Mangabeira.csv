@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Lavras da Mangabeira,27-03-2020,0,0,0,0,31.714285714285715,1.2857142857142858,222.0,9.0
-Lavras da Mangabeira,28-03-2020,0,0,0,0,16.285714285714285,1.0,114.0,7.0
-Lavras da Mangabeira,29-03-2020,0,0,0,0,12.0,0.8571428571428571,84.0,6.0
-Lavras da Mangabeira,30-03-2020,0,0,0,0,6.0,0.7142857142857143,42.0,5.0
-Lavras da Mangabeira,31-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
-Lavras da Mangabeira,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Lavras da Mangabeira,27-03-2020,0,0,0,0,33.57142857142857,1.0,235.0,7.0
+Lavras da Mangabeira,28-03-2020,0,0,0,0,29.285714285714285,0.8571428571428571,205.0,6.0
+Lavras da Mangabeira,29-03-2020,0,0,0,0,23.285714285714285,0.7142857142857143,163.0,5.0
+Lavras da Mangabeira,30-03-2020,0,0,0,0,17.285714285714285,0.14285714285714285,121.0,1.0
+Lavras da Mangabeira,31-03-2020,0,0,0,0,17.285714285714285,0.0,121.0,0.0
+Lavras da Mangabeira,01-04-2020,0,0,0,0,17.285714285714285,0.0,121.0,0.0
 Lavras da Mangabeira,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lavras da Mangabeira,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Lavras da Mangabeira,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -388,3 +388,4 @@ Lavras da Mangabeira,16-04-2021,1649,46,30,0,11.0,0.0,77.0,0.0
 Lavras da Mangabeira,17-04-2021,1647,-2,30,0,11.0,0.0,77.0,0.0
 Lavras da Mangabeira,18-04-2021,1705,58,30,0,17.857142857142858,0.0,125.0,0.0
 Lavras da Mangabeira,19-04-2021,1705,0,30,0,15.142857142857142,0.0,106.0,0.0
+Lavras da Mangabeira,20-04-2021,1706,1,31,1,14.714285714285714,0.14285714285714285,103.0,1.0

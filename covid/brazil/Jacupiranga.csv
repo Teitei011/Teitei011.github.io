@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Jacupiranga,27-03-2020,0,0,0,0,6.857142857142857,0.0,48.0,0.0
+Jacupiranga,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Jacupiranga,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Jacupiranga,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Jacupiranga,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -388,3 +388,4 @@ Jacupiranga,16-04-2021,1054,0,35,0,0.42857142857142855,0.14285714285714285,3.0,1
 Jacupiranga,17-04-2021,1054,0,35,0,0.42857142857142855,0.14285714285714285,3.0,1.0
 Jacupiranga,18-04-2021,1054,0,35,0,0.42857142857142855,0.14285714285714285,3.0,1.0
 Jacupiranga,19-04-2021,1054,0,35,0,0.42857142857142855,0.14285714285714285,3.0,1.0
+Jacupiranga,20-04-2021,1055,1,35,0,0.5714285714285714,0.0,4.0,0.0

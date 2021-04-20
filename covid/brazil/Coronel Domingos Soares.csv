@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Coronel Domingos Soares,27-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Coronel Domingos Soares,27-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
 Coronel Domingos Soares,28-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
 Coronel Domingos Soares,29-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Coronel Domingos Soares,30-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Coronel Domingos Soares,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coronel Domingos Soares,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coronel Domingos Soares,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coronel Domingos Soares,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -388,3 +388,4 @@ Coronel Domingos Soares,16-04-2021,911,19,6,0,9.142857142857142,0.0,64.0,0.0
 Coronel Domingos Soares,17-04-2021,911,0,6,0,7.714285714285714,0.0,54.0,0.0
 Coronel Domingos Soares,18-04-2021,911,0,6,0,7.714285714285714,0.0,54.0,0.0
 Coronel Domingos Soares,19-04-2021,911,0,6,0,7.714285714285714,0.0,54.0,0.0
+Coronel Domingos Soares,20-04-2021,933,22,6,0,6.857142857142857,0.0,48.0,0.0

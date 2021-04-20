@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Belém do Brejo do Cruz,27-03-2020,0,0,0,0,2.0,0.14285714285714285,14.0,1.0
-Belém do Brejo do Cruz,28-03-2020,0,0,0,0,0.7142857142857143,0.14285714285714285,5.0,1.0
-Belém do Brejo do Cruz,29-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Belém do Brejo do Cruz,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Belém do Brejo do Cruz,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Belém do Brejo do Cruz,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Belém do Brejo do Cruz,27-03-2020,0,0,0,0,0.8571428571428571,0.14285714285714285,6.0,1.0
+Belém do Brejo do Cruz,28-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Belém do Brejo do Cruz,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Belém do Brejo do Cruz,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Belém do Brejo do Cruz,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Belém do Brejo do Cruz,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Belém do Brejo do Cruz,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Belém do Brejo do Cruz,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Belém do Brejo do Cruz,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -388,3 +388,4 @@ Belém do Brejo do Cruz,16-04-2021,486,1,5,0,0.14285714285714285,0.0,1.0,0.0
 Belém do Brejo do Cruz,17-04-2021,487,1,5,0,0.2857142857142857,0.0,2.0,0.0
 Belém do Brejo do Cruz,18-04-2021,487,0,5,0,0.2857142857142857,0.0,2.0,0.0
 Belém do Brejo do Cruz,19-04-2021,487,0,5,0,0.2857142857142857,0.0,2.0,0.0
+Belém do Brejo do Cruz,20-04-2021,487,0,5,0,0.2857142857142857,0.0,2.0,0.0

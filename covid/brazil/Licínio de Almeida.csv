@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Licínio de Almeida,27-03-2020,0,0,0,0,2.857142857142857,0.0,20.0,0.0
-Licínio de Almeida,28-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-Licínio de Almeida,29-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Licínio de Almeida,30-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Licínio de Almeida,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Licínio de Almeida,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Licínio de Almeida,27-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
+Licínio de Almeida,28-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
+Licínio de Almeida,29-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
+Licínio de Almeida,30-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Licínio de Almeida,31-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Licínio de Almeida,01-04-2020,0,0,0,0,1.0,0.0,7.0,0.0
 Licínio de Almeida,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Licínio de Almeida,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Licínio de Almeida,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -388,3 +388,4 @@ Licínio de Almeida,16-04-2021,217,0,6,0,0.5714285714285714,0.0,4.0,0.0
 Licínio de Almeida,17-04-2021,217,0,6,0,0.5714285714285714,0.0,4.0,0.0
 Licínio de Almeida,18-04-2021,218,1,6,0,0.7142857142857143,0.0,5.0,0.0
 Licínio de Almeida,19-04-2021,219,1,6,0,0.8571428571428571,0.0,6.0,0.0
+Licínio de Almeida,20-04-2021,219,0,6,0,0.8571428571428571,0.0,6.0,0.0

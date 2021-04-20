@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Pedro dos Ferros,27-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-São Pedro dos Ferros,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-São Pedro dos Ferros,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-São Pedro dos Ferros,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-São Pedro dos Ferros,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-São Pedro dos Ferros,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+São Pedro dos Ferros,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+São Pedro dos Ferros,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+São Pedro dos Ferros,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+São Pedro dos Ferros,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+São Pedro dos Ferros,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+São Pedro dos Ferros,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 São Pedro dos Ferros,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Pedro dos Ferros,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Pedro dos Ferros,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -388,3 +388,4 @@ São Pedro dos Ferros,16-04-2021,311,18,7,0,6.857142857142857,0.1428571428571428
 São Pedro dos Ferros,17-04-2021,311,0,8,1,6.285714285714286,0.2857142857142857,44.0,2.0
 São Pedro dos Ferros,18-04-2021,311,0,8,0,6.285714285714286,0.14285714285714285,44.0,1.0
 São Pedro dos Ferros,19-04-2021,311,0,8,0,6.285714285714286,0.14285714285714285,44.0,1.0
+São Pedro dos Ferros,20-04-2021,312,1,8,0,5.142857142857143,0.14285714285714285,36.0,1.0

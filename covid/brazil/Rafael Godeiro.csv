@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Rafael Godeiro,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Rafael Godeiro,28-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Rafael Godeiro,28-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Rafael Godeiro,29-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Rafael Godeiro,30-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Rafael Godeiro,31-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Rafael Godeiro,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Rafael Godeiro,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Rafael Godeiro,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Rafael Godeiro,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -388,3 +388,4 @@ Rafael Godeiro,16-04-2021,355,1,1,0,0.8571428571428571,0.0,6.0,0.0
 Rafael Godeiro,17-04-2021,360,5,1,0,1.5714285714285714,0.0,11.0,0.0
 Rafael Godeiro,18-04-2021,360,0,1,0,1.1428571428571428,0.0,8.0,0.0
 Rafael Godeiro,19-04-2021,366,6,1,0,2.0,0.0,14.0,0.0
+Rafael Godeiro,20-04-2021,366,0,1,0,2.0,0.0,14.0,0.0

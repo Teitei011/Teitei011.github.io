@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Alto Alegre dos Parecis,27-03-2020,0,0,0,0,1.5714285714285714,0.14285714285714285,11.0,1.0
+Alto Alegre dos Parecis,27-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
 Alto Alegre dos Parecis,28-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-Alto Alegre dos Parecis,29-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Alto Alegre dos Parecis,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Alto Alegre dos Parecis,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Alto Alegre dos Parecis,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Alto Alegre dos Parecis,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -388,3 +388,4 @@ Alto Alegre dos Parecis,16-04-2021,1026,8,22,1,14.142857142857142,0.571428571428
 Alto Alegre dos Parecis,17-04-2021,1055,29,22,0,17.142857142857142,0.42857142857142855,120.0,3.0
 Alto Alegre dos Parecis,18-04-2021,1055,0,22,0,13.0,0.2857142857142857,91.0,2.0
 Alto Alegre dos Parecis,19-04-2021,1055,0,23,1,13.0,0.42857142857142855,91.0,3.0
+Alto Alegre dos Parecis,20-04-2021,1095,40,23,0,15.857142857142858,0.42857142857142855,111.0,3.0

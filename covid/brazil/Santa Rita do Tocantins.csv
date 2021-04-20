@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santa Rita do Tocantins,27-03-2020,0,0,0,0,5.714285714285714,0.14285714285714285,40.0,1.0
-Santa Rita do Tocantins,28-03-2020,0,0,0,0,4.571428571428571,0.0,32.0,0.0
-Santa Rita do Tocantins,29-03-2020,0,0,0,0,4.571428571428571,0.0,32.0,0.0
-Santa Rita do Tocantins,30-03-2020,0,0,0,0,4.571428571428571,0.0,32.0,0.0
-Santa Rita do Tocantins,31-03-2020,0,0,0,0,4.571428571428571,0.0,32.0,0.0
+Santa Rita do Tocantins,27-03-2020,0,0,0,0,5.571428571428571,0.0,39.0,0.0
+Santa Rita do Tocantins,28-03-2020,0,0,0,0,5.571428571428571,0.0,39.0,0.0
+Santa Rita do Tocantins,29-03-2020,0,0,0,0,5.571428571428571,0.0,39.0,0.0
+Santa Rita do Tocantins,30-03-2020,0,0,0,0,5.571428571428571,0.0,39.0,0.0
+Santa Rita do Tocantins,31-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
 Santa Rita do Tocantins,01-04-2020,0,0,0,0,1.0,0.0,7.0,0.0
 Santa Rita do Tocantins,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Rita do Tocantins,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -388,3 +388,4 @@ Santa Rita do Tocantins,16-04-2021,244,0,1,0,0.42857142857142855,0.0,3.0,0.0
 Santa Rita do Tocantins,17-04-2021,244,0,1,0,0.42857142857142855,0.0,3.0,0.0
 Santa Rita do Tocantins,18-04-2021,244,0,1,0,0.42857142857142855,0.0,3.0,0.0
 Santa Rita do Tocantins,19-04-2021,244,0,1,0,0.42857142857142855,0.0,3.0,0.0
+Santa Rita do Tocantins,20-04-2021,244,0,1,0,0.14285714285714285,0.0,1.0,0.0
