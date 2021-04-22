@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Barra de Guabiraba,27-03-2020,0,0,0,0,3.2857142857142856,0.0,23.0,0.0
-Barra de Guabiraba,28-03-2020,0,0,0,0,2.7142857142857144,0.0,19.0,0.0
+Barra de Guabiraba,27-03-2020,0,0,0,0,3.5714285714285716,0.0,25.0,0.0
+Barra de Guabiraba,28-03-2020,0,0,0,0,3.0,0.0,21.0,0.0
 Barra de Guabiraba,29-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
-Barra de Guabiraba,30-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
-Barra de Guabiraba,31-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
-Barra de Guabiraba,01-04-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Barra de Guabiraba,30-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Barra de Guabiraba,31-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Barra de Guabiraba,01-04-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
 Barra de Guabiraba,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Barra de Guabiraba,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Barra de Guabiraba,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Barra de Guabiraba,17-04-2021,339,0,13,0,1.1428571428571428,0.14285714285714285,
 Barra de Guabiraba,18-04-2021,339,0,13,0,1.1428571428571428,0.14285714285714285,8.0,1.0
 Barra de Guabiraba,19-04-2021,339,0,13,0,1.1428571428571428,0.14285714285714285,8.0,1.0
 Barra de Guabiraba,20-04-2021,339,0,13,0,1.1428571428571428,0.14285714285714285,8.0,1.0
+Barra de Guabiraba,21-04-2021,339,0,13,0,0.14285714285714285,0.0,1.0,0.0

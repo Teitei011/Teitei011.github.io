@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Mimoso do Sul,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Mimoso do Sul,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Mimoso do Sul,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Mimoso do Sul,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Mimoso do Sul,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Mimoso do Sul,17-04-2021,2545,1,36,0,9.0,0.14285714285714285,63.0,1.0
 Mimoso do Sul,18-04-2021,2556,11,36,0,10.285714285714286,0.14285714285714285,72.0,1.0
 Mimoso do Sul,19-04-2021,2571,15,36,0,11.428571428571429,0.14285714285714285,80.0,1.0
 Mimoso do Sul,20-04-2021,2577,6,36,0,12.285714285714286,0.14285714285714285,86.0,1.0
+Mimoso do Sul,21-04-2021,2579,2,37,1,9.142857142857142,0.2857142857142857,64.0,2.0

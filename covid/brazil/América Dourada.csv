@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-América Dourada,27-03-2020,0,0,0,0,3.857142857142857,0.0,27.0,0.0
+América Dourada,27-03-2020,0,0,0,0,3.7142857142857144,0.0,26.0,0.0
 América Dourada,28-03-2020,0,0,0,0,3.7142857142857144,0.0,26.0,0.0
-América Dourada,29-03-2020,0,0,0,0,3.7142857142857144,0.0,26.0,0.0
+América Dourada,29-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
 América Dourada,30-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-América Dourada,31-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
+América Dourada,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 América Dourada,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 América Dourada,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 América Dourada,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ América Dourada,17-04-2021,585,4,2,0,11.142857142857142,0.0,78.0,0.0
 América Dourada,18-04-2021,610,25,2,0,10.571428571428571,0.0,74.0,0.0
 América Dourada,19-04-2021,613,3,2,0,9.857142857142858,0.0,69.0,0.0
 América Dourada,20-04-2021,624,11,2,0,10.0,0.0,70.0,0.0
+América Dourada,21-04-2021,625,1,2,0,9.142857142857142,0.0,64.0,0.0

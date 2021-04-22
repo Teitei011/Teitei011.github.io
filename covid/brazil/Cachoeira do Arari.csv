@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Cachoeira do Arari,27-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
 Cachoeira do Arari,28-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
-Cachoeira do Arari,29-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
+Cachoeira do Arari,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cachoeira do Arari,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cachoeira do Arari,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cachoeira do Arari,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Cachoeira do Arari,17-04-2021,353,0,15,0,0.2857142857142857,0.0,2.0,0.0
 Cachoeira do Arari,18-04-2021,353,0,15,0,0.2857142857142857,0.0,2.0,0.0
 Cachoeira do Arari,19-04-2021,353,0,17,2,0.2857142857142857,0.2857142857142857,2.0,2.0
 Cachoeira do Arari,20-04-2021,353,0,18,1,0.2857142857142857,0.42857142857142855,2.0,3.0
+Cachoeira do Arari,21-04-2021,353,0,18,0,0.14285714285714285,0.42857142857142855,1.0,3.0

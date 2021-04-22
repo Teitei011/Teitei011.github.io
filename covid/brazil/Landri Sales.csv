@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Landri Sales,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Landri Sales,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Landri Sales,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Landri Sales,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Landri Sales,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Landri Sales,17-04-2021,533,13,9,0,7.857142857142857,0.0,55.0,0.0
 Landri Sales,18-04-2021,538,5,9,0,7.428571428571429,0.0,52.0,0.0
 Landri Sales,19-04-2021,538,0,9,0,7.428571428571429,0.0,52.0,0.0
 Landri Sales,20-04-2021,542,4,9,0,6.142857142857143,0.0,43.0,0.0
+Landri Sales,21-04-2021,548,6,9,0,6.571428571428571,0.0,46.0,0.0

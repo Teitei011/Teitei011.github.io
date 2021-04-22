@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Peixoto de Azevedo,27-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Peixoto de Azevedo,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Peixoto de Azevedo,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Peixoto de Azevedo,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Peixoto de Azevedo,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Peixoto de Azevedo,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Peixoto de Azevedo,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Peixoto de Azevedo,28-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Peixoto de Azevedo,29-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Peixoto de Azevedo,30-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Peixoto de Azevedo,31-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Peixoto de Azevedo,01-04-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Peixoto de Azevedo,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Peixoto de Azevedo,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Peixoto de Azevedo,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Peixoto de Azevedo,17-04-2021,3181,25,106,1,15.714285714285714,0.857142857142857
 Peixoto de Azevedo,18-04-2021,3181,0,107,1,15.571428571428571,0.8571428571428571,109.0,6.0
 Peixoto de Azevedo,19-04-2021,3203,22,108,1,16.428571428571427,1.0,115.0,7.0
 Peixoto de Azevedo,20-04-2021,3213,10,108,0,15.714285714285714,1.0,110.0,7.0
+Peixoto de Azevedo,21-04-2021,3229,16,110,2,15.571428571428571,0.8571428571428571,109.0,6.0

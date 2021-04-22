@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Riachão do Bacamarte,27-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
-Riachão do Bacamarte,28-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
-Riachão do Bacamarte,29-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
-Riachão do Bacamarte,30-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Riachão do Bacamarte,31-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Riachão do Bacamarte,27-03-2020,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
+Riachão do Bacamarte,28-03-2020,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
+Riachão do Bacamarte,29-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Riachão do Bacamarte,30-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Riachão do Bacamarte,31-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Riachão do Bacamarte,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Riachão do Bacamarte,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Riachão do Bacamarte,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Riachão do Bacamarte,17-04-2021,340,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Riachão do Bacamarte,18-04-2021,342,2,0,0,0.7142857142857143,0.0,5.0,0.0
 Riachão do Bacamarte,19-04-2021,344,2,0,0,0.5714285714285714,0.0,4.0,0.0
 Riachão do Bacamarte,20-04-2021,346,2,0,0,0.8571428571428571,0.0,6.0,0.0
+Riachão do Bacamarte,21-04-2021,346,0,0,0,0.8571428571428571,0.0,6.0,0.0

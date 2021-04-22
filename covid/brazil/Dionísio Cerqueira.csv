@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Dionísio Cerqueira,27-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Dionísio Cerqueira,28-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Dionísio Cerqueira,29-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Dionísio Cerqueira,30-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Dionísio Cerqueira,31-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Dionísio Cerqueira,01-04-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Dionísio Cerqueira,27-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Dionísio Cerqueira,28-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Dionísio Cerqueira,29-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Dionísio Cerqueira,30-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Dionísio Cerqueira,31-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Dionísio Cerqueira,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Dionísio Cerqueira,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Dionísio Cerqueira,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Dionísio Cerqueira,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Dionísio Cerqueira,17-04-2021,1001,10,23,0,6.285714285714286,0.0,44.0,0.0
 Dionísio Cerqueira,18-04-2021,1001,0,23,0,6.285714285714286,0.0,44.0,0.0
 Dionísio Cerqueira,19-04-2021,1007,6,23,0,6.428571428571429,0.0,45.0,0.0
 Dionísio Cerqueira,20-04-2021,1022,15,23,0,6.428571428571429,0.0,45.0,0.0
+Dionísio Cerqueira,21-04-2021,1028,6,25,2,6.857142857142857,0.2857142857142857,48.0,2.0

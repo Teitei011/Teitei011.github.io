@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Nova Alvorada,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Nova Alvorada,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Alvorada,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Alvorada,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Alvorada,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Nova Alvorada,17-04-2021,467,6,3,0,2.0,0.0,14.0,0.0
 Nova Alvorada,18-04-2021,467,0,3,0,2.0,0.0,14.0,0.0
 Nova Alvorada,19-04-2021,467,0,3,0,2.0,0.0,14.0,0.0
 Nova Alvorada,20-04-2021,470,3,3,0,1.4285714285714286,0.0,10.0,0.0
+Nova Alvorada,21-04-2021,476,6,3,0,2.2857142857142856,0.0,16.0,0.0

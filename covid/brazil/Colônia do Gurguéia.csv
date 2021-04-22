@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Colônia do Gurguéia,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Colônia do Gurguéia,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Colônia do Gurguéia,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Colônia do Gurguéia,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Colônia do Gurguéia,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Colônia do Gurguéia,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Colônia do Gurguéia,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Colônia do Gurguéia,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Colônia do Gurguéia,17-04-2021,244,1,5,0,5.285714285714286,0.14285714285714285
 Colônia do Gurguéia,18-04-2021,283,39,5,0,10.857142857142858,0.14285714285714285,76.0,1.0
 Colônia do Gurguéia,19-04-2021,308,25,5,0,14.285714285714286,0.14285714285714285,100.0,1.0
 Colônia do Gurguéia,20-04-2021,308,0,6,1,12.714285714285714,0.2857142857142857,89.0,2.0
+Colônia do Gurguéia,21-04-2021,344,36,6,0,14.428571428571429,0.2857142857142857,101.0,2.0

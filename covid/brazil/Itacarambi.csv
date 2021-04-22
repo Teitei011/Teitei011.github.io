@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Itacarambi,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Itacarambi,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Itacarambi,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Itacarambi,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Itacarambi,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Itacarambi,17-04-2021,373,3,7,0,2.4285714285714284,0.0,17.0,0.0
 Itacarambi,18-04-2021,373,0,7,0,2.4285714285714284,0.0,17.0,0.0
 Itacarambi,19-04-2021,373,0,7,0,2.4285714285714284,0.0,17.0,0.0
 Itacarambi,20-04-2021,375,2,7,0,2.7142857142857144,0.0,19.0,0.0
+Itacarambi,21-04-2021,375,0,7,0,1.1428571428571428,0.0,8.0,0.0

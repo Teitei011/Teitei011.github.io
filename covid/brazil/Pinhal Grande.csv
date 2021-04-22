@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Pinhal Grande,27-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Pinhal Grande,28-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Pinhal Grande,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pinhal Grande,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pinhal Grande,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Pinhal Grande,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Pinhal Grande,17-04-2021,88,0,3,0,0.42857142857142855,0.0,3.0,0.0
 Pinhal Grande,18-04-2021,88,0,3,0,0.42857142857142855,0.0,3.0,0.0
 Pinhal Grande,19-04-2021,88,0,3,0,0.42857142857142855,0.0,3.0,0.0
 Pinhal Grande,20-04-2021,88,0,3,0,0.0,0.0,0.0,0.0
+Pinhal Grande,21-04-2021,88,0,3,0,0.0,0.0,0.0,0.0

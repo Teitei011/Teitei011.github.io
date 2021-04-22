@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Amapá do Maranhão,27-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
-Amapá do Maranhão,28-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
-Amapá do Maranhão,29-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
+Amapá do Maranhão,28-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
+Amapá do Maranhão,29-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
 Amapá do Maranhão,30-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
 Amapá do Maranhão,31-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-Amapá do Maranhão,01-04-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Amapá do Maranhão,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Amapá do Maranhão,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Amapá do Maranhão,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Amapá do Maranhão,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Amapá do Maranhão,17-04-2021,93,7,1,0,2.142857142857143,0.14285714285714285,15
 Amapá do Maranhão,18-04-2021,97,4,1,0,2.7142857142857144,0.0,19.0,0.0
 Amapá do Maranhão,19-04-2021,116,19,1,0,5.428571428571429,0.0,38.0,0.0
 Amapá do Maranhão,20-04-2021,116,0,1,0,5.428571428571429,0.0,38.0,0.0
+Amapá do Maranhão,21-04-2021,117,1,2,1,5.571428571428571,0.14285714285714285,39.0,1.0

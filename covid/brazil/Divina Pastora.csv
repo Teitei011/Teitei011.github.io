@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Divina Pastora,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Divina Pastora,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Divina Pastora,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Divina Pastora,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Divina Pastora,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Divina Pastora,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Divina Pastora,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Divina Pastora,17-04-2021,675,25,8,0,7.428571428571429,0.14285714285714285,52.0,
 Divina Pastora,18-04-2021,677,2,8,0,7.571428571428571,0.14285714285714285,53.0,1.0
 Divina Pastora,19-04-2021,687,10,8,0,6.571428571428571,0.14285714285714285,46.0,1.0
 Divina Pastora,20-04-2021,688,1,8,0,6.714285714285714,0.0,47.0,0.0
+Divina Pastora,21-04-2021,688,0,8,0,5.571428571428571,0.0,39.0,0.0

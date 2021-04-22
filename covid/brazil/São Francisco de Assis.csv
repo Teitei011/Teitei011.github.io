@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Francisco de Assis,27-03-2020,0,0,0,0,9.428571428571429,0.14285714285714285,66.0,1.0
-São Francisco de Assis,28-03-2020,0,0,0,0,7.571428571428571,0.0,53.0,0.0
-São Francisco de Assis,29-03-2020,0,0,0,0,5.142857142857143,0.0,36.0,0.0
-São Francisco de Assis,30-03-2020,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
-São Francisco de Assis,31-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-São Francisco de Assis,01-04-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+São Francisco de Assis,27-03-2020,0,0,0,0,11.0,0.0,77.0,0.0
+São Francisco de Assis,28-03-2020,0,0,0,0,8.571428571428571,0.0,60.0,0.0
+São Francisco de Assis,29-03-2020,0,0,0,0,6.0,0.0,42.0,0.0
+São Francisco de Assis,30-03-2020,0,0,0,0,5.285714285714286,0.0,37.0,0.0
+São Francisco de Assis,31-03-2020,0,0,0,0,5.0,0.0,35.0,0.0
+São Francisco de Assis,01-04-2020,0,0,0,0,3.4285714285714284,0.0,24.0,0.0
 São Francisco de Assis,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Francisco de Assis,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Francisco de Assis,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ São Francisco de Assis,17-04-2021,875,1,21,1,0.14285714285714285,0.142857142857
 São Francisco de Assis,18-04-2021,875,0,21,0,0.14285714285714285,0.14285714285714285,1.0,1.0
 São Francisco de Assis,19-04-2021,875,0,21,0,0.14285714285714285,0.14285714285714285,1.0,1.0
 São Francisco de Assis,20-04-2021,875,0,21,0,0.14285714285714285,0.14285714285714285,1.0,1.0
+São Francisco de Assis,21-04-2021,875,0,21,0,0.14285714285714285,0.14285714285714285,1.0,1.0

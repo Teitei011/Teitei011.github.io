@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Rodeio Bonito,27-03-2020,0,0,0,0,3.142857142857143,0.0,22.0,0.0
-Rodeio Bonito,28-03-2020,0,0,0,0,3.142857142857143,0.0,22.0,0.0
-Rodeio Bonito,29-03-2020,0,0,0,0,3.0,0.0,21.0,0.0
-Rodeio Bonito,30-03-2020,0,0,0,0,2.857142857142857,0.0,20.0,0.0
-Rodeio Bonito,31-03-2020,0,0,0,0,2.2857142857142856,0.0,16.0,0.0
+Rodeio Bonito,28-03-2020,0,0,0,0,3.0,0.0,21.0,0.0
+Rodeio Bonito,29-03-2020,0,0,0,0,2.857142857142857,0.0,20.0,0.0
+Rodeio Bonito,30-03-2020,0,0,0,0,2.2857142857142856,0.0,16.0,0.0
+Rodeio Bonito,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Rodeio Bonito,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Rodeio Bonito,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Rodeio Bonito,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Rodeio Bonito,17-04-2021,367,0,3,0,0.0,0.0,0.0,0.0
 Rodeio Bonito,18-04-2021,367,0,3,0,0.0,0.0,0.0,0.0
 Rodeio Bonito,19-04-2021,367,0,3,0,0.0,0.0,0.0,0.0
 Rodeio Bonito,20-04-2021,367,0,3,0,0.0,0.0,0.0,0.0
+Rodeio Bonito,21-04-2021,367,0,3,0,0.0,0.0,0.0,0.0

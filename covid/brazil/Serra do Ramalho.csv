@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Serra do Ramalho,27-03-2020,0,0,0,0,3.142857142857143,0.0,22.0,0.0
-Serra do Ramalho,28-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Serra do Ramalho,27-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Serra do Ramalho,28-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Serra do Ramalho,29-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Serra do Ramalho,30-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Serra do Ramalho,31-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Serra do Ramalho,01-04-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Serra do Ramalho,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Serra do Ramalho,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Serra do Ramalho,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Serra do Ramalho,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Serra do Ramalho,17-04-2021,382,12,13,0,3.5714285714285716,0.0,25.0,0.0
 Serra do Ramalho,18-04-2021,385,3,13,0,3.857142857142857,0.0,27.0,0.0
 Serra do Ramalho,19-04-2021,385,0,13,0,3.857142857142857,0.0,27.0,0.0
 Serra do Ramalho,20-04-2021,387,2,13,0,3.4285714285714284,0.0,24.0,0.0
+Serra do Ramalho,21-04-2021,393,6,13,0,4.285714285714286,0.0,30.0,0.0

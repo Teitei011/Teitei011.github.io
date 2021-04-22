@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Coronel Ezequiel,27-03-2020,0,0,0,0,6.857142857142857,0.0,48.0,0.0
-Coronel Ezequiel,28-03-2020,0,0,0,0,5.857142857142857,0.0,41.0,0.0
-Coronel Ezequiel,29-03-2020,0,0,0,0,3.142857142857143,0.0,22.0,0.0
-Coronel Ezequiel,30-03-2020,0,0,0,0,3.142857142857143,0.0,22.0,0.0
-Coronel Ezequiel,31-03-2020,0,0,0,0,3.142857142857143,0.0,22.0,0.0
-Coronel Ezequiel,01-04-2020,0,0,0,0,3.142857142857143,0.0,22.0,0.0
+Coronel Ezequiel,27-03-2020,0,0,0,0,6.428571428571429,0.0,45.0,0.0
+Coronel Ezequiel,28-03-2020,0,0,0,0,3.7142857142857144,0.0,26.0,0.0
+Coronel Ezequiel,29-03-2020,0,0,0,0,3.7142857142857144,0.0,26.0,0.0
+Coronel Ezequiel,30-03-2020,0,0,0,0,3.7142857142857144,0.0,26.0,0.0
+Coronel Ezequiel,31-03-2020,0,0,0,0,3.7142857142857144,0.0,26.0,0.0
+Coronel Ezequiel,01-04-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Coronel Ezequiel,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coronel Ezequiel,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coronel Ezequiel,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Coronel Ezequiel,17-04-2021,195,2,3,0,1.0,0.0,7.0,0.0
 Coronel Ezequiel,18-04-2021,195,0,3,0,1.0,0.0,7.0,0.0
 Coronel Ezequiel,19-04-2021,195,0,3,0,1.0,0.0,7.0,0.0
 Coronel Ezequiel,20-04-2021,195,0,3,0,1.0,0.0,7.0,0.0
+Coronel Ezequiel,21-04-2021,200,5,3,0,1.4285714285714286,0.0,10.0,0.0

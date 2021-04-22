@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Floresta do Piauí,27-03-2020,0,0,0,0,0.0,0.2857142857142857,0.0,2.0
 Floresta do Piauí,28-03-2020,0,0,0,0,0.0,0.2857142857142857,0.0,2.0
-Floresta do Piauí,29-03-2020,0,0,0,0,0.0,0.2857142857142857,0.0,2.0
-Floresta do Piauí,30-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
+Floresta do Piauí,29-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
+Floresta do Piauí,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Floresta do Piauí,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Floresta do Piauí,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Floresta do Piauí,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Floresta do Piauí,17-04-2021,97,0,4,0,0.0,0.0,0.0,0.0
 Floresta do Piauí,18-04-2021,97,0,4,0,0.0,0.0,0.0,0.0
 Floresta do Piauí,19-04-2021,97,0,4,0,0.0,0.0,0.0,0.0
 Floresta do Piauí,20-04-2021,97,0,4,0,0.0,0.0,0.0,0.0
+Floresta do Piauí,21-04-2021,97,0,4,0,0.0,0.0,0.0,0.0

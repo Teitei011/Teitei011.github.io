@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Coqueiro Baixo,27-03-2020,0,0,0,0,1.5714285714285714,0.14285714285714285,11.0,1.0
+Coqueiro Baixo,27-03-2020,0,0,0,0,1.0,0.14285714285714285,7.0,1.0
 Coqueiro Baixo,28-03-2020,0,0,0,0,1.0,0.14285714285714285,7.0,1.0
 Coqueiro Baixo,29-03-2020,0,0,0,0,1.0,0.14285714285714285,7.0,1.0
-Coqueiro Baixo,30-03-2020,0,0,0,0,1.0,0.14285714285714285,7.0,1.0
-Coqueiro Baixo,31-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
+Coqueiro Baixo,30-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
+Coqueiro Baixo,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coqueiro Baixo,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coqueiro Baixo,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coqueiro Baixo,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Coqueiro Baixo,17-04-2021,143,0,2,0,0.0,0.0,0.0,0.0
 Coqueiro Baixo,18-04-2021,143,0,2,0,0.0,0.0,0.0,0.0
 Coqueiro Baixo,19-04-2021,143,0,2,0,0.0,0.0,0.0,0.0
 Coqueiro Baixo,20-04-2021,142,-1,2,0,-0.14285714285714285,0.0,-1.0,0.0
+Coqueiro Baixo,21-04-2021,142,0,2,0,-0.14285714285714285,0.0,-1.0,0.0

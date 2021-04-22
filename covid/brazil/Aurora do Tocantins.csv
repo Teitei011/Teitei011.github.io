@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Aurora do Tocantins,27-03-2020,0,0,0,0,10.142857142857142,0.0,71.0,0.0
-Aurora do Tocantins,28-03-2020,0,0,0,0,6.428571428571429,0.0,45.0,0.0
-Aurora do Tocantins,29-03-2020,0,0,0,0,6.428571428571429,0.0,45.0,0.0
-Aurora do Tocantins,30-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Aurora do Tocantins,31-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Aurora do Tocantins,01-04-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Aurora do Tocantins,27-03-2020,0,0,0,0,6.571428571428571,0.0,46.0,0.0
+Aurora do Tocantins,28-03-2020,0,0,0,0,6.571428571428571,0.0,46.0,0.0
+Aurora do Tocantins,29-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Aurora do Tocantins,30-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Aurora do Tocantins,31-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Aurora do Tocantins,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Aurora do Tocantins,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Aurora do Tocantins,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Aurora do Tocantins,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Aurora do Tocantins,17-04-2021,150,1,2,0,0.14285714285714285,0.0,1.0,0.0
 Aurora do Tocantins,18-04-2021,150,0,2,0,0.14285714285714285,0.0,1.0,0.0
 Aurora do Tocantins,19-04-2021,150,0,2,0,0.14285714285714285,0.0,1.0,0.0
 Aurora do Tocantins,20-04-2021,155,5,2,0,0.8571428571428571,0.0,6.0,0.0
+Aurora do Tocantins,21-04-2021,155,0,2,0,0.8571428571428571,0.0,6.0,0.0

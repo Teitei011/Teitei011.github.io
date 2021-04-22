@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Vista Alegre do Prata,27-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Vista Alegre do Prata,27-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
 Vista Alegre do Prata,28-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Vista Alegre do Prata,29-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Vista Alegre do Prata,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Vista Alegre do Prata,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Vista Alegre do Prata,29-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Vista Alegre do Prata,30-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Vista Alegre do Prata,31-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Vista Alegre do Prata,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Vista Alegre do Prata,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Vista Alegre do Prata,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Vista Alegre do Prata,17-04-2021,51,0,3,0,0.0,0.0,0.0,0.0
 Vista Alegre do Prata,18-04-2021,51,0,3,0,0.0,0.0,0.0,0.0
 Vista Alegre do Prata,19-04-2021,51,0,3,0,0.0,0.0,0.0,0.0
 Vista Alegre do Prata,20-04-2021,51,0,3,0,0.0,0.0,0.0,0.0
+Vista Alegre do Prata,21-04-2021,51,0,3,0,0.0,0.0,0.0,0.0

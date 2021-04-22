@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Divino das Laranjeiras,27-03-2020,0,0,0,0,5.428571428571429,0.14285714285714285,38.0,1.0
-Divino das Laranjeiras,28-03-2020,0,0,0,0,2.857142857142857,0.14285714285714285,20.0,1.0
-Divino das Laranjeiras,29-03-2020,0,0,0,0,2.857142857142857,0.14285714285714285,20.0,1.0
-Divino das Laranjeiras,30-03-2020,0,0,0,0,2.0,0.14285714285714285,14.0,1.0
-Divino das Laranjeiras,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Divino das Laranjeiras,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Divino das Laranjeiras,27-03-2020,0,0,0,0,4.571428571428571,0.14285714285714285,32.0,1.0
+Divino das Laranjeiras,28-03-2020,0,0,0,0,4.571428571428571,0.14285714285714285,32.0,1.0
+Divino das Laranjeiras,29-03-2020,0,0,0,0,3.7142857142857144,0.14285714285714285,26.0,1.0
+Divino das Laranjeiras,30-03-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
+Divino das Laranjeiras,31-03-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
+Divino das Laranjeiras,01-04-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
 Divino das Laranjeiras,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Divino das Laranjeiras,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Divino das Laranjeiras,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Divino das Laranjeiras,17-04-2021,253,0,5,0,1.7142857142857142,0.142857142857142
 Divino das Laranjeiras,18-04-2021,253,0,5,0,1.0,0.14285714285714285,7.0,1.0
 Divino das Laranjeiras,19-04-2021,253,0,5,0,1.0,0.14285714285714285,7.0,1.0
 Divino das Laranjeiras,20-04-2021,256,3,5,0,1.2857142857142858,0.0,9.0,0.0
+Divino das Laranjeiras,21-04-2021,257,1,5,0,1.4285714285714286,0.0,10.0,0.0

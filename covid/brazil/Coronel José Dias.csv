@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Coronel José Dias,27-03-2020,0,0,0,0,9.428571428571429,0.0,66.0,0.0
-Coronel José Dias,28-03-2020,0,0,0,0,9.0,0.0,63.0,0.0
-Coronel José Dias,29-03-2020,0,0,0,0,6.285714285714286,0.0,44.0,0.0
+Coronel José Dias,27-03-2020,0,0,0,0,9.0,0.0,63.0,0.0
+Coronel José Dias,28-03-2020,0,0,0,0,6.285714285714286,0.0,44.0,0.0
+Coronel José Dias,29-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
 Coronel José Dias,30-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Coronel José Dias,31-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Coronel José Dias,01-04-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Coronel José Dias,31-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Coronel José Dias,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coronel José Dias,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coronel José Dias,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coronel José Dias,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Coronel José Dias,17-04-2021,97,0,3,0,0.14285714285714285,0.0,1.0,0.0
 Coronel José Dias,18-04-2021,97,0,3,0,0.14285714285714285,0.0,1.0,0.0
 Coronel José Dias,19-04-2021,97,0,3,0,0.14285714285714285,0.0,1.0,0.0
 Coronel José Dias,20-04-2021,97,0,3,0,0.14285714285714285,0.0,1.0,0.0
+Coronel José Dias,21-04-2021,97,0,3,0,0.14285714285714285,0.0,1.0,0.0

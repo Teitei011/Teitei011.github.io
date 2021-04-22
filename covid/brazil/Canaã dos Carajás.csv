@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Canaã dos Carajás,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Canaã dos Carajás,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Canaã dos Carajás,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Canaã dos Carajás,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Canaã dos Carajás,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Canaã dos Carajás,17-04-2021,7311,36,74,3,22.714285714285715,0.714285714285714
 Canaã dos Carajás,18-04-2021,7342,31,75,1,25.0,0.8571428571428571,175.0,6.0
 Canaã dos Carajás,19-04-2021,7342,0,75,0,24.857142857142858,0.8571428571428571,174.0,6.0
 Canaã dos Carajás,20-04-2021,7354,12,76,1,23.571428571428573,0.7142857142857143,165.0,5.0
+Canaã dos Carajás,21-04-2021,7382,28,76,0,24.714285714285715,0.7142857142857143,173.0,5.0

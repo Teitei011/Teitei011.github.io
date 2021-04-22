@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Magalhães de Almeida,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Magalhães de Almeida,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Magalhães de Almeida,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Magalhães de Almeida,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Magalhães de Almeida,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Magalhães de Almeida,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Magalhães de Almeida,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Magalhães de Almeida,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Magalhães de Almeida,17-04-2021,468,0,6,0,0.2857142857142857,0.0,2.0,0.0
 Magalhães de Almeida,18-04-2021,468,0,6,0,0.0,0.0,0.0,0.0
 Magalhães de Almeida,19-04-2021,468,0,6,0,0.0,0.0,0.0,0.0
 Magalhães de Almeida,20-04-2021,469,1,7,1,0.14285714285714285,0.14285714285714285,1.0,1.0
+Magalhães de Almeida,21-04-2021,469,0,7,0,0.14285714285714285,0.14285714285714285,1.0,1.0

@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Águas de Lindóia,27-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
-Águas de Lindóia,28-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Águas de Lindóia,28-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
 Águas de Lindóia,29-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
 Águas de Lindóia,30-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
-Águas de Lindóia,31-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
-Águas de Lindóia,01-04-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Águas de Lindóia,31-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Águas de Lindóia,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Águas de Lindóia,02-04-2020,1,1,0,0,0.14285714285714285,0.0,1.0,0.0
 Águas de Lindóia,03-04-2020,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Águas de Lindóia,04-04-2020,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
@@ -389,3 +389,4 @@ municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases
 Águas de Lindóia,18-04-2021,963,5,23,0,5.714285714285714,0.5714285714285714,40.0,4.0
 Águas de Lindóia,19-04-2021,964,1,23,0,5.714285714285714,0.5714285714285714,40.0,4.0
 Águas de Lindóia,20-04-2021,976,12,24,1,5.285714285714286,0.42857142857142855,37.0,3.0
+Águas de Lindóia,21-04-2021,979,3,24,0,5.285714285714286,0.14285714285714285,37.0,1.0

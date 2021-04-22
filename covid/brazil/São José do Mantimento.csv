@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São José do Mantimento,27-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
-São José do Mantimento,28-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+São José do Mantimento,28-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
 São José do Mantimento,29-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
 São José do Mantimento,30-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
 São José do Mantimento,31-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-São José do Mantimento,01-04-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+São José do Mantimento,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José do Mantimento,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José do Mantimento,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São José do Mantimento,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ São José do Mantimento,17-04-2021,150,0,2,0,0.14285714285714285,0.0,1.0,0.0
 São José do Mantimento,18-04-2021,150,0,2,0,0.14285714285714285,0.0,1.0,0.0
 São José do Mantimento,19-04-2021,150,0,2,0,0.14285714285714285,0.0,1.0,0.0
 São José do Mantimento,20-04-2021,150,0,2,0,0.14285714285714285,0.0,1.0,0.0
+São José do Mantimento,21-04-2021,151,1,2,0,0.2857142857142857,0.0,2.0,0.0

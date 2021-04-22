@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santana dos Montes,27-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Santana dos Montes,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Santana dos Montes,28-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Santana dos Montes,29-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Santana dos Montes,30-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Santana dos Montes,31-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Santana dos Montes,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santana dos Montes,30-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Santana dos Montes,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santana dos Montes,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana dos Montes,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana dos Montes,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana dos Montes,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Santana dos Montes,17-04-2021,87,4,0,0,2.0,0.0,14.0,0.0
 Santana dos Montes,18-04-2021,87,0,0,0,2.0,0.0,14.0,0.0
 Santana dos Montes,19-04-2021,87,0,0,0,2.0,0.0,14.0,0.0
 Santana dos Montes,20-04-2021,87,0,0,0,2.0,0.0,14.0,0.0
+Santana dos Montes,21-04-2021,87,0,0,0,1.2857142857142858,0.0,9.0,0.0

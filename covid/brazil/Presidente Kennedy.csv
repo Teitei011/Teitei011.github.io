@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Presidente Kennedy,27-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
-Presidente Kennedy,28-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
-Presidente Kennedy,29-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Presidente Kennedy,28-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Presidente Kennedy,29-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
 Presidente Kennedy,30-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
 Presidente Kennedy,31-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Presidente Kennedy,01-04-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Presidente Kennedy,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Kennedy,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Kennedy,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Kennedy,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Presidente Kennedy,17-04-2021,1872,0,43,1,3.7142857142857144,0.2857142857142857,
 Presidente Kennedy,18-04-2021,1877,5,44,1,4.142857142857143,0.42857142857142855,29.0,3.0
 Presidente Kennedy,19-04-2021,1878,1,44,0,4.142857142857143,0.42857142857142855,29.0,3.0
 Presidente Kennedy,20-04-2021,1892,14,44,0,5.571428571428571,0.42857142857142855,39.0,3.0
+Presidente Kennedy,21-04-2021,1896,4,44,0,5.714285714285714,0.42857142857142855,40.0,3.0

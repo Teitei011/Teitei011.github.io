@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Presidente Getúlio,27-03-2020,0,0,0,0,5.142857142857143,0.0,36.0,0.0
-Presidente Getúlio,28-03-2020,0,0,0,0,4.571428571428571,0.0,32.0,0.0
-Presidente Getúlio,29-03-2020,0,0,0,0,3.7142857142857144,0.0,26.0,0.0
-Presidente Getúlio,30-03-2020,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
-Presidente Getúlio,31-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
-Presidente Getúlio,01-04-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Presidente Getúlio,27-03-2020,0,0,0,0,5.571428571428571,0.0,39.0,0.0
+Presidente Getúlio,28-03-2020,0,0,0,0,4.714285714285714,0.0,33.0,0.0
+Presidente Getúlio,29-03-2020,0,0,0,0,3.5714285714285716,0.0,25.0,0.0
+Presidente Getúlio,30-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
+Presidente Getúlio,31-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Presidente Getúlio,01-04-2020,0,0,0,0,1.0,0.0,7.0,0.0
 Presidente Getúlio,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Getúlio,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Getúlio,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Presidente Getúlio,17-04-2021,1411,5,21,0,2.5714285714285716,0.0,18.0,0.0
 Presidente Getúlio,18-04-2021,1417,6,21,0,3.5714285714285716,0.0,25.0,0.0
 Presidente Getúlio,19-04-2021,1421,4,21,0,3.2857142857142856,0.0,23.0,0.0
 Presidente Getúlio,20-04-2021,1424,3,21,0,3.4285714285714284,0.0,24.0,0.0
+Presidente Getúlio,21-04-2021,1428,4,21,0,4.0,0.0,28.0,0.0

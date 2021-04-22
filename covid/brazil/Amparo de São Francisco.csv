@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Amparo de São Francisco,27-03-2020,0,0,0,0,31.571428571428573,0.14285714285714285,221.0,1.0
-Amparo de São Francisco,28-03-2020,0,0,0,0,23.285714285714285,0.14285714285714285,163.0,1.0
-Amparo de São Francisco,29-03-2020,0,0,0,0,11.714285714285714,0.14285714285714285,82.0,1.0
-Amparo de São Francisco,30-03-2020,0,0,0,0,9.285714285714286,0.0,65.0,0.0
-Amparo de São Francisco,31-03-2020,0,0,0,0,8.714285714285714,0.0,61.0,0.0
-Amparo de São Francisco,01-04-2020,0,0,0,0,8.857142857142858,0.0,62.0,0.0
+Amparo de São Francisco,27-03-2020,0,0,0,0,32.42857142857143,0.14285714285714285,227.0,1.0
+Amparo de São Francisco,28-03-2020,0,0,0,0,20.857142857142858,0.14285714285714285,146.0,1.0
+Amparo de São Francisco,29-03-2020,0,0,0,0,18.428571428571427,0.0,129.0,0.0
+Amparo de São Francisco,30-03-2020,0,0,0,0,17.857142857142858,0.0,125.0,0.0
+Amparo de São Francisco,31-03-2020,0,0,0,0,18.0,0.0,126.0,0.0
+Amparo de São Francisco,01-04-2020,0,0,0,0,9.142857142857142,0.0,64.0,0.0
 Amparo de São Francisco,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Amparo de São Francisco,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Amparo de São Francisco,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Amparo de São Francisco,17-04-2021,132,8,3,0,1.5714285714285714,0.0,11.0,0.0
 Amparo de São Francisco,18-04-2021,132,0,3,0,1.0,0.0,7.0,0.0
 Amparo de São Francisco,19-04-2021,132,0,3,0,1.0,0.0,7.0,0.0
 Amparo de São Francisco,20-04-2021,132,0,3,0,1.0,0.0,7.0,0.0
+Amparo de São Francisco,21-04-2021,132,0,3,0,1.1428571428571428,0.0,8.0,0.0

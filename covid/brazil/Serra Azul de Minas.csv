@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Serra Azul de Minas,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Serra Azul de Minas,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Serra Azul de Minas,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Serra Azul de Minas,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Serra Azul de Minas,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Serra Azul de Minas,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Serra Azul de Minas,27-03-2020,0,0,0,0,0.2857142857142857,0.14285714285714285,2.0,1.0
+Serra Azul de Minas,28-03-2020,0,0,0,0,0.2857142857142857,0.14285714285714285,2.0,1.0
+Serra Azul de Minas,29-03-2020,0,0,0,0,0.2857142857142857,0.14285714285714285,2.0,1.0
+Serra Azul de Minas,30-03-2020,0,0,0,0,0.2857142857142857,0.14285714285714285,2.0,1.0
+Serra Azul de Minas,31-03-2020,0,0,0,0,0.2857142857142857,0.14285714285714285,2.0,1.0
+Serra Azul de Minas,01-04-2020,0,0,0,0,0.2857142857142857,0.14285714285714285,2.0,1.0
 Serra Azul de Minas,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Serra Azul de Minas,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Serra Azul de Minas,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Serra Azul de Minas,17-04-2021,86,0,0,0,1.8571428571428572,0.0,13.0,0.0
 Serra Azul de Minas,18-04-2021,86,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Serra Azul de Minas,19-04-2021,86,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Serra Azul de Minas,20-04-2021,86,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Serra Azul de Minas,21-04-2021,86,0,0,0,0.5714285714285714,0.0,4.0,0.0

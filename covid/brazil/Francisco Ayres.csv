@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Francisco Ayres,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Francisco Ayres,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Francisco Ayres,29-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Francisco Ayres,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Francisco Ayres,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Francisco Ayres,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Francisco Ayres,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Francisco Ayres,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Francisco Ayres,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Francisco Ayres,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Francisco Ayres,17-04-2021,141,1,5,0,1.0,0.0,7.0,0.0
 Francisco Ayres,18-04-2021,141,0,5,0,0.8571428571428571,0.0,6.0,0.0
 Francisco Ayres,19-04-2021,141,0,5,0,0.8571428571428571,0.0,6.0,0.0
 Francisco Ayres,20-04-2021,141,0,5,0,0.5714285714285714,0.0,4.0,0.0
+Francisco Ayres,21-04-2021,145,4,5,0,0.8571428571428571,0.0,6.0,0.0

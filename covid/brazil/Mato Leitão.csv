@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Mato Leitão,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Mato Leitão,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Mato Leitão,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Mato Leitão,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Mato Leitão,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Mato Leitão,17-04-2021,605,1,6,0,2.2857142857142856,0.0,16.0,0.0
 Mato Leitão,18-04-2021,605,0,6,0,2.2857142857142856,0.0,16.0,0.0
 Mato Leitão,19-04-2021,605,0,6,0,2.2857142857142856,0.0,16.0,0.0
 Mato Leitão,20-04-2021,608,3,6,0,2.142857142857143,0.0,15.0,0.0
+Mato Leitão,21-04-2021,615,7,6,0,2.142857142857143,0.0,15.0,0.0

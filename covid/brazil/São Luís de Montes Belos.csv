@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Luís de Montes Belos,27-03-2020,0,0,0,0,2.0,0.14285714285714285,14.0,1.0
-São Luís de Montes Belos,28-03-2020,0,0,0,0,1.8571428571428572,0.14285714285714285,13.0,1.0
-São Luís de Montes Belos,29-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+São Luís de Montes Belos,27-03-2020,0,0,0,0,1.8571428571428572,0.14285714285714285,13.0,1.0
+São Luís de Montes Belos,28-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+São Luís de Montes Belos,29-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 São Luís de Montes Belos,30-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-São Luís de Montes Belos,31-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-São Luís de Montes Belos,01-04-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+São Luís de Montes Belos,31-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+São Luís de Montes Belos,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Luís de Montes Belos,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Luís de Montes Belos,03-04-2020,1,1,0,0,0.14285714285714285,0.0,1.0,0.0
 São Luís de Montes Belos,04-04-2020,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
@@ -389,3 +389,4 @@ São Luís de Montes Belos,17-04-2021,3093,9,80,0,11.571428571428571,1.428571428
 São Luís de Montes Belos,18-04-2021,3093,0,80,0,11.428571428571429,1.4285714285714286,80.0,10.0
 São Luís de Montes Belos,19-04-2021,3093,0,80,0,11.0,1.0,77.0,7.0
 São Luís de Montes Belos,20-04-2021,3102,9,82,2,8.571428571428571,0.5714285714285714,60.0,4.0
+São Luís de Montes Belos,21-04-2021,3110,8,86,4,7.714285714285714,1.1428571428571428,54.0,8.0

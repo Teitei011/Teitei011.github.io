@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Vista Serrana,27-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Vista Serrana,28-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Vista Serrana,29-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Vista Serrana,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Vista Serrana,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Vista Serrana,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Vista Serrana,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Vista Serrana,17-04-2021,108,0,4,0,0.8571428571428571,0.0,6.0,0.0
 Vista Serrana,18-04-2021,109,1,5,1,1.0,0.14285714285714285,7.0,1.0
 Vista Serrana,19-04-2021,109,0,5,0,0.42857142857142855,0.14285714285714285,3.0,1.0
 Vista Serrana,20-04-2021,110,1,5,0,0.5714285714285714,0.14285714285714285,4.0,1.0
+Vista Serrana,21-04-2021,110,0,5,0,0.42857142857142855,0.14285714285714285,3.0,1.0

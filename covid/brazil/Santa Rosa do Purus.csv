@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santa Rosa do Purus,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Santa Rosa do Purus,28-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Santa Rosa do Purus,29-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Santa Rosa do Purus,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santa Rosa do Purus,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Santa Rosa do Purus,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Santa Rosa do Purus,27-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Santa Rosa do Purus,28-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Santa Rosa do Purus,29-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Santa Rosa do Purus,30-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Santa Rosa do Purus,31-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Santa Rosa do Purus,01-04-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
 Santa Rosa do Purus,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Rosa do Purus,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Rosa do Purus,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Santa Rosa do Purus,17-04-2021,771,29,4,0,9.857142857142858,0.0,69.0,0.0
 Santa Rosa do Purus,18-04-2021,771,0,4,0,9.857142857142858,0.0,69.0,0.0
 Santa Rosa do Purus,19-04-2021,779,8,4,0,11.0,0.0,77.0,0.0
 Santa Rosa do Purus,20-04-2021,779,0,5,1,11.0,0.14285714285714285,77.0,1.0
+Santa Rosa do Purus,21-04-2021,780,1,5,0,10.0,0.14285714285714285,70.0,1.0

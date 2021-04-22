@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Coronel Pilar,27-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
 Coronel Pilar,28-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
-Coronel Pilar,29-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Coronel Pilar,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coronel Pilar,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coronel Pilar,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Coronel Pilar,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -389,3 +389,4 @@ Coronel Pilar,17-04-2021,94,0,2,0,0.0,0.0,0.0,0.0
 Coronel Pilar,18-04-2021,94,0,2,0,0.0,0.0,0.0,0.0
 Coronel Pilar,19-04-2021,94,0,2,0,0.0,0.0,0.0,0.0
 Coronel Pilar,20-04-2021,94,0,2,0,0.0,0.0,0.0,0.0
+Coronel Pilar,21-04-2021,95,1,2,0,0.14285714285714285,0.0,1.0,0.0
