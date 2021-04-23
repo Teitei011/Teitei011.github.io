@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Campina do Monte Alegre,27-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Campina do Monte Alegre,28-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Campina do Monte Alegre,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Campina do Monte Alegre,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Campina do Monte Alegre,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Campina do Monte Alegre,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Campina do Monte Alegre,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Campina do Monte Alegre,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Campina do Monte Alegre,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Campina do Monte Alegre,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campina do Monte Alegre,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campina do Monte Alegre,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Campina do Monte Alegre,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -390,3 +390,5 @@ Campina do Monte Alegre,18-04-2021,359,0,6,0,4.142857142857143,0.285714285714285
 Campina do Monte Alegre,19-04-2021,359,0,6,0,3.857142857142857,0.2857142857142857,27.0,2.0
 Campina do Monte Alegre,20-04-2021,363,4,6,0,3.2857142857142856,0.14285714285714285,23.0,1.0
 Campina do Monte Alegre,21-04-2021,364,1,7,1,2.5714285714285716,0.2857142857142857,18.0,2.0
+Campina do Monte Alegre,22-04-2021,363,-1,7,0,1.8571428571428572,0.2857142857142857,13.0,2.0
+Campina do Monte Alegre,23-04-2021,363,0,7,0,1.2857142857142858,0.14285714285714285,9.0,1.0

@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Doutor Ulysses,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Doutor Ulysses,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Doutor Ulysses,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Doutor Ulysses,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Doutor Ulysses,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Doutor Ulysses,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Doutor Ulysses,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Doutor Ulysses,28-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Doutor Ulysses,29-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Doutor Ulysses,30-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Doutor Ulysses,31-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Doutor Ulysses,01-04-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Doutor Ulysses,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Doutor Ulysses,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Doutor Ulysses,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -390,3 +390,5 @@ Doutor Ulysses,18-04-2021,217,0,3,0,0.0,0.0,0.0,0.0
 Doutor Ulysses,19-04-2021,217,0,3,0,0.0,0.0,0.0,0.0
 Doutor Ulysses,20-04-2021,217,0,3,0,0.0,0.0,0.0,0.0
 Doutor Ulysses,21-04-2021,217,0,3,0,0.0,0.0,0.0,0.0
+Doutor Ulysses,22-04-2021,217,0,3,0,0.0,0.0,0.0,0.0
+Doutor Ulysses,23-04-2021,217,0,3,0,0.0,0.0,0.0,0.0

@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santana do Maranhão,27-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
-Santana do Maranhão,28-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-Santana do Maranhão,29-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Santana do Maranhão,30-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Santana do Maranhão,31-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Santana do Maranhão,01-04-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
+Santana do Maranhão,28-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Santana do Maranhão,29-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Santana do Maranhão,30-03-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
+Santana do Maranhão,31-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Santana do Maranhão,01-04-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Santana do Maranhão,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana do Maranhão,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Santana do Maranhão,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -390,3 +390,5 @@ Santana do Maranhão,18-04-2021,190,0,6,0,0.14285714285714285,0.0,1.0,0.0
 Santana do Maranhão,19-04-2021,194,4,6,0,0.7142857142857143,0.0,5.0,0.0
 Santana do Maranhão,20-04-2021,639,445,20,14,64.28571428571429,2.0,450.0,14.0
 Santana do Maranhão,21-04-2021,645,6,20,0,65.14285714285714,2.0,456.0,14.0
+Santana do Maranhão,22-04-2021,645,0,20,0,65.0,2.0,455.0,14.0
+Santana do Maranhão,23-04-2021,647,2,20,0,65.28571428571429,2.0,457.0,14.0

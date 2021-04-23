@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Novo Oriente de Minas,27-03-2020,0,0,0,0,7.714285714285714,0.0,54.0,0.0
-Novo Oriente de Minas,28-03-2020,0,0,0,0,3.7142857142857144,0.0,26.0,0.0
-Novo Oriente de Minas,29-03-2020,0,0,0,0,3.5714285714285716,0.0,25.0,0.0
-Novo Oriente de Minas,30-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
-Novo Oriente de Minas,31-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
-Novo Oriente de Minas,01-04-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Novo Oriente de Minas,27-03-2020,0,0,0,0,3.857142857142857,0.0,27.0,0.0
+Novo Oriente de Minas,28-03-2020,0,0,0,0,2.2857142857142856,0.0,16.0,0.0
+Novo Oriente de Minas,29-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
+Novo Oriente de Minas,30-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
+Novo Oriente de Minas,31-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Novo Oriente de Minas,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Novo Oriente de Minas,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Novo Oriente de Minas,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Novo Oriente de Minas,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -390,3 +390,5 @@ Novo Oriente de Minas,18-04-2021,410,0,11,1,2.0,0.42857142857142855,14.0,3.0
 Novo Oriente de Minas,19-04-2021,410,0,11,0,2.0,0.42857142857142855,14.0,3.0
 Novo Oriente de Minas,20-04-2021,415,5,11,0,2.7142857142857144,0.42857142857142855,19.0,3.0
 Novo Oriente de Minas,21-04-2021,421,6,11,0,2.2857142857142856,0.42857142857142855,16.0,3.0
+Novo Oriente de Minas,22-04-2021,421,0,11,0,2.142857142857143,0.2857142857142857,15.0,2.0
+Novo Oriente de Minas,23-04-2021,425,4,11,0,2.4285714285714284,0.2857142857142857,17.0,2.0

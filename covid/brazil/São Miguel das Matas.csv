@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Miguel das Matas,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+São Miguel das Matas,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel das Matas,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel das Matas,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 São Miguel das Matas,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -390,3 +390,5 @@ São Miguel das Matas,18-04-2021,549,0,4,0,0.5714285714285714,0.0,4.0,0.0
 São Miguel das Matas,19-04-2021,549,0,4,0,0.5714285714285714,0.0,4.0,0.0
 São Miguel das Matas,20-04-2021,555,6,4,0,1.2857142857142858,0.0,9.0,0.0
 São Miguel das Matas,21-04-2021,556,1,4,0,1.4285714285714286,0.0,10.0,0.0
+São Miguel das Matas,22-04-2021,557,1,4,0,1.5714285714285714,0.0,11.0,0.0
+São Miguel das Matas,23-04-2021,558,1,4,0,1.4285714285714286,0.0,10.0,0.0

@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Boa Vista das Missões,27-03-2020,0,0,0,0,4.142857142857143,0.0,29.0,0.0
-Boa Vista das Missões,28-03-2020,0,0,0,0,3.4285714285714284,0.0,24.0,0.0
-Boa Vista das Missões,29-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
-Boa Vista das Missões,30-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
-Boa Vista das Missões,31-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
-Boa Vista das Missões,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Boa Vista das Missões,27-03-2020,0,0,0,0,3.857142857142857,0.0,27.0,0.0
+Boa Vista das Missões,28-03-2020,0,0,0,0,3.857142857142857,0.0,27.0,0.0
+Boa Vista das Missões,29-03-2020,0,0,0,0,2.857142857142857,0.0,20.0,0.0
+Boa Vista das Missões,30-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
+Boa Vista das Missões,31-03-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
+Boa Vista das Missões,01-04-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
 Boa Vista das Missões,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Boa Vista das Missões,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Boa Vista das Missões,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -390,3 +390,5 @@ Boa Vista das Missões,18-04-2021,96,0,4,0,1.8571428571428572,0.2857142857142857
 Boa Vista das Missões,19-04-2021,96,0,4,0,1.8571428571428572,0.2857142857142857,13.0,2.0
 Boa Vista das Missões,20-04-2021,98,2,4,0,2.142857142857143,0.2857142857142857,15.0,2.0
 Boa Vista das Missões,21-04-2021,99,1,4,0,1.2857142857142858,0.2857142857142857,9.0,2.0
+Boa Vista das Missões,22-04-2021,100,1,4,0,1.0,0.2857142857142857,7.0,2.0
+Boa Vista das Missões,23-04-2021,101,1,4,0,0.7142857142857143,0.14285714285714285,5.0,1.0

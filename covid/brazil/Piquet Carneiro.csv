@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Piquet Carneiro,27-03-2020,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Piquet Carneiro,27-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Piquet Carneiro,28-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Piquet Carneiro,29-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Piquet Carneiro,30-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Piquet Carneiro,31-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Piquet Carneiro,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Piquet Carneiro,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Piquet Carneiro,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Piquet Carneiro,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Piquet Carneiro,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -390,3 +390,5 @@ Piquet Carneiro,18-04-2021,1196,6,16,0,6.285714285714286,0.0,44.0,0.0
 Piquet Carneiro,19-04-2021,1218,22,16,0,9.428571428571429,0.0,66.0,0.0
 Piquet Carneiro,20-04-2021,1219,1,16,0,9.428571428571429,0.0,66.0,0.0
 Piquet Carneiro,21-04-2021,1223,4,17,1,10.0,0.14285714285714285,70.0,1.0
+Piquet Carneiro,22-04-2021,1256,33,17,0,14.714285714285714,0.14285714285714285,103.0,1.0
+Piquet Carneiro,23-04-2021,1264,8,17,0,13.0,0.14285714285714285,91.0,1.0

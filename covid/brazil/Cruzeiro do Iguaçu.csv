@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Cruzeiro do Iguaçu,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Cruzeiro do Iguaçu,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Cruzeiro do Iguaçu,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Cruzeiro do Iguaçu,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Cruzeiro do Iguaçu,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Cruzeiro do Iguaçu,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Cruzeiro do Iguaçu,27-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Cruzeiro do Iguaçu,28-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Cruzeiro do Iguaçu,29-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Cruzeiro do Iguaçu,30-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Cruzeiro do Iguaçu,31-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Cruzeiro do Iguaçu,01-04-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Cruzeiro do Iguaçu,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cruzeiro do Iguaçu,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cruzeiro do Iguaçu,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -390,3 +390,5 @@ Cruzeiro do Iguaçu,18-04-2021,266,0,7,0,0.0,0.0,0.0,0.0
 Cruzeiro do Iguaçu,19-04-2021,266,0,7,0,0.0,0.0,0.0,0.0
 Cruzeiro do Iguaçu,20-04-2021,266,0,7,0,0.0,0.0,0.0,0.0
 Cruzeiro do Iguaçu,21-04-2021,266,0,7,0,0.0,0.0,0.0,0.0
+Cruzeiro do Iguaçu,22-04-2021,266,0,7,0,0.0,0.0,0.0,0.0
+Cruzeiro do Iguaçu,23-04-2021,266,0,7,0,0.0,0.0,0.0,0.0

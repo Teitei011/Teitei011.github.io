@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Monte Alegre dos Campos,27-03-2020,0,0,0,0,1.4285714285714286,0.14285714285714285,10.0,1.0
-Monte Alegre dos Campos,28-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Monte Alegre dos Campos,27-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Monte Alegre dos Campos,28-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
 Monte Alegre dos Campos,29-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Monte Alegre dos Campos,30-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Monte Alegre dos Campos,31-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Monte Alegre dos Campos,01-04-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Monte Alegre dos Campos,30-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Monte Alegre dos Campos,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Monte Alegre dos Campos,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Monte Alegre dos Campos,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Monte Alegre dos Campos,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Monte Alegre dos Campos,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -390,3 +390,5 @@ Monte Alegre dos Campos,18-04-2021,59,0,2,0,0.0,0.0,0.0,0.0
 Monte Alegre dos Campos,19-04-2021,59,0,2,0,0.0,0.0,0.0,0.0
 Monte Alegre dos Campos,20-04-2021,60,1,2,0,0.14285714285714285,0.0,1.0,0.0
 Monte Alegre dos Campos,21-04-2021,60,0,2,0,0.14285714285714285,0.0,1.0,0.0
+Monte Alegre dos Campos,22-04-2021,60,0,2,0,0.14285714285714285,0.0,1.0,0.0
+Monte Alegre dos Campos,23-04-2021,60,0,2,0,0.14285714285714285,0.0,1.0,0.0

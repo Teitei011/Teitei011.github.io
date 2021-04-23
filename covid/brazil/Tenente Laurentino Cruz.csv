@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Tenente Laurentino Cruz,27-03-2020,0,0,0,0,0.7142857142857143,0.14285714285714285,5.0,1.0
+Tenente Laurentino Cruz,27-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Tenente Laurentino Cruz,28-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Tenente Laurentino Cruz,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Tenente Laurentino Cruz,30-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Tenente Laurentino Cruz,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Tenente Laurentino Cruz,29-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Tenente Laurentino Cruz,30-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Tenente Laurentino Cruz,31-03-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Tenente Laurentino Cruz,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Tenente Laurentino Cruz,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Tenente Laurentino Cruz,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -390,3 +390,5 @@ Tenente Laurentino Cruz,18-04-2021,478,1,2,0,4.0,0.0,28.0,0.0
 Tenente Laurentino Cruz,19-04-2021,478,0,2,0,4.0,0.0,28.0,0.0
 Tenente Laurentino Cruz,20-04-2021,484,6,2,0,4.571428571428571,0.0,32.0,0.0
 Tenente Laurentino Cruz,21-04-2021,487,3,2,0,3.142857142857143,0.0,22.0,0.0
+Tenente Laurentino Cruz,22-04-2021,487,0,3,1,2.7142857142857144,0.14285714285714285,19.0,1.0
+Tenente Laurentino Cruz,23-04-2021,488,1,3,0,2.2857142857142856,0.14285714285714285,16.0,1.0

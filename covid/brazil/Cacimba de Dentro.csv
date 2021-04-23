@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Cacimba de Dentro,27-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Cacimba de Dentro,28-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Cacimba de Dentro,29-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Cacimba de Dentro,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Cacimba de Dentro,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cacimba de Dentro,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cacimba de Dentro,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cacimba de Dentro,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -390,3 +390,5 @@ Cacimba de Dentro,18-04-2021,837,0,22,0,1.8571428571428572,0.14285714285714285,1
 Cacimba de Dentro,19-04-2021,847,10,22,0,2.4285714285714284,0.14285714285714285,17.0,1.0
 Cacimba de Dentro,20-04-2021,849,2,22,0,2.7142857142857144,0.14285714285714285,19.0,1.0
 Cacimba de Dentro,21-04-2021,850,1,22,0,2.7142857142857144,0.14285714285714285,19.0,1.0
+Cacimba de Dentro,22-04-2021,850,0,22,0,2.7142857142857144,0.0,19.0,0.0
+Cacimba de Dentro,23-04-2021,854,4,23,1,2.7142857142857144,0.14285714285714285,19.0,1.0

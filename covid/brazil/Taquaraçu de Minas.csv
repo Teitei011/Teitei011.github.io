@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Taquaraçu de Minas,27-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Taquaraçu de Minas,28-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
-Taquaraçu de Minas,29-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
-Taquaraçu de Minas,30-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-Taquaraçu de Minas,31-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
-Taquaraçu de Minas,01-04-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Taquaraçu de Minas,27-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
+Taquaraçu de Minas,28-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Taquaraçu de Minas,29-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Taquaraçu de Minas,30-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Taquaraçu de Minas,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Taquaraçu de Minas,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Taquaraçu de Minas,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Taquaraçu de Minas,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Taquaraçu de Minas,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -390,3 +390,5 @@ Taquaraçu de Minas,18-04-2021,175,0,5,0,1.4285714285714286,0.0,10.0,0.0
 Taquaraçu de Minas,19-04-2021,175,0,5,0,1.4285714285714286,0.0,10.0,0.0
 Taquaraçu de Minas,20-04-2021,177,2,5,0,1.7142857142857142,0.0,12.0,0.0
 Taquaraçu de Minas,21-04-2021,177,0,5,0,1.0,0.0,7.0,0.0
+Taquaraçu de Minas,22-04-2021,178,1,5,0,1.1428571428571428,0.0,8.0,0.0
+Taquaraçu de Minas,23-04-2021,178,0,5,0,1.1428571428571428,0.0,8.0,0.0

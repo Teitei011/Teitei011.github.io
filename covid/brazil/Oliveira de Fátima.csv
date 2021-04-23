@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Oliveira de Fátima,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Oliveira de Fátima,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Oliveira de Fátima,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Oliveira de Fátima,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Oliveira de Fátima,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Oliveira de Fátima,27-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
+Oliveira de Fátima,28-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
+Oliveira de Fátima,29-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
+Oliveira de Fátima,30-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
+Oliveira de Fátima,31-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
 Oliveira de Fátima,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Oliveira de Fátima,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Oliveira de Fátima,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -390,3 +390,5 @@ Oliveira de Fátima,18-04-2021,109,0,1,0,0.14285714285714285,0.0,1.0,0.0
 Oliveira de Fátima,19-04-2021,109,0,1,0,0.14285714285714285,0.0,1.0,0.0
 Oliveira de Fátima,20-04-2021,109,0,1,0,0.14285714285714285,0.0,1.0,0.0
 Oliveira de Fátima,21-04-2021,113,4,1,0,0.5714285714285714,0.0,4.0,0.0
+Oliveira de Fátima,22-04-2021,113,0,1,0,0.5714285714285714,0.0,4.0,0.0
+Oliveira de Fátima,23-04-2021,113,0,1,0,0.5714285714285714,0.0,4.0,0.0

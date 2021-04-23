@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Senador Alexandre Costa,27-03-2020,0,0,0,0,23.142857142857142,0.2857142857142857,162.0,2.0
-Senador Alexandre Costa,28-03-2020,0,0,0,0,13.142857142857142,0.2857142857142857,92.0,2.0
-Senador Alexandre Costa,29-03-2020,0,0,0,0,11.0,0.2857142857142857,77.0,2.0
-Senador Alexandre Costa,30-03-2020,0,0,0,0,5.571428571428571,0.2857142857142857,39.0,2.0
-Senador Alexandre Costa,31-03-2020,0,0,0,0,3.857142857142857,0.14285714285714285,27.0,1.0
-Senador Alexandre Costa,01-04-2020,0,0,0,0,3.5714285714285716,0.0,25.0,0.0
+Senador Alexandre Costa,27-03-2020,0,0,0,0,19.714285714285715,0.5714285714285714,138.0,4.0
+Senador Alexandre Costa,28-03-2020,0,0,0,0,14.285714285714286,0.5714285714285714,100.0,4.0
+Senador Alexandre Costa,29-03-2020,0,0,0,0,12.571428571428571,0.42857142857142855,88.0,3.0
+Senador Alexandre Costa,30-03-2020,0,0,0,0,12.285714285714286,0.2857142857142857,86.0,2.0
+Senador Alexandre Costa,31-03-2020,0,0,0,0,8.714285714285714,0.2857142857142857,61.0,2.0
+Senador Alexandre Costa,01-04-2020,0,0,0,0,2.4285714285714284,0.2857142857142857,17.0,2.0
 Senador Alexandre Costa,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Senador Alexandre Costa,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Senador Alexandre Costa,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -390,3 +390,5 @@ Senador Alexandre Costa,18-04-2021,463,0,1,0,0.0,0.0,0.0,0.0
 Senador Alexandre Costa,19-04-2021,463,0,1,0,0.0,0.0,0.0,0.0
 Senador Alexandre Costa,20-04-2021,463,0,1,0,0.0,0.0,0.0,0.0
 Senador Alexandre Costa,21-04-2021,463,0,1,0,0.0,0.0,0.0,0.0
+Senador Alexandre Costa,22-04-2021,463,0,1,0,0.0,0.0,0.0,0.0
+Senador Alexandre Costa,23-04-2021,463,0,1,0,0.0,0.0,0.0,0.0

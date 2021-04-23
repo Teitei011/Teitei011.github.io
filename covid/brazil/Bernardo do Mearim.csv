@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Bernardo do Mearim,27-03-2020,0,0,0,0,3.4285714285714284,0.0,24.0,0.0
+Bernardo do Mearim,27-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
 Bernardo do Mearim,28-03-2020,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
-Bernardo do Mearim,29-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
-Bernardo do Mearim,30-03-2020,0,0,0,0,2.0,0.0,14.0,0.0
-Bernardo do Mearim,31-03-2020,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
-Bernardo do Mearim,01-04-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Bernardo do Mearim,29-03-2020,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Bernardo do Mearim,30-03-2020,0,0,0,0,1.0,0.0,7.0,0.0
+Bernardo do Mearim,31-03-2020,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Bernardo do Mearim,01-04-2020,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Bernardo do Mearim,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bernardo do Mearim,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Bernardo do Mearim,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -390,3 +390,5 @@ Bernardo do Mearim,18-04-2021,207,0,5,0,0.14285714285714285,0.14285714285714285,
 Bernardo do Mearim,19-04-2021,207,0,5,0,0.0,0.0,0.0,0.0
 Bernardo do Mearim,20-04-2021,214,7,5,0,1.0,0.0,7.0,0.0
 Bernardo do Mearim,21-04-2021,216,2,5,0,1.2857142857142858,0.0,9.0,0.0
+Bernardo do Mearim,22-04-2021,216,0,5,0,1.2857142857142858,0.0,9.0,0.0
+Bernardo do Mearim,23-04-2021,216,0,5,0,1.2857142857142858,0.0,9.0,0.0

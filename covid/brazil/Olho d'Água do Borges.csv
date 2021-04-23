@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Olho d'Água do Borges,27-03-2020,0,0,0,0,4.142857142857143,0.14285714285714285,29.0,1.0
-Olho d'Água do Borges,28-03-2020,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Olho d'Água do Borges,27-03-2020,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
+Olho d'Água do Borges,28-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
 Olho d'Água do Borges,29-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
-Olho d'Água do Borges,30-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
-Olho d'Água do Borges,31-03-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
-Olho d'Água do Borges,01-04-2020,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Olho d'Água do Borges,30-03-2020,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Olho d'Água do Borges,31-03-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Olho d'Água do Borges,01-04-2020,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Olho d'Água do Borges,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Olho d'Água do Borges,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Olho d'Água do Borges,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -390,3 +390,5 @@ Olho d'Água do Borges,18-04-2021,555,0,4,0,2.142857142857143,0.0,15.0,0.0
 Olho d'Água do Borges,19-04-2021,555,0,4,0,2.142857142857143,0.0,15.0,0.0
 Olho d'Água do Borges,20-04-2021,555,0,4,0,2.142857142857143,0.0,15.0,0.0
 Olho d'Água do Borges,21-04-2021,557,2,4,0,1.1428571428571428,0.0,8.0,0.0
+Olho d'Água do Borges,22-04-2021,568,11,4,0,2.4285714285714284,0.0,17.0,0.0
+Olho d'Água do Borges,23-04-2021,568,0,4,0,2.4285714285714284,0.0,17.0,0.0

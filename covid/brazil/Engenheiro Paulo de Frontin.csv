@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Engenheiro Paulo de Frontin,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Engenheiro Paulo de Frontin,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Engenheiro Paulo de Frontin,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Engenheiro Paulo de Frontin,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
-Engenheiro Paulo de Frontin,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Engenheiro Paulo de Frontin,27-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Engenheiro Paulo de Frontin,28-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Engenheiro Paulo de Frontin,29-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Engenheiro Paulo de Frontin,30-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Engenheiro Paulo de Frontin,31-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
 Engenheiro Paulo de Frontin,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Engenheiro Paulo de Frontin,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Engenheiro Paulo de Frontin,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -390,3 +390,5 @@ Engenheiro Paulo de Frontin,18-04-2021,1218,2,39,1,4.285714285714286,0.428571428
 Engenheiro Paulo de Frontin,19-04-2021,1218,0,39,0,4.285714285714286,0.42857142857142855,30.0,3.0
 Engenheiro Paulo de Frontin,20-04-2021,1230,12,39,0,4.571428571428571,0.42857142857142855,32.0,3.0
 Engenheiro Paulo de Frontin,21-04-2021,1232,2,41,2,4.571428571428571,0.7142857142857143,32.0,5.0
+Engenheiro Paulo de Frontin,22-04-2021,1234,2,43,2,3.2857142857142856,0.7142857142857143,23.0,5.0
+Engenheiro Paulo de Frontin,23-04-2021,1245,11,45,2,4.142857142857143,1.0,29.0,7.0

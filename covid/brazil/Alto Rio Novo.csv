@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Alto Rio Novo,27-03-2020,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Alto Rio Novo,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Alto Rio Novo,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Alto Rio Novo,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Alto Rio Novo,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -390,3 +390,5 @@ Alto Rio Novo,18-04-2021,633,0,21,0,0.42857142857142855,0.14285714285714285,3.0,
 Alto Rio Novo,19-04-2021,638,5,21,0,1.1428571428571428,0.14285714285714285,8.0,1.0
 Alto Rio Novo,20-04-2021,638,0,21,0,1.1428571428571428,0.14285714285714285,8.0,1.0
 Alto Rio Novo,21-04-2021,638,0,21,0,1.1428571428571428,0.0,8.0,0.0
+Alto Rio Novo,22-04-2021,638,0,21,0,0.7142857142857143,0.0,5.0,0.0
+Alto Rio Novo,23-04-2021,638,0,21,0,0.7142857142857143,0.0,5.0,0.0

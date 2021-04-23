@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Glória de Dourados,27-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
 Glória de Dourados,28-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Glória de Dourados,29-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Glória de Dourados,30-03-2020,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Glória de Dourados,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Glória de Dourados,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Glória de Dourados,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Glória de Dourados,01-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Glória de Dourados,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -390,3 +390,5 @@ Glória de Dourados,18-04-2021,752,3,17,1,3.857142857142857,0.14285714285714285,
 Glória de Dourados,19-04-2021,752,0,17,0,3.857142857142857,0.14285714285714285,27.0,1.0
 Glória de Dourados,20-04-2021,760,8,17,0,4.571428571428571,0.14285714285714285,32.0,1.0
 Glória de Dourados,21-04-2021,765,5,17,0,4.571428571428571,0.14285714285714285,32.0,1.0
+Glória de Dourados,22-04-2021,767,2,17,0,4.285714285714286,0.14285714285714285,30.0,1.0
+Glória de Dourados,23-04-2021,772,5,17,0,3.5714285714285716,0.14285714285714285,25.0,1.0

@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Guaraciaba do Norte,27-03-2020,0,0,0,0,5.571428571428571,0.7142857142857143,39.0,5.0
-Guaraciaba do Norte,28-03-2020,0,0,0,0,4.714285714285714,0.5714285714285714,33.0,4.0
-Guaraciaba do Norte,29-03-2020,0,0,0,0,4.142857142857143,0.5714285714285714,29.0,4.0
-Guaraciaba do Norte,30-03-2020,0,0,0,0,4.142857142857143,0.0,29.0,0.0
-Guaraciaba do Norte,31-03-2020,0,0,0,0,4.142857142857143,0.0,29.0,0.0
-Guaraciaba do Norte,01-04-2020,0,0,0,0,3.4285714285714284,0.0,24.0,0.0
+Guaraciaba do Norte,27-03-2020,0,0,0,0,6.0,0.5714285714285714,42.0,4.0
+Guaraciaba do Norte,28-03-2020,0,0,0,0,6.0,0.0,42.0,0.0
+Guaraciaba do Norte,29-03-2020,0,0,0,0,6.0,0.0,42.0,0.0
+Guaraciaba do Norte,30-03-2020,0,0,0,0,5.285714285714286,0.0,37.0,0.0
+Guaraciaba do Norte,31-03-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
+Guaraciaba do Norte,01-04-2020,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
 Guaraciaba do Norte,02-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Guaraciaba do Norte,03-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Guaraciaba do Norte,04-04-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -390,3 +390,5 @@ Guaraciaba do Norte,18-04-2021,1648,-2,33,0,11.714285714285714,0.142857142857142
 Guaraciaba do Norte,19-04-2021,1649,1,33,0,11.571428571428571,0.0,81.0,0.0
 Guaraciaba do Norte,20-04-2021,1649,0,33,0,6.142857142857143,0.0,43.0,0.0
 Guaraciaba do Norte,21-04-2021,1681,32,33,0,10.714285714285714,0.0,75.0,0.0
+Guaraciaba do Norte,22-04-2021,1682,1,33,0,10.857142857142858,0.0,76.0,0.0
+Guaraciaba do Norte,23-04-2021,1682,0,33,0,4.714285714285714,0.0,33.0,0.0

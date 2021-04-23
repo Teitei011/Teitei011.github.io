@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Cristiano Otoni,27-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
-Cristiano Otoni,28-03-2020,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
+Cristiano Otoni,27-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
+Cristiano Otoni,28-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cristiano Otoni,29-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cristiano Otoni,30-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
 Cristiano Otoni,31-03-2020,0,0,0,0,0.0,0.0,0.0,0.0
@@ -390,3 +390,5 @@ Cristiano Otoni,18-04-2021,322,0,12,1,0.7142857142857143,0.2857142857142857,5.0,
 Cristiano Otoni,19-04-2021,322,0,11,-1,0.2857142857142857,0.14285714285714285,2.0,1.0
 Cristiano Otoni,20-04-2021,324,2,11,0,0.42857142857142855,0.14285714285714285,3.0,1.0
 Cristiano Otoni,21-04-2021,324,0,11,0,0.42857142857142855,0.0,3.0,0.0
+Cristiano Otoni,22-04-2021,324,0,11,0,0.2857142857142857,0.0,2.0,0.0
+Cristiano Otoni,23-04-2021,329,5,11,0,1.0,0.0,7.0,0.0
