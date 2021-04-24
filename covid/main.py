@@ -45,6 +45,7 @@ def changeDateOrder(array):
     newArray = []
     for date in array:
         buffer = date.split("-")
+        print(buffer)
         newArray.append(buffer[2] + "-" + buffer[1] + "-" + buffer[0])
     return newArray
 
@@ -60,7 +61,7 @@ def splitDataframe2Something(dataframe, name): # Regiao pro Brasil né? # Estado
          newDataframe = dataframe.groupby([name, "data"])[['casosAcumulado', 'casosNovos', 'obitosAcumulado', 'obitosNovos']].sum()
     
     newDataframe.reset_index(inplace = True)
-    newDataframe["data"] = changeDateOrder(newDataframe["data"])
+    newDataframe["data"] = newDataframe["data"]
     newDataframe["daily cases moving average"] = newDataframe['casosNovos'].rolling(window=7).mean()
     newDataframe["daily deaths moving average"] = newDataframe['obitosNovos'].rolling(window=7).mean()
     newDataframe["sum_of_daily_cases_week"] = newDataframe['casosNovos'].rolling(window=7).sum() 
