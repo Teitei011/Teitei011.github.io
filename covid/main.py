@@ -52,7 +52,7 @@ def changeDateOrder(array):
 def splitDataframe2Something(dataframe, name): # Regiao pro Brasil né? # Estado tem que dividr por 2
 
     if (name == "estado"):
-        newDataframe = dataframe.groupby([name, "data"])[['casosAcumulado', 'casosNovos', 'obitosAcumulado', 'obitosNovos']].sum().apply(lambda x: divideByTwoWhenPossible(x))
+        newDataframe = dataframe.groupby([name, "data"])[['casosAcumulado', 'casosNovos', 'obitosAcumulado', 'obitosNovos']].sum()#.apply(lambda x: divideByTwoWhenPossible(x))
     elif (name == "Brasil"):
         dataframe = dataframe.loc[dataframe["regiao"] == "Brasil"]
         newDataframe = dataframe[["data", "casosAcumulado", "casosNovos", "obitosAcumulado", "obitosNovos"]].copy()
