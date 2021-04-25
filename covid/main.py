@@ -1,8 +1,16 @@
-import multiprocessing as mp
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[1]:
+
+
 import pandas as pd
 import time
 import os
-#import numba
+
+
+# In[12]:
+
 
 PATH = "brazil/"
 FILE_NAME = "Brazil.csv"
@@ -11,7 +19,9 @@ FILE_NAME = "Brazil.csv"
 tempo_inicial = time.time()
 
 
-#@jit(nopython=True, parallel=True)
+# In[3]:
+
+
 def extractDataframeByName(dataframe, location):
     print("Processing... 0%")
     all_names = dataframe[location].unique().tolist()
@@ -49,8 +59,13 @@ def changeDateOrder(array):
         newArray.append(buffer[2] + "-" + buffer[1] + "-" + buffer[0])
     return newArray
 
-def splitDataframe2Something(dataframe, name): # Regiao pro Brasil né? # Estado tem que dividr por 2
 
+# In[35]:
+
+
+def splitDataframe2Something(dataframe, name): # Regiao pro Brasil né? # Estado tem que dividr por 2
+    dataframe['data'] = [str(dataframe.data[i]).replace("/", "-") for i in range(len(dataframe))]
+    print(dataframe["data"])
     if (name == "estado"):
         newDataframe = dataframe.groupby([name, "data"])[['casosAcumulado', 'casosNovos', 'obitosAcumulado', 'obitosNovos']].sum().apply(lambda x: divideByTwoWhenPossible(x))
     elif (name == "Brasil"):
@@ -70,6 +85,10 @@ def splitDataframe2Something(dataframe, name): # Regiao pro Brasil né? # Estado
     
     return newDataframe
 
+
+# In[38]:
+
+
 def main():
 
     #def pre_processing_csv_data(file_name):
@@ -77,6 +96,8 @@ def main():
 
     cities = splitDataframe2Something(unprocessedDataset, "municipio")
     states = splitDataframe2Something(unprocessedDataset, "estado")
+#     print(states)
+    
     brazil = splitDataframe2Something(unprocessedDataset, "Brasil")
     brazil.to_csv(f"{PATH}/Brasil.csv", index=False)
 
@@ -90,3 +111,16 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
+
