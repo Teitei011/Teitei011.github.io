@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Fartura do Piauí,2020-03-27,0,0,0,0,11.0,0.2857142857142857,77.0,2.0
-Fartura do Piauí,2020-03-28,0,0,0,0,9.857142857142858,0.14285714285714285,69.0,1.0
+Fartura do Piauí,2020-03-27,0,0,0,0,9.857142857142858,0.14285714285714285,69.0,1.0
+Fartura do Piauí,2020-03-28,0,0,0,0,2.0,0.14285714285714285,14.0,1.0
 Fartura do Piauí,2020-03-29,0,0,0,0,2.0,0.14285714285714285,14.0,1.0
-Fartura do Piauí,2020-03-30,0,0,0,0,2.0,0.14285714285714285,14.0,1.0
-Fartura do Piauí,2020-03-31,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
+Fartura do Piauí,2020-03-30,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
+Fartura do Piauí,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Fartura do Piauí,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Fartura do Piauí,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Fartura do Piauí,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
@@ -394,3 +394,4 @@ Fartura do Piauí,2021-04-22,165,0,3,0,0.0,0.0,0.0,0.0
 Fartura do Piauí,2021-04-23,165,0,3,0,0.0,0.0,0.0,0.0
 Fartura do Piauí,2021-04-24,165,0,3,0,0.0,0.0,0.0,0.0
 Fartura do Piauí,2021-04-25,165,0,3,0,0.0,0.0,0.0,0.0
+Fartura do Piauí,2021-04-26,165,0,3,0,0.0,0.0,0.0,0.0

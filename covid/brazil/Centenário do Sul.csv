@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Centenário do Sul,2020-03-27,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Centenário do Sul,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Centenário do Sul,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Centenário do Sul,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Centenário do Sul,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
@@ -394,3 +394,4 @@ Centenário do Sul,2021-04-22,722,3,22,0,5.285714285714286,0.2857142857142857,37
 Centenário do Sul,2021-04-23,722,0,22,0,4.571428571428571,0.2857142857142857,32.0,2.0
 Centenário do Sul,2021-04-24,724,2,22,0,4.857142857142857,0.2857142857142857,34.0,2.0
 Centenário do Sul,2021-04-25,725,1,22,0,5.0,0.2857142857142857,35.0,2.0
+Centenário do Sul,2021-04-26,726,1,22,0,2.7142857142857144,0.2857142857142857,19.0,2.0

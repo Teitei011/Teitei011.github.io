@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santa Maria da Vitória,2020-03-27,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Santa Maria da Vitória,2020-03-28,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Santa Maria da Vitória,2020-03-29,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santa Maria da Vitória,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Maria da Vitória,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Maria da Vitória,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Maria da Vitória,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
@@ -394,3 +394,4 @@ Santa Maria da Vitória,2021-04-22,1459,13,24,0,14.428571428571429,0.0,101.0,0.0
 Santa Maria da Vitória,2021-04-23,1480,21,24,0,16.285714285714285,0.0,114.0,0.0
 Santa Maria da Vitória,2021-04-24,1480,0,24,0,14.0,0.0,98.0,0.0
 Santa Maria da Vitória,2021-04-25,1507,27,25,1,14.571428571428571,0.14285714285714285,102.0,1.0
+Santa Maria da Vitória,2021-04-26,1510,3,25,0,14.714285714285714,0.14285714285714285,103.0,1.0

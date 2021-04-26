@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Diamantina,2020-03-27,0,0,0,0,0.2857142857142857,0.14285714285714285,2.0,1.0
+Diamantina,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Diamantina,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Diamantina,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Diamantina,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
@@ -394,3 +394,4 @@ Diamantina,2021-04-22,1629,0,16,0,12.285714285714286,0.0,86.0,0.0
 Diamantina,2021-04-23,1645,16,16,0,13.142857142857142,0.0,92.0,0.0
 Diamantina,2021-04-24,1659,14,16,0,12.0,0.0,84.0,0.0
 Diamantina,2021-04-25,1659,0,16,0,12.0,0.0,84.0,0.0
+Diamantina,2021-04-26,1659,0,16,0,12.0,0.0,84.0,0.0

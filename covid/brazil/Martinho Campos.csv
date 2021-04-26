@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Martinho Campos,2020-03-27,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Martinho Campos,2020-03-27,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
 Martinho Campos,2020-03-28,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
 Martinho Campos,2020-03-29,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Martinho Campos,2020-03-30,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
+Martinho Campos,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Martinho Campos,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Martinho Campos,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Martinho Campos,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
@@ -394,3 +394,4 @@ Martinho Campos,2021-04-22,644,0,15,0,4.428571428571429,0.14285714285714285,31.0
 Martinho Campos,2021-04-23,644,0,15,0,4.428571428571429,0.0,31.0,0.0
 Martinho Campos,2021-04-24,670,26,15,0,8.142857142857142,0.0,57.0,0.0
 Martinho Campos,2021-04-25,670,0,15,0,7.0,0.0,49.0,0.0
+Martinho Campos,2021-04-26,670,0,15,0,7.0,0.0,49.0,0.0

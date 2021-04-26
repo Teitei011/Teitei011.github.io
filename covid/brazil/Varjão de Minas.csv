@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Varjão de Minas,2020-03-27,0,0,0,0,2.0,0.0,14.0,0.0
-Varjão de Minas,2020-03-28,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Varjão de Minas,2020-03-27,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Varjão de Minas,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Varjão de Minas,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Varjão de Minas,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Varjão de Minas,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
@@ -394,3 +394,4 @@ Varjão de Minas,2021-04-22,553,27,15,1,7.428571428571429,0.2857142857142857,52.
 Varjão de Minas,2021-04-23,553,0,15,0,7.428571428571429,0.2857142857142857,52.0,2.0
 Varjão de Minas,2021-04-24,568,15,15,0,7.0,0.2857142857142857,49.0,2.0
 Varjão de Minas,2021-04-25,577,9,15,0,8.285714285714286,0.2857142857142857,58.0,2.0
+Varjão de Minas,2021-04-26,577,0,15,0,7.285714285714286,0.14285714285714285,51.0,1.0

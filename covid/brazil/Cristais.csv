@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Cristais,2020-03-27,0,0,0,0,-0.14285714285714285,0.0,-1.0,0.0
+Cristais,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Cristais,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Cristais,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Cristais,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
@@ -394,3 +394,4 @@ Cristais,2021-04-22,526,0,12,0,0.0,0.2857142857142857,0.0,2.0
 Cristais,2021-04-23,526,0,12,0,0.0,0.14285714285714285,0.0,1.0
 Cristais,2021-04-24,526,0,12,0,0.0,0.14285714285714285,0.0,1.0
 Cristais,2021-04-25,526,0,1,-11,0.0,0.0,0.0,0.0
+Cristais,2021-04-26,526,0,12,11,0.0,0.0,0.0,0.0

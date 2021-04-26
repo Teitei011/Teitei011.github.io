@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Pirapora do Bom Jesus,2020-03-27,0,0,0,0,19.714285714285715,1.5714285714285714,138.0,11.0
-Pirapora do Bom Jesus,2020-03-28,0,0,0,0,17.571428571428573,1.5714285714285714,123.0,11.0
-Pirapora do Bom Jesus,2020-03-29,0,0,0,0,17.428571428571427,1.1428571428571428,122.0,8.0
-Pirapora do Bom Jesus,2020-03-30,0,0,0,0,13.571428571428571,1.0,95.0,7.0
-Pirapora do Bom Jesus,2020-03-31,0,0,0,0,8.857142857142858,1.0,62.0,7.0
-Pirapora do Bom Jesus,2020-04-01,0,0,0,0,6.285714285714286,0.7142857142857143,44.0,5.0
+Pirapora do Bom Jesus,2020-03-27,0,0,0,0,17.571428571428573,1.5714285714285714,123.0,11.0
+Pirapora do Bom Jesus,2020-03-28,0,0,0,0,17.428571428571427,1.1428571428571428,122.0,8.0
+Pirapora do Bom Jesus,2020-03-29,0,0,0,0,13.571428571428571,1.0,95.0,7.0
+Pirapora do Bom Jesus,2020-03-30,0,0,0,0,8.857142857142858,1.0,62.0,7.0
+Pirapora do Bom Jesus,2020-03-31,0,0,0,0,6.285714285714286,0.7142857142857143,44.0,5.0
+Pirapora do Bom Jesus,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Pirapora do Bom Jesus,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Pirapora do Bom Jesus,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Pirapora do Bom Jesus,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -394,3 +394,4 @@ Pirapora do Bom Jesus,2021-04-22,1281,1,14,0,2.0,0.0,14.0,0.0
 Pirapora do Bom Jesus,2021-04-23,1287,6,14,0,2.857142857142857,0.0,20.0,0.0
 Pirapora do Bom Jesus,2021-04-24,1293,6,14,0,3.857142857142857,0.0,27.0,0.0
 Pirapora do Bom Jesus,2021-04-25,1293,0,14,0,2.857142857142857,0.0,20.0,0.0
+Pirapora do Bom Jesus,2021-04-26,1293,0,14,0,2.857142857142857,0.0,20.0,0.0

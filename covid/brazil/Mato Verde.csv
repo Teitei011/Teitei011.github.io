@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Mato Verde,2020-03-27,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Mato Verde,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Mato Verde,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Mato Verde,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Mato Verde,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
@@ -394,3 +394,4 @@ Mato Verde,2021-04-22,674,0,7,0,1.4285714285714286,0.0,10.0,0.0
 Mato Verde,2021-04-23,674,0,7,0,1.1428571428571428,0.0,8.0,0.0
 Mato Verde,2021-04-24,676,2,8,1,1.1428571428571428,0.14285714285714285,8.0,1.0
 Mato Verde,2021-04-25,676,0,9,1,1.1428571428571428,0.2857142857142857,8.0,2.0
+Mato Verde,2021-04-26,676,0,9,0,1.1428571428571428,0.2857142857142857,8.0,2.0

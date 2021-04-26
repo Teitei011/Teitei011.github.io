@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São Gonçalo do Amarante,2020-03-27,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
-São Gonçalo do Amarante,2020-03-28,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
+São Gonçalo do Amarante,2020-03-28,0,0,0,0,1.0,0.0,7.0,0.0
 São Gonçalo do Amarante,2020-03-29,1,1,0,0,1.1428571428571428,0.0,8.0,0.0
-São Gonçalo do Amarante,2020-03-30,2,1,0,0,1.2857142857142858,0.0,9.0,0.0
-São Gonçalo do Amarante,2020-03-31,1,-1,0,0,0.5714285714285714,0.0,4.0,0.0
+São Gonçalo do Amarante,2020-03-30,2,1,0,0,0.7142857142857143,0.0,5.0,0.0
+São Gonçalo do Amarante,2020-03-31,1,-1,0,0,0.14285714285714285,0.0,1.0,0.0
 São Gonçalo do Amarante,2020-04-01,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
 São Gonçalo do Amarante,2020-04-02,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
 São Gonçalo do Amarante,2020-04-03,9,8,0,0,1.2857142857142858,0.0,9.0,0.0
@@ -394,3 +394,4 @@ São Gonçalo do Amarante,2021-04-22,11462,45,312,3,58.714285714285715,3.7142857
 São Gonçalo do Amarante,2021-04-23,11474,12,321,9,39.57142857142857,3.2857142857142856,277.0,23.0
 São Gonçalo do Amarante,2021-04-24,11649,175,324,3,55.714285714285715,3.4285714285714284,390.0,24.0
 São Gonçalo do Amarante,2021-04-25,11686,37,324,0,54.142857142857146,3.142857142857143,379.0,22.0
+São Gonçalo do Amarante,2021-04-26,11751,65,325,1,55.857142857142854,3.142857142857143,391.0,22.0

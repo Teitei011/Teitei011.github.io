@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Águas de Chapecó,2020-03-27,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Águas de Chapecó,2020-03-28,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Águas de Chapecó,2020-03-27,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Águas de Chapecó,2020-03-28,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Águas de Chapecó,2020-03-29,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Águas de Chapecó,2020-03-30,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Águas de Chapecó,2020-03-31,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Águas de Chapecó,2020-03-30,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Águas de Chapecó,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Águas de Chapecó,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Águas de Chapecó,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Águas de Chapecó,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
@@ -394,3 +394,4 @@ municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases
 Águas de Chapecó,2021-04-23,364,0,4,0,1.4285714285714286,0.0,10.0,0.0
 Águas de Chapecó,2021-04-24,367,3,4,0,1.8571428571428572,0.0,13.0,0.0
 Águas de Chapecó,2021-04-25,367,0,4,0,1.8571428571428572,0.0,13.0,0.0
+Águas de Chapecó,2021-04-26,369,2,4,0,1.5714285714285714,0.0,11.0,0.0

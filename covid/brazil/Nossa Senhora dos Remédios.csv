@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Nossa Senhora dos Remédios,2020-03-27,0,0,0,0,75.0,2.857142857142857,525.0,20.0
-Nossa Senhora dos Remédios,2020-03-28,0,0,0,0,52.285714285714285,2.142857142857143,366.0,15.0
-Nossa Senhora dos Remédios,2020-03-29,0,0,0,0,46.142857142857146,1.7142857142857142,323.0,12.0
-Nossa Senhora dos Remédios,2020-03-30,0,0,0,0,39.42857142857143,1.1428571428571428,276.0,8.0
-Nossa Senhora dos Remédios,2020-03-31,0,0,0,0,14.571428571428571,0.7142857142857143,102.0,5.0
-Nossa Senhora dos Remédios,2020-04-01,0,0,0,0,6.857142857142857,0.2857142857142857,48.0,2.0
+Nossa Senhora dos Remédios,2020-03-27,0,0,0,0,59.285714285714285,2.5714285714285716,415.0,18.0
+Nossa Senhora dos Remédios,2020-03-28,0,0,0,0,53.142857142857146,2.142857142857143,372.0,15.0
+Nossa Senhora dos Remédios,2020-03-29,0,0,0,0,46.42857142857143,1.5714285714285714,325.0,11.0
+Nossa Senhora dos Remédios,2020-03-30,0,0,0,0,21.571428571428573,1.1428571428571428,151.0,8.0
+Nossa Senhora dos Remédios,2020-03-31,0,0,0,0,13.857142857142858,0.7142857142857143,97.0,5.0
+Nossa Senhora dos Remédios,2020-04-01,0,0,0,0,7.0,0.42857142857142855,49.0,3.0
 Nossa Senhora dos Remédios,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Nossa Senhora dos Remédios,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Nossa Senhora dos Remédios,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -394,3 +394,4 @@ Nossa Senhora dos Remédios,2021-04-22,651,1,10,0,0.2857142857142857,0.0,2.0,0.0
 Nossa Senhora dos Remédios,2021-04-23,651,0,10,0,0.2857142857142857,0.0,2.0,0.0
 Nossa Senhora dos Remédios,2021-04-24,651,0,10,0,0.2857142857142857,0.0,2.0,0.0
 Nossa Senhora dos Remédios,2021-04-25,651,0,10,0,0.2857142857142857,0.0,2.0,0.0
+Nossa Senhora dos Remédios,2021-04-26,651,0,10,0,0.2857142857142857,0.0,2.0,0.0

@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Salto do Itararé,2020-03-27,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
 Salto do Itararé,2020-03-28,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
-Salto do Itararé,2020-03-29,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Salto do Itararé,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Salto do Itararé,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Salto do Itararé,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Salto do Itararé,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
@@ -394,3 +394,4 @@ Salto do Itararé,2021-04-22,475,31,14,2,6.857142857142857,0.7142857142857143,48
 Salto do Itararé,2021-04-23,479,4,14,0,7.428571428571429,0.7142857142857143,52.0,5.0
 Salto do Itararé,2021-04-24,503,24,14,0,10.857142857142858,0.7142857142857143,76.0,5.0
 Salto do Itararé,2021-04-25,510,7,14,0,11.714285714285714,0.42857142857142855,82.0,3.0
+Salto do Itararé,2021-04-26,513,3,14,0,12.0,0.42857142857142855,84.0,3.0

@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santana do Garambéu,2020-03-27,0,0,0,0,0.5714285714285714,0.14285714285714285,4.0,1.0
-Santana do Garambéu,2020-03-28,0,0,0,0,0.5714285714285714,0.14285714285714285,4.0,1.0
+Santana do Garambéu,2020-03-28,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Santana do Garambéu,2020-03-29,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Santana do Garambéu,2020-03-30,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Santana do Garambéu,2020-03-31,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Santana do Garambéu,2020-03-30,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Santana do Garambéu,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Santana do Garambéu,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Santana do Garambéu,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Santana do Garambéu,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
@@ -394,3 +394,4 @@ Santana do Garambéu,2021-04-22,20,0,2,0,0.0,0.0,0.0,0.0
 Santana do Garambéu,2021-04-23,20,0,2,0,0.0,0.0,0.0,0.0
 Santana do Garambéu,2021-04-24,20,0,2,0,0.0,0.0,0.0,0.0
 Santana do Garambéu,2021-04-25,20,0,2,0,0.0,0.0,0.0,0.0
+Santana do Garambéu,2021-04-26,20,0,2,0,0.0,0.0,0.0,0.0

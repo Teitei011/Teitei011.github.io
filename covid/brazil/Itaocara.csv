@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Itaocara,2020-03-27,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Itaocara,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Itaocara,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Itaocara,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Itaocara,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
@@ -394,3 +394,4 @@ Itaocara,2021-04-22,1664,0,64,0,6.571428571428571,0.0,46.0,0.0
 Itaocara,2021-04-23,1668,4,64,0,5.857142857142857,0.0,41.0,0.0
 Itaocara,2021-04-24,1668,0,64,0,5.857142857142857,0.0,41.0,0.0
 Itaocara,2021-04-25,1668,0,64,0,4.428571428571429,0.0,31.0,0.0
+Itaocara,2021-04-26,1668,0,64,0,4.428571428571429,0.0,31.0,0.0
