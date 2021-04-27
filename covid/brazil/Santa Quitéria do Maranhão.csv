@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santa Quitéria do Maranhão,2020-03-27,0,0,0,0,22.285714285714285,0.14285714285714285,156.0,1.0
-Santa Quitéria do Maranhão,2020-03-28,0,0,0,0,13.857142857142858,0.0,97.0,0.0
-Santa Quitéria do Maranhão,2020-03-29,0,0,0,0,10.0,0.0,70.0,0.0
-Santa Quitéria do Maranhão,2020-03-30,0,0,0,0,9.571428571428571,0.0,67.0,0.0
-Santa Quitéria do Maranhão,2020-03-31,0,0,0,0,4.285714285714286,0.0,30.0,0.0
-Santa Quitéria do Maranhão,2020-04-01,0,0,0,0,3.4285714285714284,0.0,24.0,0.0
+Santa Quitéria do Maranhão,2020-03-27,0,0,0,0,18.714285714285715,0.0,131.0,0.0
+Santa Quitéria do Maranhão,2020-03-28,0,0,0,0,14.857142857142858,0.0,104.0,0.0
+Santa Quitéria do Maranhão,2020-03-29,0,0,0,0,14.428571428571429,0.0,101.0,0.0
+Santa Quitéria do Maranhão,2020-03-30,0,0,0,0,9.142857142857142,0.0,64.0,0.0
+Santa Quitéria do Maranhão,2020-03-31,0,0,0,0,8.285714285714286,0.0,58.0,0.0
+Santa Quitéria do Maranhão,2020-04-01,0,0,0,0,4.857142857142857,0.0,34.0,0.0
 Santa Quitéria do Maranhão,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Quitéria do Maranhão,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Quitéria do Maranhão,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -395,3 +395,4 @@ Santa Quitéria do Maranhão,2021-04-23,194,0,6,0,-43.0,-1.5714285714285714,-301
 Santa Quitéria do Maranhão,2021-04-24,194,0,6,0,-43.0,-1.5714285714285714,-301.0,-11.0
 Santa Quitéria do Maranhão,2021-04-25,194,0,6,0,-43.0,-1.5714285714285714,-301.0,-11.0
 Santa Quitéria do Maranhão,2021-04-26,194,0,6,0,-43.0,-1.5714285714285714,-301.0,-11.0
+Santa Quitéria do Maranhão,2021-04-27,196,2,6,0,0.2857142857142857,0.0,2.0,0.0

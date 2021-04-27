@@ -1,8 +1,8 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Senador Salgado Filho,2020-03-27,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Senador Salgado Filho,2020-03-28,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Senador Salgado Filho,2020-03-28,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Senador Salgado Filho,2020-03-29,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Senador Salgado Filho,2020-03-30,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Senador Salgado Filho,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Senador Salgado Filho,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Senador Salgado Filho,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Senador Salgado Filho,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
@@ -395,3 +395,4 @@ Senador Salgado Filho,2021-04-23,236,3,1,0,0.5714285714285714,0.1428571428571428
 Senador Salgado Filho,2021-04-24,236,0,1,0,0.5714285714285714,0.14285714285714285,4.0,1.0
 Senador Salgado Filho,2021-04-25,236,0,1,0,0.5714285714285714,0.14285714285714285,4.0,1.0
 Senador Salgado Filho,2021-04-26,236,0,1,0,0.5714285714285714,0.14285714285714285,4.0,1.0
+Senador Salgado Filho,2021-04-27,236,0,1,0,0.42857142857142855,0.14285714285714285,3.0,1.0

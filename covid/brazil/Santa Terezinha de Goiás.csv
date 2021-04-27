@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santa Terezinha de Goiás,2020-03-27,0,0,0,0,4.428571428571429,0.0,31.0,0.0
-Santa Terezinha de Goiás,2020-03-28,0,0,0,0,3.5714285714285716,0.0,25.0,0.0
-Santa Terezinha de Goiás,2020-03-29,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
-Santa Terezinha de Goiás,2020-03-30,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Santa Terezinha de Goiás,2020-03-31,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
-Santa Terezinha de Goiás,2020-04-01,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santa Terezinha de Goiás,2020-03-27,0,0,0,0,3.857142857142857,0.0,27.0,0.0
+Santa Terezinha de Goiás,2020-03-28,0,0,0,0,2.7142857142857144,0.0,19.0,0.0
+Santa Terezinha de Goiás,2020-03-29,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Santa Terezinha de Goiás,2020-03-30,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Santa Terezinha de Goiás,2020-03-31,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Santa Terezinha de Goiás,2020-04-01,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Santa Terezinha de Goiás,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Terezinha de Goiás,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Terezinha de Goiás,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -395,3 +395,4 @@ Santa Terezinha de Goiás,2021-04-23,629,4,17,1,2.4285714285714284,0.28571428571
 Santa Terezinha de Goiás,2021-04-24,642,13,19,2,4.428571428571429,0.5714285714285714,31.0,4.0
 Santa Terezinha de Goiás,2021-04-25,642,0,19,0,4.428571428571429,0.5714285714285714,31.0,4.0
 Santa Terezinha de Goiás,2021-04-26,642,0,19,0,3.5714285714285716,0.5714285714285714,25.0,4.0
+Santa Terezinha de Goiás,2021-04-27,656,14,19,0,5.0,0.42857142857142855,35.0,3.0

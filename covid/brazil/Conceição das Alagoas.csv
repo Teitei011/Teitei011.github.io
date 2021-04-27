@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Conceição das Alagoas,2020-03-27,0,0,0,0,2.7142857142857144,0.0,19.0,0.0
-Conceição das Alagoas,2020-03-28,0,0,0,0,2.0,0.0,14.0,0.0
-Conceição das Alagoas,2020-03-29,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
-Conceição das Alagoas,2020-03-30,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Conceição das Alagoas,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
-Conceição das Alagoas,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
+Conceição das Alagoas,2020-03-27,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Conceição das Alagoas,2020-03-28,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Conceição das Alagoas,2020-03-29,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Conceição das Alagoas,2020-03-30,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Conceição das Alagoas,2020-03-31,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Conceição das Alagoas,2020-04-01,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Conceição das Alagoas,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Conceição das Alagoas,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Conceição das Alagoas,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -395,3 +395,4 @@ Conceição das Alagoas,2021-04-23,2946,29,86,0,21.857142857142858,0.71428571428
 Conceição das Alagoas,2021-04-24,2967,21,86,0,17.571428571428573,0.42857142857142855,123.0,3.0
 Conceição das Alagoas,2021-04-25,2985,18,86,0,19.571428571428573,0.42857142857142855,137.0,3.0
 Conceição das Alagoas,2021-04-26,2990,5,89,3,19.571428571428573,0.8571428571428571,137.0,6.0
+Conceição das Alagoas,2021-04-27,2991,1,89,0,17.571428571428573,0.7142857142857143,123.0,5.0

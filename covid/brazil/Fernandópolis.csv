@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Fernandópolis,2020-03-27,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Fernandópolis,2020-03-27,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Fernandópolis,2020-03-28,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Fernandópolis,2020-03-29,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Fernandópolis,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Fernandópolis,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Fernandópolis,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Fernandópolis,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
@@ -395,3 +395,4 @@ Fernandópolis,2021-04-23,7484,9,177,0,14.0,1.0,98.0,7.0
 Fernandópolis,2021-04-24,7494,10,178,1,14.142857142857142,0.8571428571428571,99.0,6.0
 Fernandópolis,2021-04-25,7494,0,178,0,14.0,0.8571428571428571,98.0,6.0
 Fernandópolis,2021-04-26,7496,2,179,1,13.285714285714286,1.0,93.0,7.0
+Fernandópolis,2021-04-27,7527,31,180,1,9.285714285714286,0.5714285714285714,65.0,4.0
