@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São Francisco do Sul,2020-03-27,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 São Francisco do Sul,2020-03-28,1,1,0,0,0.2857142857142857,0.0,2.0,0.0
-São Francisco do Sul,2020-03-29,1,0,0,0,0.2857142857142857,0.0,2.0,0.0
+São Francisco do Sul,2020-03-29,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
 São Francisco do Sul,2020-03-30,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
 São Francisco do Sul,2020-03-31,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
 São Francisco do Sul,2020-04-01,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
@@ -396,3 +396,4 @@ São Francisco do Sul,2021-04-24,6066,20,109,2,14.142857142857142,1.0,99.0,7.0
 São Francisco do Sul,2021-04-25,6086,20,109,0,15.714285714285714,1.0,110.0,7.0
 São Francisco do Sul,2021-04-26,6094,8,111,2,13.428571428571429,1.1428571428571428,94.0,8.0
 São Francisco do Sul,2021-04-27,6104,10,111,0,12.428571428571429,1.0,87.0,7.0
+São Francisco do Sul,2021-04-28,6123,19,113,2,15.0,1.1428571428571428,105.0,8.0

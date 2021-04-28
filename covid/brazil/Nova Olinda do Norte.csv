@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Nova Olinda do Norte,2020-03-27,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
+Nova Olinda do Norte,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Olinda do Norte,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Olinda do Norte,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Olinda do Norte,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
@@ -396,3 +396,4 @@ Nova Olinda do Norte,2021-04-24,2569,3,63,0,3.4285714285714284,0.0,24.0,0.0
 Nova Olinda do Norte,2021-04-25,2570,1,63,0,3.5714285714285716,0.0,25.0,0.0
 Nova Olinda do Norte,2021-04-26,2571,1,63,0,3.7142857142857144,0.0,26.0,0.0
 Nova Olinda do Norte,2021-04-27,2573,2,64,1,3.2857142857142856,0.14285714285714285,23.0,1.0
+Nova Olinda do Norte,2021-04-28,2573,0,64,0,2.2857142857142856,0.14285714285714285,16.0,1.0

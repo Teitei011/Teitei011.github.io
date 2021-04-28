@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santa Maria Madalena,2020-03-27,0,0,0,0,119.14285714285714,4.142857142857143,834.0,29.0
-Santa Maria Madalena,2020-03-28,0,0,0,0,115.28571428571429,4.0,807.0,28.0
-Santa Maria Madalena,2020-03-29,0,0,0,0,61.285714285714285,3.2857142857142856,429.0,23.0
-Santa Maria Madalena,2020-03-30,0,0,0,0,28.857142857142858,1.7142857142857142,202.0,12.0
-Santa Maria Madalena,2020-03-31,0,0,0,0,29.0,1.4285714285714286,203.0,10.0
-Santa Maria Madalena,2020-04-01,0,0,0,0,27.0,1.0,189.0,7.0
+Santa Maria Madalena,2020-03-27,0,0,0,0,151.0,4.285714285714286,1057.0,30.0
+Santa Maria Madalena,2020-03-28,0,0,0,0,97.0,3.5714285714285716,679.0,25.0
+Santa Maria Madalena,2020-03-29,0,0,0,0,64.57142857142857,2.0,452.0,14.0
+Santa Maria Madalena,2020-03-30,0,0,0,0,64.71428571428571,1.7142857142857142,453.0,12.0
+Santa Maria Madalena,2020-03-31,0,0,0,0,62.714285714285715,1.2857142857142858,439.0,9.0
+Santa Maria Madalena,2020-04-01,0,0,0,0,35.714285714285715,0.2857142857142857,250.0,2.0
 Santa Maria Madalena,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Maria Madalena,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Maria Madalena,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -396,3 +396,4 @@ Santa Maria Madalena,2021-04-24,219,0,8,0,0.14285714285714285,0.0,1.0,0.0
 Santa Maria Madalena,2021-04-25,219,0,8,0,0.14285714285714285,0.0,1.0,0.0
 Santa Maria Madalena,2021-04-26,219,0,8,0,0.14285714285714285,0.0,1.0,0.0
 Santa Maria Madalena,2021-04-27,219,0,8,0,0.0,0.0,0.0,0.0
+Santa Maria Madalena,2021-04-28,219,0,8,0,0.0,0.0,0.0,0.0

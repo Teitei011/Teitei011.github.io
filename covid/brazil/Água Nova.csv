@@ -4,7 +4,7 @@ municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases
 Água Nova,2020-03-29,0,0,0,0,1.0,0.0,7.0,0.0
 Água Nova,2020-03-30,0,0,0,0,1.0,0.0,7.0,0.0
 Água Nova,2020-03-31,0,0,0,0,1.0,0.0,7.0,0.0
-Água Nova,2020-04-01,0,0,0,0,1.0,0.0,7.0,0.0
+Água Nova,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Água Nova,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Água Nova,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Água Nova,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -396,3 +396,4 @@ municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases
 Água Nova,2021-04-25,204,0,2,0,0.0,0.0,0.0,0.0
 Água Nova,2021-04-26,204,0,2,0,0.0,0.0,0.0,0.0
 Água Nova,2021-04-27,204,0,2,0,0.0,0.0,0.0,0.0
+Água Nova,2021-04-28,204,0,2,0,0.0,0.0,0.0,0.0
