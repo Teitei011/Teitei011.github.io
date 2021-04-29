@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Albertina,2020-03-27,0,0,0,0,2.142857142857143,0.0,15.0,0.0
-Albertina,2020-03-28,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Albertina,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Albertina,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Albertina,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Albertina,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
@@ -397,3 +397,4 @@ Albertina,2021-04-25,176,0,6,0,0.5714285714285714,0.0,4.0,0.0
 Albertina,2021-04-26,176,0,6,0,0.5714285714285714,0.0,4.0,0.0
 Albertina,2021-04-27,178,2,6,0,0.8571428571428571,0.0,6.0,0.0
 Albertina,2021-04-28,178,0,6,0,0.8571428571428571,0.0,6.0,0.0
+Albertina,2021-04-29,178,0,6,0,0.8571428571428571,0.0,6.0,0.0

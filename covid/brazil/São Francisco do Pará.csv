@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Francisco do Pará,2020-03-27,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+São Francisco do Pará,2020-03-27,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 São Francisco do Pará,2020-03-28,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 São Francisco do Pará,2020-03-29,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 São Francisco do Pará,2020-03-30,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-São Francisco do Pará,2020-03-31,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+São Francisco do Pará,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 São Francisco do Pará,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 São Francisco do Pará,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 São Francisco do Pará,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
@@ -397,3 +397,4 @@ São Francisco do Pará,2021-04-25,679,0,20,1,2.5714285714285716,0.1428571428571
 São Francisco do Pará,2021-04-26,679,0,20,0,2.5714285714285716,0.14285714285714285,18.0,1.0
 São Francisco do Pará,2021-04-27,679,0,20,0,1.7142857142857142,0.14285714285714285,12.0,1.0
 São Francisco do Pará,2021-04-28,691,12,20,0,3.4285714285714284,0.14285714285714285,24.0,1.0
+São Francisco do Pará,2021-04-29,691,0,20,0,3.4285714285714284,0.14285714285714285,24.0,1.0

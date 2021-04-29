@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Fernando de Noronha,2020-03-27,0,0,0,0,2.857142857142857,0.0,20.0,0.0
-Fernando de Noronha,2020-03-28,1,1,0,0,2.5714285714285716,0.0,18.0,0.0
-Fernando de Noronha,2020-03-29,1,0,0,0,1.2857142857142858,0.0,9.0,0.0
-Fernando de Noronha,2020-03-30,1,0,0,0,1.2857142857142858,0.0,9.0,0.0
-Fernando de Noronha,2020-03-31,2,1,0,0,1.4285714285714286,0.0,10.0,0.0
-Fernando de Noronha,2020-04-01,2,0,0,0,1.0,0.0,7.0,0.0
+Fernando de Noronha,2020-03-27,0,0,0,0,3.2857142857142856,0.0,23.0,0.0
+Fernando de Noronha,2020-03-28,1,1,0,0,2.142857142857143,0.0,15.0,0.0
+Fernando de Noronha,2020-03-29,1,0,0,0,2.142857142857143,0.0,15.0,0.0
+Fernando de Noronha,2020-03-30,1,0,0,0,2.142857142857143,0.0,15.0,0.0
+Fernando de Noronha,2020-03-31,2,1,0,0,1.8571428571428572,0.0,13.0,0.0
+Fernando de Noronha,2020-04-01,2,0,0,0,1.1428571428571428,0.0,8.0,0.0
 Fernando de Noronha,2020-04-02,2,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Fernando de Noronha,2020-04-03,5,3,0,0,0.7142857142857143,0.0,5.0,0.0
 Fernando de Noronha,2020-04-04,7,2,0,0,0.8571428571428571,0.0,6.0,0.0
@@ -397,3 +397,4 @@ Fernando de Noronha,2021-04-25,250,0,2,0,0.42857142857142855,0.0,3.0,0.0
 Fernando de Noronha,2021-04-26,250,0,2,0,0.42857142857142855,0.0,3.0,0.0
 Fernando de Noronha,2021-04-27,250,0,2,0,0.42857142857142855,0.0,3.0,0.0
 Fernando de Noronha,2021-04-28,253,3,2,0,0.7142857142857143,0.0,5.0,0.0
+Fernando de Noronha,2021-04-29,253,0,2,0,0.7142857142857143,0.0,5.0,0.0

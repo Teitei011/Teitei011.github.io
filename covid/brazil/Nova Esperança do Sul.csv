@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Nova Esperança do Sul,2020-03-27,0,0,0,0,0.7142857142857143,0.14285714285714285,5.0,1.0
-Nova Esperança do Sul,2020-03-28,0,0,0,0,0.42857142857142855,0.14285714285714285,3.0,1.0
+Nova Esperança do Sul,2020-03-27,0,0,0,0,0.42857142857142855,0.14285714285714285,3.0,1.0
+Nova Esperança do Sul,2020-03-28,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Nova Esperança do Sul,2020-03-29,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Nova Esperança do Sul,2020-03-30,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Nova Esperança do Sul,2020-03-31,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Nova Esperança do Sul,2020-04-01,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Nova Esperança do Sul,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Esperança do Sul,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Esperança do Sul,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Esperança do Sul,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -397,3 +397,4 @@ Nova Esperança do Sul,2021-04-25,703,7,5,0,14.857142857142858,0.142857142857142
 Nova Esperança do Sul,2021-04-26,703,0,5,0,8.0,0.14285714285714285,56.0,1.0
 Nova Esperança do Sul,2021-04-27,709,6,5,0,8.857142857142858,0.14285714285714285,62.0,1.0
 Nova Esperança do Sul,2021-04-28,718,9,5,0,8.285714285714286,0.14285714285714285,58.0,1.0
+Nova Esperança do Sul,2021-04-29,720,2,5,0,8.571428571428571,0.14285714285714285,60.0,1.0
