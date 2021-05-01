@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Águas Lindas de Goiás,2020-03-27,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Águas Lindas de Goiás,2020-03-28,1,1,0,0,0.14285714285714285,0.0,1.0,0.0
-Águas Lindas de Goiás,2020-03-29,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Águas Lindas de Goiás,2020-03-30,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Águas Lindas de Goiás,2020-03-31,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Águas Lindas de Goiás,2020-03-27,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
+Águas Lindas de Goiás,2020-03-28,1,1,0,0,0.2857142857142857,0.14285714285714285,2.0,1.0
+Águas Lindas de Goiás,2020-03-29,1,0,0,0,0.2857142857142857,0.14285714285714285,2.0,1.0
+Águas Lindas de Goiás,2020-03-30,1,0,0,0,0.2857142857142857,0.14285714285714285,2.0,1.0
+Águas Lindas de Goiás,2020-03-31,1,0,0,0,0.2857142857142857,0.14285714285714285,2.0,1.0
 Águas Lindas de Goiás,2020-04-01,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Águas Lindas de Goiás,2020-04-02,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Águas Lindas de Goiás,2020-04-03,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
@@ -398,3 +398,5 @@ municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases
 Águas Lindas de Goiás,2021-04-27,6187,36,217,1,15.0,2.0,105.0,14.0
 Águas Lindas de Goiás,2021-04-28,6193,6,218,1,15.0,1.7142857142857142,105.0,12.0
 Águas Lindas de Goiás,2021-04-29,6220,27,221,3,18.571428571428573,2.0,130.0,14.0
+Águas Lindas de Goiás,2021-04-30,6225,5,222,1,17.142857142857142,1.5714285714285714,120.0,11.0
+Águas Lindas de Goiás,2021-05-01,6222,-3,222,0,12.428571428571429,1.0,87.0,7.0

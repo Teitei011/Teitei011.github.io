@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Barra de São Francisco,2020-03-27,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
-Barra de São Francisco,2020-03-28,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
-Barra de São Francisco,2020-03-29,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Barra de São Francisco,2020-03-27,0,0,0,0,2.0,0.0,14.0,0.0
+Barra de São Francisco,2020-03-28,0,0,0,0,2.0,0.0,14.0,0.0
+Barra de São Francisco,2020-03-29,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
 Barra de São Francisco,2020-03-30,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
 Barra de São Francisco,2020-03-31,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Barra de São Francisco,2020-04-01,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Barra de São Francisco,2020-04-01,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Barra de São Francisco,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Barra de São Francisco,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Barra de São Francisco,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -398,3 +398,5 @@ Barra de São Francisco,2021-04-26,4286,28,174,3,20.571428571428573,1.7142857142
 Barra de São Francisco,2021-04-27,4290,4,175,1,10.285714285714286,0.8571428571428571,72.0,6.0
 Barra de São Francisco,2021-04-28,4294,4,175,0,9.428571428571429,1.0,66.0,7.0
 Barra de São Francisco,2021-04-29,4300,6,175,0,8.714285714285714,0.8571428571428571,61.0,6.0
+Barra de São Francisco,2021-04-30,4302,2,177,2,6.714285714285714,1.0,47.0,7.0
+Barra de São Francisco,2021-05-01,4302,0,177,0,6.857142857142857,0.8571428571428571,48.0,6.0
