@@ -1,5 +1,5 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Almas,2020-03-27,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+Almas,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Almas,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Almas,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Almas,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,4 @@ Almas,2021-04-28,181,0,4,0,0.2857142857142857,0.0,2.0,0.0
 Almas,2021-04-29,181,0,4,0,0.2857142857142857,0.0,2.0,0.0
 Almas,2021-04-30,181,0,4,0,0.2857142857142857,0.0,2.0,0.0
 Almas,2021-05-01,183,2,4,0,0.5714285714285714,0.0,4.0,0.0
+Almas,2021-05-02,183,0,4,0,0.5714285714285714,0.0,4.0,0.0

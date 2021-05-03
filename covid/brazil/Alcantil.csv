@@ -1,10 +1,10 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Alcantil,2020-03-27,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Alcantil,2020-03-28,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Alcantil,2020-03-28,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Alcantil,2020-03-29,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Alcantil,2020-03-30,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Alcantil,2020-03-31,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Alcantil,2020-04-01,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Alcantil,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Alcantil,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Alcantil,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Alcantil,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,4 @@ Alcantil,2021-04-28,294,9,6,0,4.0,0.0,28.0,0.0
 Alcantil,2021-04-29,300,6,6,0,4.0,0.0,28.0,0.0
 Alcantil,2021-04-30,300,0,6,0,3.0,0.0,21.0,0.0
 Alcantil,2021-05-01,301,1,6,0,2.857142857142857,0.0,20.0,0.0
+Alcantil,2021-05-02,301,0,6,0,2.5714285714285716,0.0,18.0,0.0

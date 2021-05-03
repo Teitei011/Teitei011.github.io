@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Barra do Piraí,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Barra do Piraí,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Barra do Piraí,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,4 @@ Barra do Piraí,2021-04-28,4689,65,235,0,30.714285714285715,2.5714285714285716,2
 Barra do Piraí,2021-04-29,4717,28,235,0,34.57142857142857,2.5714285714285716,242.0,18.0
 Barra do Piraí,2021-04-30,4782,65,236,1,36.857142857142854,2.7142857142857144,258.0,19.0
 Barra do Piraí,2021-05-01,4815,33,252,16,41.142857142857146,5.0,288.0,35.0
+Barra do Piraí,2021-05-02,4836,21,253,1,44.142857142857146,5.142857142857143,309.0,36.0

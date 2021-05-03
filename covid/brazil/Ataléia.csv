@@ -1,10 +1,10 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Ataléia,2020-03-27,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
 Ataléia,2020-03-28,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
 Ataléia,2020-03-29,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
 Ataléia,2020-03-30,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
-Ataléia,2020-03-31,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
-Ataléia,2020-04-01,0,0,0,0,1.0,0.0,7.0,0.0
+Ataléia,2020-03-31,0,0,0,0,1.0,0.0,7.0,0.0
+Ataléia,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Ataléia,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Ataléia,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Ataléia,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,4 @@ Ataléia,2021-04-28,1001,0,7,0,0.0,0.0,0.0,0.0
 Ataléia,2021-04-29,1001,0,7,0,0.0,0.0,0.0,0.0
 Ataléia,2021-04-30,1001,0,7,0,0.0,0.0,0.0,0.0
 Ataléia,2021-05-01,1029,28,8,1,4.0,0.14285714285714285,28.0,1.0
+Ataléia,2021-05-02,1029,0,8,0,4.0,0.14285714285714285,28.0,1.0

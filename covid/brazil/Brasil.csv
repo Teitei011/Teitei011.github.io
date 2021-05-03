@@ -1,4 +1,4 @@
-index,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+index,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 0,2020-02-25,0,0,0,0,,,,
 1,2020-02-26,1,1,0,0,,,,
 2,2020-02-27,1,0,0,0,,,,
@@ -433,3 +433,4 @@ index,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases mov
 431,2021-04-29,14590678,69389,401186,3001,60386.42857142857,2526.285714285714,422705.0,17684.0
 432,2021-04-30,14659011,68333,403781,2595,60276.142857142855,2480.714285714286,421933.0,17365.0
 433,2021-05-01,14725975,66964,406437,2656,59680.0,2420.714285714286,417760.0,16945.0
+434,2021-05-02,14754910,28935,407639,1202,59160.42857142857,2406.0,414123.0,16842.0

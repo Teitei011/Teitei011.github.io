@@ -1,10 +1,10 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Barra do Ribeiro,2020-03-27,0,0,0,0,14.571428571428571,0.0,102.0,0.0
-Barra do Ribeiro,2020-03-28,0,0,0,0,14.571428571428571,0.0,102.0,0.0
+Barra do Ribeiro,2020-03-28,0,0,0,0,14.428571428571429,0.0,101.0,0.0
 Barra do Ribeiro,2020-03-29,0,0,0,0,14.428571428571429,0.0,101.0,0.0
-Barra do Ribeiro,2020-03-30,0,0,0,0,14.428571428571429,0.0,101.0,0.0
-Barra do Ribeiro,2020-03-31,0,0,0,0,14.142857142857142,0.0,99.0,0.0
-Barra do Ribeiro,2020-04-01,0,0,0,0,7.0,0.0,49.0,0.0
+Barra do Ribeiro,2020-03-30,0,0,0,0,14.142857142857142,0.0,99.0,0.0
+Barra do Ribeiro,2020-03-31,0,0,0,0,7.0,0.0,49.0,0.0
+Barra do Ribeiro,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Barra do Ribeiro,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Barra do Ribeiro,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Barra do Ribeiro,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,4 @@ Barra do Ribeiro,2021-04-28,943,11,46,0,1.7142857142857142,0.0,12.0,0.0
 Barra do Ribeiro,2021-04-29,943,0,46,0,1.7142857142857142,0.0,12.0,0.0
 Barra do Ribeiro,2021-04-30,951,8,46,0,2.7142857142857144,0.0,19.0,0.0
 Barra do Ribeiro,2021-05-01,953,2,46,0,3.0,0.0,21.0,0.0
+Barra do Ribeiro,2021-05-02,954,1,46,0,3.142857142857143,0.0,22.0,0.0

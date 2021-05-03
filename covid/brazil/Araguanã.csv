@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Araguanã,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Araguanã,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Araguanã,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,4 @@ Araguanã,2021-04-28,1085,0,17,0,4.857142857142857,0.0,34.0,0.0
 Araguanã,2021-04-29,1105,20,17,0,7.714285714285714,0.0,54.0,0.0
 Araguanã,2021-04-30,1110,5,17,0,5.857142857142857,0.0,41.0,0.0
 Araguanã,2021-05-01,1110,0,17,0,4.571428571428571,0.0,32.0,0.0
+Araguanã,2021-05-02,1110,0,17,0,4.571428571428571,0.0,32.0,0.0

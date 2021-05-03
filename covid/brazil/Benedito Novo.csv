@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Benedito Novo,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Benedito Novo,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Benedito Novo,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,4 @@ Benedito Novo,2021-04-28,909,2,15,0,1.5714285714285714,0.2857142857142857,11.0,2
 Benedito Novo,2021-04-29,910,1,15,0,1.5714285714285714,0.2857142857142857,11.0,2.0
 Benedito Novo,2021-04-30,912,2,15,0,1.5714285714285714,0.2857142857142857,11.0,2.0
 Benedito Novo,2021-05-01,912,0,15,0,1.0,0.14285714285714285,7.0,1.0
+Benedito Novo,2021-05-02,912,0,15,0,1.0,0.14285714285714285,7.0,1.0

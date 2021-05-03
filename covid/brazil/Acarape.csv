@@ -1,6 +1,6 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Acarape,2020-03-27,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Acarape,2020-03-28,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Acarape,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Acarape,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Acarape,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Acarape,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,4 @@ Acarape,2021-04-28,2477,18,20,0,12.428571428571429,0.14285714285714285,87.0,1.0
 Acarape,2021-04-29,2495,18,22,2,15.142857142857142,0.2857142857142857,106.0,2.0
 Acarape,2021-04-30,2495,0,22,0,12.857142857142858,0.2857142857142857,90.0,2.0
 Acarape,2021-05-01,2515,20,22,0,13.714285714285714,0.2857142857142857,96.0,2.0
+Acarape,2021-05-02,2515,0,22,0,10.714285714285714,0.2857142857142857,75.0,2.0

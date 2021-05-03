@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Axixá do Tocantins,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Axixá do Tocantins,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Axixá do Tocantins,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,4 @@ Axixá do Tocantins,2021-04-28,981,4,16,0,1.7142857142857142,0.14285714285714285
 Axixá do Tocantins,2021-04-29,982,1,16,0,1.8571428571428572,0.14285714285714285,13.0,1.0
 Axixá do Tocantins,2021-04-30,982,0,16,0,1.8571428571428572,0.14285714285714285,13.0,1.0
 Axixá do Tocantins,2021-05-01,982,0,16,0,1.7142857142857142,0.0,12.0,0.0
+Axixá do Tocantins,2021-05-02,982,0,16,0,1.7142857142857142,0.0,12.0,0.0

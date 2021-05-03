@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Arinos,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Arinos,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Arinos,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,4 @@ Arinos,2021-04-28,396,0,11,1,3.7142857142857144,0.14285714285714285,26.0,1.0
 Arinos,2021-04-29,402,6,11,0,3.5714285714285716,0.14285714285714285,25.0,1.0
 Arinos,2021-04-30,413,11,11,0,5.142857142857143,0.14285714285714285,36.0,1.0
 Arinos,2021-05-01,446,33,11,0,7.714285714285714,0.14285714285714285,54.0,1.0
+Arinos,2021-05-02,446,0,11,0,7.714285714285714,0.14285714285714285,54.0,1.0

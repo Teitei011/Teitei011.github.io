@@ -1,10 +1,10 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Armação dos Búzios,2020-03-27,0,0,0,0,1.8571428571428572,0.2857142857142857,13.0,2.0
-Armação dos Búzios,2020-03-28,0,0,0,0,1.8571428571428572,0.2857142857142857,13.0,2.0
-Armação dos Búzios,2020-03-29,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
-Armação dos Búzios,2020-03-30,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Armação dos Búzios,2020-03-31,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Armação dos Búzios,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+Armação dos Búzios,2020-03-27,0,0,0,0,2.2857142857142856,0.2857142857142857,16.0,2.0
+Armação dos Búzios,2020-03-28,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Armação dos Búzios,2020-03-29,0,0,0,0,1.0,0.0,7.0,0.0
+Armação dos Búzios,2020-03-30,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Armação dos Búzios,2020-03-31,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Armação dos Búzios,2020-04-01,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Armação dos Búzios,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Armação dos Búzios,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Armação dos Búzios,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,4 @@ Armação dos Búzios,2021-04-28,3870,26,39,0,15.0,0.2857142857142857,105.0,2.0
 Armação dos Búzios,2021-04-29,3880,10,39,0,10.285714285714286,0.0,72.0,0.0
 Armação dos Búzios,2021-04-30,3912,32,40,1,14.571428571428571,0.14285714285714285,102.0,1.0
 Armação dos Búzios,2021-05-01,3915,3,41,1,14.857142857142858,0.2857142857142857,104.0,2.0
+Armação dos Búzios,2021-05-02,3916,1,41,0,14.857142857142858,0.2857142857142857,104.0,2.0

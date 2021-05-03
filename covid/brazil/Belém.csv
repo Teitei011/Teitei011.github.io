@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Belém,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Belém,2020-03-28,9,9,0,0,1.2857142857142858,0.0,9.0,0.0
 Belém,2020-03-29,10,1,0,0,1.4285714285714286,0.0,10.0,0.0
@@ -400,3 +400,4 @@ Belém,2021-04-28,96638,441,4430,38,230.42857142857142,26.0,1613.0,182.0
 Belém,2021-04-29,97249,611,4464,34,286.57142857142856,25.571428571428573,2006.0,179.0
 Belém,2021-04-30,97492,243,4496,32,286.7142857142857,26.571428571428573,2007.0,186.0
 Belém,2021-05-01,97699,207,4523,27,281.2857142857143,27.142857142857142,1969.0,190.0
+Belém,2021-05-02,97733,34,4537,14,263.85714285714283,24.857142857142858,1847.0,174.0
