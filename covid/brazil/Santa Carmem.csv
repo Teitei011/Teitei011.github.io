@@ -1,7 +1,7 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santa Carmem,2020-03-27,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Santa Carmem,2020-03-28,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-Santa Carmem,2020-03-29,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+Santa Carmem,2020-03-27,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Santa Carmem,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
+Santa Carmem,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Carmem,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Carmem,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Carmem,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Santa Carmem,2021-04-28,626,9,12,0,3.0,0.0,21.0,0.0
 Santa Carmem,2021-04-29,626,0,12,0,2.2857142857142856,0.0,16.0,0.0
 Santa Carmem,2021-04-30,627,1,12,0,2.2857142857142856,0.0,16.0,0.0
 Santa Carmem,2021-05-01,629,2,12,0,2.5714285714285716,0.0,18.0,0.0
+Santa Carmem,2021-05-02,629,0,12,0,2.4285714285714284,0.0,17.0,0.0
+Santa Carmem,2021-05-03,629,0,12,0,1.8571428571428572,0.0,13.0,0.0

@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Florianópolis,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Florianópolis,2020-03-28,30,30,0,0,4.285714285714286,0.0,30.0,0.0
 Florianópolis,2020-03-29,37,7,0,0,5.285714285714286,0.0,37.0,0.0
@@ -401,3 +401,4 @@ Florianópolis,2021-04-29,72708,-29,938,2,49.714285714285715,3.0,348.0,21.0
 Florianópolis,2021-04-30,72838,130,939,1,58.42857142857143,2.4285714285714284,409.0,17.0
 Florianópolis,2021-05-01,72981,143,941,2,74.28571428571429,1.7142857142857142,520.0,12.0
 Florianópolis,2021-05-02,73086,105,941,0,72.0,1.7142857142857142,504.0,12.0
+Florianópolis,2021-05-03,73190,104,943,2,78.71428571428571,1.7142857142857142,551.0,12.0

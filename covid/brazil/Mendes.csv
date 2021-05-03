@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Mendes,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Mendes,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Mendes,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Mendes,2021-04-28,1530,5,26,0,4.0,0.42857142857142855,28.0,3.0
 Mendes,2021-04-29,1593,63,26,0,12.714285714285714,0.2857142857142857,89.0,2.0
 Mendes,2021-04-30,1613,20,26,0,15.142857142857142,0.0,106.0,0.0
 Mendes,2021-05-01,1613,0,26,0,15.0,0.0,105.0,0.0
+Mendes,2021-05-02,1613,0,26,0,15.0,0.0,105.0,0.0
+Mendes,2021-05-03,1613,0,26,0,15.0,0.0,105.0,0.0

@@ -1,10 +1,10 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Oliveira Fortes,2020-03-27,0,0,0,0,25.142857142857142,1.5714285714285714,176.0,11.0
-Oliveira Fortes,2020-03-28,0,0,0,0,24.857142857142858,1.5714285714285714,174.0,11.0
-Oliveira Fortes,2020-03-29,0,0,0,0,24.0,1.5714285714285714,168.0,11.0
-Oliveira Fortes,2020-03-30,0,0,0,0,12.571428571428571,0.8571428571428571,88.0,6.0
-Oliveira Fortes,2020-03-31,0,0,0,0,7.285714285714286,0.42857142857142855,51.0,3.0
-Oliveira Fortes,2020-04-01,0,0,0,0,2.5714285714285716,0.14285714285714285,18.0,1.0
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+Oliveira Fortes,2020-03-27,0,0,0,0,26.142857142857142,1.5714285714285714,183.0,11.0
+Oliveira Fortes,2020-03-28,0,0,0,0,14.714285714285714,0.8571428571428571,103.0,6.0
+Oliveira Fortes,2020-03-29,0,0,0,0,9.428571428571429,0.42857142857142855,66.0,3.0
+Oliveira Fortes,2020-03-30,0,0,0,0,4.714285714285714,0.14285714285714285,33.0,1.0
+Oliveira Fortes,2020-03-31,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Oliveira Fortes,2020-04-01,0,0,0,0,2.142857142857143,0.0,15.0,0.0
 Oliveira Fortes,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Oliveira Fortes,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Oliveira Fortes,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Oliveira Fortes,2021-04-28,61,0,1,0,5.428571428571429,0.14285714285714285,38.0,1
 Oliveira Fortes,2021-04-29,61,0,1,0,5.428571428571429,0.0,38.0,0.0
 Oliveira Fortes,2021-04-30,61,0,1,0,5.428571428571429,0.0,38.0,0.0
 Oliveira Fortes,2021-05-01,61,0,1,0,5.428571428571429,0.0,38.0,0.0
+Oliveira Fortes,2021-05-02,61,0,1,0,0.0,0.0,0.0,0.0
+Oliveira Fortes,2021-05-03,61,0,1,0,0.0,0.0,0.0,0.0

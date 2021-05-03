@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Riachuelo,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Riachuelo,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Riachuelo,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Riachuelo,2021-04-28,1019,0,26,0,1.8571428571428572,0.0,13.0,0.0
 Riachuelo,2021-04-29,1022,3,26,0,1.8571428571428572,0.0,13.0,0.0
 Riachuelo,2021-04-30,1022,0,26,0,1.8571428571428572,0.0,13.0,0.0
 Riachuelo,2021-05-01,1023,1,26,0,1.5714285714285714,0.0,11.0,0.0
+Riachuelo,2021-05-02,1024,1,26,0,1.1428571428571428,0.0,8.0,0.0
+Riachuelo,2021-05-03,1025,1,26,0,0.8571428571428571,0.0,6.0,0.0

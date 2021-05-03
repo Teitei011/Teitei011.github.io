@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Monte Alegre,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Monte Alegre,2020-03-28,1,1,0,0,0.14285714285714285,0.0,1.0,0.0
 Monte Alegre,2020-03-29,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
@@ -400,3 +400,5 @@ Monte Alegre,2021-04-28,5255,51,157,0,29.571428571428573,0.8571428571428571,207.
 Monte Alegre,2021-04-29,5348,93,158,1,38.285714285714285,0.8571428571428571,268.0,6.0
 Monte Alegre,2021-04-30,5362,14,158,0,31.0,0.8571428571428571,217.0,6.0
 Monte Alegre,2021-05-01,5402,40,159,1,33.0,0.8571428571428571,231.0,6.0
+Monte Alegre,2021-05-02,5408,6,159,0,33.142857142857146,0.8571428571428571,232.0,6.0
+Monte Alegre,2021-05-03,5413,5,160,1,32.714285714285715,0.5714285714285714,229.0,4.0

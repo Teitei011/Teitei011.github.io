@@ -1,10 +1,10 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Prudentópolis,2020-03-27,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
 Prudentópolis,2020-03-28,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
 Prudentópolis,2020-03-29,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
 Prudentópolis,2020-03-30,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
-Prudentópolis,2020-03-31,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
-Prudentópolis,2020-04-01,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
+Prudentópolis,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
+Prudentópolis,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Prudentópolis,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Prudentópolis,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Prudentópolis,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Prudentópolis,2021-04-28,1258,4,31,1,4.571428571428571,0.42857142857142855,32.0
 Prudentópolis,2021-04-29,1261,3,32,1,4.857142857142857,0.5714285714285714,34.0,4.0
 Prudentópolis,2021-04-30,1266,5,32,0,5.285714285714286,0.42857142857142855,37.0,3.0
 Prudentópolis,2021-05-01,1277,11,32,0,6.857142857142857,0.42857142857142855,48.0,3.0
+Prudentópolis,2021-05-02,1278,1,32,0,7.0,0.42857142857142855,49.0,3.0
+Prudentópolis,2021-05-03,1278,0,32,0,6.857142857142857,0.2857142857142857,48.0,2.0

@@ -1,7 +1,7 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Buriti dos Montes,2020-03-27,0,0,0,0,5.571428571428571,0.0,39.0,0.0
-Buriti dos Montes,2020-03-28,0,0,0,0,5.428571428571429,0.0,38.0,0.0
-Buriti dos Montes,2020-03-29,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+Buriti dos Montes,2020-03-27,0,0,0,0,5.428571428571429,0.0,38.0,0.0
+Buriti dos Montes,2020-03-28,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Buriti dos Montes,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Buriti dos Montes,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Buriti dos Montes,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Buriti dos Montes,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
@@ -401,3 +401,4 @@ Buriti dos Montes,2021-04-29,531,3,6,0,1.5714285714285714,0.0,11.0,0.0
 Buriti dos Montes,2021-04-30,532,1,6,0,1.5714285714285714,0.0,11.0,0.0
 Buriti dos Montes,2021-05-01,532,0,6,0,1.4285714285714286,0.0,10.0,0.0
 Buriti dos Montes,2021-05-02,533,1,6,0,1.4285714285714286,0.0,10.0,0.0
+Buriti dos Montes,2021-05-03,533,0,7,1,1.4285714285714286,0.14285714285714285,10.0,1.0

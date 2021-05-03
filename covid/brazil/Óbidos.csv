@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Óbidos,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Óbidos,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Óbidos,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases
 Óbidos,2021-04-29,5715,2,107,0,27.571428571428573,0.14285714285714285,193.0,1.0
 Óbidos,2021-04-30,5715,0,107,0,24.571428571428573,0.14285714285714285,172.0,1.0
 Óbidos,2021-05-01,5736,21,107,0,14.285714285714286,0.14285714285714285,100.0,1.0
+Óbidos,2021-05-02,5736,0,107,0,13.714285714285714,0.0,96.0,0.0
+Óbidos,2021-05-03,5736,0,107,0,13.714285714285714,0.0,96.0,0.0

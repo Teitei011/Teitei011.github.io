@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Monsenhor Tabosa,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Monsenhor Tabosa,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Monsenhor Tabosa,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Monsenhor Tabosa,2021-04-28,1287,0,25,0,8.857142857142858,0.0,62.0,0.0
 Monsenhor Tabosa,2021-04-29,1299,12,25,0,9.428571428571429,0.0,66.0,0.0
 Monsenhor Tabosa,2021-04-30,1299,0,25,0,9.0,0.0,63.0,0.0
 Monsenhor Tabosa,2021-05-01,1324,25,25,0,10.0,0.0,70.0,0.0
+Monsenhor Tabosa,2021-05-02,1325,1,25,0,7.714285714285714,0.0,54.0,0.0
+Monsenhor Tabosa,2021-05-03,1329,4,25,0,8.142857142857142,0.0,57.0,0.0

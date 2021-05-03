@@ -1,9 +1,9 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Cachoeira do Sul,2020-03-27,0,0,0,0,1.2857142857142858,0.14285714285714285,9.0,1.0
-Cachoeira do Sul,2020-03-28,1,1,0,0,1.4285714285714286,0.14285714285714285,10.0,1.0
-Cachoeira do Sul,2020-03-29,1,0,0,0,1.1428571428571428,0.14285714285714285,8.0,1.0
-Cachoeira do Sul,2020-03-30,1,0,0,0,1.0,0.0,7.0,0.0
-Cachoeira do Sul,2020-03-31,1,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Cachoeira do Sul,2020-03-28,1,1,0,0,1.1428571428571428,0.14285714285714285,8.0,1.0
+Cachoeira do Sul,2020-03-29,1,0,0,0,1.0,0.0,7.0,0.0
+Cachoeira do Sul,2020-03-30,1,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Cachoeira do Sul,2020-03-31,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Cachoeira do Sul,2020-04-01,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Cachoeira do Sul,2020-04-02,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Cachoeira do Sul,2020-04-03,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
@@ -401,3 +401,4 @@ Cachoeira do Sul,2021-04-29,6178,-3,102,1,27.285714285714285,1.1428571428571428,
 Cachoeira do Sul,2021-04-30,6232,54,102,0,31.428571428571427,0.7142857142857143,220.0,5.0
 Cachoeira do Sul,2021-05-01,6305,73,103,1,35.714285714285715,0.7142857142857143,250.0,5.0
 Cachoeira do Sul,2021-05-02,6319,14,104,1,36.857142857142854,0.8571428571428571,258.0,6.0
+Cachoeira do Sul,2021-05-03,6313,-6,104,0,36.57142857142857,0.8571428571428571,256.0,6.0

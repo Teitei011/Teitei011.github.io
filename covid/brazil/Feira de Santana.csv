@@ -1,10 +1,10 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Feira de Santana,2020-03-27,0,0,0,0,1.0,0.0,7.0,0.0
-Feira de Santana,2020-03-28,9,9,0,0,1.8571428571428572,0.0,13.0,0.0
-Feira de Santana,2020-03-29,9,0,0,0,1.7142857142857142,0.0,12.0,0.0
-Feira de Santana,2020-03-30,12,3,0,0,2.142857142857143,0.0,15.0,0.0
+Feira de Santana,2020-03-28,9,9,0,0,2.142857142857143,0.0,15.0,0.0
+Feira de Santana,2020-03-29,9,0,0,0,2.142857142857143,0.0,15.0,0.0
+Feira de Santana,2020-03-30,12,3,0,0,2.5714285714285716,0.0,18.0,0.0
 Feira de Santana,2020-03-31,17,5,0,0,2.857142857142857,0.0,20.0,0.0
-Feira de Santana,2020-04-01,18,1,0,0,2.5714285714285716,0.0,18.0,0.0
+Feira de Santana,2020-04-01,18,1,0,0,3.0,0.0,21.0,0.0
 Feira de Santana,2020-04-02,21,3,0,0,3.0,0.0,21.0,0.0
 Feira de Santana,2020-04-03,20,-1,0,0,2.857142857142857,0.0,20.0,0.0
 Feira de Santana,2020-04-04,21,1,0,0,1.7142857142857142,0.0,12.0,0.0
@@ -401,3 +401,4 @@ Feira de Santana,2021-04-29,38763,140,700,1,152.28571428571428,3.142857142857143
 Feira de Santana,2021-04-30,38888,125,704,4,145.71428571428572,3.4285714285714284,1020.0,24.0
 Feira de Santana,2021-05-01,39081,193,705,1,152.14285714285714,3.4285714285714284,1065.0,24.0
 Feira de Santana,2021-05-02,39243,162,711,6,152.28571428571428,4.0,1066.0,28.0
+Feira de Santana,2021-05-03,39447,204,711,0,166.14285714285714,3.142857142857143,1163.0,22.0

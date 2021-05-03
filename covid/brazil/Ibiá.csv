@@ -1,6 +1,6 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Ibiá,2020-03-27,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Ibiá,2020-03-28,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+Ibiá,2020-03-27,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Ibiá,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Ibiá,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Ibiá,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Ibiá,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
@@ -401,3 +401,4 @@ Ibiá,2021-04-29,1429,6,28,1,5.285714285714286,0.14285714285714285,37.0,1.0
 Ibiá,2021-04-30,1438,9,28,0,6.571428571428571,0.14285714285714285,46.0,1.0
 Ibiá,2021-05-01,1448,10,28,0,7.0,0.14285714285714285,49.0,1.0
 Ibiá,2021-05-02,1448,0,28,0,7.0,0.14285714285714285,49.0,1.0
+Ibiá,2021-05-03,1459,11,28,0,8.0,0.14285714285714285,56.0,1.0

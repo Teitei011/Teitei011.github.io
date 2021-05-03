@@ -1,8 +1,8 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Paratinga,2020-03-27,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Paratinga,2020-03-28,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Paratinga,2020-03-29,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Paratinga,2020-03-30,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Paratinga,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
+Paratinga,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Paratinga,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Paratinga,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Paratinga,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Paratinga,2021-04-28,876,10,12,0,3.2857142857142856,0.0,23.0,0.0
 Paratinga,2021-04-29,877,1,12,0,2.4285714285714284,0.0,17.0,0.0
 Paratinga,2021-04-30,891,14,13,1,4.428571428571429,0.14285714285714285,31.0,1.0
 Paratinga,2021-05-01,891,0,13,0,4.428571428571429,0.14285714285714285,31.0,1.0
+Paratinga,2021-05-02,903,12,13,0,6.142857142857143,0.14285714285714285,43.0,1.0
+Paratinga,2021-05-03,919,16,13,0,8.428571428571429,0.14285714285714285,59.0,1.0

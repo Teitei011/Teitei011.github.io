@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Janaúba,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Janaúba,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Janaúba,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
@@ -401,3 +401,4 @@ Janaúba,2021-04-29,3844,55,83,0,25.714285714285715,3.4285714285714284,180.0,24.
 Janaúba,2021-04-30,3851,7,83,0,19.714285714285715,3.4285714285714284,138.0,24.0
 Janaúba,2021-05-01,3875,24,84,1,21.0,0.5714285714285714,147.0,4.0
 Janaúba,2021-05-02,3875,0,84,0,21.0,0.14285714285714285,147.0,1.0
+Janaúba,2021-05-03,3875,0,84,0,21.0,0.14285714285714285,147.0,1.0

@@ -1,9 +1,9 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Paiçandu,2020-03-27,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
 Paiçandu,2020-03-28,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
 Paiçandu,2020-03-29,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Paiçandu,2020-03-30,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Paiçandu,2020-03-31,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Paiçandu,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
+Paiçandu,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Paiçandu,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Paiçandu,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Paiçandu,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Paiçandu,2021-04-28,3278,8,76,0,10.857142857142858,0.2857142857142857,76.0,2.0
 Paiçandu,2021-04-29,3285,7,77,1,10.857142857142858,0.14285714285714285,76.0,1.0
 Paiçandu,2021-04-30,3296,11,78,1,10.428571428571429,0.2857142857142857,73.0,2.0
 Paiçandu,2021-05-01,3299,3,78,0,8.857142857142858,0.2857142857142857,62.0,2.0
+Paiçandu,2021-05-02,3304,5,78,0,8.285714285714286,0.2857142857142857,58.0,2.0
+Paiçandu,2021-05-03,3309,5,78,0,7.0,0.2857142857142857,49.0,2.0

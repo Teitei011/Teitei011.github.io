@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Matinhos,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Matinhos,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Matinhos,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Matinhos,2021-04-28,2219,11,75,1,8.428571428571429,0.8571428571428571,59.0,6.0
 Matinhos,2021-04-29,2226,7,75,0,7.285714285714286,0.7142857142857143,51.0,5.0
 Matinhos,2021-04-30,2265,39,75,0,12.571428571428571,0.5714285714285714,88.0,4.0
 Matinhos,2021-05-01,2303,38,76,1,17.142857142857142,0.7142857142857143,120.0,5.0
+Matinhos,2021-05-02,2303,0,76,0,15.571428571428571,0.7142857142857143,109.0,5.0
+Matinhos,2021-05-03,2303,0,76,0,14.285714285714286,0.2857142857142857,100.0,2.0

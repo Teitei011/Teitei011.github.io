@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Cerejeiras,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Cerejeiras,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Cerejeiras,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
@@ -401,3 +401,4 @@ Cerejeiras,2021-04-29,2061,14,48,0,7.142857142857143,0.5714285714285714,50.0,4.0
 Cerejeiras,2021-04-30,2062,1,48,0,7.285714285714286,0.42857142857142855,51.0,3.0
 Cerejeiras,2021-05-01,2069,7,49,1,6.0,0.42857142857142855,42.0,3.0
 Cerejeiras,2021-05-02,2074,5,49,0,6.571428571428571,0.42857142857142855,46.0,3.0
+Cerejeiras,2021-05-03,2077,3,49,0,6.857142857142857,0.42857142857142855,48.0,3.0

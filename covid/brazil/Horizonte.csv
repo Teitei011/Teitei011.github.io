@@ -1,7 +1,7 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Horizonte,2020-03-27,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Horizonte,2020-03-28,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Horizonte,2020-03-29,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Horizonte,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Horizonte,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Horizonte,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Horizonte,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
@@ -401,3 +401,4 @@ Horizonte,2021-04-29,6387,71,107,0,39.42857142857143,0.0,276.0,0.0
 Horizonte,2021-04-30,6387,0,107,0,38.0,0.0,266.0,0.0
 Horizonte,2021-05-01,6602,215,108,1,57.42857142857143,0.14285714285714285,402.0,1.0
 Horizonte,2021-05-02,6602,0,108,0,53.42857142857143,0.14285714285714285,374.0,1.0
+Horizonte,2021-05-03,6604,2,108,0,50.714285714285715,0.14285714285714285,355.0,1.0

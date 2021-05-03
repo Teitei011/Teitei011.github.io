@@ -1,9 +1,9 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Sítio do Quinto,2020-03-27,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Sítio do Quinto,2020-03-28,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Sítio do Quinto,2020-03-29,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Sítio do Quinto,2020-03-30,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Sítio do Quinto,2020-03-31,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Sítio do Quinto,2020-03-28,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Sítio do Quinto,2020-03-29,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Sítio do Quinto,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
+Sítio do Quinto,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Sítio do Quinto,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Sítio do Quinto,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Sítio do Quinto,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Sítio do Quinto,2021-04-28,300,1,6,0,2.857142857142857,0.0,20.0,0.0
 Sítio do Quinto,2021-04-29,300,0,6,0,1.8571428571428572,0.0,13.0,0.0
 Sítio do Quinto,2021-04-30,308,8,6,0,3.0,0.0,21.0,0.0
 Sítio do Quinto,2021-05-01,323,15,6,0,5.142857142857143,0.0,36.0,0.0
+Sítio do Quinto,2021-05-02,323,0,6,0,4.714285714285714,0.0,33.0,0.0
+Sítio do Quinto,2021-05-03,344,21,6,0,7.714285714285714,0.0,54.0,0.0

@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Oliveira dos Brejinhos,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Oliveira dos Brejinhos,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Oliveira dos Brejinhos,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Oliveira dos Brejinhos,2021-04-28,543,15,9,0,3.857142857142857,0.0,27.0,0.0
 Oliveira dos Brejinhos,2021-04-29,543,0,9,0,3.857142857142857,0.0,27.0,0.0
 Oliveira dos Brejinhos,2021-04-30,550,7,9,0,4.428571428571429,0.0,31.0,0.0
 Oliveira dos Brejinhos,2021-05-01,557,7,9,0,4.857142857142857,0.0,34.0,0.0
+Oliveira dos Brejinhos,2021-05-02,557,0,9,0,4.857142857142857,0.0,34.0,0.0
+Oliveira dos Brejinhos,2021-05-03,557,0,9,0,4.857142857142857,0.0,34.0,0.0

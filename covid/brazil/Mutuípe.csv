@@ -1,9 +1,9 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Mutuípe,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Mutuípe,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
-Mutuípe,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
+Mutuípe,2020-03-29,0,0,0,0,-0.14285714285714285,0.0,-1.0,0.0
 Mutuípe,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
-Mutuípe,2020-03-31,0,0,0,0,-0.14285714285714285,0.0,-1.0,0.0
+Mutuípe,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Mutuípe,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Mutuípe,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Mutuípe,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Mutuípe,2021-04-28,1493,6,18,0,1.5714285714285714,0.0,11.0,0.0
 Mutuípe,2021-04-29,1500,7,18,0,2.4285714285714284,0.0,17.0,0.0
 Mutuípe,2021-04-30,1501,1,18,0,2.4285714285714284,0.0,17.0,0.0
 Mutuípe,2021-05-01,1501,0,18,0,2.2857142857142856,0.0,16.0,0.0
+Mutuípe,2021-05-02,1504,3,18,0,2.4285714285714284,0.0,17.0,0.0
+Mutuípe,2021-05-03,1507,3,18,0,3.0,0.0,21.0,0.0

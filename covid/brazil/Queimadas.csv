@@ -1,8 +1,8 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Queimadas,2020-03-27,0,0,0,0,1.0,0.14285714285714285,7.0,1.0
-Queimadas,2020-03-28,0,0,0,0,1.0,0.14285714285714285,7.0,1.0
-Queimadas,2020-03-29,0,0,0,0,1.0,0.0,7.0,0.0
-Queimadas,2020-03-30,0,0,0,0,1.0,0.0,7.0,0.0
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+Queimadas,2020-03-27,0,0,0,0,1.0,0.0,7.0,0.0
+Queimadas,2020-03-28,0,0,0,0,1.0,0.0,7.0,0.0
+Queimadas,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
+Queimadas,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Queimadas,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Queimadas,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Queimadas,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Queimadas,2021-04-28,3754,15,74,2,10.428571428571429,0.2857142857142857,73.0,2.0
 Queimadas,2021-04-29,3757,3,74,0,9.571428571428571,0.2857142857142857,67.0,2.0
 Queimadas,2021-04-30,3770,13,74,0,9.142857142857142,0.2857142857142857,64.0,2.0
 Queimadas,2021-05-01,3778,8,75,1,9.0,0.42857142857142855,63.0,3.0
+Queimadas,2021-05-02,3779,1,75,0,9.0,0.42857142857142855,63.0,3.0
+Queimadas,2021-05-03,3784,5,75,0,9.0,0.42857142857142855,63.0,3.0

@@ -1,10 +1,10 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Félix do Coribe,2020-03-27,0,0,0,0,10.142857142857142,0.2857142857142857,71.0,2.0
-São Félix do Coribe,2020-03-28,0,0,0,0,9.571428571428571,0.2857142857142857,67.0,2.0
-São Félix do Coribe,2020-03-29,0,0,0,0,8.142857142857142,0.2857142857142857,57.0,2.0
-São Félix do Coribe,2020-03-30,0,0,0,0,5.571428571428571,0.0,39.0,0.0
-São Félix do Coribe,2020-03-31,0,0,0,0,4.571428571428571,0.0,32.0,0.0
-São Félix do Coribe,2020-04-01,0,0,0,0,1.0,0.0,7.0,0.0
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+São Félix do Coribe,2020-03-27,0,0,0,0,9.714285714285714,0.2857142857142857,68.0,2.0
+São Félix do Coribe,2020-03-28,0,0,0,0,7.142857142857143,0.0,50.0,0.0
+São Félix do Coribe,2020-03-29,0,0,0,0,6.142857142857143,0.0,43.0,0.0
+São Félix do Coribe,2020-03-30,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
+São Félix do Coribe,2020-03-31,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+São Félix do Coribe,2020-04-01,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
 São Félix do Coribe,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 São Félix do Coribe,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 São Félix do Coribe,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ São Félix do Coribe,2021-04-28,639,0,11,0,3.0,0.14285714285714285,21.0,1.0
 São Félix do Coribe,2021-04-29,643,4,11,0,3.2857142857142856,0.14285714285714285,23.0,1.0
 São Félix do Coribe,2021-04-30,648,5,11,0,3.0,0.14285714285714285,21.0,1.0
 São Félix do Coribe,2021-05-01,648,0,11,0,2.7142857142857144,0.14285714285714285,19.0,1.0
+São Félix do Coribe,2021-05-02,650,2,11,0,2.0,0.14285714285714285,14.0,1.0
+São Félix do Coribe,2021-05-03,657,7,11,0,3.0,0.0,21.0,0.0

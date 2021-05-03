@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 União da Vitória,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 União da Vitória,2020-03-28,1,1,0,0,0.14285714285714285,0.0,1.0,0.0
 União da Vitória,2020-03-29,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
@@ -400,3 +400,5 @@ União da Vitória,2021-04-28,3926,32,62,0,25.428571428571427,0.7142857142857143
 União da Vitória,2021-04-29,3991,65,63,1,31.571428571428573,0.8571428571428571,221.0,6.0
 União da Vitória,2021-04-30,4040,49,64,1,33.857142857142854,1.0,237.0,7.0
 União da Vitória,2021-05-01,4070,30,64,0,34.57142857142857,0.8571428571428571,242.0,6.0
+União da Vitória,2021-05-02,4123,53,64,0,39.57142857142857,0.42857142857142855,277.0,3.0
+União da Vitória,2021-05-03,4142,19,64,0,38.42857142857143,0.2857142857142857,269.0,2.0

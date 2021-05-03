@@ -1,6 +1,6 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Zortéa,2020-03-27,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Zortéa,2020-03-28,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+Zortéa,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
+Zortéa,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Zortéa,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Zortéa,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Zortéa,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Zortéa,2021-04-28,660,2,10,0,2.142857142857143,0.2857142857142857,15.0,2.0
 Zortéa,2021-04-29,661,1,10,0,2.0,0.2857142857142857,14.0,2.0
 Zortéa,2021-04-30,662,1,10,0,1.2857142857142858,0.2857142857142857,9.0,2.0
 Zortéa,2021-05-01,662,0,10,0,1.0,0.2857142857142857,7.0,2.0
+Zortéa,2021-05-02,662,0,10,0,0.8571428571428571,0.2857142857142857,6.0,2.0
+Zortéa,2021-05-03,662,0,10,0,0.8571428571428571,0.2857142857142857,6.0,2.0

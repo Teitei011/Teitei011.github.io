@@ -1,8 +1,8 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Poços de Caldas,2020-03-27,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Poços de Caldas,2020-03-28,1,1,0,0,0.7142857142857143,0.0,5.0,0.0
-Poços de Caldas,2020-03-29,2,1,0,0,0.7142857142857143,0.0,5.0,0.0
-Poços de Caldas,2020-03-30,2,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Poços de Caldas,2020-03-29,2,1,0,0,0.5714285714285714,0.0,4.0,0.0
+Poços de Caldas,2020-03-30,2,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Poços de Caldas,2020-03-31,2,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Poços de Caldas,2020-04-01,2,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Poços de Caldas,2020-04-02,2,0,0,0,0.2857142857142857,0.0,2.0,0.0
@@ -400,3 +400,5 @@ Poços de Caldas,2021-04-28,7723,112,247,4,54.57142857142857,2.2857142857142856,
 Poços de Caldas,2021-04-29,7845,122,248,1,72.0,2.4285714285714284,504.0,17.0
 Poços de Caldas,2021-04-30,7904,59,253,5,63.142857142857146,2.4285714285714284,442.0,17.0
 Poços de Caldas,2021-05-01,8008,104,255,2,66.71428571428571,2.142857142857143,467.0,15.0
+Poços de Caldas,2021-05-02,8008,0,255,0,66.71428571428571,2.142857142857143,467.0,15.0
+Poços de Caldas,2021-05-03,8008,0,255,0,66.71428571428571,2.142857142857143,467.0,15.0

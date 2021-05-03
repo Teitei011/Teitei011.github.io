@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Florestal,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Florestal,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Florestal,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
@@ -401,3 +401,4 @@ Florestal,2021-04-29,239,0,9,0,0.0,0.0,0.0,0.0
 Florestal,2021-04-30,253,14,9,0,2.0,0.0,14.0,0.0
 Florestal,2021-05-01,253,0,9,0,2.0,0.0,14.0,0.0
 Florestal,2021-05-02,253,0,9,0,2.0,0.0,14.0,0.0
+Florestal,2021-05-03,253,0,9,0,2.0,0.0,14.0,0.0

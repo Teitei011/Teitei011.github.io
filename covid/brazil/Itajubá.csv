@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Itajubá,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Itajubá,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Itajubá,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
@@ -401,3 +401,4 @@ Itajubá,2021-04-29,7077,0,333,5,10.428571428571429,1.5714285714285714,73.0,11.0
 Itajubá,2021-04-30,7109,32,335,2,14.857142857142858,1.8571428571428572,104.0,13.0
 Itajubá,2021-05-01,7124,15,336,1,12.142857142857142,1.5714285714285714,85.0,11.0
 Itajubá,2021-05-02,7155,31,336,0,13.714285714285714,1.5714285714285714,96.0,11.0
+Itajubá,2021-05-03,7168,13,336,0,15.285714285714286,1.4285714285714286,107.0,10.0

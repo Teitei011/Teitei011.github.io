@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Tailândia,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Tailândia,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Tailândia,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Tailândia,2021-04-28,4698,84,58,0,39.42857142857143,0.14285714285714285,276.0,1
 Tailândia,2021-04-29,4746,48,59,1,45.0,0.2857142857142857,315.0,2.0
 Tailândia,2021-04-30,4769,23,86,27,37.142857142857146,4.142857142857143,260.0,29.0
 Tailândia,2021-05-01,4784,15,93,7,32.0,5.142857142857143,224.0,36.0
+Tailândia,2021-05-02,4785,1,93,0,32.142857142857146,5.142857142857143,225.0,36.0
+Tailândia,2021-05-03,4785,0,93,0,32.142857142857146,5.0,225.0,35.0

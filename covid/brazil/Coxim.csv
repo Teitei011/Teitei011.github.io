@@ -1,5 +1,5 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Coxim,2020-03-27,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+Coxim,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Coxim,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Coxim,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Coxim,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
@@ -401,3 +401,4 @@ Coxim,2021-04-29,2332,7,56,0,9.714285714285714,1.0,68.0,7.0
 Coxim,2021-04-30,2353,21,57,1,10.285714285714286,0.8571428571428571,72.0,6.0
 Coxim,2021-05-01,2361,8,57,0,9.571428571428571,0.7142857142857143,67.0,5.0
 Coxim,2021-05-02,2369,8,57,0,9.571428571428571,0.5714285714285714,67.0,4.0
+Coxim,2021-05-03,2372,3,57,0,9.857142857142858,0.5714285714285714,69.0,4.0

@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Olinda,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Olinda,2020-03-28,4,4,0,0,0.5714285714285714,0.0,4.0,0.0
 Olinda,2020-03-29,4,0,0,0,0.5714285714285714,0.0,4.0,0.0
@@ -400,3 +400,5 @@ Olinda,2021-04-28,17846,150,769,5,44.42857142857143,3.4285714285714284,311.0,24.
 Olinda,2021-04-29,17967,121,772,3,59.857142857142854,3.7142857142857144,419.0,26.0
 Olinda,2021-04-30,17910,-57,779,7,42.857142857142854,2.142857142857143,300.0,15.0
 Olinda,2021-05-01,17952,42,779,0,40.714285714285715,2.142857142857143,285.0,15.0
+Olinda,2021-05-02,17980,28,781,2,45.57142857142857,2.4285714285714284,319.0,17.0
+Olinda,2021-05-03,17995,15,782,1,46.57142857142857,2.5714285714285716,326.0,18.0

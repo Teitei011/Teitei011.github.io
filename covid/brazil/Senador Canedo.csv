@@ -1,7 +1,7 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Senador Canedo,2020-03-27,0,0,0,0,3.5714285714285716,0.0,25.0,0.0
-Senador Canedo,2020-03-28,0,0,0,0,3.5714285714285716,0.0,25.0,0.0
-Senador Canedo,2020-03-29,0,0,0,0,2.7142857142857144,0.0,19.0,0.0
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+Senador Canedo,2020-03-27,0,0,0,0,2.7142857142857144,0.0,19.0,0.0
+Senador Canedo,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
+Senador Canedo,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Senador Canedo,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Senador Canedo,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Senador Canedo,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Senador Canedo,2021-04-28,12634,-3,229,1,30.428571428571427,0.7142857142857143,2
 Senador Canedo,2021-04-29,12659,25,233,4,32.142857142857146,1.1428571428571428,225.0,8.0
 Senador Canedo,2021-04-30,12697,38,237,4,37.285714285714285,1.7142857142857142,261.0,12.0
 Senador Canedo,2021-05-01,12694,-3,237,0,36.285714285714285,1.7142857142857142,254.0,12.0
+Senador Canedo,2021-05-02,12695,1,238,1,36.142857142857146,1.8571428571428572,253.0,13.0
+Senador Canedo,2021-05-03,12700,5,238,0,37.0,1.8571428571428572,259.0,13.0

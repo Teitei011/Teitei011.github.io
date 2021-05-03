@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Porto Acre,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Porto Acre,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Porto Acre,2020-03-29,1,1,0,0,0.14285714285714285,0.0,1.0,0.0
@@ -400,3 +400,5 @@ Porto Acre,2021-04-28,1320,3,31,0,2.0,0.14285714285714285,14.0,1.0
 Porto Acre,2021-04-29,1324,4,31,0,2.4285714285714284,0.0,17.0,0.0
 Porto Acre,2021-04-30,1326,2,31,0,2.7142857142857144,0.0,19.0,0.0
 Porto Acre,2021-05-01,1330,4,31,0,2.142857142857143,0.0,15.0,0.0
+Porto Acre,2021-05-02,1331,1,31,0,2.2857142857142856,0.0,16.0,0.0
+Porto Acre,2021-05-03,1331,0,31,0,2.0,0.0,14.0,0.0

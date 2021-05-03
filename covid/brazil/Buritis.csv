@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Buritis,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Buritis,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Buritis,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
@@ -401,3 +401,4 @@ Buritis,2021-04-29,5474,9,80,0,16.857142857142858,0.42857142857142855,118.0,3.0
 Buritis,2021-04-30,5490,16,81,1,18.0,0.5714285714285714,126.0,4.0
 Buritis,2021-05-01,5501,11,81,0,14.714285714285714,0.42857142857142855,103.0,3.0
 Buritis,2021-05-02,5503,2,81,0,14.428571428571429,0.42857142857142855,101.0,3.0
+Buritis,2021-05-03,5507,4,85,4,14.0,1.0,98.0,7.0

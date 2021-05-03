@@ -1,10 +1,10 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Pedrinópolis,2020-03-27,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
-Pedrinópolis,2020-03-28,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
-Pedrinópolis,2020-03-29,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Pedrinópolis,2020-03-30,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
-Pedrinópolis,2020-03-31,0,0,0,0,1.0,0.0,7.0,0.0
-Pedrinópolis,2020-04-01,0,0,0,0,1.0,0.0,7.0,0.0
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+Pedrinópolis,2020-03-27,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
+Pedrinópolis,2020-03-28,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
+Pedrinópolis,2020-03-29,0,0,0,0,1.0,0.0,7.0,0.0
+Pedrinópolis,2020-03-30,0,0,0,0,1.0,0.0,7.0,0.0
+Pedrinópolis,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
+Pedrinópolis,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Pedrinópolis,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Pedrinópolis,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Pedrinópolis,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Pedrinópolis,2021-04-28,317,3,6,0,2.7142857142857144,0.14285714285714285,19.0,1
 Pedrinópolis,2021-04-29,314,-3,7,1,2.0,0.2857142857142857,14.0,2.0
 Pedrinópolis,2021-04-30,320,6,7,0,1.7142857142857142,0.2857142857142857,12.0,2.0
 Pedrinópolis,2021-05-01,322,2,7,0,1.5714285714285714,0.14285714285714285,11.0,1.0
+Pedrinópolis,2021-05-02,322,0,7,0,1.5714285714285714,0.14285714285714285,11.0,1.0
+Pedrinópolis,2021-05-03,322,0,7,0,1.5714285714285714,0.14285714285714285,11.0,1.0

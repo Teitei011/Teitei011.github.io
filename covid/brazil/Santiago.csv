@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santiago,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Santiago,2020-03-28,1,1,0,0,0.14285714285714285,0.0,1.0,0.0
 Santiago,2020-03-29,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
@@ -400,3 +400,5 @@ Santiago,2021-04-28,4716,31,102,0,28.142857142857142,0.14285714285714285,197.0,1
 Santiago,2021-04-29,4743,27,102,0,31.714285714285715,0.0,222.0,0.0
 Santiago,2021-04-30,4770,27,102,0,29.142857142857142,0.0,204.0,0.0
 Santiago,2021-05-01,4799,29,102,0,26.0,0.0,182.0,0.0
+Santiago,2021-05-02,4817,18,102,0,27.142857142857142,0.0,190.0,0.0
+Santiago,2021-05-03,4840,23,102,0,28.0,0.0,196.0,0.0

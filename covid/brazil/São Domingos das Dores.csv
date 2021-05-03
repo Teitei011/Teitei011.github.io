@@ -1,10 +1,10 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Domingos das Dores,2020-03-27,0,0,0,0,12.142857142857142,1.4285714285714286,85.0,10.0
-São Domingos das Dores,2020-03-28,0,0,0,0,10.428571428571429,1.4285714285714286,73.0,10.0
-São Domingos das Dores,2020-03-29,0,0,0,0,10.142857142857142,1.1428571428571428,71.0,8.0
-São Domingos das Dores,2020-03-30,0,0,0,0,7.0,1.0,49.0,7.0
-São Domingos das Dores,2020-03-31,0,0,0,0,6.142857142857143,0.5714285714285714,43.0,4.0
-São Domingos das Dores,2020-04-01,0,0,0,0,4.714285714285714,0.14285714285714285,33.0,1.0
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+São Domingos das Dores,2020-03-27,0,0,0,0,12.0,1.1428571428571428,84.0,8.0
+São Domingos das Dores,2020-03-28,0,0,0,0,8.857142857142858,1.0,62.0,7.0
+São Domingos das Dores,2020-03-29,0,0,0,0,8.0,0.5714285714285714,56.0,4.0
+São Domingos das Dores,2020-03-30,0,0,0,0,6.571428571428571,0.14285714285714285,46.0,1.0
+São Domingos das Dores,2020-03-31,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
+São Domingos das Dores,2020-04-01,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
 São Domingos das Dores,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 São Domingos das Dores,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 São Domingos das Dores,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ São Domingos das Dores,2021-04-28,455,0,8,1,2.5714285714285716,0.14285714285714
 São Domingos das Dores,2021-04-29,455,0,8,0,1.2857142857142858,0.14285714285714285,9.0,1.0
 São Domingos das Dores,2021-04-30,471,16,8,0,3.5714285714285716,0.14285714285714285,25.0,1.0
 São Domingos das Dores,2021-05-01,471,0,8,0,3.5714285714285716,0.14285714285714285,25.0,1.0
+São Domingos das Dores,2021-05-02,471,0,8,0,3.5714285714285716,0.14285714285714285,25.0,1.0
+São Domingos das Dores,2021-05-03,471,0,8,0,2.2857142857142856,0.14285714285714285,16.0,1.0

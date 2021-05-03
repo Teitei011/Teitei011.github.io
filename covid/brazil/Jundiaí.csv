@@ -1,5 +1,5 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Jundiaí,2020-03-27,0,0,0,0,0.2857142857142857,0.14285714285714285,2.0,1.0
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+Jundiaí,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Jundiaí,2020-03-28,3,3,0,0,0.42857142857142855,0.0,3.0,0.0
 Jundiaí,2020-03-29,3,0,0,0,0.42857142857142855,0.0,3.0,0.0
 Jundiaí,2020-03-30,3,0,0,0,0.42857142857142855,0.0,3.0,0.0
@@ -401,3 +401,4 @@ Jundiaí,2021-04-29,35030,117,1023,0,154.14285714285714,4.285714285714286,1079.0
 Jundiaí,2021-04-30,35188,158,1037,14,151.71428571428572,5.857142857142857,1062.0,41.0
 Jundiaí,2021-05-01,35286,98,1043,6,132.28571428571428,5.857142857142857,926.0,41.0
 Jundiaí,2021-05-02,35397,111,1047,4,124.57142857142857,5.857142857142857,872.0,41.0
+Jundiaí,2021-05-03,35433,36,1050,3,114.85714285714286,5.714285714285714,804.0,40.0

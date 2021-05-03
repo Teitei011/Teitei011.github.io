@@ -1,10 +1,10 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Limeira do Oeste,2020-03-27,0,0,0,0,13.285714285714286,0.14285714285714285,93.0,1.0
-Limeira do Oeste,2020-03-28,0,0,0,0,13.142857142857142,0.14285714285714285,92.0,1.0
-Limeira do Oeste,2020-03-29,0,0,0,0,9.142857142857142,-0.14285714285714285,64.0,-1.0
-Limeira do Oeste,2020-03-30,0,0,0,0,7.0,-0.14285714285714285,49.0,-1.0
-Limeira do Oeste,2020-03-31,0,0,0,0,4.571428571428571,0.0,32.0,0.0
-Limeira do Oeste,2020-04-01,0,0,0,0,2.0,0.0,14.0,0.0
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+Limeira do Oeste,2020-03-27,0,0,0,0,11.714285714285714,-0.14285714285714285,82.0,-1.0
+Limeira do Oeste,2020-03-28,0,0,0,0,9.571428571428571,-0.14285714285714285,67.0,-1.0
+Limeira do Oeste,2020-03-29,0,0,0,0,7.142857142857143,0.0,50.0,0.0
+Limeira do Oeste,2020-03-30,0,0,0,0,4.571428571428571,0.0,32.0,0.0
+Limeira do Oeste,2020-03-31,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
+Limeira do Oeste,2020-04-01,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
 Limeira do Oeste,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Limeira do Oeste,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Limeira do Oeste,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Limeira do Oeste,2021-04-28,480,0,10,0,1.7142857142857142,0.0,12.0,0.0
 Limeira do Oeste,2021-04-29,489,9,10,0,2.0,0.0,14.0,0.0
 Limeira do Oeste,2021-04-30,490,1,10,0,2.142857142857143,0.0,15.0,0.0
 Limeira do Oeste,2021-05-01,507,17,12,2,3.857142857142857,0.2857142857142857,27.0,2.0
+Limeira do Oeste,2021-05-02,507,0,12,0,3.857142857142857,0.2857142857142857,27.0,2.0
+Limeira do Oeste,2021-05-03,526,19,12,0,6.571428571428571,0.2857142857142857,46.0,2.0

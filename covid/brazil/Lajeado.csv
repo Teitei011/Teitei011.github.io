@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Lajeado,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Lajeado,2020-03-28,5,5,0,0,0.7142857142857143,0.0,5.0,0.0
 Lajeado,2020-03-29,6,1,0,0,0.8571428571428571,0.0,6.0,0.0
@@ -401,3 +401,4 @@ Lajeado,2021-04-29,12678,-19,174,0,15.0,0.2857142857142857,105.0,2.0
 Lajeado,2021-04-30,12728,50,174,0,17.714285714285715,0.14285714285714285,124.0,1.0
 Lajeado,2021-05-01,12740,12,174,0,16.0,0.0,112.0,0.0
 Lajeado,2021-05-02,12740,0,174,0,16.142857142857142,0.0,113.0,0.0
+Lajeado,2021-05-03,12748,8,174,0,16.142857142857142,0.14285714285714285,113.0,1.0

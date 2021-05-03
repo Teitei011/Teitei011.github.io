@@ -1,9 +1,9 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Remanso,2020-03-27,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
 Remanso,2020-03-28,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
 Remanso,2020-03-29,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
-Remanso,2020-03-30,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
-Remanso,2020-03-31,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
+Remanso,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
+Remanso,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Remanso,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Remanso,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Remanso,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Remanso,2021-04-28,1370,5,43,0,3.857142857142857,0.14285714285714285,27.0,1.0
 Remanso,2021-04-29,1388,18,43,0,6.285714285714286,0.14285714285714285,44.0,1.0
 Remanso,2021-04-30,1392,4,43,0,6.857142857142857,0.14285714285714285,48.0,1.0
 Remanso,2021-05-01,1392,0,43,0,6.857142857142857,0.14285714285714285,48.0,1.0
+Remanso,2021-05-02,1392,0,43,0,6.0,0.14285714285714285,42.0,1.0
+Remanso,2021-05-03,1399,7,44,1,7.0,0.14285714285714285,49.0,1.0

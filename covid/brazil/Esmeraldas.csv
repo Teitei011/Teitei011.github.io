@@ -1,6 +1,6 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Esmeraldas,2020-03-27,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
-Esmeraldas,2020-03-28,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
+Esmeraldas,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Esmeraldas,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Esmeraldas,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Esmeraldas,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
@@ -401,3 +401,4 @@ Esmeraldas,2021-04-29,1862,6,87,1,13.142857142857142,1.2857142857142858,92.0,9.0
 Esmeraldas,2021-04-30,1862,0,88,1,13.142857142857142,1.4285714285714286,92.0,10.0
 Esmeraldas,2021-05-01,1886,24,90,2,16.571428571428573,0.8571428571428571,116.0,6.0
 Esmeraldas,2021-05-02,1886,0,90,0,16.571428571428573,0.8571428571428571,116.0,6.0
+Esmeraldas,2021-05-03,1886,0,90,0,16.571428571428573,0.8571428571428571,116.0,6.0

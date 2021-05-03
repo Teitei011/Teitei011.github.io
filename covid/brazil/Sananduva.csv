@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Sananduva,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Sananduva,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Sananduva,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Sananduva,2021-04-28,1968,18,27,0,7.0,0.2857142857142857,49.0,2.0
 Sananduva,2021-04-29,1976,8,27,0,8.142857142857142,0.2857142857142857,57.0,2.0
 Sananduva,2021-04-30,1980,4,28,1,7.142857142857143,0.2857142857142857,50.0,2.0
 Sananduva,2021-05-01,1982,2,29,1,7.0,0.42857142857142855,49.0,3.0
+Sananduva,2021-05-02,1982,0,29,0,6.0,0.42857142857142855,42.0,3.0
+Sananduva,2021-05-03,1982,0,29,0,6.0,0.2857142857142857,42.0,2.0

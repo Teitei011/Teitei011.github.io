@@ -1,10 +1,10 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Livramento,2020-03-27,0,0,0,0,69.0,0.5714285714285714,483.0,4.0
-Livramento,2020-03-28,0,0,0,0,68.85714285714286,0.5714285714285714,482.0,4.0
-Livramento,2020-03-29,0,0,0,0,53.57142857142857,0.0,375.0,0.0
-Livramento,2020-03-30,0,0,0,0,33.857142857142854,0.0,237.0,0.0
-Livramento,2020-03-31,0,0,0,0,21.571428571428573,0.0,151.0,0.0
-Livramento,2020-04-01,0,0,0,0,16.142857142857142,0.0,113.0,0.0
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+Livramento,2020-03-27,0,0,0,0,55.857142857142854,0.0,391.0,0.0
+Livramento,2020-03-28,0,0,0,0,36.142857142857146,0.0,253.0,0.0
+Livramento,2020-03-29,0,0,0,0,23.857142857142858,0.0,167.0,0.0
+Livramento,2020-03-30,0,0,0,0,18.428571428571427,0.0,129.0,0.0
+Livramento,2020-03-31,0,0,0,0,2.2857142857142856,0.0,16.0,0.0
+Livramento,2020-04-01,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
 Livramento,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Livramento,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Livramento,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Livramento,2021-04-28,419,8,2,0,3.5714285714285716,0.0,25.0,0.0
 Livramento,2021-04-29,424,5,2,0,3.857142857142857,0.0,27.0,0.0
 Livramento,2021-04-30,430,6,2,0,3.4285714285714284,0.0,24.0,0.0
 Livramento,2021-05-01,430,0,2,0,3.4285714285714284,0.0,24.0,0.0
+Livramento,2021-05-02,444,14,2,0,5.428571428571429,0.0,38.0,0.0
+Livramento,2021-05-03,450,6,2,0,5.571428571428571,0.0,39.0,0.0

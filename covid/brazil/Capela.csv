@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Capela,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Capela,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Capela,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
@@ -401,3 +401,4 @@ Capela,2021-04-29,2430,4,45,0,10.857142857142858,0.2857142857142857,76.0,2.0
 Capela,2021-04-30,2436,6,46,1,10.428571428571429,0.42857142857142855,73.0,3.0
 Capela,2021-05-01,2440,4,46,0,9.0,0.42857142857142855,63.0,3.0
 Capela,2021-05-02,2470,30,47,1,12.285714285714286,0.42857142857142855,86.0,3.0
+Capela,2021-05-03,2481,11,47,0,13.571428571428571,0.2857142857142857,95.0,2.0

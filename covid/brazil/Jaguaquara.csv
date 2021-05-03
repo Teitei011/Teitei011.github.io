@@ -1,9 +1,9 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Jaguaquara,2020-03-27,0,0,0,0,3.142857142857143,0.0,22.0,0.0
-Jaguaquara,2020-03-28,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
-Jaguaquara,2020-03-29,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+Jaguaquara,2020-03-27,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Jaguaquara,2020-03-28,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Jaguaquara,2020-03-29,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Jaguaquara,2020-03-30,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Jaguaquara,2020-03-31,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Jaguaquara,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Jaguaquara,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Jaguaquara,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Jaguaquara,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
@@ -401,3 +401,4 @@ Jaguaquara,2021-04-29,5387,17,46,0,21.0,0.42857142857142855,147.0,3.0
 Jaguaquara,2021-04-30,5408,21,46,0,22.571428571428573,0.42857142857142855,158.0,3.0
 Jaguaquara,2021-05-01,5412,4,46,0,13.571428571428571,0.42857142857142855,95.0,3.0
 Jaguaquara,2021-05-02,5459,47,46,0,15.428571428571429,0.2857142857142857,108.0,2.0
+Jaguaquara,2021-05-03,5461,2,46,0,14.285714285714286,0.14285714285714285,100.0,1.0

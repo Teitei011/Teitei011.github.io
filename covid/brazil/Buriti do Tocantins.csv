@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Buriti do Tocantins,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Buriti do Tocantins,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Buriti do Tocantins,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
@@ -401,3 +401,4 @@ Buriti do Tocantins,2021-04-29,645,3,7,0,7.285714285714286,0.14285714285714285,5
 Buriti do Tocantins,2021-04-30,664,19,7,0,9.857142857142858,0.14285714285714285,69.0,1.0
 Buriti do Tocantins,2021-05-01,666,2,7,0,9.0,0.14285714285714285,63.0,1.0
 Buriti do Tocantins,2021-05-02,666,0,7,0,9.0,0.14285714285714285,63.0,1.0
+Buriti do Tocantins,2021-05-03,667,1,8,1,9.142857142857142,0.2857142857142857,64.0,2.0

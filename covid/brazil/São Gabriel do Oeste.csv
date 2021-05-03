@@ -1,10 +1,10 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Gabriel do Oeste,2020-03-27,0,0,0,0,23.571428571428573,0.42857142857142855,165.0,3.0
-São Gabriel do Oeste,2020-03-28,0,0,0,0,22.571428571428573,0.14285714285714285,158.0,1.0
-São Gabriel do Oeste,2020-03-29,0,0,0,0,12.428571428571429,0.0,87.0,0.0
-São Gabriel do Oeste,2020-03-30,0,0,0,0,9.428571428571429,0.0,66.0,0.0
-São Gabriel do Oeste,2020-03-31,0,0,0,0,6.0,0.0,42.0,0.0
-São Gabriel do Oeste,2020-04-01,0,0,0,0,3.5714285714285716,0.0,25.0,0.0
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+São Gabriel do Oeste,2020-03-27,0,0,0,0,14.428571428571429,0.14285714285714285,101.0,1.0
+São Gabriel do Oeste,2020-03-28,0,0,0,0,11.428571428571429,0.14285714285714285,80.0,1.0
+São Gabriel do Oeste,2020-03-29,0,0,0,0,8.0,0.14285714285714285,56.0,1.0
+São Gabriel do Oeste,2020-03-30,0,0,0,0,5.571428571428571,0.14285714285714285,39.0,1.0
+São Gabriel do Oeste,2020-03-31,0,0,0,0,2.0,0.14285714285714285,14.0,1.0
+São Gabriel do Oeste,2020-04-01,0,0,0,0,1.8571428571428572,0.14285714285714285,13.0,1.0
 São Gabriel do Oeste,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 São Gabriel do Oeste,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 São Gabriel do Oeste,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ São Gabriel do Oeste,2021-04-28,2583,13,45,0,11.285714285714286,0.1428571428571
 São Gabriel do Oeste,2021-04-29,2598,15,46,1,11.714285714285714,0.14285714285714285,82.0,1.0
 São Gabriel do Oeste,2021-04-30,2617,19,48,2,12.142857142857142,0.42857142857142855,85.0,3.0
 São Gabriel do Oeste,2021-05-01,2619,2,48,0,12.142857142857142,0.42857142857142855,85.0,3.0
+São Gabriel do Oeste,2021-05-02,2655,36,48,0,17.142857142857142,0.42857142857142855,120.0,3.0
+São Gabriel do Oeste,2021-05-03,2657,2,48,0,16.714285714285715,0.42857142857142855,117.0,3.0

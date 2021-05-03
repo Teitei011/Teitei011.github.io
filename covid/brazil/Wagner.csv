@@ -1,9 +1,9 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Wagner,2020-03-27,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Wagner,2020-03-28,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Wagner,2020-03-29,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Wagner,2020-03-30,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Wagner,2020-03-31,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Wagner,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
+Wagner,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Wagner,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Wagner,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Wagner,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Wagner,2021-04-28,414,8,6,0,3.4285714285714284,0.0,24.0,0.0
 Wagner,2021-04-29,418,4,6,0,3.5714285714285716,0.0,25.0,0.0
 Wagner,2021-04-30,418,0,6,0,3.2857142857142856,0.0,23.0,0.0
 Wagner,2021-05-01,421,3,6,0,3.7142857142857144,0.0,26.0,0.0
+Wagner,2021-05-02,422,1,6,0,2.5714285714285716,0.0,18.0,0.0
+Wagner,2021-05-03,429,7,6,0,3.5714285714285716,0.0,25.0,0.0

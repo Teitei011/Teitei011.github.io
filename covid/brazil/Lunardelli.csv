@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Lunardelli,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Lunardelli,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Lunardelli,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Lunardelli,2021-04-28,233,6,1,0,1.0,0.0,7.0,0.0
 Lunardelli,2021-04-29,234,1,1,0,1.1428571428571428,0.0,8.0,0.0
 Lunardelli,2021-04-30,237,3,1,0,1.5714285714285714,0.0,11.0,0.0
 Lunardelli,2021-05-01,238,1,1,0,1.7142857142857142,0.0,12.0,0.0
+Lunardelli,2021-05-02,238,0,1,0,1.5714285714285714,0.0,11.0,0.0
+Lunardelli,2021-05-03,238,0,1,0,1.5714285714285714,0.0,11.0,0.0

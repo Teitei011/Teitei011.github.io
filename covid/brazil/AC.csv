@@ -1,4 +1,4 @@
-estado,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+estado,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 AC,2020-02-25,0,0,0,0,,,,
 AC,2020-02-26,0,0,0,0,,,,
 AC,2020-02-27,0,0,0,0,,,,
@@ -431,3 +431,5 @@ AC,2021-04-28,77298,152,1517,17,202.71428571428572,9.714285714285714,1419.0,68.0
 AC,2021-04-29,77535,237,1525,8,189.0,9.571428571428571,1323.0,67.0
 AC,2021-04-30,77803,268,1529,4,203.85714285714286,9.142857142857142,1427.0,64.0
 AC,2021-05-01,78016,213,1534,5,201.85714285714286,8.285714285714286,1413.0,58.0
+AC,2021-05-02,78152,136,1546,12,200.71428571428572,9.428571428571429,1405.0,66.0
+AC,2021-05-03,78325,173,1552,6,193.42857142857142,9.142857142857142,1354.0,64.0

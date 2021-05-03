@@ -1,6 +1,6 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Plácido de Castro,2020-03-27,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
-Plácido de Castro,2020-03-28,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+Plácido de Castro,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
+Plácido de Castro,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Plácido de Castro,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Plácido de Castro,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Plácido de Castro,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Plácido de Castro,2021-04-28,1438,1,15,0,3.4285714285714284,0.0,24.0,0.0
 Plácido de Castro,2021-04-29,1449,11,15,0,3.7142857142857144,0.0,26.0,0.0
 Plácido de Castro,2021-04-30,1454,5,15,0,4.428571428571429,0.0,31.0,0.0
 Plácido de Castro,2021-05-01,1472,18,15,0,6.142857142857143,0.0,43.0,0.0
+Plácido de Castro,2021-05-02,1473,1,15,0,6.285714285714286,0.0,44.0,0.0
+Plácido de Castro,2021-05-03,1475,2,15,0,6.428571428571429,0.0,45.0,0.0

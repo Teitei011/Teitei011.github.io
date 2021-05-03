@@ -1,7 +1,7 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Toledo,2020-03-27,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Toledo,2020-03-28,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Toledo,2020-03-29,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+Toledo,2020-03-27,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Toledo,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
+Toledo,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Toledo,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Toledo,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Toledo,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Toledo,2021-04-28,18883,42,287,2,27.142857142857142,1.4285714285714286,190.0,10.
 Toledo,2021-04-29,18942,59,289,2,32.285714285714285,1.2857142857142858,226.0,9.0
 Toledo,2021-04-30,18976,34,290,1,31.428571428571427,1.1428571428571428,220.0,8.0
 Toledo,2021-05-01,19005,29,292,2,31.142857142857142,1.0,218.0,7.0
+Toledo,2021-05-02,19018,13,292,0,31.142857142857142,1.0,218.0,7.0
+Toledo,2021-05-03,19035,17,294,2,31.714285714285715,1.1428571428571428,222.0,8.0

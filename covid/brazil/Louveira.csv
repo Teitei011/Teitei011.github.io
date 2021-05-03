@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Louveira,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Louveira,2020-03-28,1,1,0,0,0.14285714285714285,0.0,1.0,0.0
 Louveira,2020-03-29,1,0,0,0,0.14285714285714285,0.0,1.0,0.0
@@ -400,3 +400,5 @@ Louveira,2021-04-28,2797,11,55,1,8.857142857142858,0.14285714285714285,62.0,1.0
 Louveira,2021-04-29,2811,14,55,0,8.571428571428571,0.14285714285714285,60.0,1.0
 Louveira,2021-04-30,2836,25,56,1,11.571428571428571,0.2857142857142857,81.0,2.0
 Louveira,2021-05-01,2845,9,56,0,10.857142857142858,0.2857142857142857,76.0,2.0
+Louveira,2021-05-02,2896,51,56,0,17.428571428571427,0.2857142857142857,122.0,2.0
+Louveira,2021-05-03,2902,6,56,0,17.857142857142858,0.2857142857142857,125.0,2.0

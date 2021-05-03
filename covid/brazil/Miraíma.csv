@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Miraíma,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Miraíma,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Miraíma,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Miraíma,2021-04-28,850,9,13,0,9.0,0.0,63.0,0.0
 Miraíma,2021-04-29,854,4,13,0,8.857142857142858,0.0,62.0,0.0
 Miraíma,2021-04-30,854,0,13,0,9.142857142857142,0.0,64.0,0.0
 Miraíma,2021-05-01,882,28,13,0,11.285714285714286,0.0,79.0,0.0
+Miraíma,2021-05-02,882,0,13,0,9.285714285714286,0.0,65.0,0.0
+Miraíma,2021-05-03,882,0,13,0,9.142857142857142,0.0,64.0,0.0

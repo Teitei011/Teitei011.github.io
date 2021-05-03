@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 União,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 União,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 União,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ União,2021-04-28,1795,9,44,0,8.714285714285714,0.14285714285714285,61.0,1.0
 União,2021-04-29,1798,3,44,0,7.142857142857143,0.0,50.0,0.0
 União,2021-04-30,1810,12,44,0,6.142857142857143,0.0,43.0,0.0
 União,2021-05-01,1811,1,44,0,5.571428571428571,0.0,39.0,0.0
+União,2021-05-02,1843,32,44,0,8.428571428571429,0.0,59.0,0.0
+União,2021-05-03,1844,1,44,0,8.428571428571429,0.0,59.0,0.0

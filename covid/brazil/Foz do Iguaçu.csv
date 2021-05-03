@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Foz do Iguaçu,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Foz do Iguaçu,2020-03-28,7,7,0,0,1.0,0.0,7.0,0.0
 Foz do Iguaçu,2020-03-29,10,3,0,0,1.4285714285714286,0.0,10.0,0.0
@@ -401,3 +401,4 @@ Foz do Iguaçu,2021-04-29,34779,99,760,3,64.28571428571429,3.5714285714285716,45
 Foz do Iguaçu,2021-04-30,34857,78,765,5,61.285714285714285,4.0,429.0,28.0
 Foz do Iguaçu,2021-05-01,34914,57,769,4,61.285714285714285,4.285714285714286,429.0,30.0
 Foz do Iguaçu,2021-05-02,34934,20,772,3,57.57142857142857,3.4285714285714284,403.0,24.0
+Foz do Iguaçu,2021-05-03,35025,91,776,4,62.142857142857146,3.7142857142857144,435.0,26.0

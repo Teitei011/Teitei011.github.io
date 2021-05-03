@@ -1,10 +1,10 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Caraíbas,2020-03-27,0,0,0,0,5.571428571428571,0.14285714285714285,39.0,1.0
-Caraíbas,2020-03-28,0,0,0,0,1.7142857142857142,0.14285714285714285,12.0,1.0
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+Caraíbas,2020-03-27,0,0,0,0,1.7142857142857142,0.14285714285714285,12.0,1.0
+Caraíbas,2020-03-28,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
 Caraíbas,2020-03-29,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
 Caraíbas,2020-03-30,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
 Caraíbas,2020-03-31,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
-Caraíbas,2020-04-01,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
+Caraíbas,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Caraíbas,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Caraíbas,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Caraíbas,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -401,3 +401,4 @@ Caraíbas,2021-04-29,241,1,2,0,0.42857142857142855,0.0,3.0,0.0
 Caraíbas,2021-04-30,243,2,2,0,0.7142857142857143,0.0,5.0,0.0
 Caraíbas,2021-05-01,243,0,2,0,0.7142857142857143,0.0,5.0,0.0
 Caraíbas,2021-05-02,243,0,2,0,0.7142857142857143,0.0,5.0,0.0
+Caraíbas,2021-05-03,247,4,2,0,1.2857142857142858,0.0,9.0,0.0

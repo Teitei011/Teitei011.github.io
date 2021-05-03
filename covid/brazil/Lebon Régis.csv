@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Lebon Régis,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Lebon Régis,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Lebon Régis,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
@@ -401,3 +401,4 @@ Lebon Régis,2021-04-29,736,19,33,0,12.142857142857142,0.2857142857142857,85.0,2
 Lebon Régis,2021-04-30,760,24,33,0,13.0,0.14285714285714285,91.0,1.0
 Lebon Régis,2021-05-01,764,4,36,3,10.428571428571429,0.5714285714285714,73.0,4.0
 Lebon Régis,2021-05-02,766,2,36,0,10.428571428571429,0.42857142857142855,73.0,3.0
+Lebon Régis,2021-05-03,768,2,38,2,10.714285714285714,0.7142857142857143,75.0,5.0

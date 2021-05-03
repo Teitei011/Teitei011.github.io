@@ -1,6 +1,6 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Ponte Nova,2020-03-27,0,0,0,0,0.42857142857142855,0.14285714285714285,3.0,1.0
-Ponte Nova,2020-03-28,0,0,0,0,0.42857142857142855,0.14285714285714285,3.0,1.0
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+Ponte Nova,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
+Ponte Nova,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Ponte Nova,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Ponte Nova,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Ponte Nova,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Ponte Nova,2021-04-28,5299,60,148,2,27.0,2.2857142857142856,189.0,16.0
 Ponte Nova,2021-04-29,5345,46,151,3,30.0,2.4285714285714284,210.0,17.0
 Ponte Nova,2021-04-30,5364,19,151,0,29.428571428571427,2.4285714285714284,206.0,17.0
 Ponte Nova,2021-05-01,5379,15,151,0,26.0,1.5714285714285714,182.0,11.0
+Ponte Nova,2021-05-02,5390,11,151,0,24.285714285714285,0.8571428571428571,170.0,6.0
+Ponte Nova,2021-05-03,5415,25,151,0,25.142857142857142,0.8571428571428571,176.0,6.0

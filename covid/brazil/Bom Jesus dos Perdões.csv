@@ -1,9 +1,9 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Bom Jesus dos Perdões,2020-03-27,0,0,0,0,2.142857142857143,0.42857142857142855,15.0,3.0
-Bom Jesus dos Perdões,2020-03-28,0,0,0,0,1.7142857142857142,0.14285714285714285,12.0,1.0
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+Bom Jesus dos Perdões,2020-03-27,0,0,0,0,1.7142857142857142,0.14285714285714285,12.0,1.0
+Bom Jesus dos Perdões,2020-03-28,0,0,0,0,1.2857142857142858,0.14285714285714285,9.0,1.0
 Bom Jesus dos Perdões,2020-03-29,0,0,0,0,1.2857142857142858,0.14285714285714285,9.0,1.0
-Bom Jesus dos Perdões,2020-03-30,0,0,0,0,1.2857142857142858,0.14285714285714285,9.0,1.0
-Bom Jesus dos Perdões,2020-03-31,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
+Bom Jesus dos Perdões,2020-03-30,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
+Bom Jesus dos Perdões,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Bom Jesus dos Perdões,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Bom Jesus dos Perdões,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Bom Jesus dos Perdões,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
@@ -401,3 +401,4 @@ Bom Jesus dos Perdões,2021-04-29,1678,6,21,0,22.571428571428573,0.0,158.0,0.0
 Bom Jesus dos Perdões,2021-04-30,1684,6,21,0,22.285714285714285,0.0,156.0,0.0
 Bom Jesus dos Perdões,2021-05-01,1690,6,21,0,9.428571428571429,0.0,66.0,0.0
 Bom Jesus dos Perdões,2021-05-02,1690,0,21,0,9.428571428571429,0.0,66.0,0.0
+Bom Jesus dos Perdões,2021-05-03,1691,1,21,0,9.571428571428571,0.0,67.0,0.0

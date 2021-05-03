@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Cruzeiro,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Cruzeiro,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Cruzeiro,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
@@ -401,3 +401,4 @@ Cruzeiro,2021-04-29,4045,65,50,0,39.42857142857143,0.0,276.0,0.0
 Cruzeiro,2021-04-30,4053,8,50,0,36.57142857142857,0.0,256.0,0.0
 Cruzeiro,2021-05-01,4060,7,50,0,27.428571428571427,0.0,192.0,0.0
 Cruzeiro,2021-05-02,4065,5,50,0,28.0,0.0,196.0,0.0
+Cruzeiro,2021-05-03,4068,3,50,0,27.0,0.0,189.0,0.0

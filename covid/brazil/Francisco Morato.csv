@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Francisco Morato,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Francisco Morato,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Francisco Morato,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
@@ -401,3 +401,4 @@ Francisco Morato,2021-04-29,8467,83,314,3,36.714285714285715,1.2857142857142858,
 Francisco Morato,2021-04-30,8512,45,323,9,41.714285714285715,2.4285714285714284,292.0,17.0
 Francisco Morato,2021-05-01,8531,19,328,5,42.42857142857143,2.7142857142857144,297.0,19.0
 Francisco Morato,2021-05-02,8585,54,330,2,50.0,3.142857142857143,350.0,22.0
+Francisco Morato,2021-05-03,8595,10,330,0,51.42857142857143,3.0,360.0,21.0

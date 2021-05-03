@@ -1,6 +1,6 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Várzea Grande,2020-03-27,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Várzea Grande,2020-03-28,2,2,0,0,0.5714285714285714,0.0,4.0,0.0
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+Várzea Grande,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
+Várzea Grande,2020-03-28,2,2,0,0,0.2857142857142857,0.0,2.0,0.0
 Várzea Grande,2020-03-29,2,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Várzea Grande,2020-03-30,2,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Várzea Grande,2020-03-31,2,0,0,0,0.2857142857142857,0.0,2.0,0.0
@@ -400,3 +400,5 @@ Várzea Grande,2021-04-28,24385,160,1058,3,176.0,4.857142857142857,1232.0,34.0
 Várzea Grande,2021-04-29,24490,105,1061,3,175.71428571428572,4.571428571428571,1230.0,32.0
 Várzea Grande,2021-04-30,24589,99,1070,9,168.0,5.0,1176.0,35.0
 Várzea Grande,2021-05-01,24935,346,1074,4,156.0,4.714285714285714,1092.0,33.0
+Várzea Grande,2021-05-02,25077,142,1078,4,147.14285714285714,4.857142857142857,1030.0,34.0
+Várzea Grande,2021-05-03,25132,55,1085,7,147.85714285714286,5.428571428571429,1035.0,38.0

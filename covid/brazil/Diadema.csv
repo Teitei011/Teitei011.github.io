@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Diadema,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Diadema,2020-03-28,2,2,0,0,0.2857142857142857,0.0,2.0,0.0
 Diadema,2020-03-29,2,0,0,0,0.2857142857142857,0.0,2.0,0.0
@@ -401,3 +401,4 @@ Diadema,2021-04-29,19953,88,844,5,96.0,6.428571428571429,672.0,45.0
 Diadema,2021-04-30,20041,88,851,7,87.0,5.857142857142857,609.0,41.0
 Diadema,2021-05-01,20093,52,853,2,83.57142857142857,4.428571428571429,585.0,31.0
 Diadema,2021-05-02,20118,25,853,0,78.71428571428571,4.428571428571429,551.0,31.0
+Diadema,2021-05-03,20143,25,854,1,72.71428571428571,4.571428571428571,509.0,32.0

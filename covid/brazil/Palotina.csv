@@ -1,4 +1,4 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Palotina,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Palotina,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Palotina,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Palotina,2021-04-28,3776,8,58,-1,15.571428571428571,0.14285714285714285,109.0,1.
 Palotina,2021-04-29,3792,16,58,0,15.714285714285714,0.14285714285714285,110.0,1.0
 Palotina,2021-04-30,3805,13,58,0,15.142857142857142,0.14285714285714285,106.0,1.0
 Palotina,2021-05-01,3820,15,59,1,12.571428571428571,0.2857142857142857,88.0,2.0
+Palotina,2021-05-02,3829,9,59,0,11.571428571428571,0.14285714285714285,81.0,1.0
+Palotina,2021-05-03,3838,9,59,0,10.714285714285714,0.14285714285714285,75.0,1.0

@@ -1,10 +1,10 @@
-municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily cases moving average,daily deaths moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Nova Iguaçu de Goiás,2020-03-27,0,0,0,0,44.57142857142857,6.285714285714286,312.0,44.0
-Nova Iguaçu de Goiás,2020-03-28,0,0,0,0,44.42857142857143,6.142857142857143,311.0,43.0
-Nova Iguaçu de Goiás,2020-03-29,0,0,0,0,36.0,6.0,252.0,42.0
-Nova Iguaçu de Goiás,2020-03-30,0,0,0,0,22.142857142857142,5.428571428571429,155.0,38.0
-Nova Iguaçu de Goiás,2020-03-31,0,0,0,0,11.142857142857142,1.2857142857142858,78.0,9.0
-Nova Iguaçu de Goiás,2020-04-01,0,0,0,0,5.428571428571429,0.5714285714285714,38.0,4.0
+municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+Nova Iguaçu de Goiás,2020-03-27,0,0,0,0,42.285714285714285,7.714285714285714,296.0,54.0
+Nova Iguaçu de Goiás,2020-03-28,0,0,0,0,28.428571428571427,7.142857142857143,199.0,50.0
+Nova Iguaçu de Goiás,2020-03-29,0,0,0,0,17.428571428571427,3.0,122.0,21.0
+Nova Iguaçu de Goiás,2020-03-30,0,0,0,0,11.714285714285714,2.2857142857142856,82.0,16.0
+Nova Iguaçu de Goiás,2020-03-31,0,0,0,0,6.285714285714286,1.7142857142857142,44.0,12.0
+Nova Iguaçu de Goiás,2020-04-01,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
 Nova Iguaçu de Goiás,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Iguaçu de Goiás,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Iguaçu de Goiás,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -400,3 +400,5 @@ Nova Iguaçu de Goiás,2021-04-28,157,1,5,0,1.5714285714285714,0.0,11.0,0.0
 Nova Iguaçu de Goiás,2021-04-29,158,1,5,0,1.1428571428571428,0.0,8.0,0.0
 Nova Iguaçu de Goiás,2021-04-30,158,0,5,0,1.1428571428571428,0.0,8.0,0.0
 Nova Iguaçu de Goiás,2021-05-01,157,-1,5,0,1.0,0.0,7.0,0.0
+Nova Iguaçu de Goiás,2021-05-02,157,0,5,0,1.0,0.0,7.0,0.0
+Nova Iguaçu de Goiás,2021-05-03,157,0,5,0,1.0,0.0,7.0,0.0
