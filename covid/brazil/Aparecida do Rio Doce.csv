@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Aparecida do Rio Doce,2020-03-27,0,0,0,0,269.0,4.428571428571429,1883.0,31.0
-Aparecida do Rio Doce,2020-03-28,0,0,0,0,206.42857142857142,1.7142857142857142,1445.0,12.0
-Aparecida do Rio Doce,2020-03-29,0,0,0,0,183.71428571428572,1.5714285714285714,1286.0,11.0
-Aparecida do Rio Doce,2020-03-30,0,0,0,0,168.0,0.2857142857142857,1176.0,2.0
-Aparecida do Rio Doce,2020-03-31,0,0,0,0,116.71428571428571,0.14285714285714285,817.0,1.0
-Aparecida do Rio Doce,2020-04-01,0,0,0,0,78.57142857142857,0.0,550.0,0.0
+Aparecida do Rio Doce,2020-03-27,0,0,0,0,227.85714285714286,1.7142857142857142,1595.0,12.0
+Aparecida do Rio Doce,2020-03-28,0,0,0,0,205.14285714285714,1.5714285714285714,1436.0,11.0
+Aparecida do Rio Doce,2020-03-29,0,0,0,0,189.42857142857142,0.2857142857142857,1326.0,2.0
+Aparecida do Rio Doce,2020-03-30,0,0,0,0,138.14285714285714,0.14285714285714285,967.0,1.0
+Aparecida do Rio Doce,2020-03-31,0,0,0,0,100.0,0.0,700.0,0.0
+Aparecida do Rio Doce,2020-04-01,0,0,0,0,21.428571428571427,0.0,150.0,0.0
 Aparecida do Rio Doce,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Aparecida do Rio Doce,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Aparecida do Rio Doce,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -402,3 +402,4 @@ Aparecida do Rio Doce,2021-04-30,183,0,3,0,0.0,0.0,0.0,0.0
 Aparecida do Rio Doce,2021-05-01,183,0,3,0,0.0,0.0,0.0,0.0
 Aparecida do Rio Doce,2021-05-02,183,0,3,0,0.0,0.0,0.0,0.0
 Aparecida do Rio Doce,2021-05-03,183,0,3,0,0.0,0.0,0.0,0.0
+Aparecida do Rio Doce,2021-05-04,183,0,3,0,0.0,0.0,0.0,0.0

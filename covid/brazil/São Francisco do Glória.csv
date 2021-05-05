@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Francisco do Glória,2020-03-27,0,0,0,0,11.714285714285714,0.0,82.0,0.0
-São Francisco do Glória,2020-03-28,0,0,0,0,9.0,0.0,63.0,0.0
-São Francisco do Glória,2020-03-29,0,0,0,0,7.428571428571429,0.0,52.0,0.0
-São Francisco do Glória,2020-03-30,0,0,0,0,6.714285714285714,0.0,47.0,0.0
-São Francisco do Glória,2020-03-31,0,0,0,0,4.0,0.0,28.0,0.0
-São Francisco do Glória,2020-04-01,0,0,0,0,4.0,0.0,28.0,0.0
+São Francisco do Glória,2020-03-27,0,0,0,0,9.571428571428571,0.0,67.0,0.0
+São Francisco do Glória,2020-03-28,0,0,0,0,8.0,0.0,56.0,0.0
+São Francisco do Glória,2020-03-29,0,0,0,0,7.285714285714286,0.0,51.0,0.0
+São Francisco do Glória,2020-03-30,0,0,0,0,4.571428571428571,0.0,32.0,0.0
+São Francisco do Glória,2020-03-31,0,0,0,0,4.571428571428571,0.0,32.0,0.0
+São Francisco do Glória,2020-04-01,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 São Francisco do Glória,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 São Francisco do Glória,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 São Francisco do Glória,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -402,3 +402,4 @@ São Francisco do Glória,2021-04-30,268,0,4,0,8.428571428571429,0.0,59.0,0.0
 São Francisco do Glória,2021-05-01,279,11,4,0,10.0,0.0,70.0,0.0
 São Francisco do Glória,2021-05-02,279,0,4,0,10.0,0.0,70.0,0.0
 São Francisco do Glória,2021-05-03,279,0,4,0,10.0,0.0,70.0,0.0
+São Francisco do Glória,2021-05-04,279,0,4,0,10.0,0.0,70.0,0.0

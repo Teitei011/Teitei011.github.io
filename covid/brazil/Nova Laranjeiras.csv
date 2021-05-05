@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Nova Laranjeiras,2020-03-27,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
-Nova Laranjeiras,2020-03-28,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
-Nova Laranjeiras,2020-03-29,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
+Nova Laranjeiras,2020-03-28,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
+Nova Laranjeiras,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Laranjeiras,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Laranjeiras,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Laranjeiras,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
@@ -402,3 +402,4 @@ Nova Laranjeiras,2021-04-30,557,1,4,0,0.7142857142857143,0.0,5.0,0.0
 Nova Laranjeiras,2021-05-01,557,0,4,0,0.42857142857142855,0.0,3.0,0.0
 Nova Laranjeiras,2021-05-02,558,1,4,0,0.5714285714285714,0.0,4.0,0.0
 Nova Laranjeiras,2021-05-03,561,3,4,0,0.8571428571428571,0.0,6.0,0.0
+Nova Laranjeiras,2021-05-04,561,0,4,0,0.7142857142857143,0.0,5.0,0.0

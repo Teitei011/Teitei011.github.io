@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Cabo de Santo Agostinho,2020-03-27,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
-Cabo de Santo Agostinho,2020-03-28,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Cabo de Santo Agostinho,2020-03-29,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Cabo de Santo Agostinho,2020-03-27,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Cabo de Santo Agostinho,2020-03-28,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Cabo de Santo Agostinho,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Cabo de Santo Agostinho,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Cabo de Santo Agostinho,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Cabo de Santo Agostinho,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
@@ -402,3 +402,4 @@ Cabo de Santo Agostinho,2021-04-30,4548,23,388,0,29.571428571428573,1.2857142857
 Cabo de Santo Agostinho,2021-05-01,4589,41,396,8,29.0,2.4285714285714284,203.0,17.0
 Cabo de Santo Agostinho,2021-05-02,4600,11,396,0,26.428571428571427,1.8571428571428572,185.0,13.0
 Cabo de Santo Agostinho,2021-05-03,4618,18,396,0,26.428571428571427,1.8571428571428572,185.0,13.0
+Cabo de Santo Agostinho,2021-05-04,4671,53,398,2,30.142857142857142,1.7142857142857142,211.0,12.0

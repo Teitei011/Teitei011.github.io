@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Conselheiro Mairinck,2020-03-27,0,0,0,0,43.285714285714285,1.2857142857142858,303.0,9.0
-Conselheiro Mairinck,2020-03-28,0,0,0,0,34.857142857142854,0.5714285714285714,244.0,4.0
-Conselheiro Mairinck,2020-03-29,0,0,0,0,26.285714285714285,0.42857142857142855,184.0,3.0
-Conselheiro Mairinck,2020-03-30,0,0,0,0,14.571428571428571,0.14285714285714285,102.0,1.0
-Conselheiro Mairinck,2020-03-31,0,0,0,0,6.857142857142857,0.0,48.0,0.0
-Conselheiro Mairinck,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
+Conselheiro Mairinck,2020-03-27,0,0,0,0,38.57142857142857,0.5714285714285714,270.0,4.0
+Conselheiro Mairinck,2020-03-28,0,0,0,0,30.0,0.42857142857142855,210.0,3.0
+Conselheiro Mairinck,2020-03-29,0,0,0,0,18.285714285714285,0.14285714285714285,128.0,1.0
+Conselheiro Mairinck,2020-03-30,0,0,0,0,10.571428571428571,0.0,74.0,0.0
+Conselheiro Mairinck,2020-03-31,0,0,0,0,3.7142857142857144,0.0,26.0,0.0
+Conselheiro Mairinck,2020-04-01,0,0,0,0,3.7142857142857144,0.0,26.0,0.0
 Conselheiro Mairinck,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Conselheiro Mairinck,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Conselheiro Mairinck,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -402,3 +402,4 @@ Conselheiro Mairinck,2021-04-30,390,4,8,0,3.0,0.0,21.0,0.0
 Conselheiro Mairinck,2021-05-01,392,2,8,0,2.7142857142857144,0.0,19.0,0.0
 Conselheiro Mairinck,2021-05-02,395,3,8,0,2.857142857142857,0.0,20.0,0.0
 Conselheiro Mairinck,2021-05-03,398,3,8,0,3.142857142857143,0.0,22.0,0.0
+Conselheiro Mairinck,2021-05-04,400,2,8,0,3.4285714285714284,0.0,24.0,0.0

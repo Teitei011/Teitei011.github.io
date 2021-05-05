@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Monsenhor Hipólito,2020-03-27,0,0,0,0,8.285714285714286,0.0,58.0,0.0
-Monsenhor Hipólito,2020-03-28,0,0,0,0,7.142857142857143,0.0,50.0,0.0
-Monsenhor Hipólito,2020-03-29,0,0,0,0,5.428571428571429,0.0,38.0,0.0
-Monsenhor Hipólito,2020-03-30,0,0,0,0,4.714285714285714,0.0,33.0,0.0
-Monsenhor Hipólito,2020-03-31,0,0,0,0,4.714285714285714,0.0,33.0,0.0
-Monsenhor Hipólito,2020-04-01,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Monsenhor Hipólito,2020-03-27,0,0,0,0,7.428571428571429,0.0,52.0,0.0
+Monsenhor Hipólito,2020-03-28,0,0,0,0,5.714285714285714,0.0,40.0,0.0
+Monsenhor Hipólito,2020-03-29,0,0,0,0,5.0,0.0,35.0,0.0
+Monsenhor Hipólito,2020-03-30,0,0,0,0,5.0,0.0,35.0,0.0
+Monsenhor Hipólito,2020-03-31,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
+Monsenhor Hipólito,2020-04-01,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Monsenhor Hipólito,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Monsenhor Hipólito,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Monsenhor Hipólito,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -402,3 +402,4 @@ Monsenhor Hipólito,2021-04-30,393,1,2,0,0.2857142857142857,0.0,2.0,0.0
 Monsenhor Hipólito,2021-05-01,393,0,2,0,0.2857142857142857,0.0,2.0,0.0
 Monsenhor Hipólito,2021-05-02,394,1,2,0,0.42857142857142855,0.0,3.0,0.0
 Monsenhor Hipólito,2021-05-03,395,1,2,0,0.5714285714285714,0.0,4.0,0.0
+Monsenhor Hipólito,2021-05-04,397,2,2,0,0.7142857142857143,0.0,5.0,0.0
