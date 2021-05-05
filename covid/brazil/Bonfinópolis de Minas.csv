@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Bonfinópolis de Minas,2020-03-27,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Bonfinópolis de Minas,2020-03-28,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Bonfinópolis de Minas,2020-03-29,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Bonfinópolis de Minas,2020-03-30,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Bonfinópolis de Minas,2020-03-31,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Bonfinópolis de Minas,2020-04-01,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Bonfinópolis de Minas,2020-03-27,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Bonfinópolis de Minas,2020-03-28,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Bonfinópolis de Minas,2020-03-29,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Bonfinópolis de Minas,2020-03-30,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Bonfinópolis de Minas,2020-03-31,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Bonfinópolis de Minas,2020-04-01,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Bonfinópolis de Minas,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Bonfinópolis de Minas,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Bonfinópolis de Minas,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -403,3 +403,4 @@ Bonfinópolis de Minas,2021-05-01,365,0,10,0,1.7142857142857142,0.0,12.0,0.0
 Bonfinópolis de Minas,2021-05-02,365,0,10,0,1.7142857142857142,0.0,12.0,0.0
 Bonfinópolis de Minas,2021-05-03,365,0,10,0,1.7142857142857142,0.0,12.0,0.0
 Bonfinópolis de Minas,2021-05-04,371,6,10,0,1.1428571428571428,0.0,8.0,0.0
+Bonfinópolis de Minas,2021-05-05,371,0,10,0,1.1428571428571428,0.0,8.0,0.0
