@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 São João das Missões,2020-03-27,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-São João das Missões,2020-03-28,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+São João das Missões,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 São João das Missões,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 São João das Missões,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 São João das Missões,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
@@ -404,3 +404,4 @@ São João das Missões,2021-05-02,344,0,6,0,2.857142857142857,0.0,20.0,0.0
 São João das Missões,2021-05-03,344,0,6,0,2.857142857142857,0.0,20.0,0.0
 São João das Missões,2021-05-04,344,0,6,0,2.857142857142857,0.0,20.0,0.0
 São João das Missões,2021-05-05,344,0,6,0,2.857142857142857,0.0,20.0,0.0
+São João das Missões,2021-05-06,344,0,6,0,2.857142857142857,0.0,20.0,0.0

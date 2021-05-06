@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Mariano Moro,2020-03-27,0,0,0,0,1.0,0.0,7.0,0.0
+Mariano Moro,2020-03-27,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Mariano Moro,2020-03-28,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Mariano Moro,2020-03-29,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 Mariano Moro,2020-03-30,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
-Mariano Moro,2020-03-31,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+Mariano Moro,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Mariano Moro,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Mariano Moro,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Mariano Moro,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
@@ -404,3 +404,4 @@ Mariano Moro,2021-05-02,170,0,4,0,0.0,0.0,0.0,0.0
 Mariano Moro,2021-05-03,170,0,4,0,0.0,0.0,0.0,0.0
 Mariano Moro,2021-05-04,170,0,4,0,0.0,0.0,0.0,0.0
 Mariano Moro,2021-05-05,170,0,4,0,0.0,0.0,0.0,0.0
+Mariano Moro,2021-05-06,170,0,4,0,0.0,0.0,0.0,0.0

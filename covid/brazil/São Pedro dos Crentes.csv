@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Pedro dos Crentes,2020-03-27,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
-São Pedro dos Crentes,2020-03-28,0,0,0,0,0.8571428571428571,0.0,6.0,0.0
-São Pedro dos Crentes,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
-São Pedro dos Crentes,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
-São Pedro dos Crentes,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
-São Pedro dos Crentes,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
+São Pedro dos Crentes,2020-03-27,0,0,0,0,3.857142857142857,0.0,27.0,0.0
+São Pedro dos Crentes,2020-03-28,0,0,0,0,3.0,0.0,21.0,0.0
+São Pedro dos Crentes,2020-03-29,0,0,0,0,3.0,0.0,21.0,0.0
+São Pedro dos Crentes,2020-03-30,0,0,0,0,3.0,0.0,21.0,0.0
+São Pedro dos Crentes,2020-03-31,0,0,0,0,3.0,0.0,21.0,0.0
+São Pedro dos Crentes,2020-04-01,0,0,0,0,3.0,0.0,21.0,0.0
 São Pedro dos Crentes,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 São Pedro dos Crentes,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 São Pedro dos Crentes,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -404,3 +404,4 @@ São Pedro dos Crentes,2021-05-02,341,0,2,0,1.0,0.0,7.0,0.0
 São Pedro dos Crentes,2021-05-03,341,0,2,0,1.0,0.0,7.0,0.0
 São Pedro dos Crentes,2021-05-04,341,0,2,0,1.0,0.0,7.0,0.0
 São Pedro dos Crentes,2021-05-05,347,6,2,0,0.8571428571428571,0.0,6.0,0.0
+São Pedro dos Crentes,2021-05-06,348,1,2,0,1.0,0.0,7.0,0.0

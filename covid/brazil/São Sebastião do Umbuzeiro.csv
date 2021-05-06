@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Sebastião do Umbuzeiro,2020-03-27,0,0,0,0,4.285714285714286,0.0,30.0,0.0
-São Sebastião do Umbuzeiro,2020-03-28,0,0,0,0,3.7142857142857144,0.0,26.0,0.0
+São Sebastião do Umbuzeiro,2020-03-27,0,0,0,0,3.7142857142857144,0.0,26.0,0.0
+São Sebastião do Umbuzeiro,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 São Sebastião do Umbuzeiro,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 São Sebastião do Umbuzeiro,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 São Sebastião do Umbuzeiro,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
@@ -404,3 +404,4 @@ São Sebastião do Umbuzeiro,2021-05-02,148,0,3,0,1.0,0.14285714285714285,7.0,1.
 São Sebastião do Umbuzeiro,2021-05-03,148,0,3,0,0.8571428571428571,0.0,6.0,0.0
 São Sebastião do Umbuzeiro,2021-05-04,148,0,3,0,0.8571428571428571,0.0,6.0,0.0
 São Sebastião do Umbuzeiro,2021-05-05,148,0,3,0,0.8571428571428571,0.0,6.0,0.0
+São Sebastião do Umbuzeiro,2021-05-06,148,0,3,0,0.8571428571428571,0.0,6.0,0.0
