@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Pindoretama,2020-03-27,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Pindoretama,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Pindoretama,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Pindoretama,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Pindoretama,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
@@ -405,3 +405,4 @@ Pindoretama,2021-05-03,1422,-1,34,0,6.0,0.0,42.0,0.0
 Pindoretama,2021-05-04,1461,39,35,1,11.428571428571429,0.14285714285714285,80.0,1.0
 Pindoretama,2021-05-05,1462,1,35,0,10.857142857142858,0.14285714285714285,76.0,1.0
 Pindoretama,2021-05-06,1465,3,35,0,6.571428571428571,0.14285714285714285,46.0,1.0
+Pindoretama,2021-05-07,1499,34,35,0,11.428571428571429,0.14285714285714285,80.0,1.0

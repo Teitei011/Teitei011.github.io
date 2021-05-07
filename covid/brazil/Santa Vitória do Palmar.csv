@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santa Vitória do Palmar,2020-03-27,0,0,0,0,10.714285714285714,0.0,75.0,0.0
-Santa Vitória do Palmar,2020-03-28,0,0,0,0,9.142857142857142,0.0,64.0,0.0
-Santa Vitória do Palmar,2020-03-29,0,0,0,0,6.428571428571429,0.0,45.0,0.0
-Santa Vitória do Palmar,2020-03-30,0,0,0,0,5.428571428571429,0.0,38.0,0.0
-Santa Vitória do Palmar,2020-03-31,0,0,0,0,4.428571428571429,0.0,31.0,0.0
-Santa Vitória do Palmar,2020-04-01,0,0,0,0,2.7142857142857144,0.0,19.0,0.0
+Santa Vitória do Palmar,2020-03-27,0,0,0,0,9.142857142857142,0.0,64.0,0.0
+Santa Vitória do Palmar,2020-03-28,0,0,0,0,6.428571428571429,0.0,45.0,0.0
+Santa Vitória do Palmar,2020-03-29,0,0,0,0,5.428571428571429,0.0,38.0,0.0
+Santa Vitória do Palmar,2020-03-30,0,0,0,0,4.428571428571429,0.0,31.0,0.0
+Santa Vitória do Palmar,2020-03-31,0,0,0,0,2.7142857142857144,0.0,19.0,0.0
+Santa Vitória do Palmar,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Vitória do Palmar,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Vitória do Palmar,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Vitória do Palmar,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -405,3 +405,4 @@ Santa Vitória do Palmar,2021-05-03,1982,0,25,0,1.8571428571428572,0.0,13.0,0.0
 Santa Vitória do Palmar,2021-05-04,2033,51,26,1,7.428571428571429,0.14285714285714285,52.0,1.0
 Santa Vitória do Palmar,2021-05-05,2042,9,26,0,8.714285714285714,0.14285714285714285,61.0,1.0
 Santa Vitória do Palmar,2021-05-06,2042,0,26,0,8.571428571428571,0.14285714285714285,60.0,1.0
+Santa Vitória do Palmar,2021-05-07,2065,23,26,0,11.857142857142858,0.14285714285714285,83.0,1.0
