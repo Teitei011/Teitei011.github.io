@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Limoeiro do Ajuru,2020-03-27,0,0,0,0,8.857142857142858,0.0,62.0,0.0
-Limoeiro do Ajuru,2020-03-28,0,0,0,0,7.0,0.0,49.0,0.0
+Limoeiro do Ajuru,2020-03-27,0,0,0,0,7.142857142857143,0.0,50.0,0.0
+Limoeiro do Ajuru,2020-03-28,0,0,0,0,7.142857142857143,0.0,50.0,0.0
 Limoeiro do Ajuru,2020-03-29,0,0,0,0,7.0,0.0,49.0,0.0
-Limoeiro do Ajuru,2020-03-30,0,0,0,0,6.857142857142857,0.0,48.0,0.0
-Limoeiro do Ajuru,2020-03-31,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
-Limoeiro do Ajuru,2020-04-01,0,0,0,0,1.8571428571428572,0.0,13.0,0.0
+Limoeiro do Ajuru,2020-03-30,0,0,0,0,2.0,0.0,14.0,0.0
+Limoeiro do Ajuru,2020-03-31,0,0,0,0,2.0,0.0,14.0,0.0
+Limoeiro do Ajuru,2020-04-01,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Limoeiro do Ajuru,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Limoeiro do Ajuru,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Limoeiro do Ajuru,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -406,3 +406,4 @@ Limoeiro do Ajuru,2021-05-04,1400,4,43,0,2.4285714285714284,0.8571428571428571,1
 Limoeiro do Ajuru,2021-05-05,1401,1,44,1,1.5714285714285714,1.0,11.0,7.0
 Limoeiro do Ajuru,2021-05-06,1415,14,44,0,3.142857142857143,0.7142857142857143,22.0,5.0
 Limoeiro do Ajuru,2021-05-07,1443,28,44,0,7.0,0.7142857142857143,49.0,5.0
+Limoeiro do Ajuru,2021-05-08,1465,22,44,0,9.857142857142858,0.5714285714285714,69.0,4.0

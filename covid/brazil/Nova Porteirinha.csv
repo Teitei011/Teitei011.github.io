@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Nova Porteirinha,2020-03-27,0,0,0,0,5.0,0.0,35.0,0.0
-Nova Porteirinha,2020-03-28,0,0,0,0,3.5714285714285716,0.0,25.0,0.0
-Nova Porteirinha,2020-03-29,0,0,0,0,2.857142857142857,0.0,20.0,0.0
-Nova Porteirinha,2020-03-30,0,0,0,0,2.0,0.0,14.0,0.0
-Nova Porteirinha,2020-03-31,0,0,0,0,1.5714285714285714,0.0,11.0,0.0
-Nova Porteirinha,2020-04-01,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
+Nova Porteirinha,2020-03-28,0,0,0,0,4.285714285714286,0.0,30.0,0.0
+Nova Porteirinha,2020-03-29,0,0,0,0,3.4285714285714284,0.0,24.0,0.0
+Nova Porteirinha,2020-03-30,0,0,0,0,3.0,0.0,21.0,0.0
+Nova Porteirinha,2020-03-31,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Nova Porteirinha,2020-04-01,0,0,0,0,1.4285714285714286,0.0,10.0,0.0
 Nova Porteirinha,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Porteirinha,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Nova Porteirinha,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -406,3 +406,4 @@ Nova Porteirinha,2021-05-04,302,1,3,0,3.4285714285714284,0.0,24.0,0.0
 Nova Porteirinha,2021-05-05,302,0,3,0,1.7142857142857142,0.0,12.0,0.0
 Nova Porteirinha,2021-05-06,311,9,3,0,2.0,0.0,14.0,0.0
 Nova Porteirinha,2021-05-07,311,0,3,0,1.8571428571428572,0.0,13.0,0.0
+Nova Porteirinha,2021-05-08,317,6,3,0,2.2857142857142856,0.0,16.0,0.0

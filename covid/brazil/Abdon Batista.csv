@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Abdon Batista,2020-03-27,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
 Abdon Batista,2020-03-28,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
-Abdon Batista,2020-03-29,0,0,0,0,0.14285714285714285,0.14285714285714285,1.0,1.0
+Abdon Batista,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Abdon Batista,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Abdon Batista,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Abdon Batista,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
@@ -406,3 +406,4 @@ Abdon Batista,2021-05-04,293,4,2,0,3.142857142857143,0.0,22.0,0.0
 Abdon Batista,2021-05-05,310,17,2,0,5.571428571428571,0.0,39.0,0.0
 Abdon Batista,2021-05-06,312,2,2,0,5.857142857142857,0.0,41.0,0.0
 Abdon Batista,2021-05-07,317,5,2,0,4.571428571428571,0.0,32.0,0.0
+Abdon Batista,2021-05-08,320,3,2,0,4.428571428571429,0.0,31.0,0.0
