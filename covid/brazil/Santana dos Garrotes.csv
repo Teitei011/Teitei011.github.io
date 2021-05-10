@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santana dos Garrotes,2020-03-27,0,0,0,0,5.857142857142857,0.14285714285714285,41.0,1.0
-Santana dos Garrotes,2020-03-28,0,0,0,0,4.285714285714286,0.14285714285714285,30.0,1.0
-Santana dos Garrotes,2020-03-29,0,0,0,0,4.285714285714286,0.0,30.0,0.0
-Santana dos Garrotes,2020-03-30,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
-Santana dos Garrotes,2020-03-31,0,0,0,0,2.4285714285714284,0.0,17.0,0.0
-Santana dos Garrotes,2020-04-01,0,0,0,0,2.2857142857142856,0.0,16.0,0.0
+Santana dos Garrotes,2020-03-27,0,0,0,0,4.571428571428571,0.14285714285714285,32.0,1.0
+Santana dos Garrotes,2020-03-28,0,0,0,0,4.571428571428571,0.0,32.0,0.0
+Santana dos Garrotes,2020-03-29,0,0,0,0,2.7142857142857144,0.0,19.0,0.0
+Santana dos Garrotes,2020-03-30,0,0,0,0,2.7142857142857144,0.0,19.0,0.0
+Santana dos Garrotes,2020-03-31,0,0,0,0,2.5714285714285716,0.0,18.0,0.0
+Santana dos Garrotes,2020-04-01,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Santana dos Garrotes,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Santana dos Garrotes,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Santana dos Garrotes,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -407,3 +407,4 @@ Santana dos Garrotes,2021-05-05,355,1,8,0,0.5714285714285714,0.0,4.0,0.0
 Santana dos Garrotes,2021-05-06,355,0,8,0,0.42857142857142855,0.0,3.0,0.0
 Santana dos Garrotes,2021-05-07,355,0,8,0,0.42857142857142855,0.0,3.0,0.0
 Santana dos Garrotes,2021-05-08,356,1,8,0,0.42857142857142855,0.0,3.0,0.0
+Santana dos Garrotes,2021-05-09,356,0,8,0,0.42857142857142855,0.0,3.0,0.0

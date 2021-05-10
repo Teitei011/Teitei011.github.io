@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Currais Novos,2020-03-27,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-Currais Novos,2020-03-28,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Currais Novos,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Currais Novos,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Currais Novos,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Currais Novos,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
@@ -407,3 +407,4 @@ Currais Novos,2021-05-05,2572,9,56,0,4.428571428571429,0.2857142857142857,31.0,2
 Currais Novos,2021-05-06,2572,0,56,0,4.285714285714286,0.2857142857142857,30.0,2.0
 Currais Novos,2021-05-07,2572,0,56,0,4.285714285714286,0.2857142857142857,30.0,2.0
 Currais Novos,2021-05-08,2575,3,56,0,2.0,0.14285714285714285,14.0,1.0
+Currais Novos,2021-05-09,2575,0,56,0,1.8571428571428572,0.0,13.0,0.0

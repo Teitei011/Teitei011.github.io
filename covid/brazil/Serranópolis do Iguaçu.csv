@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Serranópolis do Iguaçu,2020-03-27,0,0,0,0,2.0,0.0,14.0,0.0
 Serranópolis do Iguaçu,2020-03-28,0,0,0,0,2.0,0.0,14.0,0.0
-Serranópolis do Iguaçu,2020-03-29,0,0,0,0,2.0,0.0,14.0,0.0
+Serranópolis do Iguaçu,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Serranópolis do Iguaçu,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Serranópolis do Iguaçu,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Serranópolis do Iguaçu,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
@@ -407,3 +407,4 @@ Serranópolis do Iguaçu,2021-05-05,462,13,4,0,3.0,0.0,21.0,0.0
 Serranópolis do Iguaçu,2021-05-06,467,5,4,0,3.2857142857142856,0.0,23.0,0.0
 Serranópolis do Iguaçu,2021-05-07,477,10,4,0,4.571428571428571,0.0,32.0,0.0
 Serranópolis do Iguaçu,2021-05-08,479,2,4,0,4.714285714285714,0.0,33.0,0.0
+Serranópolis do Iguaçu,2021-05-09,479,0,4,0,4.714285714285714,0.0,33.0,0.0

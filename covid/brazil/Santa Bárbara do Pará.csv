@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santa Bárbara do Pará,2020-03-27,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Santa Bárbara do Pará,2020-03-28,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Santa Bárbara do Pará,2020-03-29,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Santa Bárbara do Pará,2020-03-29,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Santa Bárbara do Pará,2020-03-30,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Santa Bárbara do Pará,2020-03-31,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santa Bárbara do Pará,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Bárbara do Pará,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Bárbara do Pará,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Bárbara do Pará,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
@@ -407,3 +407,4 @@ Santa Bárbara do Pará,2021-05-05,998,0,20,0,15.142857142857142,0.0,106.0,0.0
 Santa Bárbara do Pará,2021-05-06,1017,19,20,0,11.857142857142858,0.0,83.0,0.0
 Santa Bárbara do Pará,2021-05-07,1024,7,20,0,8.285714285714286,0.0,58.0,0.0
 Santa Bárbara do Pará,2021-05-08,1040,16,20,0,6.0,0.0,42.0,0.0
+Santa Bárbara do Pará,2021-05-09,1040,0,20,0,6.0,0.0,42.0,0.0
