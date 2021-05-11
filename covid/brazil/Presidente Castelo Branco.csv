@@ -2,8 +2,8 @@ municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases
 Presidente Castelo Branco,2020-03-27,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Presidente Castelo Branco,2020-03-28,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 Presidente Castelo Branco,2020-03-29,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Presidente Castelo Branco,2020-03-30,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Presidente Castelo Branco,2020-03-31,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Presidente Castelo Branco,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
+Presidente Castelo Branco,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Castelo Branco,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Castelo Branco,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Presidente Castelo Branco,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
@@ -408,3 +408,5 @@ Presidente Castelo Branco,2021-05-06,398,2,8,0,2.857142857142857,0.2857142857142
 Presidente Castelo Branco,2021-05-07,398,0,8,0,2.2857142857142856,0.2857142857142857,16.0,2.0
 Presidente Castelo Branco,2021-05-08,404,6,8,0,3.142857142857143,0.2857142857142857,22.0,2.0
 Presidente Castelo Branco,2021-05-09,406,2,8,0,3.0,0.2857142857142857,21.0,2.0
+Presidente Castelo Branco,2021-05-10,413,7,8,0,2.857142857142857,0.14285714285714285,20.0,1.0
+Presidente Castelo Branco,2021-05-11,413,0,8,0,2.4285714285714284,0.0,17.0,0.0

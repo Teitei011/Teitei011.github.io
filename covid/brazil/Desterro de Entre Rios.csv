@@ -1,7 +1,7 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Desterro de Entre Rios,2020-03-27,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
-Desterro de Entre Rios,2020-03-28,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
-Desterro de Entre Rios,2020-03-29,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Desterro de Entre Rios,2020-03-27,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+Desterro de Entre Rios,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
+Desterro de Entre Rios,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Desterro de Entre Rios,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Desterro de Entre Rios,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Desterro de Entre Rios,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
@@ -408,3 +408,5 @@ Desterro de Entre Rios,2021-05-06,273,38,7,0,5.428571428571429,0.0,38.0,0.0
 Desterro de Entre Rios,2021-05-07,275,2,7,0,5.714285714285714,0.0,40.0,0.0
 Desterro de Entre Rios,2021-05-08,277,2,8,1,6.0,0.14285714285714285,42.0,1.0
 Desterro de Entre Rios,2021-05-09,277,0,8,0,6.0,0.14285714285714285,42.0,1.0
+Desterro de Entre Rios,2021-05-10,277,0,8,0,6.0,0.14285714285714285,42.0,1.0
+Desterro de Entre Rios,2021-05-11,278,1,8,0,6.142857142857143,0.14285714285714285,43.0,1.0

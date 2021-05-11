@@ -1,9 +1,9 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Livramento de Nossa Senhora,2020-03-27,0,0,0,0,4.714285714285714,0.14285714285714285,33.0,1.0
-Livramento de Nossa Senhora,2020-03-28,0,0,0,0,3.142857142857143,0.0,22.0,0.0
-Livramento de Nossa Senhora,2020-03-29,0,0,0,0,2.142857142857143,0.0,15.0,0.0
-Livramento de Nossa Senhora,2020-03-30,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
-Livramento de Nossa Senhora,2020-03-31,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Livramento de Nossa Senhora,2020-03-27,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Livramento de Nossa Senhora,2020-03-28,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Livramento de Nossa Senhora,2020-03-29,0,0,0,0,1.1428571428571428,0.0,8.0,0.0
+Livramento de Nossa Senhora,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
+Livramento de Nossa Senhora,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Livramento de Nossa Senhora,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Livramento de Nossa Senhora,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Livramento de Nossa Senhora,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
@@ -408,3 +408,5 @@ Livramento de Nossa Senhora,2021-05-06,2213,13,45,1,7.571428571428571,0.85714285
 Livramento de Nossa Senhora,2021-05-07,2214,1,46,1,6.571428571428571,0.5714285714285714,46.0,4.0
 Livramento de Nossa Senhora,2021-05-08,2220,6,46,0,6.0,0.5714285714285714,42.0,4.0
 Livramento de Nossa Senhora,2021-05-09,2230,10,46,0,7.285714285714286,0.5714285714285714,51.0,4.0
+Livramento de Nossa Senhora,2021-05-10,2230,0,47,1,6.0,0.5714285714285714,42.0,4.0
+Livramento de Nossa Senhora,2021-05-11,2238,8,48,1,6.142857142857143,0.5714285714285714,43.0,4.0
