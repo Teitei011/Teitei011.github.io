@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Osvaldo Cruz,2020-03-27,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Osvaldo Cruz,2020-03-28,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Osvaldo Cruz,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Osvaldo Cruz,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Osvaldo Cruz,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Osvaldo Cruz,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
@@ -411,3 +411,4 @@ Osvaldo Cruz,2021-05-09,2086,15,69,0,13.0,0.42857142857142855,91.0,3.0
 Osvaldo Cruz,2021-05-10,2088,2,69,0,12.142857142857142,0.42857142857142855,85.0,3.0
 Osvaldo Cruz,2021-05-11,2120,32,69,0,12.714285714285714,0.0,89.0,0.0
 Osvaldo Cruz,2021-05-12,2158,38,72,3,14.857142857142858,0.42857142857142855,104.0,3.0
+Osvaldo Cruz,2021-05-13,2177,19,72,0,19.571428571428573,0.42857142857142855,137.0,3.0

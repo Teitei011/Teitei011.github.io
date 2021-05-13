@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São José dos Quatro Marcos,2020-03-27,0,0,0,0,81.85714285714286,1.5714285714285714,573.0,11.0
-São José dos Quatro Marcos,2020-03-28,0,0,0,0,67.0,1.2857142857142858,469.0,9.0
-São José dos Quatro Marcos,2020-03-29,0,0,0,0,46.57142857142857,0.8571428571428571,326.0,6.0
-São José dos Quatro Marcos,2020-03-30,0,0,0,0,35.0,1.0,245.0,7.0
-São José dos Quatro Marcos,2020-03-31,0,0,0,0,23.428571428571427,0.5714285714285714,164.0,4.0
-São José dos Quatro Marcos,2020-04-01,0,0,0,0,17.0,0.5714285714285714,119.0,4.0
+São José dos Quatro Marcos,2020-03-27,0,0,0,0,89.14285714285714,2.2857142857142856,624.0,16.0
+São José dos Quatro Marcos,2020-03-28,0,0,0,0,68.71428571428571,1.8571428571428572,481.0,13.0
+São José dos Quatro Marcos,2020-03-29,0,0,0,0,57.142857142857146,2.0,400.0,14.0
+São José dos Quatro Marcos,2020-03-30,0,0,0,0,45.57142857142857,1.5714285714285714,319.0,11.0
+São José dos Quatro Marcos,2020-03-31,0,0,0,0,39.142857142857146,1.5714285714285714,274.0,11.0
+São José dos Quatro Marcos,2020-04-01,0,0,0,0,22.142857142857142,1.0,155.0,7.0
 São José dos Quatro Marcos,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 São José dos Quatro Marcos,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 São José dos Quatro Marcos,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -411,3 +411,4 @@ São José dos Quatro Marcos,2021-05-09,2039,1,60,0,8.571428571428571,0.57142857
 São José dos Quatro Marcos,2021-05-10,2065,26,61,1,10.142857142857142,0.5714285714285714,71.0,4.0
 São José dos Quatro Marcos,2021-05-11,2066,1,62,1,9.0,0.42857142857142855,63.0,3.0
 São José dos Quatro Marcos,2021-05-12,2066,0,62,0,8.571428571428571,0.42857142857142855,60.0,3.0
+São José dos Quatro Marcos,2021-05-13,2067,1,62,0,7.857142857142857,0.42857142857142855,55.0,3.0

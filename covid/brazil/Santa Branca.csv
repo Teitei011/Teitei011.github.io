@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Santa Branca,2020-03-27,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
-Santa Branca,2020-03-28,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Santa Branca,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Branca,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Branca,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Branca,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
@@ -411,3 +411,4 @@ Santa Branca,2021-05-09,711,2,18,0,4.857142857142857,0.2857142857142857,34.0,2.0
 Santa Branca,2021-05-10,711,0,18,0,4.857142857142857,0.2857142857142857,34.0,2.0
 Santa Branca,2021-05-11,723,12,18,0,5.857142857142857,0.2857142857142857,41.0,2.0
 Santa Branca,2021-05-12,726,3,20,2,6.0,0.14285714285714285,42.0,1.0
+Santa Branca,2021-05-13,734,8,20,0,6.571428571428571,0.14285714285714285,46.0,1.0

@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Turvelândia,2020-03-27,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+Turvelândia,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Turvelândia,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Turvelândia,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Turvelândia,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
@@ -411,3 +411,4 @@ Turvelândia,2021-05-09,586,0,9,0,1.8571428571428572,0.0,13.0,0.0
 Turvelândia,2021-05-10,586,0,9,0,1.8571428571428572,0.0,13.0,0.0
 Turvelândia,2021-05-11,586,0,9,0,0.5714285714285714,0.0,4.0,0.0
 Turvelândia,2021-05-12,594,8,9,0,1.7142857142857142,0.0,12.0,0.0
+Turvelândia,2021-05-13,594,0,9,0,1.1428571428571428,0.0,8.0,0.0

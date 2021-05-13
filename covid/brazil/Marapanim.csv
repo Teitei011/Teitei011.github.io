@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Marapanim,2020-03-27,0,0,0,0,2.142857142857143,0.0,15.0,0.0
-Marapanim,2020-03-28,0,0,0,0,2.142857142857143,0.0,15.0,0.0
+Marapanim,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Marapanim,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Marapanim,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Marapanim,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
@@ -411,3 +411,4 @@ Marapanim,2021-05-09,920,0,36,0,4.714285714285714,0.0,33.0,0.0
 Marapanim,2021-05-10,920,0,36,0,4.714285714285714,0.0,33.0,0.0
 Marapanim,2021-05-11,920,0,36,0,4.714285714285714,0.0,33.0,0.0
 Marapanim,2021-05-12,920,0,36,0,4.714285714285714,0.0,33.0,0.0
+Marapanim,2021-05-13,923,3,36,0,0.7142857142857143,0.0,5.0,0.0

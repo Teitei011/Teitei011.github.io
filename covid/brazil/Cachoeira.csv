@@ -1,5 +1,5 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Cachoeira,2020-03-27,0,0,0,0,3.0,0.0,21.0,0.0
+Cachoeira,2020-03-27,0,0,0,0,0.0,0.0,0.0,0.0
 Cachoeira,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Cachoeira,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Cachoeira,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
@@ -411,3 +411,4 @@ Cachoeira,2021-05-09,1265,1,18,0,6.428571428571429,0.0,45.0,0.0
 Cachoeira,2021-05-10,1268,3,18,0,3.7142857142857144,0.0,26.0,0.0
 Cachoeira,2021-05-11,1274,6,18,0,4.571428571428571,0.0,32.0,0.0
 Cachoeira,2021-05-12,1301,27,18,0,8.142857142857142,0.0,57.0,0.0
+Cachoeira,2021-05-13,1302,1,19,1,8.142857142857142,0.14285714285714285,57.0,1.0

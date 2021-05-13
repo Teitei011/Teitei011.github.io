@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Joaquim da Barra,2020-03-27,0,0,0,0,9.571428571428571,0.0,67.0,0.0
-São Joaquim da Barra,2020-03-28,0,0,0,0,7.142857142857143,0.0,50.0,0.0
-São Joaquim da Barra,2020-03-29,0,0,0,0,6.428571428571429,0.0,45.0,0.0
-São Joaquim da Barra,2020-03-30,0,0,0,0,6.285714285714286,0.0,44.0,0.0
-São Joaquim da Barra,2020-03-31,0,0,0,0,6.0,0.0,42.0,0.0
-São Joaquim da Barra,2020-04-01,0,0,0,0,3.0,0.0,21.0,0.0
+São Joaquim da Barra,2020-03-27,0,0,0,0,9.142857142857142,0.0,64.0,0.0
+São Joaquim da Barra,2020-03-28,0,0,0,0,8.428571428571429,0.0,59.0,0.0
+São Joaquim da Barra,2020-03-29,0,0,0,0,8.285714285714286,0.0,58.0,0.0
+São Joaquim da Barra,2020-03-30,0,0,0,0,8.0,0.0,56.0,0.0
+São Joaquim da Barra,2020-03-31,0,0,0,0,5.0,0.0,35.0,0.0
+São Joaquim da Barra,2020-04-01,0,0,0,0,2.0,0.0,14.0,0.0
 São Joaquim da Barra,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 São Joaquim da Barra,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 São Joaquim da Barra,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -411,3 +411,4 @@ São Joaquim da Barra,2021-05-09,4026,14,80,0,38.285714285714285,0.5714285714285
 São Joaquim da Barra,2021-05-10,4073,47,80,0,44.0,0.5714285714285714,308.0,4.0
 São Joaquim da Barra,2021-05-11,4088,15,80,0,39.0,0.42857142857142855,273.0,3.0
 São Joaquim da Barra,2021-05-12,4120,32,81,1,42.0,0.5714285714285714,294.0,4.0
+São Joaquim da Barra,2021-05-13,4176,56,81,0,37.714285714285715,0.2857142857142857,264.0,2.0

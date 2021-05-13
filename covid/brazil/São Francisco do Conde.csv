@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-São Francisco do Conde,2020-03-27,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-São Francisco do Conde,2020-03-28,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-São Francisco do Conde,2020-03-29,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
+São Francisco do Conde,2020-03-27,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+São Francisco do Conde,2020-03-28,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
+São Francisco do Conde,2020-03-29,0,0,0,0,0.5714285714285714,0.0,4.0,0.0
 São Francisco do Conde,2020-03-30,0,0,0,0,0.42857142857142855,0.0,3.0,0.0
-São Francisco do Conde,2020-03-31,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-São Francisco do Conde,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
+São Francisco do Conde,2020-03-31,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
+São Francisco do Conde,2020-04-01,0,0,0,0,0.14285714285714285,0.0,1.0,0.0
 São Francisco do Conde,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 São Francisco do Conde,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 São Francisco do Conde,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -411,3 +411,4 @@ São Francisco do Conde,2021-05-09,2717,2,45,0,14.142857142857142,0.142857142857
 São Francisco do Conde,2021-05-10,2729,12,45,0,11.857142857142858,0.14285714285714285,83.0,1.0
 São Francisco do Conde,2021-05-11,2753,24,45,0,14.714285714285714,0.14285714285714285,103.0,1.0
 São Francisco do Conde,2021-05-12,2760,7,46,1,12.714285714285714,0.2857142857142857,89.0,2.0
+São Francisco do Conde,2021-05-13,2781,21,47,1,14.428571428571429,0.42857142857142855,101.0,3.0

@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Nossa Senhora das Graças,2020-03-27,0,0,0,0,11.0,0.2857142857142857,77.0,2.0
-Nossa Senhora das Graças,2020-03-28,0,0,0,0,9.571428571428571,0.2857142857142857,67.0,2.0
-Nossa Senhora das Graças,2020-03-29,0,0,0,0,6.571428571428571,0.2857142857142857,46.0,2.0
-Nossa Senhora das Graças,2020-03-30,0,0,0,0,4.714285714285714,0.2857142857142857,33.0,2.0
-Nossa Senhora das Graças,2020-03-31,0,0,0,0,3.7142857142857144,0.2857142857142857,26.0,2.0
-Nossa Senhora das Graças,2020-04-01,0,0,0,0,1.0,0.2857142857142857,7.0,2.0
+Nossa Senhora das Graças,2020-03-27,0,0,0,0,9.857142857142858,0.2857142857142857,69.0,2.0
+Nossa Senhora das Graças,2020-03-28,0,0,0,0,6.857142857142857,0.2857142857142857,48.0,2.0
+Nossa Senhora das Graças,2020-03-29,0,0,0,0,5.0,0.2857142857142857,35.0,2.0
+Nossa Senhora das Graças,2020-03-30,0,0,0,0,4.0,0.2857142857142857,28.0,2.0
+Nossa Senhora das Graças,2020-03-31,0,0,0,0,1.2857142857142858,0.2857142857142857,9.0,2.0
+Nossa Senhora das Graças,2020-04-01,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
 Nossa Senhora das Graças,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Nossa Senhora das Graças,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Nossa Senhora das Graças,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -411,3 +411,4 @@ Nossa Senhora das Graças,2021-05-09,373,0,6,0,0.2857142857142857,0.0,2.0,0.0
 Nossa Senhora das Graças,2021-05-10,376,3,6,0,0.7142857142857143,0.0,5.0,0.0
 Nossa Senhora das Graças,2021-05-11,379,3,6,0,1.1428571428571428,0.0,8.0,0.0
 Nossa Senhora das Graças,2021-05-12,379,0,6,0,1.1428571428571428,0.0,8.0,0.0
+Nossa Senhora das Graças,2021-05-13,379,0,6,0,1.1428571428571428,0.0,8.0,0.0

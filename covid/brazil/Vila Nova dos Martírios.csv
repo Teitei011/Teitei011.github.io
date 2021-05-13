@@ -2,7 +2,7 @@ municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases
 Vila Nova dos Martírios,2020-03-27,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
 Vila Nova dos Martírios,2020-03-28,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
 Vila Nova dos Martírios,2020-03-29,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
-Vila Nova dos Martírios,2020-03-30,0,0,0,0,0.0,0.14285714285714285,0.0,1.0
+Vila Nova dos Martírios,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Vila Nova dos Martírios,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
 Vila Nova dos Martírios,2020-04-01,0,0,0,0,0.0,0.0,0.0,0.0
 Vila Nova dos Martírios,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
@@ -411,3 +411,4 @@ Vila Nova dos Martírios,2021-05-09,516,0,3,0,1.7142857142857142,0.0,12.0,0.0
 Vila Nova dos Martírios,2021-05-10,520,4,3,0,1.8571428571428572,0.0,13.0,0.0
 Vila Nova dos Martírios,2021-05-11,520,0,3,0,1.2857142857142858,0.0,9.0,0.0
 Vila Nova dos Martírios,2021-05-12,524,4,3,0,1.2857142857142858,0.0,9.0,0.0
+Vila Nova dos Martírios,2021-05-13,524,0,3,0,1.2857142857142858,0.0,9.0,0.0

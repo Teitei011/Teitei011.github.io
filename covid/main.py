@@ -40,7 +40,7 @@ def extractDataframeByName(dataframe, location):
         newDataframe = dataframe.loc[dataframe[location] == name]
         newDataframe.drop(newDataframe.index[0])
         newDataframe.to_csv(f"{PATH}/{name}.csv", index=False)
-
+        newDataframe.to_json(f"{PATH}/{name}.json")
 
 def divideByTwoWhenPossible(array):
     for i in range(len(array)):
@@ -99,7 +99,8 @@ def main():
     
     brazil = splitDataframe2Something(unprocessedDataset, "Brasil")
     brazil.to_csv(f"{PATH}/Brasil.csv", index=False)
-
+    brazil.to_json(f"{PATH}/Brasil.json")
+    
     extractDataframeByName(cities, "municipio")
     extractDataframeByName(states, "estado")
 
