@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santana da Boa Vista,2020-03-27,0,0,0,0,48.142857142857146,0.0,337.0,0.0
-Santana da Boa Vista,2020-03-28,0,0,0,0,41.57142857142857,0.0,291.0,0.0
-Santana da Boa Vista,2020-03-29,0,0,0,0,34.0,0.0,238.0,0.0
-Santana da Boa Vista,2020-03-30,0,0,0,0,25.857142857142858,0.0,181.0,0.0
-Santana da Boa Vista,2020-03-31,0,0,0,0,12.428571428571429,0.0,87.0,0.0
-Santana da Boa Vista,2020-04-01,0,0,0,0,8.0,0.0,56.0,0.0
+Santana da Boa Vista,2020-03-27,0,0,0,0,51.857142857142854,0.14285714285714285,363.0,1.0
+Santana da Boa Vista,2020-03-28,0,0,0,0,44.285714285714285,0.14285714285714285,310.0,1.0
+Santana da Boa Vista,2020-03-29,0,0,0,0,36.142857142857146,0.14285714285714285,253.0,1.0
+Santana da Boa Vista,2020-03-30,0,0,0,0,22.714285714285715,0.14285714285714285,159.0,1.0
+Santana da Boa Vista,2020-03-31,0,0,0,0,18.285714285714285,0.14285714285714285,128.0,1.0
+Santana da Boa Vista,2020-04-01,0,0,0,0,10.285714285714286,0.14285714285714285,72.0,1.0
 Santana da Boa Vista,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Santana da Boa Vista,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Santana da Boa Vista,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -410,3 +410,4 @@ Santana da Boa Vista,2021-05-08,150,0,7,0,0.2857142857142857,0.0,2.0,0.0
 Santana da Boa Vista,2021-05-09,150,0,7,0,0.2857142857142857,0.0,2.0,0.0
 Santana da Boa Vista,2021-05-10,150,0,7,0,0.2857142857142857,0.0,2.0,0.0
 Santana da Boa Vista,2021-05-11,150,0,7,0,0.2857142857142857,0.0,2.0,0.0
+Santana da Boa Vista,2021-05-12,150,0,7,0,0.0,0.0,0.0,0.0

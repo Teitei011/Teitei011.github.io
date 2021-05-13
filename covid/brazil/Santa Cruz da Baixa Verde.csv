@@ -1,10 +1,10 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
-Santa Cruz da Baixa Verde,2020-03-27,0,0,0,0,3.2857142857142856,0.14285714285714285,23.0,1.0
-Santa Cruz da Baixa Verde,2020-03-28,0,0,0,0,3.142857142857143,0.14285714285714285,22.0,1.0
-Santa Cruz da Baixa Verde,2020-03-29,0,0,0,0,1.8571428571428572,0.14285714285714285,13.0,1.0
-Santa Cruz da Baixa Verde,2020-03-30,0,0,0,0,1.2857142857142858,0.14285714285714285,9.0,1.0
-Santa Cruz da Baixa Verde,2020-03-31,0,0,0,0,0.7142857142857143,0.0,5.0,0.0
-Santa Cruz da Baixa Verde,2020-04-01,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Santa Cruz da Baixa Verde,2020-03-27,0,0,0,0,4.142857142857143,0.14285714285714285,29.0,1.0
+Santa Cruz da Baixa Verde,2020-03-28,0,0,0,0,2.857142857142857,0.14285714285714285,20.0,1.0
+Santa Cruz da Baixa Verde,2020-03-29,0,0,0,0,2.2857142857142856,0.14285714285714285,16.0,1.0
+Santa Cruz da Baixa Verde,2020-03-30,0,0,0,0,1.7142857142857142,0.0,12.0,0.0
+Santa Cruz da Baixa Verde,2020-03-31,0,0,0,0,1.2857142857142858,0.0,9.0,0.0
+Santa Cruz da Baixa Verde,2020-04-01,0,0,0,0,1.0,0.0,7.0,0.0
 Santa Cruz da Baixa Verde,2020-04-02,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Cruz da Baixa Verde,2020-04-03,0,0,0,0,0.0,0.0,0.0,0.0
 Santa Cruz da Baixa Verde,2020-04-04,0,0,0,0,0.0,0.0,0.0,0.0
@@ -410,3 +410,4 @@ Santa Cruz da Baixa Verde,2021-05-08,444,2,10,0,4.142857142857143,0.0,29.0,0.0
 Santa Cruz da Baixa Verde,2021-05-09,447,3,11,1,4.571428571428571,0.14285714285714285,32.0,1.0
 Santa Cruz da Baixa Verde,2021-05-10,448,1,11,0,4.714285714285714,0.14285714285714285,33.0,1.0
 Santa Cruz da Baixa Verde,2021-05-11,452,4,11,0,5.285714285714286,0.14285714285714285,37.0,1.0
+Santa Cruz da Baixa Verde,2021-05-12,452,0,11,0,4.857142857142857,0.14285714285714285,34.0,1.0

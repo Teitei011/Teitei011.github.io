@@ -1,6 +1,6 @@
 municipio,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 Florestópolis,2020-03-27,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
-Florestópolis,2020-03-28,0,0,0,0,0.2857142857142857,0.0,2.0,0.0
+Florestópolis,2020-03-28,0,0,0,0,0.0,0.0,0.0,0.0
 Florestópolis,2020-03-29,0,0,0,0,0.0,0.0,0.0,0.0
 Florestópolis,2020-03-30,0,0,0,0,0.0,0.0,0.0,0.0
 Florestópolis,2020-03-31,0,0,0,0,0.0,0.0,0.0,0.0
@@ -410,3 +410,4 @@ Florestópolis,2021-05-08,845,0,21,0,2.142857142857143,0.0,15.0,0.0
 Florestópolis,2021-05-09,845,0,21,0,2.142857142857143,0.0,15.0,0.0
 Florestópolis,2021-05-10,845,0,22,1,2.142857142857143,0.14285714285714285,15.0,1.0
 Florestópolis,2021-05-11,846,1,22,0,1.5714285714285714,0.14285714285714285,11.0,1.0
+Florestópolis,2021-05-12,869,23,22,0,4.857142857142857,0.14285714285714285,34.0,1.0
