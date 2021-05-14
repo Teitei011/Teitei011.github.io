@@ -41,8 +41,9 @@ def extractDataframeByName(dataframe, location):
         newDataframe.drop(newDataframe.index[0])
         newDataframe.reset_index(inplace = True)
 
-        # newDataframe.to_csv(f"{PATH}/{name}.csv", index=False)
-        newDataframe.to_json(f"{PATH}/{name}.json", orient ='values')
+        newDataframe.to_csv(f"{PATH}/{name}.csv", index=False)
+
+        #newDataframe.to_json(f"{PATH}/{name}.json", orient ='values')
 
 def divideByTwoWhenPossible(array):
     for i in range(len(array)):
@@ -57,7 +58,6 @@ def changeDateOrder(array):
     newArray = []
     for date in array:
         buffer = date.split("-")
-        print(buffer)
         newArray.append(buffer[2] + "-" + buffer[1] + "-" + buffer[0])
     return newArray
 
@@ -66,7 +66,7 @@ def changeDateOrder(array):
 
 
 def splitDataframe2Something(dataframe, name): # Regiao pro Brasil né? # Estado tem que dividr por 2
-    dataframe['data'] = [str(dataframe.data[i]).replace("/", "-") for i in range(len(dataframe))]
+    dataframe.data = [str(dataframe.data[i]).replace("/", "-") for i in range(len(dataframe))]
     if (name == "estado"):
         newDataframe = dataframe.groupby([name, "data"])[['casosAcumulado', 'casosNovos', 'obitosAcumulado', 'obitosNovos']].sum().apply(lambda x: divideByTwoWhenPossible(x))
     elif (name == "Brasil"):
@@ -99,8 +99,10 @@ def main():
 #     print(states)
     
     brazil = splitDataframe2Something(unprocessedDataset, "Brasil")
-    # brazil.to_csv(f"{PATH}/Brasil.csv", index=False)
-    brazil.to_json(f"{PATH}/Brasil.json", orient ='values')
+    brazil.to_csv(f"{PATH}/Brasil.csv", index=False)
+    
+    #brazil["data"] = changeDateOrder(brazil["data"])
+    #brazil.to_json(f"{PATH}/Brasil.json", orient ='values')
     
     extractDataframeByName(cities, "municipio")
     extractDataframeByName(states, "estado")
