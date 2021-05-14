@@ -1,4 +1,4 @@
-index,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving average,daily_deaths_moving average,sum_of_daily_cases_week,sum_of_daily_deaths_week
+index,data,casosAcumulado,casosNovos,obitosAcumulado,obitosNovos,daily_cases_moving_average,daily_deaths_moving_average,sum_of_daily_cases_week,sum_of_daily_deaths_week
 0,2020-02-25,0,0,0,0,,,,
 1,2020-02-26,1,1,0,0,,,,
 2,2020-02-27,1,0,0,0,,,,

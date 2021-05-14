@@ -39,8 +39,10 @@ def extractDataframeByName(dataframe, location):
 
         newDataframe = dataframe.loc[dataframe[location] == name]
         newDataframe.drop(newDataframe.index[0])
-        newDataframe.to_csv(f"{PATH}/{name}.csv", index=False)
-        newDataframe.to_json(f"{PATH}/{name}.json")
+        newDataframe.reset_index(inplace = True)
+
+        # newDataframe.to_csv(f"{PATH}/{name}.csv", index=False)
+        newDataframe.to_json(f"{PATH}/{name}.json", orient ='values')
 
 def divideByTwoWhenPossible(array):
     for i in range(len(array)):
@@ -75,9 +77,8 @@ def splitDataframe2Something(dataframe, name): # Regiao pro Brasil né? # Estado
          newDataframe = dataframe.groupby([name, "data"])[['casosAcumulado', 'casosNovos', 'obitosAcumulado', 'obitosNovos']].sum()
     
     newDataframe.reset_index(inplace = True)
-    newDataframe["data"] = newDataframe["data"]
-    newDataframe["daily_cases_moving average"] = newDataframe['casosNovos'].rolling(window=7).mean()
-    newDataframe["daily_deaths_moving average"] = newDataframe['obitosNovos'].rolling(window=7).mean()
+    newDataframe["daily_cases_moving_average"] = newDataframe['casosNovos'].rolling(window=7).mean()
+    newDataframe["daily_deaths_moving_average"] = newDataframe['obitosNovos'].rolling(window=7).mean()
     newDataframe["sum_of_daily_cases_week"] = newDataframe['casosNovos'].rolling(window=7).sum() 
     newDataframe["sum_of_daily_deaths_week"] = newDataframe['obitosNovos'].rolling(window=7).sum() 
 
@@ -98,8 +99,8 @@ def main():
 #     print(states)
     
     brazil = splitDataframe2Something(unprocessedDataset, "Brasil")
-    brazil.to_csv(f"{PATH}/Brasil.csv", index=False)
-    brazil.to_json(f"{PATH}/Brasil.json")
+    # brazil.to_csv(f"{PATH}/Brasil.csv", index=False)
+    brazil.to_json(f"{PATH}/Brasil.json", orient ='values')
     
     extractDataframeByName(cities, "municipio")
     extractDataframeByName(states, "estado")
