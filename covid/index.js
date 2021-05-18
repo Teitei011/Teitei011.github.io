@@ -132,6 +132,12 @@ async function graphIt(chartId, label, type, date, data_covid) {
 }
 
 async function getData(locationName) {
+
+  let fixer = 1;
+  if (name === "Brasil") {
+    fixer = 0;
+  }
+
   const response = await fetch("brazil/" + locationName + ".csv");
   const data = await response.text();
 
@@ -147,20 +153,19 @@ async function getData(locationName) {
   const table = data.split("\n").slice(1);
 
 
-  table.forEach((row) => {
+ table.forEach((row) => {
     const cols = row.split(",");
-    date.push(cols[1]);
-    cases.push(cols[2]);
-    daily_cases.push(cols[3]);
-    deaths.push(cols[4]);
-    daily_deaths.push(cols[5]);
+    date.push(convertString2Date(cols[1 + fixer]));
+    cases.push(Number(cols[2 + fixer]));
+    dailyCases.push(Number(cols[3 + fixer]));
+    deaths.push(Number(cols[4 + fixer]));
+    dailyDeaths.push(Number(cols[5 + fixer]));
 
-    cases_moving_average.push(cols[6]);
-    deaths_moving_average.push(cols[7]);
+    casesMovingAverage.push(Number(cols[6 + fixer]));
+    deathsMovingAverage.push(Number(cols[7 + fixer]));
 
-    sum_of_daily_cases_week.push(cols[8]);
-    sum_of_daily_deaths_week.push(cols[9]);
-    });
+  });
+
 
 
         // Brasil dataset is different than the rest 
