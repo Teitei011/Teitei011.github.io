@@ -73,7 +73,6 @@ def splitDataframe2Something(dataframe, name):
     if (name == "estado"):
         newDataframe = dataframe.groupby([name, "data"])[
             ['casosAcumulado', 'casosNovos', 'obitosAcumulado', 'obitosNovos']].sum().apply(lambda x: divideByTwoWhenPossible(x))
-                                                                "Espírito Santo", "Goiás", "Maranhão",  "Mato Grosso", "Mato Grosso do Sul", "Minas Gerais", "Pará", "Paraíba", "Paraná", "Pernambuco", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rondônia", "Roraima", "Santa Catarina", "São Paulo", "Sergipe", "Tocantins"])
 
     elif (name == "Brasil"):
         dataframe = dataframe.loc[dataframe["regiao"] == "Brasil"]
