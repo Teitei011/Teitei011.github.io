@@ -24,6 +24,7 @@ tempo_inicial = time.time()
 
 def extractDataframeByName(dataframe, location):
     print("Processing... 0%")
+    
     all_names = dataframe[location].unique().tolist()
 
     number_of_names = len(all_names)
@@ -131,5 +132,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-s
