@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import pandas as pd
 import time
 import os
@@ -33,7 +27,6 @@ def extractDataframeByName(dataframe, location):
     for name in all_names:
         counter += 1
 
-        #print("Processing... {}  - {:.2f}%".format(name, (counter*100)/number_of_names))
         if (counter % 530 == 0):
             print("Processing... {:.0f}% ".format(
                 (counter*100)/number_of_names))
@@ -44,7 +37,6 @@ def extractDataframeByName(dataframe, location):
 
         newDataframe.to_csv(f"{PATH}/{name}.csv", index=False)
 
-        #newDataframe.to_json(f"{PATH}/{name}.json", orient ='values')
 
 
 def divideByTwoWhenPossible(array):
