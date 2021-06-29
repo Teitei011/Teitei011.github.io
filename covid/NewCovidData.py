@@ -58,8 +58,8 @@ def extractDataframeByCity(dataframe):
         newDataframe = dataframe.loc[dataframe.city == name]
         newDataframe.reset_index(inplace=True)
         
-        newDataframe["daily_cases_moving_average"] = newDataframe.newCases.rolling(window = 14).mean()
-        newDataframe["daily_deaths_moving_average"] = newDataframe.newDeaths.rolling(window = 14).mean()
+        newDataframe.loc[:, "daily_cases_moving_average"] = newDataframe.newCases.rolling(window = 14).mean()
+        newDataframe.loc[:, "daily_deaths_moving_average"] = newDataframe.newDeaths.rolling(window = 14).mean()
 
         counter +=1 
         
@@ -121,18 +121,18 @@ def extractDataframeByState(dataframe):
         newDataframe.drop(newDataframe.index[0])
         newDataframe.reset_index(inplace=True)
         
-        dataframe["daily_cases_moving_average"] = dataframe["newCases"].rolling(window=7).mean()
-        dataframe["daily_deaths_moving_average"] = dataframe["newDeaths"].rolling(window=7).mean()
+        dataframe.loc[:,"daily_cases_moving_average"] = dataframe["newCases"].rolling(window=7).mean()
+        dataframe.loc[:, "daily_deaths_moving_average"] = dataframe["newDeaths"].rolling(window=7).mean()
 
         
-        dataframe['daily_vaccine'] = dataframe['vaccinated'].diff()
+        dataframe.loc[:,'daily_vaccine'] = dataframe['vaccinated'].diff()
         dataframe['daily_second_vaccine'] = dataframe['vaccinated_second'].diff()
 
-        dataframe["vaccinated_moving_average"] = dataframe["daily_vaccine"].rolling(window=14).mean() 
-        dataframe["vaccinated_second_moving_average"] = dataframe["daily_second_vaccine"].rolling(window=14).mean()
+        dataframe.loc[:,"vaccinated_moving_average"] = dataframe["daily_vaccine"].rolling(window=14).mean() 
+        dataframe.loc[:,"vaccinated_second_moving_average"] = dataframe["daily_second_vaccine"].rolling(window=14).mean()
         
-        dataframe["vaccinated_moving_average"] = dataframe["vaccinated"].rolling(window=7).mean()
-        dataframe["vaccinated_second_moving_average"] = dataframe["vaccinated_second"].rolling(window=7).mean()
+        dataframe.loc[:,"vaccinated_moving_average"] = dataframe["vaccinated"].rolling(window=7).mean()
+        dataframe.loc[:,"vaccinated_second_moving_average"] = dataframe["vaccinated_second"].rolling(window=7).mean()
 
         newDataframe.to_json(f"{PATH}/{name}.json")
 extractDataframeByState(dataframe)
