@@ -1,6 +1,9 @@
+echo $(date) > "last_update.log"
+
 echo "Adding csv's into git..."
 
 git add .
+
 
 echo "Commiting files..."
 
