@@ -71,7 +71,7 @@ def extractDataframeByCity(dataframe):
             pass
 
         if (counter % number_of_names == 0):
-            print("Processing... {:.0f}% ".format((counter)/number_of_names))
+            print("Processing... {:.0f}% ".format((counter*100)/number_of_names))
         
         newDataframe.to_json(f"{PATH}/{new_name}.json")
 
