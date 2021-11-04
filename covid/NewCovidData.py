@@ -170,10 +170,3 @@ os.system("rm *.csv.gz")
 os.system("./upload2TheCloud.sh")
 
 print("It took {:.2f} minutes".format((time.time() - start)/60))
-
-
-# In[ ]:
-
-
-
-
