@@ -43,7 +43,6 @@ print("Data downloaded!")
 print("Extracting city dataframes...")
 
 
-# In[ ]:
 
 
 def extractDataframeByCity(dataframe):
