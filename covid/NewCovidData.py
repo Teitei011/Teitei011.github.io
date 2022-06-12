@@ -1,10 +1,6 @@
 #!/usr/bin/python3
 # coding: utf-8
 
-# In[1]:
-
-
-from multiprocessing import  Pool
 
 import requests
 import numpy as np
@@ -15,34 +11,38 @@ import os
 start = time.time()
 PATH = "./brazil"
 
-
-# In[ ]:
-
-
 os.system("rm *.csv.gz")
 
 print("Dowloading the data...")
-# !wget ""
-url = 'https://github.com/wcota/covid19br/raw/master/cases-brazil-cities-time.csv.gz'
-r = requests.get(url, allow_redirects=True)
+url_2020 = 'https://github.com/wcota/covid19br/raw/master/cases-brazil-cities-time_2020.csv.gz'
+url_2021 = 'https://github.com/wcota/covid19br/raw/master/cases-brazil-cities-time_2021.csv.gz'
+url_2022 = 'https://github.com/wcota/covid19br/raw/master/cases-brazil-cities-time.csv.gz'
+
+print("Dowloading data from 2020...")
+r = requests.get(url_2020, allow_redirects=True)
+open("cases-brazil-cities-time_2020.csv.gz", 'wb').write(r.content)
+
+print("Dowloading data from 2021...")
+r = requests.get(url_2021, allow_redirects=True)
+open("cases-brazil-cities-time_2021.csv.gz", 'wb').write(r.content)
+
+print("Dowloading data from 2022...")
+r = requests.get(url_2022, allow_redirects=True)
 open("cases-brazil-cities-time.csv.gz", 'wb').write(r.content)
-
-
-# In[ ]:
 
 
 start = time.time()
 
-dataframe  = pd.read_csv("cases-brazil-cities-time.csv.gz")
+# read three three csv files and joined all into one
+dataframe = pd.read_csv("cases-brazil-cities-time_2020.csv.gz", compression='gzip')
+dataframe = dataframe.append(pd.read_csv("cases-brazil-cities-time_2021.csv.gz", compression='gzip'))
+dataframe = dataframe.append(pd.read_csv("cases-brazil-cities-time.csv.gz", compression='gzip'))
 print("Data downloaded!")
 
-
-# In[ ]:
-
+# save dataframe into csv 
+dataframe.to_csv("dataframe.csv")
 
 print("Extracting city dataframes...")
-
-
 
 
 def extractDataframeByCity(dataframe):
@@ -75,16 +75,12 @@ def extractDataframeByCity(dataframe):
         newDataframe.to_json(f"{PATH}/{new_name}.json")
 
 
-# In[ ]:
-
 
 extractDataframeByCity(dataframe)
 print("Cities Processed!")
 
 
 # # Vaccines
-
-# In[2]:
 
 
 print("Downloading vaccines dataset...")
@@ -95,17 +91,10 @@ dataframe = pd.read_csv(url,index_col=0,parse_dates=[0])
 print("Vaccine Dataset downloaded!")
 
 
-# In[3]:
-
-
-
 
 dataframe.state = dataframe.state.replace(['AC', 'AL', "AP", "AM", "BA", "CE", "DF", "ES", "GO", "MA", "MT", "MS", "MG", "PA", "PB", "PR", "PE", "PI", "RJ", "RN", "RS", "RO", "RR", "SC", "SP", "SE", "TO", "TOTAL"], ["Acre", "Alagoas", "Amapá", "Amazonas", "Bahia", "Ceará", "Distrito Federal",  "Espírito Santo", "Goiás", "Maranhão",  "Mato Grosso", "Mato Grosso do Sul", "Minas Gerais", "Pará", "Paraíba", "Paraná", "Pernambuco", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rondônia", "Roraima", "Santa Catarina", "São Paulo", "Sergipe", "Tocantins", "Brasil"])
 # dataframe.columns
 dataframe
-
-
-# In[4]:
 
 
 def extractDataframeByState(dataframe):
@@ -137,8 +126,6 @@ def extractDataframeByState(dataframe):
 extractDataframeByState(dataframe)
 
 
-# In[11]:
-
 
 brasil = []
 brasil =  dataframe.loc[dataframe["state"] == "Brasil"]
@@ -153,15 +140,6 @@ brasil["vaccinated_second_moving_average"] = brasil["daily_second_vaccine"].roll
         
 brasil.reset_index(inplace=True)
 brasil.to_json(f"{PATH}/Brasil.json")
-
-
-# In[10]:
-
-
-brasil
-
-
-# In[12]:
 
 
 os.system("rm *.csv.gz")
