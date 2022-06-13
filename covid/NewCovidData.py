@@ -143,7 +143,7 @@ brasil.to_json(f"{PATH}/Brasil.json")
 
 
 os.system("rm *.csv.gz")
-
+os.system("rm *.csv")
 os.system("./upload2TheCloud.sh")
 
 print("It took {:.2f} minutes".format((time.time() - start)/60))
