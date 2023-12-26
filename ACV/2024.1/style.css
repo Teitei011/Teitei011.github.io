@@ -40,6 +40,11 @@ img {
 }
 
 
+.assinatura{
+  margin-top: 2em;
+  text-align: right; /* Or any other desired alignment (e.g., center, right) */
+}
+
 .estudos-box {
   background-color: rgb(131, 151, 185);
   padding: 20px;
@@ -79,32 +84,9 @@ img {
 }
 
 
-.carousel-container {
-  width: 85%; /* Adjust width as needed */
-  margin: 0 auto; /* Center the carousel */
-  border-radius: 15px; /* Rounded corners */
-}
-
-.carousel-inner {
-  display: flex; /* Align images horizontally */
-  transition: transform 0.5s ease-in-out; /* Smooth animation */
-}
-
-.carousel-item {
-  width: 100%;
-  object-fit: cover; /* Ensure images fill the space */
-}
-
-.carousel-item img {
-  width: 100%;
-  height: 300px; /* Adjust height as needed */
-}
-
-/* Navigation button styling (optional) */
-.prev-button,
-.next-button {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  /* ... additional styling for buttons */
+.left-aligned {
+  text-align: right; /* Align text to the left */
+  width: 25%; /* Adjust width as needed */
+  justify-self: end; /* Align text to the right inside the grid item */
+  margin-right: 10px; /* Add some space on the right */
 }
