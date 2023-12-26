@@ -1,4 +1,47 @@
+img {
+  width: 100%;
+  height: auto;
+  /* Maintain aspect ratio */
+}
+
+h1,
+h2 {
+  font-size: 100%;
+  /* Set base font size to 100% of viewport height */
+}
+
+.full-page-image {
+  width: 100%;
+  height: auto;
+  /* Maintain aspect ratio */
+}
+
+/* Styles for mobile devices (adjust breakpoint as needed) */
+@media (max-width: 768px) {
+  .full-page-image {
+    width: 100vw;
+    /* Fill viewport width */
+    max-height: 100vh;
+    /* Prevent overflow */
+  }
+}
+
+/* Styles for larger screens (PC) */
+@media (min-width: 768px) {
+
+  /* Add your desired styles for PC here */
+  .full-page-image {
+    /* Example: Set width and height to 50% for a centered image */
+    width: 50vw;
+  }
+}
+
+
 body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
   background-color: rgb(0, 39, 68);
   /* Match the blue background from the image */
   font-family: sans-serif;
@@ -8,7 +51,7 @@ body {
   color: white;
   /* Use white text for contrast */
   font-size: 1.35em;
-  
+
 }
 
 header {
@@ -16,13 +59,14 @@ header {
   padding: 20px;
 
 
-display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
 
 }
+
 h1 {
   font-size: 40px;
   /* Adjust font sizes as needed */
@@ -60,51 +104,62 @@ img {
   color: white;
   text-align: justify;
 
-  
+
 
   /* Add rounded corners: */
   border-radius: 35px;
   /* Adjust the radius value for desired roundness */
 }
 
-.estudos-box h2, .estudos-box h3 {
+.estudos-box h2,
+.estudos-box h3 {
   text-align: left;
-  text-indent: 20px; /* Adjust the value for desired indentation */
+  text-indent: 20px;
+  /* Adjust the value for desired indentation */
 }
 
 
 
-.versiculo-biblico{
+.versiculo-biblico {
   margin-top: 2em;
-  text-align: center; /* Or any other desired alignment (e.g., center, right) */
+  text-align: center;
+  /* Or any other desired alignment (e.g., center, right) */
   font-style: italic;
 }
 
-.referencia-biblica{
-  text-align: right; /* Or any other desired alignment (e.g., center, right) */
+.referencia-biblica {
+  text-align: right;
+  /* Or any other desired alignment (e.g., center, right) */
   font-style: italic;
 }
 
 
 .carousel-container {
-  width: 85%; /* Adjust width as needed */
-  margin: 0 auto; /* Center the carousel */
-  border-radius: 15px; /* Rounded corners */
+  width: 85%;
+  /* Adjust width as needed */
+  margin: 0 auto;
+  /* Center the carousel */
+  border-radius: 15px;
+  /* Rounded corners */
 }
 
 .carousel-inner {
-  display: flex; /* Align images horizontally */
-  transition: transform 0.5s ease-in-out; /* Smooth animation */
+  display: flex;
+  /* Align images horizontally */
+  transition: transform 0.5s ease-in-out;
+  /* Smooth animation */
 }
 
 .carousel-item {
   width: 100%;
-  object-fit: cover; /* Ensure images fill the space */
+  object-fit: cover;
+  /* Ensure images fill the space */
 }
 
 .carousel-item img {
   width: 100%;
-  height: 300px; /* Adjust height as needed */
+  height: 300px;
+  /* Adjust height as needed */
 }
 
 /* Navigation button styling (optional) */
