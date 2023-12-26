@@ -1,0 +1,34 @@
+body {
+    background-color: blue; /* Match the blue background from the image */
+    font-family: sans-serif; /* Use a sans-serif font */
+    text-align: center; /* Center text elements */
+    color: white; /* Use white text for contrast */
+  }
+  
+  header {
+    /* Adjust header styling as needed */
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 40px; /* Adjust font sizes as needed */
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  main {
+    /* Style for main content area */
+    padding: 20px;
+  }
+  
+  img {
+    /* Adjust image dimensions and positioning as needed */
+    width: 200px;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
