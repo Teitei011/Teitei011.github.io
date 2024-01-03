@@ -232,9 +232,9 @@ img {
 }
 
 body {
-  max-width: 37.5rem;
+  /* max-width: 37.5rem;
+  padding: 0 1.25rem; */
   margin: 0 auto;
-  padding: 0 1.25rem;
   font-family: 'Lato', sans-serif;
 }
 
