@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html>
+<meta http-equiv='cache-control' content='no-cache'>
+<meta http-equiv='expires' content='0'>
+<meta http-equiv='pragma' content='no-cache'>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<head>
+  <title>Anchorados ACV-2024</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <header>
+
+    <!-- <h1>ANCORADOS</h1>
+    <img src="anchor.png" alt="Anchor logo" width="100%">
+    <h2>ACV - Verão - 2024</h2> -->
+
+    <img src="ACV.jpg" alt="ACV logo" class="full-page-image">
+
+    <!-- <img src="ACV.jpg" alt="ACV logo"  style="width: 100vw; max-height: 100vh;"> -->
+
+
+  </header>
+
+  <main>
+
+    <div class="estudos-box">
+      <h2 style="text-align: left; text-indent: 20px">O QUE OUVIMOS NESSA TEMPORADA...</h2>
+      <h3>Dia 01</h3>
+
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto quos, fuga laboriosam eos nisi consequuntur? Culpa,
+      ipsam quidem ad molestias nobis officia voluptates. Sit assumenda voluptates quam debitis sint veritatis.
+
+
+
+      <section class="versiculo-biblico">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto quos, fuga laboriosam eos nisi consequuntur?
+        Culpa, ipsam quidem ad molestias nobis officia voluptates. Sit assumenda voluptates quam debitis sint veritatis.
+      </section>
+
+      <section class="referencia-biblica">
+        <p>- João 3:16</p>
+      </section>
+
+      <h3>Dia 02</h3>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto quos, fuga laboriosam eos nisi consequuntur? Culpa,
+      ipsam quidem ad molestias nobis officia voluptates. Sit assumenda voluptates quam debitis sint veritatis.
+
+
+      <section class="versiculo-biblico">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto quos, fuga laboriosam eos nisi consequuntur?
+        Culpa, ipsam quidem ad molestias nobis officia voluptates. Sit assumenda voluptates quam debitis sint veritatis.
+      </section>
+
+      <section class="referencia-biblica">
+        <p>- João 3:16</p>
+      </section>
+      <h3>Dia 03</h3>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto quos, fuga laboriosam eos nisi consequuntur? Culpa,
+      ipsam quidem ad molestias nobis officia voluptates. Sit assumenda voluptates quam debitis sint veritatis.
+
+      <section class="versiculo-biblico">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto quos, fuga laboriosam eos nisi consequuntur?
+        Culpa, ipsam quidem ad molestias nobis officia voluptates. Sit assumenda voluptates quam debitis sint veritatis.
+      </section>
+
+      <section class="referencia-biblica">
+        <p>- João 3:16</p>
+      </section>
+      <h3>Dia 04</h3>
+
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto quos, fuga laboriosam eos nisi consequuntur? Culpa,
+      ipsam quidem ad molestias nobis officia voluptates. Sit assumenda voluptates quam debitis sint veritatis.
+
+      <section class="versiculo-biblico">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto quos, fuga laboriosam eos nisi consequuntur?
+        Culpa, ipsam quidem ad molestias nobis officia voluptates. Sit assumenda voluptates quam debitis sint veritatis.
+      </section>
+
+      <section class="referencia-biblica">
+        <p>- João 3:16</p>
+      </section>
+      <h3>Dia 05</h3>
+
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto quos, fuga laboriosam eos nisi consequuntur? Culpa,
+      ipsam quidem ad molestias nobis officia voluptates. Sit assumenda voluptates quam debitis sint veritatis.
+
+      <section class="versiculo-biblico">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto quos, fuga laboriosam eos nisi consequuntur?
+        Culpa, ipsam quidem ad molestias nobis officia voluptates. Sit assumenda voluptates quam debitis sint veritatis.
+      </section>
+
+      <section class="referencia-biblica">
+        <p>- João 3:16</p>
+      </section>
+      <h3>Dia 06</h3>
+
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto quos, fuga laboriosam eos nisi consequuntur? Culpa,
+      ipsam quidem ad molestias nobis officia voluptates. Sit assumenda voluptates quam debitis sint veritatis.
+
+      <section class="versiculo-biblico">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto quos, fuga laboriosam eos nisi consequuntur?
+        Culpa, ipsam quidem ad molestias nobis officia voluptates. Sit assumenda voluptates quam debitis sint veritatis.
+      </section>
+
+      <section class="referencia-biblica">
+        <p>- João 3:16</p>
+      </section>
+      <h3>Dia 07</h3>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto quos, fuga laboriosam eos nisi consequuntur? Culpa,
+      ipsam quidem ad molestias nobis officia voluptates. Sit assumenda voluptates quam debitis sint veritatis.
+      <section class="versiculo-biblico">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto quos, fuga laboriosam eos nisi consequuntur?
+        Culpa, ipsam quidem ad molestias nobis officia voluptates. Sit assumenda voluptates quam debitis sint veritatis.
+      </section>
+
+      <section class="referencia-biblica">
+        <p>- João 3:16</p>
+      </section>
+    </div>
+
+    </section>
+
+    </br>
+    </br>
+    </br>
+    <h3> Algumas lembranças...</h3>
+
+    <!-- <img src="01.jpeg" alt="Foto de um por do sol com os raios refletidos na piscina">
+    <img src="02.jpeg" alt="Foto da fogueira que teve na temporada">
+    <img src="03.png" alt="Foto da represa ao por do sol, bem alaranjado">
+    <img src="anchor.png" alt="Anchor"> -->
+
+    <section class="carousel" aria-label="Gallery">
+      <ol class="carousel__viewport">
+        <li id="carousel__slide1"
+            tabindex="0"
+            class="carousel__slide">
+            <img src="01.jpeg" alt="Foto de um por do sol com os raios refletidos na piscina">
+
+          <div class="carousel__snapper">
+            <a href="#carousel__slide4"
+               class="carousel__prev">Go to last slide</a>
+            <a href="#carousel__slide2"
+               class="carousel__next">Go to next slide</a>
+          </div>
+        </li>
+        <li id="carousel__slide2"
+            tabindex="0"
+            class="carousel__slide">
+            <img src="02.jpeg" alt="Foto da fogueira que teve na temporada">
+
+          <div class="carousel__snapper"></div>
+          <a href="#carousel__slide1"
+             class="carousel__prev">Go to previous slide</a>
+          <a href="#carousel__slide3"
+             class="carousel__next">Go to next slide</a>
+        </li>
+        <li id="carousel__slide3"
+            tabindex="0"
+            class="carousel__slide">
+            <img src="03.png" alt="Foto da represa ao por do sol, bem alaranjado">
+
+          <div class="carousel__snapper"></div>
+          <a href="#carousel__slide2"
+             class="carousel__prev">Go to previous slide</a>
+          <a href="#carousel__slide4"
+             class="carousel__next">Go to next slide</a>
+        </li>
+        <li id="carousel__slide4"
+            tabindex="0"
+            class="carousel__slide">
+            
+            <!-- <img src="anchor.png" alt="Anchor"> -->
+            <img src="DJI_0122.JPG" alt="Mapa do ACV olhando de cima pelo Dron">
+
+          <div class="carousel__snapper"></div>
+          <a href="#carousel__slide3"
+             class="carousel__prev">Go to previous slide</a>
+          <a href="#carousel__slide1"
+             class="carousel__next">Go to first slide</a>
+        </li>
+      </ol>
+      <aside class="carousel__navigation">
+        <ol class="carousel__navigation-list">
+          <li class="carousel__navigation-item">
+            <a href="#carousel__slide1"
+               class="carousel__navigation-button">Go to slide 1</a>
+          </li>
+          <li class="carousel__navigation-item">
+            <a href="#carousel__slide2"
+               class="carousel__navigation-button">Go to slide 2</a>
+          </li>
+          <li class="carousel__navigation-item">
+            <a href="#carousel__slide3"
+               class="carousel__navigation-button">Go to slide 3</a>
+          </li>
+          <li class="carousel__navigation-item">
+            <a href="#carousel__slide4"
+               class="carousel__navigation-button">Go to slide 4</a>
+          </li>
+        </ol>
+      </aside>
+    </section>
+
+
+    <p>Então galera... </br>
+
+	Essa temporada foi muito louca, que tal outro enduro noturno? 
+
+    </p>
+
+    <section class="versiculo-biblico">
+      Não se amoldem ao padrão deste mundo, mas transformem-se pela renovação da sua mente, para que sejam capazes de
+      experimentar e comprovar a boa, agradável e perfeita vontade de Deus.
+
+
+    </section>
+
+    <section class="referencia-biblica">
+      <p>- Romanos 12:02</p>
+    </section>
+
+
+    <div class="assinatura" style="align-items: end;">
+      Teitei, 2024 </br>
+      <a href="mailto:stefantleal14@gmail.com">Meu email</a> </br>
+      <a href="https://api.whatsapp.com/send?phone=55149999999">Meu whatsapp</a>
+    </div>
+
+  </main>
+
+</body>
+
+</html>
