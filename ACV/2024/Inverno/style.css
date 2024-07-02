@@ -1,0 +1,319 @@
+/* Global Styles */
+* {
+  box-sizing: border-box;
+  scrollbar-width: none; /* Hide scrollbar for non-webkit browsers */
+}
+
+*::-webkit-scrollbar {
+  width: 0; /* Hide scrollbar for webkit browsers */
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(0, 39, 68); /* Blue background */
+  font-family: 'Lato', sans-serif;
+  color: white; /* White text for contrast */
+  text-align: center; /* Center text elements */
+  width: 100%;
+  height: 100%;
+  font-size: 1.35em;
+}
+
+/* Container */
+.container {
+  padding: 20px;
+}
+
+/* Image Styles */
+.main-image {
+  width: 100%;
+  height: auto; /* Maintain aspect ratio */
+}
+
+.full-page-image {
+  width: 100%;
+  height: auto; /* Maintain aspect ratio */
+}
+
+/* Responsive Typography */
+h1, h2 {
+  font-size: 100%; /* Set base font size to 100% of viewport height */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .full-page-image {
+      width: 100vw; /* Fill viewport width */
+      max-height: 100vh; /* Prevent overflow */
+  }
+}
+
+@media (min-width: 768px) {
+  .full-page-image {
+      width: 50vw; /* Example: Set width and height to 50% for a centered image */
+  }
+}
+
+/* Header */
+header {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+/* Typography */
+h1 {
+  font-size: 40px; /* Adjust font sizes as needed */
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* Main Content */
+main {
+  padding: 20px;
+}
+
+/* Image */
+img {
+  width: 200px;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+/* Estudos Box */
+.estudos-box {
+  background-color: rgb(131, 151, 185);
+  padding: 20px;
+  margin: 0 auto; /* Center the box */
+  width: 100%;
+  color: white;
+  text-align: justify;
+  border-radius: 35px; /* Rounded corners */
+}
+
+.estudos-box h2, .estudos-box h3 {
+  text-align: left;
+  text-indent: 20px; /* Indentation */
+}
+
+/* Versiculo Biblico */
+.versiculo-biblico, .referencia-biblica {
+  margin-top: 2em;
+  text-align: center; /* Center text */
+  font-style: italic;
+}
+
+/* Carousel Container */
+.carousel-container {
+  width: 85%;
+  margin: 0 auto; /* Center the carousel */
+  border-radius: 15px; /* Rounded corners */
+}
+
+/* Carousel Inner */
+.carousel-inner {
+  display: flex; /* Align images horizontally */
+  transition: transform 0.5s ease-in-out; /* Smooth animation */
+}
+
+.carousel-item {
+  width: 100%;
+  object-fit: cover; /* Ensure images fill the space */
+}
+
+.carousel-item img {
+  width: 100%;
+  height: 200px; /* Adjust height to be smaller */
+  object-fit: cover; /* Cover the space */
+}
+
+/* Navigation Button Styling */
+.prev-button, .next-button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 50%;
+}
+
+.carousel__prev {
+  left: 10px;
+}
+
+.carousel__next {
+  right: 10px;
+}
+
+/* Animation Keyframes */
+@keyframes tonext {
+  75% { left: 0; }
+  95% { left: 100%; }
+  98% { left: 100%; }
+  99% { left: 0; }
+}
+
+@keyframes tostart {
+  75% { left: 0; }
+  95% { left: -300%; }
+  98% { left: -300%; }
+  99% { left: 0; }
+}
+
+@keyframes snap {
+  96% { scroll-snap-align: center; }
+  97% { scroll-snap-align: none; }
+  99% { scroll-snap-align: none; }
+  100% { scroll-snap-align: center; }
+}
+
+/* Carousel */
+.carousel {
+  position: relative;
+  width: 80%; /* Smaller width */
+  margin: 0 auto; /* Center the carousel */
+  padding-top: 50%; /* Adjust padding for aspect ratio */
+  filter: drop-shadow(0 0 10px #0003);
+  perspective: 100px;
+}
+
+.carousel__viewport {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  overflow-x: scroll;
+  scroll-behavior: smooth;
+  scroll-snap-type: x mandatory;
+}
+
+.carousel__slide {
+  position: relative;
+  flex: 0 0 100%;
+  width: 100%;
+  background-color: transparent;
+}
+
+.carousel__slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.carousel__snapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  scroll-snap-align: center;
+}
+
+@media (hover: hover) {
+  .carousel__snapper {
+      animation-name: tonext, snap;
+      animation-timing-function: ease;
+      animation-duration: 4s;
+      animation-iteration-count: infinite;
+  }
+
+  .carousel__slide:last-child .carousel__snapper {
+      animation-name: tostart, snap;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .carousel__snapper {
+      animation-name: none;
+  }
+}
+
+.carousel:hover .carousel__snapper,
+.carousel:focus-within .carousel__snapper {
+  animation-name: none;
+}
+
+.carousel__navigation {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+}
+
+.carousel__navigation-list,
+.carousel__navigation-item {
+  display: inline-block;
+}
+
+.carousel__navigation-button {
+  display: inline-block;
+  width: 1rem;
+  height: 1rem;
+  background-color: #333;
+  background-clip: content-box;
+  border: 0.25rem solid transparent;
+  border-radius: 50%;
+  font-size: 0;
+  transition: transform 0.1s;
+}
+
+.carousel::before,
+.carousel::after,
+.carousel__prev,
+.carousel__next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  font-size: 0;
+  outline: 0;
+}
+
+.carousel::before,
+.carousel__prev {
+  left: 0.5rem;
+}
+
+.carousel::after,
+.carousel__next {
+  right: 0.5rem;
+}
+
+.carousel::before,
+.carousel::after {
+  content: "";
+  z-index: 1;
+  background-color: #333;
+  background-size: 1.5rem 1.5rem;
+  background-repeat: no-repeat;
+  background-position: center center;
+  color: #fff;
+  font-size: 2.5rem;
+  line-height: 4rem;
+  text-align: center;
+  pointer-events: none;
+}
+
+.carousel::before {
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpolygon points='0,50 80,100 80,0' fill='%23fff'/%3E%3C/svg%3E");
+}
+
+.carousel::after {
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpolygon points='100,50 20,100 20,0' fill='%23fff'/%3E%3C/svg%3E");
+}
