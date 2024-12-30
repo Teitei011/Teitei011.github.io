@@ -1,8 +1,21 @@
 img {
   width: 100%;
   height: auto;
+  margin: 10rem;
   /* Maintain aspect ratio */
 }
+
+header {
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  margin-bottom: 2rem;
+}
+
+
 
 h1,
 h2 {
@@ -40,7 +53,7 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  background-color: rgb(0, 39, 68);
+  background-color: #310783;
   /* Match the blue background from the image */
   font-family: sans-serif;
   /* Use a sans-serif font */
@@ -86,21 +99,20 @@ img {
 }
 
 .estudos-box {
-  background-color: rgb(131, 151, 185);
+  background-color: #230e4d;
   padding: 20px;
-  /* Adjust padding for desired margin */
-  /* Optional border for definition */
-  margin: 0 auto;
-  /* Center the box if needed */
+  margin: 2rem auto;  /* Default margin for all screens */
   width: 100%;
-  /* Adjust width as needed */
-  /* text */
   color: white;
   text-align: justify;
-
-  /* Add rounded corners: */
   border-radius: 35px;
-  /* Adjust the radius value for desired roundness */
+}
+
+@media (min-width: 768px) {
+  .estudos-box {
+    margin-top: 20rem;  /* Increased top margin for desktop */
+    width: 90%;  /* Slightly narrower on desktop for better readability */
+  }
 }
 
 .estudos-box h2,
